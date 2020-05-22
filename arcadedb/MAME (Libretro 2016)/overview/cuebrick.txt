@@ -1,5 +1,0 @@
-Arcade Video game published 31 years ago:
-
-Cue Brick (c) 1989 Konami Industry Company, Limited.
-
-A puzzle game where you shift blocks so that a ball rolling along a path can roll across every block that has a path drawn on it.

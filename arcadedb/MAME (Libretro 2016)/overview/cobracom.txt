@@ -1,5 +1,0 @@
-Arcade Video game published 32 years ago:
-
-Cobra-Command (c) 1988 Data East.
-
-A horizontally scrolling helicopter battle game.

@@ -1,5 +1,0 @@
-Arcade Video game published 23 years ago:
-
-Pop 'n Bounce (c) 1997 Video System.
-
-A breakout-style game.

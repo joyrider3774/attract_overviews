@@ -1,5 +1,0 @@
-Arcade Video game published 29 years ago:
-
-Bouncing Balls (c) 1991 Comad Industry Company, Limited.
-
-A puzzle game where you drop balls in a certain order to create a sum of numbers.

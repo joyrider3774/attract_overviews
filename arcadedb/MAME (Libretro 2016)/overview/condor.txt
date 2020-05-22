@@ -1,9 +1,0 @@
-Arcade Video game published 39 years ago:
-
-Condor (c) 1981 Sidam.
-
-Hack of Amstar's "Phoenix". It adds a timer for each round in the form of a fuel gauge.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&page=detail&id=494&o=2

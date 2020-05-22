@@ -1,5 +1,0 @@
-Arcade Video game published 25 years ago:
-
-Magix (c) 1995 Yun Sung.
-
-A tetris-type game.

@@ -1,8 +1,0 @@
-Arcade Video game published 34 years ago:
-
-Bobble Bobble (c) 1986.
-
-This game is a pirate version of "Bubble bobble". Unlike the original game: 
-* The left player ('Bub') can have only a total of two extends. 
-* This bootleg has a new feature in Dip switch where you may control the speed of monsters. 
-* The monsters 'Mighta', 'Hidegonsu', and 'Drunk' do not throw their projectile weapons (i.e. 'Mighta' does not throw his slow-moving stone balls, 'Hidegonsu' does not throw his fast-moving fireballs, and 'Drunk' does not throw his boomerang bottles). However, the 'Invader' monster, who appears in 'Normal' mode only, does throw his laser projectile.

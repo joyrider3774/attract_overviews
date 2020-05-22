@@ -1,3 +1,0 @@
-Tecmo World Cup '90 (c) 1989 Tecmo.
-
-A 2-D soccer game with 4-way scrolling movement. Choose from 8 teams. The game play is fairly realistic and the moves are easy to learn.

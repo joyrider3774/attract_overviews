@@ -1,5 +1,0 @@
-Arcade Video game published 23 years ago:
-
-Karian Cross (c) 1997 Deniam.
-
-A puzzle game similar to "Puyo Puyo". Get 3 like-colored objects together to make them disappear. Getting multiple combinations causes more blocks to fall on your opponents side.
