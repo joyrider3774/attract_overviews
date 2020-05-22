@@ -1,0 +1,2 @@
+F1-Racer is a simulation type game which uses 3D polygons to recreate Formula 
+One racing on your Amiga.

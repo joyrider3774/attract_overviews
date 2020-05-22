@@ -1,0 +1,5 @@
+Spark World is a maze action game structurally similar to Bomberman where the protagonists are anthropomorphized cop cars fighting other sentient cars in a series of themed mazes. It was released exclusively in Japan in 1995.
+
+The goal of each stage is to defeat all the other opponents, though focusing on collecting power-ups is also important to overpower each stage's foes. Depending on the enemy vehicle type, they also have innate powers that the player does not. The player eventually faces a boss after a certain number of battle stages in each zone.
+
+The game also features a multiplayer Battle mode, which provides a number of customization and stage options.

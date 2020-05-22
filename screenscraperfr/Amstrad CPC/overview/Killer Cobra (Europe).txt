@@ -1,0 +1,1 @@
+This is based on the classic arcade game Scramble, in which you flew a spacecraft through mountains and caverns while shooting missiles and bombing targets on the ground. Here, though, the spacecraft is replaced by a helicopter.

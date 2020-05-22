@@ -1,0 +1,4 @@
+WordTris is a browser-based variant of Wordtris. The game is designed to look and play like the original Spectrum Holobyte version. Tiles with letters fall from the top of the screen. Using the arrow keys, you must get the letters to fall where they will form words of at least three letters, horizontally or vertically. Occasionally, a tile with a question mark will fall.
+
+
+ You can type any letter on the keyboard to make this 'wild card' tile be whichever one you want. Sometimes, a tile with a red and white eraser will fall. This tile will remove whatever tile it lands on. Create enough words before the tile stack reaches the top to advance to the next level.

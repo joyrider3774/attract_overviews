@@ -1,0 +1,3 @@
+The Flash is a side-scrolling platformer starring the eponymous D.C. comics hero. The game is divided into six rounds, each round has two stages and a boss fight. Within each stage, Flash must get to the exit before the time limit runs out, though the exit must first be unlocked by activating a switch.
+
+Apart from a speedy protagonist, the game has some similarities to Sonic the Hedgehog, as the levels have a similarly complex structure with different passages and many optional areas.

@@ -1,0 +1,3 @@
+Major League is an arcade baseball game released for Pre-System 16 hardware by Sega in 1985. 
+
+Its rather complex control scheme, complete with a trackball and variety of buttons means that Major League is not yet playable in any emulators.

@@ -1,0 +1,7 @@
+This compilation contains four Konami titles on one cart:
+Castlevania: The Adventure
+Gradius (a retitled Nemesis)
+Konami Racing
+Probotector
+
+Each game is fully compatible with the Game Boy Color and Game Boy.

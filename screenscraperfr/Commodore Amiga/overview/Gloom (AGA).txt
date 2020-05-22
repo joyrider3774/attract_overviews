@@ -1,0 +1,14 @@
+Gloom Deluxe is an First Person Shooter game, developed by Black Magic Software and published by Guildhall Leisure Services Ltd., which was released in 1996.
+
+Gloom Deluxe is essentially an upgrade to the previous Gloom. It includes the same levels, but with improved graphics and more options to optimize the graphic display. Another major change is the addition of a two-player coop mode for the single player campaign.
+
+In contrary to the original game, Gloom Deluxe also works on an upgraded Amiga 500. However the game has aged badly and it's not very addictive nowadays, but it's a corker of game, especially with two people in split-screen mode. 
+
+Cheats:
+When the title screen appears, press fire and you will go to the options screen. Select 'ABOUT GLOOM' from the list of options and press the fire button. Now hold down the 'HELP' key and press fire on the joystick. The screen will flash purple to indicate the cheat is active. Now start the game. The following keys are now available:
+
+1 - 5 -- Select (and upgrade) all weapons
+0 -- Increase health
+HELP -- Skip levels
+
+You can increase the strength of each weapon by pressing the number key up to 5 times.

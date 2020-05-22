@@ -1,0 +1,1 @@
+Quiz Jinsei Gekijoh (c) 03/1993 Taito.  - TECHNICAL -  Taito F2 System hardware Game ID : D48  Main CPU : 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Screen orientation : Horizontal Video resolution : 320 x 224 pixels Screen

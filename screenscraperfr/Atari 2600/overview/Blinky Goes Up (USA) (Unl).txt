@@ -1,0 +1,7 @@
+Avoid The Ground!
+
+One day Blinky finds himself at the bottom of a dark dungeon and there's only one way out... up!
+Blinky Goes Up is an original platform game for the Atari 2600 by Jan Hermanns. Your goal is to ascend through each level in this vertical scrolling platformer, collecting every gold nugget along the way. You'll receive an extra life for every four told nuggets you collect. And you may need them, as there are villains working to block your path: Tooby, Bolly, and Shooty. To compound matters, if you fall or jump from a platform and don't land on another, you'll lose a life!
+There are two techniques you can use to increase the odds of your escape! The faster you run, the longer your jumps. And second, there are packages where you need to perform an airwalk: just run over the edge of any platform and press fire while Blinky is falling--he'll perform a jump then!
+
+Good luck!

@@ -1,0 +1,1 @@
+Puzzle Club is a sliding block puzzle video game. The objective of each stage is to make every row in the puzzle show matching animated icons before the timer reaches zero. Once a row is matched that row is shifted to the bottom of the puzzle.  Once all of the rows are matched the stage is completed and the players score is tallied.

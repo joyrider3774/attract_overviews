@@ -1,0 +1,3 @@
+The lovely princess Lala was kidnapped by the Evil Demons of the Empire. You are Lolo, a round ball-like creature (just like the princess herself), and your mission is to sneak into the empire castle and to liberate the princess.
+
+Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts, then collect the chest to make the exit appear. Lolo can move blocks and turn enemies into eggs to move of freeze them.

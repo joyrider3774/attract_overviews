@@ -1,0 +1,1 @@
+The Sentinel on Amstrad CPC is a reflection game. The title is divided into several levels representing landforms. You start from the lowest altitude and try to access a statue that drains energy. Be quick and precise before your energy being absorbed.

@@ -1,0 +1,5 @@
+Mad Mix is a Pac-Man variant, with a typical bird's eye view for each level and pellets you must eat in order to get to the next stages. Navigate the maze you're trapped in and gobble up food while trying to avoid the ghosts that are chasing you.
+
+As a Pac-Man variant, there are some changes made to distinguish itself. Some levels offer transformative powers. These include being turned into a hippopotamus - which allows you to step on ghosts - and a vacuum cleaner - to clean up pellets corrupted by a wandering enemy. On some levels, you can also briefly turn the protagonist into a spaceship or a tank, where you can shoot ghosts from a fixed vantage point.
+
+As with most arcade titles at the time, there is no true ending; the game loops back to the first level when you finish the last one.

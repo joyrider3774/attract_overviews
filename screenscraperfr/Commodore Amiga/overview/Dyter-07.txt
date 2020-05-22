@@ -1,0 +1,3 @@
+If you're unfamiliar with the Choplifter and its multiple conversions, the aim is to guide a helicopter across horizontally-scrolling landscapes, blasting everything that moves, and buildings that don't. Prisoners, released from the derelict constructions, are collected for return to base.
+
+In Dyter 07, the little prisoners are replaced by equally little scientists who, upon repatriation, busy themselves building new weapons to bolt onto your chopper. Another twist is that the chopper carries a small tank for land-based battle plus an amphibious craft for aquatic attacks. Destroy all the robot enemies specified by the radar and you can exit this landscape to the next. And that's about yet lot.

@@ -1,0 +1,5 @@
+MATH MASTER:
+You are a gorilla strolling along the banks of a river. Your path is suddenly blocked by an animal! Under the animal is a math problem. You must solve the problem correctly in order to continue your walk.
+
+FACTOR FUN:
+You are a gorilla sitting at an adding machine. A number appears above you. This is the TARGET NUMBER. Below you appear several WHITE numbers (how many depends on the difficulty level). Your task is to add, subtract, multiply, and divide the white numbers to reach the Target Number.

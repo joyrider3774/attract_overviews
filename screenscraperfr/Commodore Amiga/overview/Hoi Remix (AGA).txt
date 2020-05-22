@@ -1,0 +1,9 @@
+I somehow managed to ignore this game for years, despite the fact that it was released free through Aminet. This is stripped down and improved AGA update of HOI, created by Team Hoi as a PD/freeware  in response to lack of payment for earlier release of HOI from Hollyware.
+
+Hoi AGA Remix starts with a special 'start menu' which allows players to choose how many lives they have and also start the game from any of the five levels. While it seems like a small amount, each level is huge and very challenging - meaning it will take quite a long time even for an experienced player to finish all the levels.
+
+The plot of the game is simple - the player has to guide the main figure Hoi - a little green dinosaur-like entity through the level to find a mate. What sets Hoi AGA Remix above most of its competitors? The playability is top notch stuff - the main figure responds accurately to joystick movements and the pixel perfect collision detection allows some amazing stunts. Each level is extremely well designed with lots of variation and original ideas. While each level is huge, there are lots of restarting points in each level which prevent the frustration of covering the same old ground too many times.
+
+Presentation of the game is quite excellent, too. The graphics are crisp and colourful and the music is jolly. The animation and scrolling are well done and the game runs flawlessly and fast.
+
+Having said that, there's little I can fault in Hoi AGA Remix. It has plenty of nice touches and unique game features which really reflect the love and dedication of Team Hoi in the game's development. Hoi AGA Remix is one of the best platformers for the Amiga, and since it is freely downloadable from Aminet, it cannot be recommended highly enough.

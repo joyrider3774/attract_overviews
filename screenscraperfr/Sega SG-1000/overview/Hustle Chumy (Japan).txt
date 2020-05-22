@@ -1,0 +1,5 @@
+Hustle Chumy is an SG-1000 and MSX game developed by Compile and released in 1984.
+
+In Hustle Chumy players control a mouse named Chumy who needs to collect apples (and other food) in a sewer, avoiding other critters as he goes. As Chumy eats more food, his speed decreases, but his fireballs are given a longer range. Levels have varying layouts.
+
+There are several types of enemies in the game, most of which can be defeated with fireballs.

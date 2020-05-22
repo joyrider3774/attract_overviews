@@ -1,0 +1,16 @@
+The objective is to free the town of Hicksville from the band of criminals known as the Wingates. But in order to capture their most dangerous henchmen, in each stage the player must retrieve a Wanted sign of said henchman, otherwise it is impossible to clear the stage. In this game, the main character is a bounty hunter named Billy Bob.
+
+Although virtually identical to the NES version, the FDS version featured several differences:
+
+This game, like virtually all other FDS games, feature load times.
+
+The font is similar to what is used in most Capcom games on the Famicom/NES. However, on the NES version, the font is changed to the military-font, also seen in the arcade version.
+
+"In America" is changed to "In 1849".
+Bandit Bill's mugshot on the wanted poster is slightly different in both versions of the game. In the FDS version, his shirt has an open collar, with part of his body showing. In the NES version, his shirt has a scarf around it. On top of that, the mugshots for the wanted posters originally had an Anime look, whereas in the NES version, they had a realistic look.
+
+In this version, the shopping music features less instruments. Also, many of the tunes featured in the NES version are nowhere to be found in this version, and instead recycle the same music for certain scenes in the game. This is due to the limited memory space in FDS disk cards.
+
+There is no game demonstration like there is in the NES version.
+
+After beating the game the first two times, the player is rewarded with a Japanese message that tells the player to try the game again. After the third time, the player will be rewarded with a simple message that says "THE END". The Japanese message was thrown out in the NES version, instead of being translated into English.

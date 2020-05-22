@@ -1,0 +1,3 @@
+Ball Raider 2 is just another dime-in-a-dozen Breakout clone with average graphics and level editor included. Game is developed by The Incredible Trio and published by US Action, which was released in Europe in 1988.
+
+Use your bat to deflect the ball into the coloured bricks. Some bricks hide bonuses, which yield benefits such as an enlarged bat, laser firing ability, or multiplying the number of balls in play. You have 3 lives at the start of the game and you will find they don't last very long, unless your reflexes serve you well.

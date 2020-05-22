@@ -1,0 +1,1 @@
+A breakout-clone that tries to beef things up by adding stages in which the player must navigate a glider through a maze. Nothing spectacular but this low-budget title was programmed solidly enough to guarantee a modest level of entertainment.

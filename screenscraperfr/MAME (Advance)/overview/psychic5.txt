@@ -1,0 +1,5 @@
+Psychic 5 is a 2D action platformer game. It is the prequel to the Famicom game Esper Boukentai. You control one of five Espers, characters with psychic abilities, and have to maneuver through a total of 8 maze-like levels, finding and defeating Satan at the end of each. Players can jump and attack, or slow their descent in mid-air by hovering (holding up). 
+
+Two Espers are available at the start, with the rest unlocked by finding and breaking Magic Jars. Each Esper has different attributes; for example, the large Bunta is slow, but extremely powerful and very good at pushing open the many doors that block progress throughout the stages. 
+
+Players can switch between Espers at the start of each level, after beginning a new life or by using phone booths scattered throughout the stages. The enemies are possessed objects like clocks and furniture, as well as a witch named Zara who is perpetually flying across the stage; if defeated, she will grant temporary access to a useful broom power-up.

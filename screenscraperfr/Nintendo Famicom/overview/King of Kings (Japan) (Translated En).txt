@@ -1,0 +1,1 @@
+A fantasy-themed strategy. It plays something like Famicom/Advance Wars or Daisenryaku, where the goal is to quickly conquer locations by producing a lot of units each turn and sending them against enemy forces. As with those games, there is also a little close-up graphic of the two units whenever they meet for battle, which shows how the two sides are faring in the conflict.

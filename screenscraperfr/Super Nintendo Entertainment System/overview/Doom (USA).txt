@@ -1,0 +1,12 @@
+The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.
+
+id Software's follow-up to their genre-defining Wolfenstein 3D, DOOM is another first person shooter: full-on action seen from the space marine's perspective. Like Wolfenstein, the game consists of distinct episodes, playable in any order. The first episode, Knee-Deep in the Dead, takes place in the Phobos base and is freely available as shareware. The full game continues on Deimos in The Shores of Hell and culminates in Inferno, the final episode which takes place in Hell itself. Each episode consists of nine levels, one of which is a hidden level.
+
+The basic objective in each level is simply to reach the exit. Since dozens of enemies stand in the way, the only way to get there is through killing them. Switches and buttons must be 
+pressed to advance at certain points and often color-coded locked doors will block the way - matching keycards or skull keys must be found to pass.
+
+DOOM's engine technology is more advanced than Wolfenstein's, and thus the levels are more varied and complex. The engine simulates different heights (stairs and lifts appear frequently) and different lighting conditions (some rooms are pitch black, others only barely illuminated). There are outdoor areas, pools of radioactive waste that hurt the player, ceilings that come down and crush him, and unlike Wolfenstein's orthogonally aligned corridors, the walls in DOOM can be in any angle to each other. An automap helps in navigating the levels.
+
+Stylistically, the levels begin with a futuristic theme in the military base on Phobos and gradually change to a hellish environment, complete with satanic symbols (pentagrams, upside-down-crosses and portraits of horned demons), hung-up mutilated corpses and the distorted faces of the damned.
+
+DOOM features a large weapon arsenal, with most weapons having both advantages and drawbacks. The starting weapons are the fists and a simple pistol. Also available are a shotgun (high damage, slow reload, not good at distances), a chaingun (high firing rate, but slightly inaccura

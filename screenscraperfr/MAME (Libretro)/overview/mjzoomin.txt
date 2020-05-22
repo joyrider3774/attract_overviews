@@ -1,0 +1,1 @@
+Mahjong Channel Zoom in (c) 1990 Jaleco.  - TECHNICAL -  Main CPU : 68000 (@ 8 Mhz) Sound Chips : OKI6295 (@ 24.242 Khz)  Player : 2  - TRIVIA -  Even if titlescreen says 1990, Mahjong Channel Zoom in was released in March 1991 in Japan.  - SOURCES -  Gam

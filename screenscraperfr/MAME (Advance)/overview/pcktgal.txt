@@ -1,0 +1,1 @@
+A pool game with four levels, each denoted by a different woman. Score enough points to cause the woman to strip and to advance you to the next level. Trick shots can be attempted between frames and when two people play, the winner is the best two of three frames.

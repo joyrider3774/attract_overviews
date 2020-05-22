@@ -1,0 +1,1 @@
+This is a version of the classic Lunar Lander with a few bells and whistles added. Firstly, the simple line-drawn graphics of the original have been replaced by much more colourful graphics. The sound effects are decent as well, and there's the added problem of dodging flying rocks.

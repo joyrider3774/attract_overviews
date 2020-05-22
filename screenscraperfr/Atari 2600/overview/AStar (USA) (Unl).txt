@@ -1,0 +1,5 @@
+AStar is a new puzzle game for the Atari 2600 by Aaron Curtis, whose first homebrew endeavor was the highly popular Fall Down. AStar is inspired by an old calculator game called DStar. The basic idea is to collect all the items (cherries on the first level), but it's not as easy as it may seem at first! You can only move in a straight line until you hit something. You can then change your direction and again move forward until you hit a wall. You also have control of a small block to that you can use to help you navigate the level.
+
+The number of moves you've made is shown at the bottom of the screen. Each level has a minimum number of moves required to complete it, and if you go over this the display will change color. Completing every level in the minimum number of moves (no easy task!) wins the game!
+
+Includes cartridge and full-color manual. Available in NTSC and PAL television formats, please specify above when ordering.

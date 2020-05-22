@@ -1,0 +1,3 @@
+The WonderBorg is a programmable consumer robot kit that was bundled with specialized software known as "Robot Works", which is used to program the robot. 
+
+While mainly used to program the movement of the physical robot, it also comes with a game where your aim is to get a virtual WonderBorg from start to finish with predetermined instructions: you first see the map, then give a series of instructions "two forward, turn left, one forward" etc and then run your program to see whether you managed to get the robot over the finish line.

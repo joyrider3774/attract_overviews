@@ -1,0 +1,1 @@
+If you enjoy games like Rubik's Cube, then you'll like this one. The object of Dice Puzzle is to get all 16 dice to show the same number. You accomplish this by clicking on a column or row, which advances all of the numbers in that column or row by one (of course six advances to one). See how quickly (or in how many moves) you can do it.

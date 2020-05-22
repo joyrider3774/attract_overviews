@@ -1,0 +1,7 @@
+You must do battle with the five members of Dr. Wit's Joke Army in order to
+save the world. You can choose to fight them in any order, but they are
+increasingly difficult from left to right. For the purposes of this manual, I
+will refer to them as levels one through five, with one being on the left and
+five being on the right. There are five rounds in each battle. The first three
+are on foot (or wing, or belly, or ice skates, accordingly) and the fourth and
+fifth levels are on Segways.

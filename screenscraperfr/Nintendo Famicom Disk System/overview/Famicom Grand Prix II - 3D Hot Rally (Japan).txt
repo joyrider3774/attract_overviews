@@ -1,0 +1,9 @@
+The second game in the Famicom Grand Prix series. In a departure from its predecessor, Famicom Grand Prix II features a behind-the-car view similar to Outrun and Rad Racer. Rather than consisting of a handful of short tracks, 3D Hot Rally provides three long tracks consisting of a variety of different terrain types giving the feel of an actual rally race. Each track has multiple routes to the finish line, requiring you to find the best path to victory. The game features three cars to choose from: the speedy Kattobi coupe, the balanced Yonque truck, or the rugged Monster buggy.
+
+
+
+In order to complete a race, players must reach each checkpoint within a certain time limit. If the limit is crossed too late, time is subtracted from their bank. If the time bank is depleted, the race is over. Successfully reaching a checkpoint before the time limit is reached banks extra time. Players can also collect exclamation marks scattered throughout the tracks. Collecting enough exclamation marks to fill the dash meter allows temporary access to the hot dash, a fifth gear that greatly increases speed. Before each race, you're asked to place a repair point somewhere on the track, allowing you to repair any damage done to your car, so long as you pick a route that leads you past that checkpoint. Taking too much damage puts you out of the race.
+
+
+
+As the name implies, 3D Hot Rally allows you to use the Famicom 3D System glasses to give the race a real feeling of depth. It also challenged players to submit their best times via Famicom Disk Fax kiosks located in various stores for a chance to win a Disk-kun stationary set.

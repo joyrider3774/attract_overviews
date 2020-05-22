@@ -1,0 +1,1 @@
+Darius Plus when played on the SuperGrafx has enhanced sprite handing features which removes lots of the flickering issues experienced on the standard PC Engine.

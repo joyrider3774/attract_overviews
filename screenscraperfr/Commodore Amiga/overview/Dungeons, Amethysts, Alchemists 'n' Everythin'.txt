@@ -1,0 +1,3 @@
+A dark lord called TITE-ARZ conquers the kingdom and installs a reign of terror (that increases inflation to 59% and causes general unemployment on the population). In order to defeat him, a mighty warrior must find the magical amethyst stone that was stolen from the alchemist's tower.
+
+Dungeons, Amethysts, Alchemists 'n' Everythin' is a text adventure with graphics - a parody of fantasy genre conventions that relies heavily on semi-adult puns for comedy. Written using Graphic Adventure Creator (which the game also parodies), it has a very basic parser, without most of the standard features of other parsers at the time (like the older and superior Infocom one). It does not support chain commands or pronoun recognition and has a very limited vocabulary.

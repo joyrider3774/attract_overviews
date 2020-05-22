@@ -1,0 +1,1 @@
+Monkey Mole Panic (c) 1992 Taito Corp.  - TECHNICAL -  Game ID : '70'  Main CPU : (2x) Z80 (@ 8 Mhz) Sound Chips : YM2413 (@ 3.579545 Mhz), AY8910 (@ 2 Mhz), OKI6295 (@ 8 Khz)  Players : 1  - TRIVIA -  Released in September 1992.  Licensed from Nakanihon

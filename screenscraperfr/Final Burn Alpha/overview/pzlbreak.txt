@@ -1,0 +1,1 @@
+A one or two player puzzle game published and developed by SemiCom in 1997. The aim of the game is to remove blocks that lower from the top of the play area by deflecting balls with a paddle.

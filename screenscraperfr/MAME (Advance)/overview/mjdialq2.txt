@@ -1,0 +1,1 @@
+A mahjong game with random bonus items to be won through mini games.

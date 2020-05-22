@@ -1,0 +1,1 @@
+This game is a sequel to Exoide-Z. It is a straight top down, vertical scrolling shooter where you control a space ship and need to shoot down alien ships and bases. In the beginning your weapon shots a kind of bullets only, but later in the game this can be upgraded to dual bullets and a laser. There are several levels and at the end of each level there is a "boss" fight.

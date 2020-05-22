@@ -1,0 +1,1 @@
+The players controls a futuristic helicopter through 8 stages with an end boss at the end of each stage. Enemies include futuristic vehicles, space craft, mechs. The players have a standard weapon and special screen clearing bombs. The standard weapon can be powered up with missiles, wide shot, lasers or heavy fire by picking up icons labeled 1 through 4.

@@ -1,0 +1,5 @@
+Extremely rare Sancho prototype. Only one cartridge is known to exist.
+
+The game seems to be unfinished, because it still has over 1K of free space left that could have been used for a valid 'word pool'.
+
+This game was most probably originally made by Home Vision, because a Home Vision logo has been found inside this ROM

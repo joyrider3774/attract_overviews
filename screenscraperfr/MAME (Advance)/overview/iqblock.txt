@@ -1,0 +1,1 @@
+IQ-Block (c) 1993 IGS.  - TECHNICAL -  Game ID : 0036-5  Main CPU : Z80 (@ 6 Mhz) Sound Chips : YM2413 (@ 3.579545 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in October 1993.  IGS even misspelled 'INSER COIN' during the d

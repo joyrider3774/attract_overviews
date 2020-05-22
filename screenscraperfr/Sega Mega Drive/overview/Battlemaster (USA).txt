@@ -1,0 +1,7 @@
+An early squad based combat strategy game set in a medieval style fantasy world.
+
+The player decides which race they want to play (Human, Orc, Dwarf or Elf) each with their own strengths and weaknesses. It is then a matter of clearing out areas of opponents and finding items to enhance your character's and companions abilities. 
+
+There are many traps to avoid and death is a constant in what most people would find a very tough game. 
+
+The nearest game to compare it to would be Rage Of Mages, though that has more of an RPG focus, it does bear aesthetic similarities and a squad based fantasy fighting theme.

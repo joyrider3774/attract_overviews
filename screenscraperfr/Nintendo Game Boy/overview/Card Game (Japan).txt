@@ -1,0 +1,1 @@
+A collection of Card Games for the Game Boy which include Poker, Blackjack, USA (Which is like Crazy 8's or Uno) and a Fortune Telling game.

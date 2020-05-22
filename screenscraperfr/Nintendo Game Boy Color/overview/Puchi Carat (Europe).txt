@@ -1,0 +1,11 @@
+A mix between classic "Walls" and "Bubbles" puzzles games
+12 characters to challenge
+12 gems to win
+Intense competitions
+4 amazing game modes
+
+The general objective of Puchi Carat is to destroy gem-like blocks using a ball and paddle. Gems "fall in" from the top of the play area one line at a time and are connected to each other either horizontally or vertically. Hitting a gem with the ball will destroy it, and if the destroyed gem causes other gems to no longer be connected to the top of the play area, they fall off, scoring bonus points. Destroying a special flashing gem also destroys all regular gems of the same color in the playfield. There are also metallic blocks that take more than one hit to destroy.
+
+The player controls a paddle at the bottom of the playfield, which can move left and right to bounce the ball back upward. Unlike in most other Breakout-style games, missing the ball does not cost a life or end the game, but rather adds more lines of gems to the top of the playfield. Gem lines will advance on their own after a certain amount of time, as well as when the playfield is cleared entirely or drops below a certain number of gems. If the gems advance across the line at the bottom of the playfield where the paddle resides, the player loses and the game is over.
+
+The arcade version of Puchi Carat features three main gameplay modes: A single-player mode where the goal is to clear a certain number of gem lines, a story mode in which the player challenges each character in a head-to-head battle (where dropped gems are added to the opponent's playfield from the bottom), and a two-player versus mode following the same rules as the story mode. Each of the single-player modes offers three levels of difficulty. Various ports of the game offer additional gameplay modes (such as time-attack mode), more difficulty levels, and expanded storylines for each character.

@@ -1,0 +1,1 @@
+Mouser is a maze game with an overhead view similar to Pac-Man. The object of the game is to help the farmer rid his farm of mice. To do this the player must move the walls of the maze around to corner the mice, allowing their cat to take care of them. If a female mouse gets to a piece of cheese, it will reproduce and the player will have even more mice!

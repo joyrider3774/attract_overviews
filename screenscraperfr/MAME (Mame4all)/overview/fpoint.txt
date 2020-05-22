@@ -1,0 +1,1 @@
+Flash Point is an unlicensed Tetris variant released only in Japan. Unlike Tetris, which is usually a pure survival, your goal is to eliminate all golden blocks from the field.

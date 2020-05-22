@@ -1,0 +1,1 @@
+Vandyke is a 2D arcade top-down weapon based beat'em up, similar to Avengers.The player controls a barbarian-like warrior, and fights against various enemies and monsters (giant scorpions, giant toads etc.) He uses a sword as main weapon, but can find a better weapon (for example: a flail on a long chain).

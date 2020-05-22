@@ -1,0 +1,5 @@
+Boggle Plus is an adaptation of the word construction game in which players must form words from adjacent letters in a randomly assigned grid within a time limit.
+
+The game includes Boggle (4x4 grid) and Big Boggle (5x5 grid) variants, along with three additional games based on the same concept. In Anagram, players must unscramble a short sequence of letters to form a meaningful word. In Categories, a 6x6 grid is filled with pre-determined letters and players must find a number of words matching a category like 'musical instruments', 'sports' or 'beauty products'. Use All takes place on a 5x5 grid, with the major challenge being that letters used to form a word are removed from the grid. The goal is to clear the entire grid. The letters can be rescrambled if necessary.
+
+The game can be played by one or two human players who can be joined by up to four CPU players of varying AI levels. All variants can be played as single games or as tournaments up to a certain score.

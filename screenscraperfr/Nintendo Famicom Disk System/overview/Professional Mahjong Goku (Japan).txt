@@ -1,0 +1,3 @@
+Professional Mahjong Gokuu is the third game for the Famicom to be based on Mahjong, the competitive tile game popular in China and Japan. It is a four-person version of the game, which is generally how the game is played in real life, though uncommon in simulations during this era due to the additional computing power needed for three AI opponents.
+
+As a "professional" Mahjong game, there is an opportunity to play a mode where the player can gamble on outcomes beforehand. The amount of cash gained or lost is usually based on the quality of the winning hand, but occasionally the player can also make bets to increase their take should they win (though, of course, any money gambled in this way is lost if someone else wins the hand).

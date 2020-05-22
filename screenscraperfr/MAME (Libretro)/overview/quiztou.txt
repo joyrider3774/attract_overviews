@@ -1,0 +1,1 @@
+Nettou! Gekitou! Quiztou!! (c) 1993 Namco.  - TECHNICAL -  Namco System NA-2 hardware Game ID : QT  Main CPU : 68000 (@ 12.52825 Mhz) Sound Chips : Namco (@ 32 Khz)  Screen orientation : Horizontal Video resolution : 288 x 224 pixels Screen refresh : 60.0

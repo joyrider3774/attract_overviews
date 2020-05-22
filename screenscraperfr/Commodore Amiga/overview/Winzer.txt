@@ -1,0 +1,7 @@
+Winzer (German for vintner) is a business simulation about the cultivation of wine.
+
+Choose a vineyard in southern Germany, cultivate and harvest grapes, press wine and sell it on the national or international markets. The quality of your wine depends on the type of vines, when the grapes are harvested and how they are fertilized.
+
+You must deal with hiring personnel and buying equipment, registering your wines with the authorities and advertising your products. You can also sabotage your competitors or illegally water down your wines.
+
+You win by reaching a score of 1000 points. Points are awarded by registering wines, creating high quality sparkling wines or placing high in regional or national wine competitions.

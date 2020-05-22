@@ -1,0 +1,1 @@
+Marine Boy (c) 1982 Orca.  - TECHNICAL -  Main CPU : Z80 (@ 3.072 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 1  - TRIVIA -  Released in October 1982 in Japan.  - SOURCES -  Game's rom.

@@ -1,0 +1,9 @@
+Fruit Machine is a slot machine simulator for one person.
+
+The player starts with a stake of Â£5.00 and plays with stakes of Â£0.10 per spin. There is a single win-line and prizes are awarded when a spin leaves two or three matching symbols on it. There is a feature win which occurs when three stars are in view whether they are on a win line or not, and cash wins can be exchanged for nudges so that the player can build a better winning line.
+
+The game automatically holds winning and potential winning lines, though these choices may be altered by the player.
+
+Winnings may be gambled with the 'winner spinner feature. Here the player takes the chance to either increase of decrease their win. The game records two cash sums, the amount the player has spent and the amount the player has won. The game's high-score table is pre-populated with sums of Â£5.00 so the player must win more than they spend in a session in order to make an entry.
+
+The game is entirely keyboard controlled.

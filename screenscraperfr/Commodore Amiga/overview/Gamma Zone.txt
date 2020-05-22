@@ -1,0 +1,14 @@
+Gamma Zone is a Maze/Puzzle game, developed and published by Limes Alpha Codeworks, which was released in Europe in 1993.
+
+What a great little game! Very like Chip's Challenge with nice graphics and a much needed password system. The level design and graphic effects are awesome. You should definitely check this one out!
+
+Cheats:
+During play press 'SPACE' to pause the game and type 'DINO'. A picture will appear and then {CHEATMODE ACTIVATED} will appear. Press 'SPACE' to return to the game. Now Pause the game and enter any of the following:
+
+ZASTER - Give you 400 coins.
+KNIGHTRIDER - Gives you the shield and other extras.
+MAGIC - Gives you magic.
+FOREVERYOUNG - Puts your time up to 600.
+STEFFI - Gives you hearts (energy).
+IMWALKING - Gives you fuel.
+WINNER - Completes current level.

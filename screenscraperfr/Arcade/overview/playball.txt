@@ -1,0 +1,1 @@
+PlayBall! (c) 1983 Williams.  - TECHNICAL -  Main CPU : M6809 (@ 1 Mhz) Sound CPU : M6808 (@ 894.75 Khz) Sound Chips : DAC, HC55516 (@ 894.75 Khz)  Screen orientation : Vertical Video resolution : 231 x 292 pixels Screen refresh : 60.00 Hz Palette colors

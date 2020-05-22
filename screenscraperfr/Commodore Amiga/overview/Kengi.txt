@@ -1,0 +1,3 @@
+Kengi is a Othello variant played with little aliens instead of stones. As with the original board game, the players place the aliens in turns on a 8x8 board with the goal to have the most own aliens on the field when the match ends. An alien has to be placed besides another alien already on the field and all of the hostile aliens between the placed and next own alien are turned into own aliens,
+
+The main variation are five instead of one board. They can be reached through a panel on the right which also shows a small preview of the already placed aliens. The placement rules between the boards remain identical in vertical order. There is only one board on screen at a time. There are three difficulty levels and an optional time limit for each turn.

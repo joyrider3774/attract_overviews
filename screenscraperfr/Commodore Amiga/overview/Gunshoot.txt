@@ -1,0 +1,3 @@
+A complete clone of Bank Panic (West Bank). You are the hero John Brayn with the order to protect the bank of Laramie. There are 12 doors through which bandits or innocents could appear. Shoot the bandits before they shoot you, and don't shoot the innocents.
+
+There are gold coins to win if you shoot at them, but this is not always easy because some innocents have them in hand; so take care, good aim and good luck.

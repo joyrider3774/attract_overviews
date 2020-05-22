@@ -1,0 +1,1 @@
+In its simplest essence, Apocalypse a helicopter-based shoot 'em up inspired by Choplifter!. You must enter the jungle fortress of an evil dictator and take out his forces single-handedly. Also rescue as many POWs as possible. The levels scroll horizontally, and feature 32-colour multi-level parallax graphics. Enemies include tanks, helicopters, watch-tower patrols and howitzers.

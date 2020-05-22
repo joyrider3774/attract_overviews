@@ -1,0 +1,1 @@
+Three basic dart games in one: 'High Score', '301', and 'Round the Clock'. The player rolls the trackball to move the player's arm, rolls forward and then presses the fire button to release the dart. Players take turns as in a standard dart game. Winning a free game by getting a good score is possible.

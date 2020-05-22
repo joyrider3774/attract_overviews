@@ -1,0 +1,5 @@
+Top Landing is a 3-D flight simulation game were you can choose destinations like Paris, San Francisco, Tokyo, Osaka, Rio de Janeiro, Seydey, Fukuoka and Washington.
+
+The object of the game is to land an airliner during any number of adverse conditions. 
+
+It is the second of four games in Taito's "Landing" series.

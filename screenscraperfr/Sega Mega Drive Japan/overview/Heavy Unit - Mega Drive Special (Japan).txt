@@ -1,0 +1,3 @@
+Heavy Unit is a typical side-scrolling shooter in which you have to fly through several levels filled with enemies, mid and end bosses. Apart from the usual power ups that increase your speed and weapons, there is also one that transforms your spaceship into a large robot that has a different weapon system.
+
+This is the same game as Heavy Unit for Turbografx-16 but with improved graphics (more colours, bigger enemies) and sound. Levels layout is the same.

@@ -1,0 +1,1 @@
+A game of gomoku against girls whom strip off clothes if you win. The game's AI is rather hard to beat, but sometimes it makes glaring tactical mistakes. Amusingly enough, it also appears to be hosted by Kamesennin from the Dragonball series.

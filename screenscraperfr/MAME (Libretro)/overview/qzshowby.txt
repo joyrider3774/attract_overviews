@@ -1,0 +1,1 @@
+Quiz Sekai wa SHOW by Shobai (c) 1993 Taito.  - TECHNICAL -  Taito B System hardware Prom Stickers : D72  Main CPU : 68000 (@ 16 Mhz), Z80 (@ 4 Mhz) Sound Chips : YM2610B (@ 8 Mhz)  Players : 4 Buttons : 4  - TRIVIA -  Released in May 1994 in Japan only.

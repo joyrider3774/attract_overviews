@@ -1,0 +1,1 @@
+Lost in Mine is a side-scrolling puzzle board game. The action takes place in a mine. The goal is to collect all the coins and reach the exit before time runs out. This can only be completed by properly maneuvering platform control devices and using mining machines in suitable locations.

@@ -1,0 +1,12 @@
+The year is 2112. Scientific base "Neuronix" based on Alaska reported that deadliest virus AX 415 has infected some of its employees. They encircled itself by power field to prevent any outside infection. But the base has the center of teleportation in time - "Transtemporix", and some employees mad of their fate has used it to run away the base and put in danger the present society and ancient big civilizations.
+
+You, Agent Martix, was chosen by Jimonson Government to be responsible for carrying out the mission on eliminating the individuals infected by virus, who has spreading out the Neuronix in the times. A Cyborg RX-22 will accompany you during all length of your mission because of his remarkable knowledge of ancient civilizations stored in several gigabytes of its RAM and invisibility to anybody except you.
+
+The Epochs you will visit include:
+1) Alaska ( 2112 A.D. ) - present days on the base "Neuronix";
+2) Central Europe ( 85002 B.C. ) - first Homosapiens in  Paleolithic;
+3) Highlands of Scotland ( February 16th, 1135 ) - feudal lords and castles near Loch-Ness;
+4) Incan Empire ( June 25th, 1527 ) - Indians, Capital of Empire, and Holiday of the Sun;
+5) Japan ( May 12th, 1535 ) - castle in Edo city, shoguns, Japanese culture.
+
+This text adventure game was made in French.

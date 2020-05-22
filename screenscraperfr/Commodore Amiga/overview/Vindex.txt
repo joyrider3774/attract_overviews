@@ -1,0 +1,5 @@
+Vindex is a simplistic arcade style pseudo-3D space age shoot-em-up, featuring special visual effects like scaling sprites and slickly animated grid-style scrolling terrain. 
+
+The execution of the game can effectively be similarly likened to the play-style arrangement of Sega’s classic Space Harrier. The player navigates a spaceship around the screen, while the object is to neutralise the oncoming swirling armadas of aliens.  
+
+Points are awarded for each nasty dispatched, and the usual extra life is granted for specific scoring sums. There is a grand total of nine levels to blast your way through to ultimately save the galaxy.

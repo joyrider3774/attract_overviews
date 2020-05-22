@@ -1,0 +1,1 @@
+This game of tennis offers the modes Singles, Doubles and World Tour. You have the choice between 26 players with half of the players. Each of these players have their own specializations: service-volley, short-handed game, southpaw. Three types of courts are available: hard, grass and clay.

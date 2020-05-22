@@ -1,0 +1,3 @@
+Kwirk has three game modes: Going Up?, Heading Out?, and Vs. Mode, each one with its own set of rules. The object is to get from one end of the room to the staircase on the other by rotating turnstiles, moving blocks, and filling holes with blocks.
+
+Kwirk has three skill levels: Level 1 - Easy, Level 2 - Average and Level 3 - Hard. After, one of two viewpoints may be selected: Diagonal or Bird's Eye. In Diagonal view, characters and blocks have shadows and appear in crude 3D, whereas in Bird's Eye view everything is 2D, viewed from the top down. The three skill levels and two viewpoints are featured in all three game modes.

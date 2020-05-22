@@ -1,0 +1,3 @@
+Exploration is a strategy-simulation game set during the Age of Sail.  From the time of Vasco da Gama and Columbus (the late 1400s) to the French Revolution (1789), you are put in charge of a nation's imperial destiny.  This means financing voyages, assembling crews, sending out land and sea expeditions, founding colonies, and occasionally engaging other European powers for global dominance.
+
+Exploration may seem familiar to players of Civilization, Colonization, Conquest of the New World, Gold of the Americas, and even Sid Meier's Pirates!, as they borrow from exploration and cover a similar topic.

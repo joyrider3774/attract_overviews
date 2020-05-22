@@ -1,0 +1,5 @@
+In Same Game, the player must clear the entire playfield by selecting at least two adjacent colored cells.
+
+Depending on the difficulty setting, the playfield and the number of colors differ (from 5x5 with 3 colors to 20x15 with 4 colors). Once a set is selected, it is removed and the remaining cells are "consolidated" (cells above fall down, cells moving to the left if there is a horizontal space). This also means that possible set get destroyed when the cells are moving.
+
+As soon as the player removes all cells, the game completes. If even only one cell remains, the game is lost.

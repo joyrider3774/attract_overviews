@@ -1,0 +1,1 @@
+Puzzle Bobble 2 (c) 1995 Taito.  A puzzle game. Link 3 or more colored bubbles by shooting an identical colored bubble. When they are joined together, they pop.  - TECHNICAL -  Taito F3 System hardware Prom Stickers : E10  Main CPU : 68EC020 (@ 16 Mhz) So

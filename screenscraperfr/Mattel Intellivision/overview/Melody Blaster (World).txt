@@ -1,0 +1,1 @@
+The musical version of the popular video game, Astrosmash. And a fun, new way to learn musical notation. As musical notes fall from the sky in the pattern of a popular song, you must play the right keys to shoot them down. The faster you shoot down the notes, the faster you're learning to play your favorite songs!  Requires ECS Music Synthesizer

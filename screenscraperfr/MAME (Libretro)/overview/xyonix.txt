@@ -1,0 +1,6 @@
+A "Tetris"-type game.
+The totems you can see during the gameplay are called "Jangseung" (village guardian), Jangseungs, usually made of wood, were traditionally placed at the edges of villages to mark for village boundaries and frighten away demons. They were also worshipped as village tutelary deities.
+
+On the Jangseungs' body is written 'Chunha Dae Jangoon' (translated from Korean as 'The Great General Under Heaven').
+
+When you finish a stage, you can hear the famous folk song 'Ariang'.

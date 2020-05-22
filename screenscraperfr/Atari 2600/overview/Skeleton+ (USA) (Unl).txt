@@ -1,0 +1,9 @@
+You hear faint footsteps, so you follow the sound through the 
+maze.  To your horror, you discover the source of the footsteps 
+is a Skeleton; and it doesn't look friendly.  Acting quickly, 
+you blast it with your Undead Disintegrator and the Skeleton 
+vanishes in a flash of colour.  But as you reload your UD, you 
+hear footsteps again; and you wonder; are you the hunter or the 
+hunted in this nightmare?
+
+This game was inspired by the TRS-80 CoCo game The Phantom Slayer. In this title, you move through a maze, searching for skeletons. Find them before they find you. Once you encounter a skeleton, press a button to disintegrate it. There are ten skeletons per maze and eight mazes in total.

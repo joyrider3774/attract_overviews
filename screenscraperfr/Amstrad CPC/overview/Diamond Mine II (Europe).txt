@@ -1,0 +1,1 @@
+A Nibbler variant in which you collect dots (I mean diamonds). Your character in this game stands above ground and pumps away as your mining line moves through the underground maze. Come into contact with any of the inhabitants head-on and you kill them, but if they touch your line, you lose a life.

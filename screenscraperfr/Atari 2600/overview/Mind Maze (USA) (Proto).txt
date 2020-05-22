@@ -1,0 +1,1 @@
+Mind Maze is played somewhat like those old mind reading experiments where a scientist would hold up a card and ask a person to tell him what was on the other side. Depending on the game selected, two to four cards appear on the screen each round. The player then must try and guess the "correct" card by highlighting it (using the joystick) and pressing the fire button.

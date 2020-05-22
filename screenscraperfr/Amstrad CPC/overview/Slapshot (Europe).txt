@@ -1,0 +1,1 @@
+Slap Shot is a fast-action ice hockey simulation game. Each ice hockey match has three periods that last three minutes each. The puck can be passed from player to player at varying speeds and directions. The game allows you to give opponents a body check

@@ -1,0 +1,9 @@
+The game starts where Dan lands his airship on the top of the evil Dr Blitzen's hideout. The aim of the game is to find eight sticks of dynamite that are placed randomly around the playing area whilst avoiding the perils of the game such as moving monsters, drowning and falling from great heights. Once Dan has all eight sticks of dynamite, the player must make their way to the central safe to blow it open and steal the plans for the evil doctor's Death Ray and escape to his airship.
+
+The playing area is essentially one large building split up into multiple screens that wrap around a central elevator. Each screen contains a number of moving monsters that, once the player moves into them, are destroyed but take off a life in return. The only exception to being destroyed once walked into are Dr Blitzen and his assistant Donner (Donner and Blitzen) who are both located on the same screen as the safe. Other perils to Dan's life include running out of energy (caused by not collecting enough food, falling from heights and being hit by laser beams). If Dan should also fall into the underground river that flows beneath the building, the player will receive a game over unless Dan had picked up Oxygen, in which case they will be sent back to the start of the game.
+
+Once completed, the game gives you a secret code to decipher and a number to call once you have the answer. While the number no longer works now, the prize was a ride in the Mirrorsoft blimp.
+
+A sequel, Dynamite Dan 2, was released the following year which featured around 200 rooms.
+
+The background music when choosing the game settings and waiting for the game to start is the third movement (Rondo Alla Turca) from Wolfgang Amadeus Mozart's Piano Sonata No. 11 in A major, K. 331.

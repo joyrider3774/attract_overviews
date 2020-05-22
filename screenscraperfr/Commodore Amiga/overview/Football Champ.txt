@@ -1,0 +1,3 @@
+Remember I Play 3D Soccer? Well, in their almost obsessive quest to make the ultimate 3D soccer game, Simulmondo have gone a step further. Now, instead of just viewing the pitch from one angle, you rotate the whole world around your player.
+
+The effect is impressive as vectors and sprites are scaled and stretched to create a convincing pitch environment. Unfortunately, the game is practically unplayable: it's almost impossible to keep track of what's going on and you can't instantly swap control from one player to another. This leads to an overwhelming feeling of disorientation. There's a comprehensive tactical and team management aspect to the game, but when it plays as badly as this, who cares?

@@ -1,0 +1,1 @@
+Star Trigon (c) 2002 Namco, Ltd.  - TECHNICAL -  Namco System 10 hardware Game ID : STT  Main CPU : PSX (@ 16.9344 Mhz)  Players : 2 Control : 8-way Joystick Buttons : 6  - TRIVIA -  Star Trigon was released in July 2002.  - SOURCES -  Game's rom.

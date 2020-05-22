@@ -1,0 +1,3 @@
+Ball Raider is a Breakout clone game, developed by Golden Gate Crew and published by Diamond, which was released in Europe in 1987.
+
+To become a member of the Warrior Guild, you must complete 25 levels of Ball Raider in the year 2488. Ball Raider is a Breakout variant where you have to hit a ball with a bat at the bottom of the screen towards bricks at the top of the screen. Your bat catches the ball each time it hits it so you can move your bat elsewhere and press fire to send it towards the bricks again. Once you clear all the bricks then it's onto the next level.

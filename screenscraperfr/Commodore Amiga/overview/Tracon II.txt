@@ -1,0 +1,9 @@
+Tracon is an air traffic control simulator, giving you the position of a so called "ATC" (air traffic controller). You are in charge of the air traffic in a certain sector, making sure that every airplane gets to his destination safely. 
+
+Your main screen is a radar, which features the aircrafts as green dots or little airplanes, moving at a certain speed at a certain height. The game is a full-talkie, featuring pilot's voices and those of the ATCs. Interestingly Tracon doesn't use a sound card for that. The voice acting is done over the PC internal speaker.
+
+The more traffic is in the air, the more hectic your job becomes. You have to set routes for the planes and organize punctual arrivals. 
+
+The game is also featuring emergencies, to make your task more difficult. It is possible to connect the game to a Microsoft Flight Simulator installation on another computer.
+
+Tracon was used to train professional ATCs in the early nineties. Then Wesson decided to develop special simulation units for professional users and continue the Tracon series as entertainment.

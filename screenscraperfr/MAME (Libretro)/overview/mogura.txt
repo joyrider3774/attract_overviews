@@ -1,0 +1,1 @@
+A simple test board used to test cabinets at the factory. It's probably very rare though. The game is very simple, mostly just to test the buttons and joysticks.

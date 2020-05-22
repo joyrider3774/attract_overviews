@@ -1,0 +1,1 @@
+Pinbo (c) 1984 Jaleco.  - TECHNICAL -  Game ID : PB-8421  Main CPU : M6502 (@ 2 Mhz) Sound CPU : Z80 (@ 3 Mhz) Sound Chips : (2x) AY8910 (@ 1.25 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in August 1984.  A bootleg of thi

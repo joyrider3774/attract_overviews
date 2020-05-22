@@ -1,0 +1,1 @@
+One + Two (c) 1997 Barko.  - TECHNICAL -  Main CPU : Z80 (@ 8 Mhz) Sound CPU : Z80 (@ 8 Mhz) Sound Chips : YM3812 (@ 8 Mhz), OKI6295 (@ 8 Khz)  Screen orientation : Horizontal Video resolution : 512 x 256 pixels Screen refresh : 60.00 Hz Palette colors :

@@ -1,0 +1,3 @@
+A vertically scrolling shoot'em up.
+
+'Sasori' is Japanese for...you guessed it...'Scorpion'!

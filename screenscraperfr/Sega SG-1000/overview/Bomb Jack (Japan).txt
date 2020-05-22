@@ -1,0 +1,1 @@
+Bomb Jack is an arcade game developed by Tehkan which was later ported to the SG-1000 by Sega in 1985. The aim of the game is to collect all the bombs in the playfield while avoiding monsters. Extra points are awarded for collecting the bombs in a specific order.

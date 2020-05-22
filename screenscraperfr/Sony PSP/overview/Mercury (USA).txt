@@ -1,0 +1,5 @@
+In Archer Maclean's Mercury, your job is to guide a blob of mercury, or several blobs, along various mazes, by tilting the game world.  En route, you are required to run over color markers, which will change the color of your blob to the color required to win the level. Some areas of the game will require you to split your mercury into two, roll each blob over two different colored switches, and then combine the two blobs to form a third, different color.
+
+Each level has different elements to it, some of which will help you and some of which will hinder you.  There are conveyor belts, moving platforms, launch pads, and jagged corners that when hit, will cause your blob to split into two, even three.
+
+There are 83 different mazes, each one progressively harder than the last.

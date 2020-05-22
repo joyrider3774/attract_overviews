@@ -1,0 +1,7 @@
+Based on the famous movie, A Nightmare of Elm Street is an action game, where you choose one of the five characters and try to free your friends from the grasp of the evil Freddy Krueger. 
+
+You start on the city streets, where you have to find Freddy's house while avoiding Freddy himself. Once you're inside, you're free to explore the many floors of the house. You have to find your friends before Freddy kills them; the game shows you on which level each of your friends is and how much health he has left. 
+
+Your character has two meters: a "soul" meter and a "power" meter. The "soul" is your health, and if it runs out, you die. The "power" allows you to use your special attack, different for every character. On your way, you'll meet a lot of monsters, which you can try to defeat with weapons or with your special attack. 
+
+While walking around the house, you'll find many items you can pick up and use (but note that you have limited space in your inventory). Some items heal you, some are weapons and some have other uses. You'll also find batteries, bullets and coins - coins will allow you to buy various useful things, and batteries and bullets are necessary for some items to work.

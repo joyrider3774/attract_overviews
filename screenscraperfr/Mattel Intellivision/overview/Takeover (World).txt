@@ -1,0 +1,1 @@
+Takeover is a strategy game where the objective is to capture your opponent's capital city. This is accomplished by a coordinated effort of the armies, fleets, cities and roads at the player's disposal. The game is played with five different scenarios and randomly situated capital cities which form constraints to each player's basic strategy.

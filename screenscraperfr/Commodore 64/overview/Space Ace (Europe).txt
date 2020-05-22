@@ -1,0 +1,9 @@
+This is a compilation that contains the following 7 games:
+
+1. Cybernoid: The Fighting Machine
+2. Exolon
+3. NorthStar
+4. Trantor the Last Stormtrooper
+5. Venom Strikes Back
+6. Xevious
+7. Zynaps

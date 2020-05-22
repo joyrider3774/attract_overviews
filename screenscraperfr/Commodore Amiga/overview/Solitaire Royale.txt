@@ -1,0 +1,1 @@
+This was an early commercial instance of Card Solitaire.  There are 8 different solitaire games, including Klondike, Calculation, and Three Shuffles and a Draw. You can also play "Aunt Anne's Tour" where you play all 8 in row, trying for the highest combined score, and 3 children's games. In addition, there are 10 different choices for deck art.

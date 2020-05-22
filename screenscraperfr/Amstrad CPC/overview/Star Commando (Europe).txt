@@ -1,0 +1,1 @@
+Aliens have invaded several galaxies and you must stop them. Each galaxy has sixteen sectors, all of which must be cleared before you can go to the next galaxy. In each sector, you must simply blast waves of aliens until the 'danger level' reaches zero.

@@ -1,0 +1,5 @@
+A wrestling game featuring a roster of six different WWF wrestlers. Hulk Hogan, Macho Man Randy Savage, Sid Justice, Jake the Snake Roberts, the Undertaker, and the Mountie are the WWF superstars who are playable.
+
+Game modes include a one on one match, a tag team match, and a tournament. Matches can take place in either a regular wrestling ring or in the steel cage. The computer opponents' difficulty level can be set to either easy, medium, or hard.
+
+Gameplay involves doing typical wrestling maneuvers against an opponent in the ring. Each wrestler has an energy bar that drains when they get hurt. The lower their energy, the greater the chance of them being pinned. The goal of the match is to pin down your opponent till the referee counts to three.

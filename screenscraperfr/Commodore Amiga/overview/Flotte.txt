@@ -1,0 +1,1 @@
+Flotte is a game where player deploys his ships (of lengths varying from 2 to 5 squares) on a square grid. Then player shoots at the computer controlled player's grid by clicking on a location. The defender responds by "Hit" or "Only Water". You try to deduce where the enemy ships are and sink them. First to do so wins.

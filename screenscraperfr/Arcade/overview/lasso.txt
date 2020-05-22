@@ -1,0 +1,1 @@
+Lasso (c) 1982 SNK.  - TECHNICAL -  Game ID : 'WM'  Main CPU : (2x) M6502 (@ 2 Mhz) Sound CPU : M6502 (@ 600 Khz) Sound Chips : (2x) SN76496 (@ 2 Mhz)  Players : 2 Control : 4-way joystick Buttons : 2  - TRIVIA -  Released in August 1982.  - SOURCES -  Ga

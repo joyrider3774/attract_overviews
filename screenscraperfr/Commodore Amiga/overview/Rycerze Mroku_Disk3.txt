@@ -1,0 +1,1 @@
+A first-person fighting simulator that let's you face off against various opponents (including a wasp) in the style of the classic Punch-Out games. While waiting for the levels to load, you are presented with a story in text that leads to your next encounter.

@@ -1,0 +1,5 @@
+Bounty Hunter is an adventure game taking place in the wild west 1847 and you play the role of a bounty hunter. The goal of the game is to hunt down the 20 most wanted man and make the west a safer place to live.
+
+When the game starts you are presented with a map showing seven cities, moving the mouse over a city makes the game show you city name and the time it takes to travel there. In each city there is five different places to visit: The saloon, the sheriff, the store, the doctor and the undertaker. In the saloon you can have a drink, play cards and get tips about stranger in town. Wanted men usually hangs out in the saloon and sometimes they have company. At the sheriffs office you can have a look at the wanted poster and ask about last seen outlaw. In the store you can buy ammo and food supply. It's wise to now and then visit the doctor and have him check you up. 
+
+The game is controlled both with keyboard and mouse. Map movements, menu interaction and duels is controlled with the mouse and city movements with the joystick.

@@ -1,0 +1,7 @@
+Rectangle is fundamentally a variation of Konami’s Quarth with some Arkanoid style elements. 
+
+The basic lay takes’ place on a single screen - the player controls a small character on the bottom of the display which can be moved to the extreme left and right of the play-field. Tetris-like block shapes descend from the top of the screen. The player can shoot projectiles which become square units upon contacting the blocks. 
+
+The aim of the play is to form rectangles or squares by way of filling in the remaining space on the vertical, or horizontal level of the blocks to score points, and when all are cleared, the next level is unlocked. Some blocks contain an ever-cycling power up - which if converted, will cause a bonus collectable to fall, e.g. giving the ability to eliminate blocks with one shot, faster player movement & shots, or even transform the players’ sprite into a bat & ball for Breakout inspired play.  
+
+The game is divided into phases - called worlds, which consists of three levels, of which each world has a unique visual theme. A six-digit code is given at the successful conclusion of each world in order to keep progress.

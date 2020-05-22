@@ -1,0 +1,3 @@
+Premier Soccer is a soccer game where you select a team and try to get them to the final and win it. You first select which continent you want to play in before selecting a country from that continent. You also have four choices of how close you want the camera to be when playing.
+
+The actual match is played from a top-down side view where the pitch scrolls where the player with the ball moves. All the usual football rules are there with free-kicks, penalties, throw-ins and corners. The ref will also make an appearance if a yellow or red card is brandished. You control a player with a joystick and various fie-buttons to select different kicks or tackles. Win the game and it's on to the next round and a harder opponent.

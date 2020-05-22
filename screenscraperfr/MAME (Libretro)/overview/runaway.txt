@@ -1,0 +1,1 @@
+Runaway (c) 1982 Atari.  - TECHNICAL -  Main CPU : M6502 (@ 1.512 Mhz) Sound Chips : (2x) POKEY (@ 1.512 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 240 pixels Screen refresh : 60.00 Hz Palette colors : 16  Players : 2 Buttons : 3  - TR

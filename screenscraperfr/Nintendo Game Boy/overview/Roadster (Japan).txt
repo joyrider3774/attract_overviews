@@ -1,0 +1,8 @@
+Roadster lets the player race a sports car over tracks on various terrain. The game offers two different racing modes. In the training mode players can practice by driving solo on any of the sixteen tracks available, with the tracks consisting of five city courses, four country courses, four mountain courses, a dirt course, and two  gymkhana courses. The main mode available is the race mode. In this mode players select the amount of races they want to compete in (5, 10, 15, or 20). After that is decided, players choose from one of six different drivers. Each driver comes with their own weight and guts percentage, and have different starting body and tire ratings for their roadster.
+
+During a race players have to compete against five other drivers trying to get the best placed finish. While in the race, players can make pit stops to repair any tire wear or body damage they sustained while out on the track. Points are earned depending on where the player finished the race. More points are awarded for the better finish.
+The ultimate champion is the driver who totals the most points after a series of races.
+
+There is occasionally a power-up that can be picked up during a race. After the race this is collected in, this power-up can be spent on either increasing the statistics of the body or tire rating.
+
+The game also offers the option if they want to race with the music on or off.

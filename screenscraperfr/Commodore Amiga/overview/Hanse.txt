@@ -1,0 +1,5 @@
+Hanse is a managerial strategy game set in the 14th century. The player takes the role of an ambitious citizen who wants to become the mayor of LÃƒÂ¼beck. To reach this goal he has to get rich by trading with other cities of the Hanseatic League.
+
+The basic gameplay principle is simple: shipping salt and exchanging it for other goods which then can be sold in LÃƒÂ¼beck for a good price. This means the current salt price is the most important part when planning shipments (besides the weather). Of course the player also has to purchase and maintain other things, e.g. a trading station, ships and cannons. Alternatively the player can also participate in smuggling.
+
+When using the game alone, the player competes against an AI opponent. He sometimes attacks the player's trading stations which results in a fight scene in which the player has to place his cannons so they destroy the attacking ships during the automatic attack phase. There are also other similar sequences and random occurrences like weddings or disasters that may force the player to react. The game is completely menu driven and offers multiplayer for up to six people.

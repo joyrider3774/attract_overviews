@@ -1,0 +1,3 @@
+The color chosen is locked for the opponent for one turn; drawing lines from one border of the field to another fills all the space in between. In addition, boards come in various diamond sizes, color textures and with obstacle stones. A (generous) time limit exerts soft pressure.
+
+In the wake of Alexey Pajitnov's block-busting Tetris, Infogrames licensed another Russian mathematician's concept for a game of logics and dexterity: Two players start from opposite ends of a board, filled with rectangles of seven different colors, and take turns in picking one of these colors. All diamonds of that color bordering on the player's territory are annexed, expanding the borders. Whoever first controls more than half of the terrain wins.

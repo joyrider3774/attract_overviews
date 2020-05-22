@@ -1,0 +1,10 @@
+Pocahontas is a side-scrolling platformer based on the Native American Indian later made famous in a Disney movie by the same name. 
+
+The player alternates between Pocahontas and John Smith to complete seven missions. In levels one, two and four, Pocahontas needs to collect feathers for a Shaman woman to receive magic cards, travel through the forest while avoiding the spirit beat, and shake off a boy who chases her to prevent her from reaching the white man's camp respectively.
+
+John Smith is playable in the levels three, five and six. In the third level the American explorer needs to shoot animals running and passing by, on separate planes, by aiming his gun with the mouse. He needs to shoot enough animals to feed his men before it gets dark. The objective is the same in the fifth level, but there he is in a canoe and needs to catch fish. 
+
+
+In the sixth level he leaps over ravines and across rivers until he meets Pocahontas. Together, they help each other cross a lake. In the final level both characters are controlled as they need to work together to catch a bear.
+
+Next to regular platforming mechanics such as running, climbing, jumping and swinging, there are some minor puzzle elements involving items that are selected from the bottom of the screen. That part also holds a progress bar to show how close the objectives are. Characters are generally controlled with four movement keys. The mouse cursor is visible on the screen and acts as a guide to show the possible actions. Clicking left or right offers different actions.

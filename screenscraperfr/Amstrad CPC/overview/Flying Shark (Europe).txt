@@ -1,0 +1,1 @@
+Flying Shark places the player in control of a biplane. The aim is to shoot down other biplanes and avoid being shot down by them. When shot down the player respawns at the bottom of the screen. The plane is controlled using a flight stick with a fire button.

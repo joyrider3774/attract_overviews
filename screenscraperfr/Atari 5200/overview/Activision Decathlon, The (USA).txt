@@ -1,0 +1,13 @@
+Up to four players compete in the ten different events of a real-life decathlon, either in sequence or individually. The events are -
+
+
+100-Meter Dash
+Long Jump
+Shot Put
+High Jump
+400-Meter Race
+110-Meter Hurdles
+Discus Throw
+Pole Vault
+Javelin Throw
+1500-Meter Race

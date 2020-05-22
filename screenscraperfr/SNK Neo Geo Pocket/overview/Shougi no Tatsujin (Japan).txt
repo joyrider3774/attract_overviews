@@ -1,0 +1,1 @@
+Shogi is the Japanese equivalent of chess. Indeed, as in chess, the goal of the game is to subdue the opposing king! Nevertheless, there are several differences between the Shogi and our chess game, be it in the nature of the pieces, their positions or their movements.

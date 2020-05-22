@@ -1,0 +1,3 @@
+Pictionary is a sort of charades using drawings instead of mimes. Two to four teams can compete, each member drawing a picture of a given word which his teammates try to identify within a time limit. Get it right and you advance around the board; finish first to win.
+
+The in-built art utility allows lines, curves, circles etc. to be drawn quickly. Alternatively, the computer can do all the drawing with individual competitors guessing the words.

@@ -1,0 +1,1 @@
+Tokoro San no MahMahjan 2 - Tokoro's Cup (c) 1994 Sega.  - TECHNICAL -  Sega System 24 hardware  Main CPU : (2x) 68000 (@ 10 Mhz) Sound Chips : YM2151 (@ 4 Mhz), DAC  Players : 1  - TRIVIA -  Released in May 1994 in Japan.  The title of this game translat

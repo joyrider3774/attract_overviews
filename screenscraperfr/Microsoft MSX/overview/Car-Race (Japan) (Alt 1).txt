@@ -1,0 +1,1 @@
+Car Race is a simple racing game. The objective of the game is to race on a single track, evading other cars and collecting fuel on the ground. The longer the player can last, the higher the score.

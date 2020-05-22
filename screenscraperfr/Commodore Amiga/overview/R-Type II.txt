@@ -1,0 +1,5 @@
+R-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989. It is the second game in the R-Type series.
+
+The player controls a ship called the R-9C (or R-9 Custom), which is an improved version of its predecessor game's ship; the R-9. The ship's design was changed slightly, and the wave cannon was given homing capabilities. Two new types of weapons (the Search Laser and Shotgun Laser) were added, bringing the total number of weapon types up to five. A new anti-ground unit bomb was also added to the missile inventory.
+
+Though the number of levels was decreased from the prequel, the number of enemies, their durability, and the number of bullets they shoot were greatly increased. Enemy movements and terrain were also made trickier, bringing the game's difficulty up considerably. The same revival system is used as in the prequel, where the player is brought back to a checkpoint whenever their ship is destroyed.

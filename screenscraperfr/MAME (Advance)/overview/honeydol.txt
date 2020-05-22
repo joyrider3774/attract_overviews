@@ -1,0 +1,1 @@
+Honey Dolls (c) 1995 Barko.  - TECHNICAL -  Main CPU : 68000 (@ 16 Mhz), Z80 (@ 4 Mhz) Sound Chips : YM3812 (@ 3 Mhz), OKI6295 (@ 7.575 Khz)  Screen orientation : Horizontal Video resolution : 256 x 224 pixels Screen refresh : 57.50 Hz Palette colors : 10

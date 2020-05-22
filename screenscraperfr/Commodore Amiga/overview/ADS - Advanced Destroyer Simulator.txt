@@ -1,0 +1,3 @@
+Advanced Destroyer Simulator (ADS) is a naval combat simulation set in World War 2. It was the first naval simulation to use real-time filled 3D graphics. Its style and mechanics are reminiscent of Epyx's Destroyer (1986).
+
+ADS simulates the H.M.S. Onslaught, a British destroyer of the O-class fitted with three cannon turrets, four torpedo tubes on port and starboard respectively, and a sonar to detect and track submarines. In ADS, the Onslaught is not part of a flotilla.

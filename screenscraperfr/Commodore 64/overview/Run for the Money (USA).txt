@@ -1,0 +1,4 @@
+Run for the Money is an educational game about running a business. The game is for two players who share the same screen to move around their characters. The characters are bizlings, space travellers who have crash landed on Planet Simian. The crash has caused damage to the ship's paint shield and before they can leave they need to acquire paint.
+To buy the needed paint it is first necessary to make some money. This is done by producing and selling synannas (synthetic bananas) to the Simian population. 
+
+Run for the Money was released for the Commodore 64 in 1984 and and was also officially released on the Atari 8-bit, DOS, Macintosh and Apple II platforms.

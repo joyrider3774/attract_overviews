@@ -1,0 +1,2 @@
+The second compilation of levels from Irem's Lode Runner Arcade series. Developed for the Famicom Disk System, it was never released outside of Japan.
+Irem created four Arcade versions of the original Lode Runner, each with a unique set of levels as well as added features like a co-operative mode for two players. For the FDS home versions, Irem compiled several levels from each of these Arcade versions onto one disk. Super Lode Runner II has fewer single-player levels than its predecessor, but contains more co-op levels to make up for it.

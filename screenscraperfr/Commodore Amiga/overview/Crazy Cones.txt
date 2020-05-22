@@ -1,0 +1,1 @@
+Crazy Cones is a very straightforward little game where you have to collect cones, while avoiding nasties or killing them using mines. There are also obstacles which have to be destroyed using missiles. Fast-paced but a little to simple to be a very good game in my opinion.

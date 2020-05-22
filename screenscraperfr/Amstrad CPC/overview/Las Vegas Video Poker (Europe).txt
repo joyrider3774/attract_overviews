@@ -1,0 +1,1 @@
+This version of the card game uses slightly different rules, it's a one-player game, for a start. First you bet some of your money, and then five cards are selected at random. After choosing which cards you want to keep, the remaining cards are changed, and it is then that you will hopefully win some money.

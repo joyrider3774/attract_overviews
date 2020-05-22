@@ -1,0 +1,5 @@
+Darkman was developed by Ocean Software and published by Ocean Software in 1991. 
+
+In this side-scrolling platformer, the player controls Darkman, a superhero who can jump, kick and punch, as well as swing from a rope during action sequences between levels. In each level, Darkman disguises himself as the boss of the level, whom he must defeat before the time limit elapses. Tying into the plot of the film, Darkman wears masks of various gangsters who are responsible for his disfigurement, but his disguise dissolves after being exposed to sunlight for too long. The character changes into a different member of the evil gang in each level, taking on their attack moves as well as their face.
+
+In-between levels, Darkman must photograph his quarry before he can make a mask of them. These scenes involve moving the cursor to take a picture of the gangster. The better the photo accuracy, the more time Darkman is granted to complete the subsequent level. The final level is the most faithful to the film, and takes place on a skyscraper under construction.

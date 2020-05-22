@@ -1,0 +1,3 @@
+A graphical text adventure game, the last of a 3 part series. Explore the innards of a haunted mansion that turn out to contain portals to both past and future worlds. By exploring these worlds you will eventually succeed in obtaining 6 crystal shards, that grant you enough power to take on the games' final boss; the sinister god Kal.
+
+Being a graphical text adventure, you have the option of using both the mouse and / or keyboard to input your actions and progress the story. Other games in the series are Das Stundenglas and Die Kathedrale.

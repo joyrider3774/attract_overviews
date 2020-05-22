@@ -1,0 +1,3 @@
+Otocky can be described as a musical side-scrolling shoot 'em up. The player's spaceship has a ball for a weapon, which can be fired in eight directions; each direction corresponds to a different musical note. The note plays when the player presses the fire button, and is also quantized in time so that it matches the beat playing in the background. By using the weapon selectively the player can improvise music while playing.
+
+Otocky is notable for being one of the first games that include creative/procedural generative music.

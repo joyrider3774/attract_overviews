@@ -1,0 +1,3 @@
+Q*bert is an arcade game by Gottlieb. It was ported to the SG-1000 by Tsukuda Original, who marketed it for their Othello Multivision console.
+
+The objective of the game is to turn all the cubes on screen to a desired colour by moving Q*bert on top of them. Q*bert can only move in diagonals, and the player needs to be careful not to either send Q*bert off the edge or have him collide with enemies/obstacles. Occasionally cylindrical platforms appear on the edge of the screen, which when jumped on, will take Q*bert to the top.

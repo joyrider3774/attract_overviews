@@ -1,0 +1,1 @@
+Meikyuujima (c) 1988 Irem.  - TECHNICAL -  Main CPU : Z80 (@ 3.579645 Mhz) Sound CPU : Z80 (@ 3.579645 Mhz) Sound Chips : YM2151 (@ 3.579645 Mhz), DAC  Players : 2 Control : 4-way joystick Buttons : 2  - TRIVIA -  Developed by Nanao Corporation. Meikyuuji

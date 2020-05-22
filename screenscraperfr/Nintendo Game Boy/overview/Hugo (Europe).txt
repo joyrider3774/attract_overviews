@@ -1,0 +1,9 @@
+Hugo: Äventyret går vidare features the Danish TV-troll Hugo, having to save his family by from an evil witch, by avoiding traps in four arcade mini-games. This is the second release in a series of mini-games, based on the TV-show, here loosely strung together to make a package. The same four games were later re-released as Hugo Classic 4.
+
+The four minigames in this package are:Snowboard: A winter game. Hugo climbs a mountain when the witch blows up a bomb causing an avalanche. Hugo rides a snowboard downhill, avoiding large snowballs and evil snowmen blocking his way. There is also path choices to make, by looking at a map, to avoid being caught by the avalanche.
+
+Nimbus: here Hugo rides around a mountain on a Danish vintage motorcycle brand called 'Nimbus', with the goal being the witches cave, and a treasure chest there. On the mountain path he has to avoid rocks falling from above, goats trying to push him off the path, and at the same time pick up fuel canisters and bags of coins. Again, there is a map to follow, as the path branches off along the way to other more dangerous caves.
+
+Underjorden: Hugo explores an underground labyrinth of tunnels, slowly filling with rising water. A map is essential to find elevators and climbing ropes; in the tunnels are monsters such as dragons and jumping skulls to avoid.
+
+Ballong: Hugo has to fly in a leaky balloon, following a map to his final goal, landing in a cave without touching the walls.Provided the player clears/avoids all obstacles, there is a short movie sequence after each mini-game showing the main story of Hugo's adventures unfolding. The game keeps a hi-score list for all games and players, shown after some idle time waiting in the main menu. There are two modes of playing difficulty, an easier TV-mode, and a more difficult Arcade mode, each of which has its own hi-score list.

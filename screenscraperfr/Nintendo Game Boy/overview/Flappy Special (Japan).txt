@@ -1,0 +1,3 @@
+Flappy Special is a port of Flappy. The main difference is that the game features two playing modes with 80 levels each: one is puzzle oriented while the other features more enemies. The levels themselves are a mix between the levels featured in the PC-88 and NES versions.
+
+The game itself is a puzzle game in which the player controls a mole who has to push a blue stone on an specially marked place. The stone can only be pushed, but not pulled. While Flappy does not care about gravity, the blue and red stones do: they fall down if pushed off an edge. This has to be used to clear a path for the blue stone and to crush enemies which try to hurt Flappy. Touching them or being crushed by a stone results in the loss of a life.

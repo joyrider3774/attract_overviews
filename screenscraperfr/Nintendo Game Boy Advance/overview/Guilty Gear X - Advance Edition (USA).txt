@@ -1,0 +1,5 @@
+Based on the original arcade game, it adds tag, survival, training, and 3-on-3 game modes. Game controls can be set to 3 or 4-button mode.
+
+It includes all fighters in arcade game except Robo-Ky. However, Ky Kiske's extra version uses Robo-Ky's "beta" moveset..
+
+The 3-mode character selection from X Plus is included with this release. Characters can be edited to any colours, but do not inherit black select and gold select powers as in the X Plus game.

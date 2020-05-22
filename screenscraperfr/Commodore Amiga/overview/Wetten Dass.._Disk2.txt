@@ -1,0 +1,5 @@
+Wetten Dass..? is based on the German TV game show of the same name. The game can be played by up to four players. The player who gets most of the bets right earns the highest score and thus wins the game.
+
+In practice mode, there is a variety of bets to choose from, for example identifying different doves. After being viewed both the pictures and the names of the doves, the player has 120 seconds to type in the names corresponding to the respective doves. Other bets include placing a car with a helicopter on four glasses without breaking them and docking a moving boat to a stamp on the dock wall.
+
+In show mode, the bets are randomly selected and there's a show master commenting the progress of the game show candidates.

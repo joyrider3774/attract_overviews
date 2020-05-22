@@ -1,0 +1,5 @@
+The warrior queen's kingdom of Quantox is under attack by enemy hordes. She can only win by defeating the 32 attack waves to bring peace to her land.
+
+Quantox is a multi-directional shoot-em-up taking place in a rectangular arena. There are six entrances to the arena, which spit out enemy waves the player has to destroy with their spaceship. The player's shots bounce off the arena walls, but only travel for a certain time before they disappear. Once an enemy has been hit, it can be destroyed by ramming it. If the player is not quick enough, the enemy attacker returns to its initial state and is now harder to make vulnerable and gains additional speed.
+
+From time to time, special power-ups appear in the arena. Some of them have a positive effect, like added weapons range or a stronger shield. After completing some levels, mini games are available which can earn the player credits they can exchange for better weapons in a shop.

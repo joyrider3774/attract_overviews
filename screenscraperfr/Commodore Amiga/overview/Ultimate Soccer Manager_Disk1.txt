@@ -1,0 +1,5 @@
+Ultimate Soccer Manager is football manager based on the 4 top English leagues. It includes a full icon-driven interface, where instead of clicking the option buttons, each screen is seen as the office in question (manager, president, bank, etc), and to access the screens the player has to click in the according item (for instance, to check the tables and fixtures, clicking on the television   gives access to teletext). 
+
+The player has the usual options such as selecting players and tactics, expanding the stadium and facilities and deal with the clubs' finances, but also to bribe and bung teams and bet on own matches. It's also possible to edit the database before each match.
+
+A data disk with Italian teams was also released, and a German version named Der Meister focused on the German leagues.

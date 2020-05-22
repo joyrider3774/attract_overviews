@@ -1,0 +1,5 @@
+The year is 1936 and suddenly you are abducted by the Leather Goddesses for the final testing in the plan which will enslave every man and woman on earth. These Leather Goddesses of Phobos are just finishing up their plans for the invasion of earth. You've been a  If you fail to escape and save humanity, the Leather Goddesses will turn the earth into their pleasure dome.
+
+Leather Goddesses of Phobos is an text-adventure with a sense of humor. The player uses standard commands in the text parser to observe his environment and pick up items. The game's "naughtiness" level can be adjusted between Tame (G), Suggestive (PG) and Lewd (R).
+
+Difficulty Level:  Standard

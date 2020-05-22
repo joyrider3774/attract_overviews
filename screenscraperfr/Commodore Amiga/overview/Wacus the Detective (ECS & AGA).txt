@@ -1,0 +1,5 @@
+Wacus The Detective is a side-scrolling platform game. Equipped with a pistol with limited ammo Wacus must recover the collection of stolen coins. The game is divided into three large worlds full of traps, enemies, closed doors and moving platforms. Contact with traps and enemies means a certain death. After completing each level the player receives a password.
+
+
+
+The game features a hidden mini game called KrÃƒÂ³wki Game, unlocked after writing a proper password on the main menu, where the goal of the player is to shoot all the cows occurring on the screen.

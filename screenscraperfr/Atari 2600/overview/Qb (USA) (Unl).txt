@@ -1,0 +1,1 @@
+Explaining Qb is simple, even if achieving your goal proves not to be. You must slide blocks in the left playing field to match the pattern in the right field. You can jump from block to block, as long as they are adjacent. When you land on a block with fruit on it, you get extra points but beware of the monsters.

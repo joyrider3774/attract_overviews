@@ -1,0 +1,5 @@
+The game was designed as a snooker simulation with accurate modelling of the physics of snooker, there's a lengthy section within the game's help text describing how the game physics was done.
+
+The game is played with just three controls which are entirely mouse operated. The strength of the shot is controlled by dragging the cue left to right along the bottom of the screen. The further to the right the cue tip is the softer the shot. In the lower right of the screen is a representation of the cue ball with a cross-hair mark on it. This is used to control the position in which the cue strikes the cue ball and thus controls 'side' and 'backspin'. The ball is aimed by positioning a cross-hair cursor in the desired direction and clicking the mouse button.
+
+The game has in-game help text that opens in a new window, sound effects, a boss key, and the computer opponent has three skill levels. It also has a function which allows the player to undo a shot and another whereby the player can position the balls to practice trick shots. There is no high score feature, no end of game statistics, and no player aids such as sighting lines.

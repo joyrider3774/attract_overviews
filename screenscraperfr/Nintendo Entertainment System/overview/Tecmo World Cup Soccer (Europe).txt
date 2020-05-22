@@ -1,0 +1,1 @@
+Tecmo World Cup Soccer is a simple soccer game with an overhead view. Only one mode (World Cup) is available, playable by either one player against the computer AI or two players against each other. Any of the sixteen available national teams can be selec

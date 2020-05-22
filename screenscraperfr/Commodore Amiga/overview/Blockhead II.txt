@@ -1,0 +1,3 @@
+Bertie must collect ingredients from around the screen and put them into his magic mixing pot. This pot can be pushed and pulled around the screen by just moving Bertie next to it, holding the fire button and moving around. You can collect the ingredients by either pushing the pot over them or by getting Bertie to pick them up one by one and putting them into the pot. There are 4 types of ingredient.
+
+When you have collected all the ingredients you must move the pot into the exit which opens to complete the level. You will be awarded points for how long you took to complete the level (shown as a yellow clock), your remaining energy supply (a red heart) and how many secret gems you found (shown as a blue diamond).

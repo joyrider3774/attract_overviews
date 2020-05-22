@@ -1,0 +1,23 @@
+The basic gameplay is pretty straightforward. You're 
+the cute little fellow with the B on his suit. You find 
+yourself at the top of some structure with various 
+creatures climbing to the top. You'll notice there's a 
+crosshair on the screen. Pushing the A button fires a 
+beam wherever that crosshair is aimed at. Move it with 
+the directional pad. Pushing the B button makes your 
+character jump, and pushing Start accesses your item 
+inventory.
+
+Your goal, is to cut out parts of the wall with 
+your beam, causing them to fall on the enemies below. 
+You should be careful not to cut out too big of a 
+piece; otherwise you'll find yourself not having any 
+usable pieces of the wall later on in the level. It can 
+be very easy to do so without noticing.
+
+If an enemy reaches the top of the building, touching 
+it will cause you to lose a turn. It'll either start to 
+crawl towards one side of the screen, or keep flying 
+into the air. It's possible to jump past it and avoid 
+it, however, when it leaves the screen, your enemy 
+count won't go down.

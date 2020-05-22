@@ -1,0 +1,7 @@
+GP Tennis Manager is a Sports game, developed and published by Simulmondo, which was released in Europe in 1991.
+
+In this game you manage a tennis player, starting with $30,000 at the bottom of Top 100 list, where such legends as Ivan Lendl, Andre Agassi, Pete Sampras, etc. present. The gameplay includes the economical management in office and playing the tennis on the famous courts of four playground kinds.
+
+In management phase you should select one of the five young rookie players from France, Italy, USA, Germany, or Sweden.After the finish of tournament player may either train his stats for certain amount of money, or rest to restore the shape. Starting with the rookie player you will eventually progress to a World No. 1 professional.
+
+During simulation phase you may either let players to finish the games automatically, or manually control your player to beat more powerful opponents.

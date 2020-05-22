@@ -1,0 +1,1 @@
+Ken-Go (c) 1991 Irem Corp.  - TECHNICAL -  Irem M-84 system hardware  Main CPU : V30 (@ 8 Mhz) Sound CPU : Z80 (@ 3.579545 Mhz) Sound Chips : YM2151 (@ 3.579545 Mhz), DAC  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Developed by Nanao Co

@@ -1,0 +1,1 @@
+The aim of the Matchstick Puzzle by DS is to answer the questions by moving or rotating matchsticks; for example the player may be presented with two match sticks and then asked to make 14 boxes by adding six other match sticks. There are more than 150 puzzles of four difficulty settings to complete. The game also has hints to help the player decipher the more abstract clues.

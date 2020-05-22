@@ -1,0 +1,1 @@
+The player control a helicopter that must destroy enemies' forces into a aquatic battlefield. The player must avoid collisions with enemies' planes and their fire shoots, as well for some fire from soldiers and anti-aircraft units. Avoiding collision with the enemy's fortress is essential. Sometimes, destroyed forces can drop power-ups for the player's helicopter.

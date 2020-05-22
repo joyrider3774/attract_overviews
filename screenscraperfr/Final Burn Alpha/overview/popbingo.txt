@@ -1,0 +1,1 @@
+Pop Bingo (c) 1996 Dooyong.  - TECHNICAL -  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2151 (@ 4 Mhz), OKI6295 (@ 7.575 Khz)  Screen orientation : Horizontal Video resolution : 384 x 240 pixels Screen refresh : 60.00 Hz Palette

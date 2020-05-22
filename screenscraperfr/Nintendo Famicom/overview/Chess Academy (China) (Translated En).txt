@@ -1,0 +1,1 @@
+The game is a mix between Chinese Chess and Mahjong. It uses the Chinese Chess pieces and has some very basic Mahjong rules. You do not need to know (about) either game to be able to play this one. It was developed by Thin Chen Enterprises and published by Sachen, and was released in Asia in 1991.

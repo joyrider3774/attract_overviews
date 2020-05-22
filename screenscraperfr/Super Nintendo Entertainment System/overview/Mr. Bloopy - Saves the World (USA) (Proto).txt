@@ -1,0 +1,8 @@
+Educational Platformer developed by Copmedia in the early 90's. The game was cancelled, but licensed and published by Piko Interactive in 2013.
+
+Help Mr. Bloppy, a secret agent hired to stop the horrible company "Pollution Unlimited" which is destroying the ecology of the planet.
+
+It features:
+- Over 9 Worlds with many different levels.
+- 16 bit Graphics.
+- Password System.

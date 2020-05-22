@@ -1,0 +1,3 @@
+Depending on which version you have, either the Italian Serie A sides or the leading European international teams are featured. 
+
+The game is played using a top down view.  You can choose if each match should be three, six or nine minutes. When starting the game you can choose from playing a single match or a full season. When choosing single match you have to choose the two teams you want to play and whether they should be controlled by player or computer. When done with that you have some tactical options such as mentality and marking an what players that should play.

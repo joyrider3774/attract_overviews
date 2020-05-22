@@ -1,0 +1,1 @@
+Cybernauts is a very simple 2D rail shooter/shooting gallery game. The player just controls a crosshair, and destroys various enemy robots and other objects on small arenas (first arena is in Moscow, USSR, second is New York, and third is San Francisco - the game has 3 levels). He must destroy enough enemies to go to next level.

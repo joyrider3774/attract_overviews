@@ -1,0 +1,3 @@
+Marking Yuji Horii's (of Dragon Quest fame) break into the game industry, Portopia Renzoku Satsujin Jiken is a first-person murder mystery text adventure. Originally published for the PC-6001 system in 1983, the NES port allows players to input commands by selecting them via their gamepad from a verb list and search onscreen graphics for hot spots.
+
+The story puts players in the shoes of a nameless Japanese police detective on a quest to solve the murder of a bank director. On his travels through real Japanese settings, the nameless, silent protagonist is assisted by his colleague Yasu who carries out his orders.

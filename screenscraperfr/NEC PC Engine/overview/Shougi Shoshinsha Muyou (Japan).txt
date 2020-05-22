@@ -1,0 +1,1 @@
+Shogi game entirely in Japanese.

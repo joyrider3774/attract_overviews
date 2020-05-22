@@ -1,0 +1,3 @@
+Tsuru Teruhito no Jissen Kabushiki Bi-Game (or Buy Game, or Bai Game) is a PC Engine stock trading simulation game from TOSE and Intec. The player views and trades in stocks while keeping a keen eye on fluctuations and the market prices. When buying and selling, they instruct their secretary (who will change depending on the player's fortune) to make a call and buy/sell the chosen stock.
+
+As with many games of its type it did not see an English localization, and its vast amount of Japanese text makes it difficult for non-speakers to understand.

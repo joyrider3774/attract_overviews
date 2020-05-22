@@ -1,0 +1,3 @@
+Wario's Woods is a falling block game where the objective is to clear the playing field of monsters by using bombs, arranging them into rows of matching colors. Unlike other puzzle games such as Tetris, where the player directly manipulates the game pieces, the player controls Toad, who moves around the playing field and arranges them after they have fallen.
+
+This game is a pseudo-sequel to the earlier-broadcast Wario's Woods.

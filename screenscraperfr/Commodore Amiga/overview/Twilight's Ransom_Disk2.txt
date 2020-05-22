@@ -1,0 +1,5 @@
+Paragon Software, maker of the Twilight series of strategy games, takes a diversion in this surprisingly well-written IF set in the Twilight universe. Suddenly discovering that your girlfriend has been kidnapped, you must deal with the kidnappers who have more sinister plans, rescue your girlfriend and-- of course-- save the world as we know it.
+
+Although the game's parser is not up to par with Infocom's, interesting gadget-oriented puzzles and well-written gameworld more than make up for the deficiency. There are also enough plot twists along the way to keep mystery fans happy. All in all, a commendable and refreshing effort.
+
+HINT: Type 'picture' or 'P' to display graphics for a particular location in the game. Not all locations, however, have graphics.

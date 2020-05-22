@@ -1,0 +1,1 @@
+Quiz Torimonochou (c) 02/1990 Taito.  - TECHNICAL -  Taito F2 System hardware Game ID : F2-System No. 04 Prom Stickers : C41  Main CPU : 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Screen orientation : Horizontal Video resol

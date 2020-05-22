@@ -1,0 +1,2 @@
+2nd Space is Amidar clone - the player controls robots and must reveal the image - to do this, he travels the borders of rectangles. He must also avoid opponents.
+2nd Space is a game developed by Sachen in 1993 for the Game Boy.

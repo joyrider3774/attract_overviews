@@ -1,0 +1,3 @@
+The plot is simple: the Condor has stolen the food supply from the neighboring village and takes it to his nest on the mountain nearby. So it's up to Nana and Popo to climb up the ice-covered top of the mountain to get the vegetables back from Condor. You'll do this by hopping up platforms while avoiding various enemies and obstacles before your time runs out.
+
+Interestingly the Famicom Disk System port is actually based on the arcade version Vs. Ice Climber and differs from the console version in ways such as an animated title screen, stage select menu, 16 additional mountains, occasional blizzard and wind effects, more enemy characters, and bonus multiplier items.

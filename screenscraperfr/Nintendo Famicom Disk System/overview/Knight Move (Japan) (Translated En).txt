@@ -1,0 +1,9 @@
+The game is based around the concept of how a knight piece is moved in the game of chess. The player controls a knight chess piece that is constantly jumping and must continually choose which of the possible legal moves to make before the knight lands back on the board.
+
+When the knight lands on any square on the board, it turns from white to light teal. Landing there again, turns it dark teal. Landing there yet again destroys the square altogether, leaving a hole that the player must avoid. Falling in a hole will result in a game over. Consecutively creating several holes results in a chain increasing the player's score in differing increments.
+
+At the beginning of each "round", a heart is placed somewhere on the board. A heart (or multiple hearts) must be collected to advance to the next round, which thereby replaces all holes on the board with new white squares and places a new heart somewhere on the board. Depending on the game mode, hearts will sometimes move themselves every few jumps of the knight.
+
+The player can also gather a small amount of extra points, at any time, by holding the A button and speeding up the knight's movement. The main objective in Knight Move is to continue this cycle, despite the increasing game speed, and reach the highest score possible.
+
+The game also includes a simultaneous 2 player versus mode similar to the single player modes.

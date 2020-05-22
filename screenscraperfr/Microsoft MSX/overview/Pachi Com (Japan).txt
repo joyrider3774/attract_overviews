@@ -1,0 +1,5 @@
+Pachicom is a pachinko game simulation. Pachinko can be described as a game that is a cross between pinball and a slot machine. This game comes with two different game modes to play. Game A lets the player play until they attain a score of at least 3000. The goal is to achieve this score as fast they possibly can. Though, the game can still end prematurely by running out of balls to shoot. Game B lets the player try to get as high of a score as possible, but with an added time limit.
+
+The game contains over 200 different board layouts to choose from. At the main menu, just choosing Game A or B will randomly assign a board for the player to play on, while choosing Select A or B will let the player select their own board of choice to play on.
+
+The gameplay is mainly passive. Players can only adjust the shooting pressure knob which effects the speed and location of where the balls will land.(Moby Games)

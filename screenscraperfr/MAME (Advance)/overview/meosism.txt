@@ -1,0 +1,1 @@
+Meosis Magic (c) 1996 Sammy.  - TECHNICAL -  Main CPU : V60 (@ 16 Mhz) Sound Chips : ES5506 (@ 16 Mhz)  Screen orientation : Horizontal Video resolution : 336 x 240 pixels Screen refresh : 60.00 Hz Palette colors : 32768  Players : 1 Control : 2-way joyst

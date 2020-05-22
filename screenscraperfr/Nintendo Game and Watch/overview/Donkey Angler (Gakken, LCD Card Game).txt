@@ -1,0 +1,1 @@
+Following a bait, fishes will successively appear from the bottom of the sea. If a fish is on a hook, quickly bring it up! Losing a fish or fishing line cut by crab (appearance at game B) are errors. When you make the error three times, the game is over. 1 point per fish brought up. 1 point per crab brought up (game B only). Maximum displayed score is 999 points.

@@ -1,0 +1,3 @@
+Brigade Commander is a 2D top down real-time hex-based tactical strategy game. The player is commander of a tank brigade (and several other types of vehicles, each vehicle are based on the real-life counterpart).
+
+The player commands units in the fight against computer opponents by using several commands: move/stop movement, attack/cease fire, or combine units. Each type of vehicle has own statistics. The game is based on scenarios - each scenario has its own story. It also has a build-in editor and special data-disk with new scenarios.

@@ -1,0 +1,3 @@
+Players must explore the entire United States looking for Cheetos to eat while either avoiding or defeating enemies. Levels include a ship, in front of a castle, under the sea, and inside the city. Each level comes with a time limit and each hit results in an "instant death" situation unless the Cheetos snacks have been consumed. The main adversary in the game is Mean Eugene; Chester's main adversary in the commercials.
+
+Each level comes with a boss at the end and losing the game gives the players a limited number of continues along with a time limit to implement those continues. Both the Genesis and the Super NES versions of the game come with an option mode that allows players to alter their controls.

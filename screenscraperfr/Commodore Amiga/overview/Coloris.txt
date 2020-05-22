@@ -1,0 +1,5 @@
+Coloris is a Puzzle game, developed by Signum Victoriae and published by Avesoft, which was released in Europe in 1990.
+
+This is a puzzle game similar to Columns. The player has to deal with falling down blocks which are divided into three parts (stacked up vertically). These parts have one of five colours which can be rotated by using a button (for example if the combination is white-blue-red it becomes red-white-blue). The goal is to create lines of three or more parts of the same colour. When they vanish, above lying parts fall down and may create a chain reaction.
+
+All this rewards points and if enough of those are gained, the player gets access to a fallback-feature: slowing down the falling speed of the current block. However, this only lasts for a short time and costs points. A game ends if the blocks reach the upper part of the screen. Additional to the normal playing mode, there is a second one in which random blocks get added to the lower side of the screen in regular intervals.

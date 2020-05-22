@@ -1,0 +1,2 @@
+Word Fun was developed in conjuction with the Children's Television Workshop, and features three different word based educational games. The games are:
+Crosswords, letter hunt and Word Rockets.

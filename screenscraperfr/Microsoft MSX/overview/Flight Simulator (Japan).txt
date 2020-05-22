@@ -1,0 +1,7 @@
+The conception of the Flight Simulator computer game series, still going strong today, began in the late 1970's with "FS1", created by Bruce Artwick of subLOGIC and released in early 1980.  First came the Apple ][, with a very scaled down instrument panel on bottom and outside/radar view on top, then the TRS-80, with mere 128x48 monochrome graphics and thus numbers and bars replacing the panel.  
+
+There was only one aircraft and one region: a 6x6 grid with "mountains".  The user could press "W" and "declare war", entering the WW1 "British Ace" game mode.  The objective was to shoot down enemy planes and bomb their base.
+
+Both the Apple ][ and TRS-80 versions originally came on cassette tape.  The Apple ][ version was updated in 1981 with minor improvements.
+
+Note that the first PC version, Microsoft Flight Simulator (v1.0), was released two years later and is more similar to the 8-bit versions of Flight Simulator II.

@@ -1,0 +1,3 @@
+This is a simple, top-down simulation of minigolf. Do not expect any of the extravagancies found on some luxury minigolf park; this is more in line with what can be found on a camping ground in the middle of nowhere. The entire course encompasses 9 holes.
+
+Using joystick or cursor keys, a white dot representing the club is moved around a black dot representing the ball. This indicates angle, and the distance from the ball sets the putting force. Putting the ball in the hole in as few strokes as possible is your objective: less than 8 strokes gives higher scores and more than 12 strokes yields no points at all.

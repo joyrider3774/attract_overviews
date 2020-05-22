@@ -1,0 +1,3 @@
+Misja Harolda: Zaginiony w systemie (Harold's Mission: Lost in the system) is a point-and-click adventure game. Although his harmless looks may fool you at first, know that Harold is a mercenary assassin - and this time he is hired to get rid of Virus, who is terrorizing the world of Pixels. As these names may suggest, the action takes place in a fantasy-like interior of a computer, which happens to look - to our surprise - more like a run-down town than a cyberpunk "information highway".
+
+This point'n'click adventure features conversations with dialogue options - wrong choices may even lead to your demise. Another thing that makes it "Sierra-like" is that it also keeps track of your score.

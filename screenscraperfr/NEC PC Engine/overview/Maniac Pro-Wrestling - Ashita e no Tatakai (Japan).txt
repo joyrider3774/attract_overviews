@@ -1,0 +1,1 @@
+A strategic wrestling games which allows the player to set up their own moveset to diversify and strategically approach each match.

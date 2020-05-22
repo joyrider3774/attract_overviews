@@ -1,0 +1,1 @@
+A cross between a maze game and a shooter. Collect all of the fruit in mazes with moving walls while avoiding various enemies. Some enemies can be destroyed with shots while others are only stunned.

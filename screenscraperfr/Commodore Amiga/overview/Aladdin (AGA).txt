@@ -1,0 +1,3 @@
+Sideways scrolling shoot em up, where you control a genie in a magic lamp to blast your way through the waves of enemies. Destroy all the baddies in a wave to get a power-up.
+
+As you progress through the game the enemies you meet get more and more bizarre and increasingly dangerous. You are given 5 lamps as lives at the start of the game and you will need to use them sparingly.

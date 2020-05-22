@@ -1,0 +1,9 @@
+After the fall of Communism, Poland has become an attractive destination for criminals from the East. To put an end to illegal dealings, the Polish government decided to set up a special anti-terrorist unit called GROM. The player takes on the role of the commander, replacing his predecessor killed in the previous mission.
+
+
+
+Prawo krwi (Blood right) is a side-scrolling beat'em up game. The character walks to the right and defeats enemies. The game is divided into consecutive missions; some of the missions (two and six) involve first-person shooter gameplay, while the third type of a mission (four and eight) is a simple car chase with a time limit. Each mission is introduced through a short briefing. The player has limited energy and a few extra lives. The main character and all enemies were created using digitized images, recording the actors before performing complicated camera moves and strikes. Some of defeated enemies leave power ups, such as: additional energy, temporary invincibility, extra points and extra life.
+
+
+
+Amiga version of the game features level codes (mission 3, 5, 7) and was released in two version - with AGA ans ECS graphics.

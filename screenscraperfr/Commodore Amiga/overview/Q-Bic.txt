@@ -1,0 +1,5 @@
+Q-bic is loosely based upon the arcade classic. Fuzzball (AKA Q*Bert) and has been written by Ronald Weeserik. Ronald's no stranger to writing classic games on the Amiga and a few of his smashes are Silkworm, SWIV and Rodland.
+
+The idea is to guide a blobby little sprite around a three dimensional pyramid by hopping from square to square and lighting up all the cubes in the structure. It all sounds very simple, but Ronald has included some devious nasties to compete with your sprite. Bubbles roll down the pyramid from top to bottom, whilst other similarly-shaped creatures may roll down and move from side to side.
+
+Amazingly, Weeserik has chosen to release Q-bic onto the bulletin board circuit, and is not hoping to make any money out of the venture. Game is released as a Coverdisk on CU Amiga disk 41.

@@ -1,0 +1,9 @@
+Soldam is a puzzle game where the goal is to match soldam fruits along an entire row.  The fruits drop down from the top in a 2x2 square which can be rotated. If the edge pieces match color, all of the fruits in the direction of the matching edge pieces will change their color to match.  Matching edge pieces can be made horizontally, vertically, or diagonally.  
+
+Combinations can be made if the color of more than two of the same edge pieces match. Once an entire row of fruits match, it will be cleared and the fruits that didn't match will drop. However, as time played in each stage progresses, the top of the board will begin to drop.  If a fruit reaches the top of the board, the game will end.
+
+Some game pieces that help to clear the board. Along the right side of the screen is the word "extra".  Occasionally, a letter from that word will drop. If all of the letters are on the board, a pixie will appear to clear multiple fruits from the board.
+
+However, some pieces hinder the ability to clear the board.  A "sekiero" piece will occasionally drop, which takes up all four spaces in the square.  In order to clear the sekiero, the entirety of both of the horizontal rows around the sekiero must match.  If a stage goes on for too long, an enemy will appear to occasionally throw bombs which change the color of the fruits and impede progress.
+
+A stage is cleared when all of the fruits have been cleared from the board.

@@ -1,0 +1,1 @@
+Long Hu Bang (c) 1995 IGS.  - TECHNICAL -  Main CPU : 68000 (@ 7.333333 Mhz) Sound Chips : OKI6295 (@ 7.936 Khz)  Player : 1  - TRIVIA -  Released in October 1995.  - SERIES -  1. Long Hu Bang (1995) 2. Long Hu Bang II (1996)  - SOURCES -  Game's rom.

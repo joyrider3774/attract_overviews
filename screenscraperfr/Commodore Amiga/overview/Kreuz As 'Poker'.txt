@@ -1,0 +1,7 @@
+Kreuz As "Poker" (German for ace of clubs) is a slot machine poker game. The objective is to win as many games as possible to gain a high score.
+
+After inserting a coin of a specific value, the game begins. A certain amount of points has to be selected as the initial bet. Now five cards are being dealt to the player, and they have the option to hold some of the cards, or choose getting an entire new set of cards. The player can decide to double the initial bet, although this will only pay if the second set of cards has a higher value than the first one. If after the second set, the player still hasn't won anything, the round is over and the player has to set the initial bet again.
+
+In case the player has won the round, they can now choose to risk everything or take the points earned. The risk variant plays out with a multiplier light going from 1x to 64x. If the player presses the space bar at the right point of time, the light will go up one step. At any point, the player can choose to take the points earned. If they miss the correct time frame, they lose all points gained in this round.
+
+There is one more feature in case the player didn't win anything after two sets of cards have been dealt. If the player has an ace of clubs and another card of the same colour, one of the bonus jackpot lights will light up. If all LEDs are lit, 5000 bonus points are awarded.

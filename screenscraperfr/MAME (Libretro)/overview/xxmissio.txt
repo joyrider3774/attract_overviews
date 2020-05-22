@@ -1,0 +1,5 @@
+Fairly similar to most overhead shooters of the time. The player moves an attack jet up a vertically scrolling screen shooting air and land targets with guns and bombs. Features various unremarkable power-ups.
+
+While switching between air and ground attacks, take out the approaching large and small craft and large fleets.
+
+Powering up allows you to use different powerful air attacks and wider ranged ground attacks depending on the ship's form.

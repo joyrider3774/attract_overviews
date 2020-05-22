@@ -1,0 +1,5 @@
+Toy Shop Boys is a vertical shoot 'em up exclusive to the PC Engine. It features three kids - the titular Toy Shop Boys - who fight to recover their toys from a villain named Gamma.
+
+The player can switch between the three at any time: the kid in the red cap fires a straightforward shot that will branch out into a spreadshot when upgraded; the kid in the yellow cap fires boomerangs which home in on enemies on the screen, with power-ups increasing the number fired at once; the kid in the blue cap swings around a lightsaber that catches projectiles and works as a close-range weapon.
+
+Most of the game's enemies are toy based: a giant cymbal monkey, for instance, or a pair of toy Formula 1 cars.

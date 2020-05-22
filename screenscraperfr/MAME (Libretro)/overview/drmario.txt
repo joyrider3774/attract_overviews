@@ -1,0 +1,1 @@
+Dr. Mario sur Nes est un puzzle-game proche de Tetris dont le but est d'aligner des gélules de la même couleur afin de les faire disparaître. Avec le temps, les gélules descendent de plus en plus vite et votre adversaire enverra des pièges pour vous ralentir. Faites de même en enchaînant les combos et endiguez l'invasion de bactéries.

@@ -1,0 +1,1 @@
+Vertically scrolling shoot 'em up, graphically reminiscent of Raiden, with a World War II setting. You set out over various enemy landscapes destroying planes, tanks and boats. Power-ups give you increased weapon damage and you

@@ -1,0 +1,3 @@
+A simplified combat game that uses basic units with defined attributes and capabilities. Includes several scenarios (from simple to complex) with varied strategic and tactical options, allowing for virtually thousands of different games within each scenario. The computer will play either or both commanders. 
+
+The game uses a rectangular battle arena with an underlying hexagonal grid structure, typical of most war games. The game is turn-based.

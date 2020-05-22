@@ -1,0 +1,1 @@
+A Gomoku game (a Japanese connect four type of game).

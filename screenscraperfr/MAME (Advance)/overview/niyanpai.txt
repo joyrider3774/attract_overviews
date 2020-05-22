@@ -1,0 +1,1 @@
+Solitaire mahjong game where the player strives to complete a specified mahjong hand by matching tiles.

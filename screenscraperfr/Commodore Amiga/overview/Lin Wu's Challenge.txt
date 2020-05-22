@@ -1,0 +1,5 @@
+In this Shanghai / Solitaire Mahjongg variant, player should challenge many persons all over the world one-by-one on his way to Chinese master Lin Wu. However, when all human opponents will be beaten, supercomputer opponent appears. Password is given to the player after each victory to continue the game progress.
+
+Player has to remove the Mahjongg tiles with the same marks from the board in one plane for a given time. The elimination of tiles is allowed if these tiles are projected on the same line with no other tiles in their projection path. The player can mark the tiles, or cancel the action to change the decision. The dead-ends exist if the strategy of tiles elimination was incorrect. The game is available for 1 or 2 players at hot seat, and hi-scores are stored in table.
+
+The game is packaged in a wooden box instead of the usual cardboard. The manual is printed on a yellowed paper that looked like an old parchment.

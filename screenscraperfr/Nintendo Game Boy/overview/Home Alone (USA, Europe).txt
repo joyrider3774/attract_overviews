@@ -1,0 +1,6 @@
+This is a platform game based on the movie "Home Alone". Kevin's family went on vacation, but they forgot about him, so now he's home alone. Now there are two burglars who want to break into the house.
+Kevin has to prevent the burglars from kidnapping him, by riddling the house with traps.
+
+The player controls Kevin through the mansion in a side perspective. He has one hour before the burglars will break into the house. In this hour, the player has to set up various traps in order to make the burglars give up on capturing Kevin.
+After this hour, the burglars break in, and the traps become active. 
+Each trap deals 5 damage to a burglar, and the first shot of Kevin's BB gun deals another 5. During this phase, the screen always tells in which room each burglar is at the moment. The game is won by dealing 50 damage to each burglar.

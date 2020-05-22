@@ -1,0 +1,1 @@
+A mahjong game with mahjong-related quiz questions as a way of winning bonus items.

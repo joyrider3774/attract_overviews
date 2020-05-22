@@ -1,0 +1,1 @@
+Players shoot at on-screen enemies while trying not to hit the hostages throughout 6 different stages of action.

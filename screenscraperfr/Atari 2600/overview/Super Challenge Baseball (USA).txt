@@ -1,0 +1,1 @@
+The object of the game is to score the most runs in 9 innings or extra innings to a decision. Most professional baseball rules apply - 3 strikes for an out, 4 balls for a walk, first 2 fouled balls count as strikes. Each player controls an 8-man team. One team fields while the other team is up to bat. Home runs, force-outs, double and triple plays can all be made. Batter up!

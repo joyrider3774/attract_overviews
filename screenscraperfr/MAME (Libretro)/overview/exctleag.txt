@@ -1,0 +1,1 @@
+Excite League (c) 1988 Sega.  A baseball game.  - TECHNICAL -  Sega System 16B hardware  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 5 Mhz) Sound Chips : YM2151 (@ 4 Mhz), UPD7759 (@ 640 Khz)  Screen orientation : Horizontal Video resolution : 320 x 22

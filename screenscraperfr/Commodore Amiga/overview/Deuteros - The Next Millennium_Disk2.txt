@@ -1,0 +1,9 @@
+Deuteros: The Next Millennium is the sequel to the sci-fi strategy video game Millennium 2.2, published by Activision for the Amiga and Atari ST.
+
+While the game shares themes of space exploration and resource gathering - plus some elements of its interface - with its predecessor, the two are different in gameplay.
+
+The object of Deuteros is to mine and manage resources, explore the Solar System and beyond. For this, 3 categories of civilians are trained: Producers, Researchers and Marines, out of a pool of 6000 population. The longer these teams are used, they are advanced in three levels, required for some later action (some inventions can be manufactured only by a producer who is at "Expert" level while Pilots with the rank of "Admiral" will be more effective in battles).
+
+New bases built on other planets must be manned with new teams of Producers in order to construct the shuttles and derricks needed for supply. Some of these events are "milestones" which will trigger new technology to be researched by the scientists.
+
+The player has to take care mostly of the transaction between the planets and the factories and distribute their supply with shuttles and long-range spacecraft. New technology (such as automatisation computers or teleport) will replace some of the player's involvement, as the player must later concentrate on war.

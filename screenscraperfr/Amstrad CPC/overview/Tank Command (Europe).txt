@@ -1,0 +1,1 @@
+Your mission is to rescue agents stranded within the battle zone. You travel in your tank, crawling over many types of terrain in a 2D map setting. Enemy tanks, trucks and turrets lie in wait, and when sighted, pressing the fire button activates the battle mode. Here the game changes to 3D view where you elevate your gun to the correct angle in order to score a direct hit.

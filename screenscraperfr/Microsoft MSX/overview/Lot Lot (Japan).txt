@@ -1,0 +1,15 @@
+Lot Lot is a puzzle game. The goal of the game is of extreme simplicity. Manipulate the balls in such a way till they fall into the pits and generate points.
+
+The game has five pits: Out, 0 points, 10 points, 30 points and 50 points.
+
+Each level starts by giving the player a target score that has to be reached before the player can continue on to the next level.
+
+The screen is divided into sixteen sections. The walls of those sections randomly disappear and the balls will then drop or roll into the other section or a pit at the bottom of the screen.
+
+On the screen, there will be two arrows of which the second arrow follows the first one, but with a slight delay, and it stops at the same position as the first one.
+
+The arrows will start in an empty section of which one of the walls will soon disappear. To move the balls to the empty section move the first arrow to a section that is filled with balls end press the space bar or fire button. The balls will then be moved to the empty section. If both sections contain balls then the balls will be swapped accordingly.
+
+Now the goal is to manipulate the balls in such a way that they will  fall into the pits, thus generating points for the player.
+
+In the bottom left of the screen there is a section that has a thin red line at the bottom. Never move the balls in that section because if any balls enter that section a crab will appear and cut the red line with its razor sharp claws, causing the balls to disappear in the pit labeled 'OUT' and resulting in the player losing a life.

@@ -1,0 +1,5 @@
+You play a real high-flying marine asked to save four famous harbours from enemy forces using just a speedboat and a few missiles.
+
+Viewed from above and behind, like the perspective of a racing game, the boat has to be steered between two lines of mines for the first part of each harbour. Then, with missiles, you must destroy enemy boats and the four communication towers which control them. Later, a helicopter increases your abilities with rocket launchers, speed, maneuverability and smart bombs.
+
+The main sprite isn't bad but the horizon graphics and other sprites are simple and jerky in comparison. At least the water's silly stripes move smoothly. The Amiga version's playable, so you shouldn't have too much trouble reaching the weak shooting sections. This game is not recommended.

@@ -1,0 +1,5 @@
+Monsters, Inc. on the Game Boy Color retells the story of the Pixar film as a side-scrolling platform game. Players control both monstrous stars of the film, Sulley and Mike, across 12 levels.
+
+Some levels dictate which of the two characters is controlled, others leave that choice to the player. Mike and Sulley have different abilities. Sulley can push objects around, climbing on top to reach higher places as well as break through barriers by dashing into them, or hang onto ledges. Mike can double jump and crawl into tight spaces. Both also have different attacks - Mike can throw cans of Blort cola and Sulley can throw toys.
+
+Powerups to be collected are Blort cans, which in addition to being Mike's ammunition function as health - being damaged only means losing a few cans. There are also boxes of Chinese takeout food (collect 10 for an extra life) and teddy bears (instant one up).

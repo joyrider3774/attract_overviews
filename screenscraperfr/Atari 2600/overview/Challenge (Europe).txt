@@ -1,0 +1,1 @@
+You as a duck must work your way through the maze from the bottom right-hand corner of the screen to the top left-hand corner in order to get the next level.

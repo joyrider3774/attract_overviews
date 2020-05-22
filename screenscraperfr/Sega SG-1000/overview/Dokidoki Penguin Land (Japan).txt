@@ -1,0 +1,3 @@
+Doki Doki Penguin Land is a 1985 game initially developed by Sega for the SG-1000. It is a platform-based puzzle game, where a penguin must guide an egg down the screen making sure not to break it.
+
+The basic aim of Doki Doki Penguin Land is to guide an egg from the top of the screen to the bottom. To do so means digging downwards, making sure it does not smash in the process. As a puzzle-platformer, everything is affected by gravity, and if the egg falls from a great height, it will smash. Success is achieved by making your way down the playfield carefully.

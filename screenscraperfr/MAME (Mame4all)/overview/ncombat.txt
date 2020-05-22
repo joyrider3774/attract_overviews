@@ -1,0 +1,1 @@
+Ninja Combat (c) 1990 Alpha Denshi.  The ninja castle must be invaded! After you defeat certain boss enemies, they become playable characters as well!  - TECHNICAL -  SNK Neo-Geo MVS hardware Game ID : [Model NGM-009]  Main CPU : 68000 (@ 12 Mhz) Sound CP

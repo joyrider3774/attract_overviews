@@ -1,0 +1,9 @@
+Geraldinho was playing his videogame when his friend Cachorrão kicked him inside the TV screen! Now the player must help Geraldinho to get out of the game.
+
+Geraldinho is a modified version of Teddy Boy, with Teddy Boy replaced by Geraldinho, a famous Brazilian comic character. Geraldinho is an infantile version of another comic character, Geraldão (both drawn by the Brazilian cartoonist Glauco). He is a boy addicted to soft drinks, ice cream and TV, and he's always with his friends, the dog Cachorrão and the cat Tufinho.
+
+In this platform game, Geraldinho must defeat enemies using his ray gun. The enemies will come out of dice-faced boxes, and there will be as much enemies as shown at the box face. Once they are shot, they are turned into little balls, which must be quickly collected. If they're are not collected in a short period of time, they will turn into little creatures which will steal away time. Once all enemies are defeated, Geraldinho will proceed to the next level.
+
+If Geraldinho stands for too long on a platform, it will disintegrate, causing him to fall to the platform below. Sometimes this is the only way to get out of some closed places.
+
+From time to time Geraldinho will also play a bonus game, in which he must shoot boxes to get objects inside them. He must also avoid boxes with those little stealing time creatures.

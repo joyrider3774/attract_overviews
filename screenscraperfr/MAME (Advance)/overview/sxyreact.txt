@@ -1,0 +1,1 @@
+Pachinko Sexy Reaction (c) 1998 Sammy.  - TECHNICAL -  Main CPU : V60 (@ 16 Mhz) Sound Chips : ES5506 (@ 16 Mhz)  Players : 1 Control : paddle Buttons : 2  - TRIVIA -  Released in July 1998 in Japan only.  The pinball-like game of Pachinko is extremely po

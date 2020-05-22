@@ -1,0 +1,43 @@
+This is three card games.
+
+Blackjack
+In game one, you play Blackjack with one or two players and allows for splitting. Game two is also Blackjack but is for one to four players and does not allow splitting. The computer is always the dealer. You place bets by rotating the controller then pressing the button.
+
+Difficulty switches
+Left switch:
+If set to A=computer will shuffle after 34 cards are dealt
+If set to B=computer will shuffle after each hand.
+Right switch:
+Set to A=dealer stays on 17 or better
+Set to B=dealer stays on 18 or better and on a hard 17. Player wins if you take the maximum number of hits without busting (Game 1: 3 or 8 hits; Game 2: 3 hits).
+
+Five-card stud poker
+Game three is five-card stud poker for one to four players.  The computer is always the dealer. It will deal you and it a five-card hand. Before the first card is dealt and after the second, third, fourth and fifth cards are dealt, players must place bets or fold. Betting is done the same as in games one and two.
+
+Difficulty switches
+Left switch:
+If set to A=dealer's first card is dealt face down.
+If set to B=All dealer's cards are dealt face up
+Right switch:
+If set to A=player's first card is dealt face down.
+If set to B=All player's cards are dealt face up
+
+Poker Solitaire
+Game four is a one player game called Poker Solitaire. The object is to place cards on the screen to create the twelve best poker hads in five rows, five columns and two diagonals. You turn the controller to select a spot to place a card and press the button to place it.
+
+Difficulty switches:
+The difficulty switches do not affect Poker Solitaire.
+
+Scoring:
+Royal flush=500 points
+Straight flush=300 points
+Four of a kind=160 points
+Straight=120 points
+Full house=100 points
+Three of a kind=60 points
+Flush=50 points
+Two pair=30 points
+Pair=10 points
+No other combinations will score points.
+
+The highest possible points are 3340.

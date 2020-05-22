@@ -1,0 +1,3 @@
+The basic goal of each level in the game is to arrange scattered points on a grid into a smaller, more compactly arranged square and move the entire square of points into a goal zone.  The points are shuffled and nudged by pressing against them with the edges of a surrounding rectangle of varying size, controlled by the player's keyboard.
+
+Following student protests in London, this game was released making what would otherwise be an abstract puzzle-game hit home with political baggage.  The way the game is skinned has the player-controlled rectangle being a cordon of riot police, and the points they are rounding up are student protesters.  Between each level a leering policeman cruelly taunts the protesters.

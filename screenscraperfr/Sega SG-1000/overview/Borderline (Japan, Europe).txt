@@ -1,0 +1,3 @@
+Borderline is a VIC Dual arcade game developed in 1980 by Sega. It is a shoot-'em-up in which the player controls a red jeep who must destroy the enemy refineries.
+
+Borderline was ported to the SG-1000 in 1983, and has also been released as part of the Sega Ages 2500 series in Japan. The second gameplay section was also recycled for the Atari 2600 release of Thunderground, though instead of driving a jeep the player controls a tank.

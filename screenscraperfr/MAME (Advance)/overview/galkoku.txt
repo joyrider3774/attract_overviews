@@ -1,0 +1,1 @@
+A mahjong game with special tiles to draw that can add up to bonus points.

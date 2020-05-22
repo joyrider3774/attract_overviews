@@ -1,0 +1,25 @@
+Gyruss  is a shoot 'em up arcade game designed by Yoshiki Okamoto and released by Konami in 1983. The majority of enemies are spaceships, which must be destroyed to complete a level. They appear either from the centre of the screen or from one of the edges, and move in swirling patterns. They can shoot the player's ship or destroy it by contact. They hover near the centre of the screen after completing their deployment pattern, and occasionally fly outwards and shoot at the player. If not destroyed by the player, the enemy ships gradually fly away one by one.
+
+The gameplay is similar to that of Galaga but presented in a forced 3D perspective, with the player's ship facing 'into' the screen and able to move around the perimeter of an implicit circle. The scrolling starfield of earlier space shooter games is arranged to fit the 3D perspective, with the stars coming into view at the centre of the screen and flying outward, giving the impression of the player's ship moving through space.
+
+Gyruss was also remade for the Family Computer Disk System in Japan, and later the Nintendo Entertainment System in North America, released by Konami's subsidiary Ultra Games. In these versions of the game, the core gameplay is still largely the same, but there are several major revisions. The game was well received in North America. Revisions include:
+
+Updated graphics
+
+Additional control options
+
+The music from the arcade version of the game was slightly remixed, and several additional tracks composed by Atsushi Fujio, Yuichi Sakakura, and Harumi Ueko were added.
+
+The player starts off at "Three Warps To Neptune" instead of "Two Warps"
+
+The player can use a super phaser attack in addition to the normal guns
+
+There are additional enemies, including boss fights when the player reaches each planet
+
+Bonus stages after each planet's boss is defeated, for a chance to gain additional powerups
+    
+There is a definite ending to the game. In the NES version, it's a brief text about the Universe being at peace. In the FDS version, there is a full ending sequence with credits.
+
+In addition to the satellites providing the usual double guns and bonus points, they can also provide extra phasers, a smart bomb, and even an extra life
+
+Instead of the arcade's looping 24 stages, there are 39 looping. In the arcade, the player starts from Neptune and proceeds to Earth. On the NES version, the player travels through the entire Solar System, including Neptune, Pluto, Uranus, Saturn, Jupiter, Ma

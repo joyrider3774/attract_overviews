@@ -1,0 +1,9 @@
+The player, controlling a ninja, must fight his way through various levels populated by opponents, collecting necessary items in the process. Each level depicts a different locale and is divided into several screens. The game is presented in an isometric view and the ninja can move in eight different directions and jump.
+
+Enemies, armed with fists and various ninja weapons, wander around the levels. The ninja must fight them either bare-handed or with the weaponry he finds along the way; in either case, he has a number of blows and attacks at his disposal, as well as the ability to block. There is a special weapon, shuriken, which are thrown in a straight line rather than used for melee combat; if they strike an enemy, they will instantly kill or at least severely damage them.
+
+Various items scattered around the levels, such as keys, a rope and a map; collecting these items and using them in a proper place is necessary for completing the game. There are also hamburgers that award an extra life when eaten.
+
+The game continues from the aftermath of the events of The Last Ninja. With the Koga scrolls now in his possession, Armakuni has begun training a new order of shadow warriors. During a training session, he is mysteriously transported to 20th-century New York City. Torn from his own time, Armakuni must defeat the evil shogun Kunitoki once more.
+
+The Last Ninja Remix re-release version has an added short intro sequence, minor graphic changes and a remixed soundtrack.

@@ -1,0 +1,16 @@
+Decathlon is a 1-2 player sports game combining ten athletics track and field events.
+The game can be played as single events or in a full 10 event competition against the computer or/and a human opponent.
+
+The competing events in the game are the normal: 100m sprint race, 400m dash, 1500m run,
+110m hurdles, long jump, high jump, pole vault, shot put, discus throw and javelin throw.
+
+Players can select their country (and the opponents) from eight predefined: UK, France, Germany, Austria, USA, Canada, Japan, Taiwan.
+The competitors names are not changeable, e.g. 'Tommy' will always compete for the UK.
+
+Only two players (human or computer) compete against each other in every event, so even if in the 1500m run four characters are running on the track; the two extras are just filling out the field, creating a tripping hazard for the two actual competitors.
+
+Each character has a stamina/power that affects his performance, so the player has to keep within the avatars limits, or he gets too tired.
+
+After a single race, the player gets the option of trying again, or ending the event.
+
+In a full decathlon, a points table is filled in as the events progress.

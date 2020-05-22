@@ -1,0 +1,5 @@
+In a far away galaxy on the planet Libra in, a time known as 'The Age of the Everliving Ones', the eternal battle between the forces of good and evil rages, devastating the 'Land of the Young' - your home land.
+
+Legend says that a warrior will come to unite all the tribes of the 'Land of the Young' into a mighty army but before that he must be tested by The Druids, to ensure he is fit for the task.
+
+Night Walk is 2D side scrolling arcade game in dark fantasy world. The player controls an archer. He must go right, kill and avoid enemies like zombies or bats. He has bow, but he must kneel to shoot. He can jump - and must jump over the low-flying arrows. Game has only one level.

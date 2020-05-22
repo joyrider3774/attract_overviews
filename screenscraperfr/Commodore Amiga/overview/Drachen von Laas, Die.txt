@@ -1,0 +1,3 @@
+This is a text/graphic adventure with a serious role-playing slant. Although still fashioned with a text parser etc, this game for the first time included a character leveling system, character attributes, role-playing-like combat, a magic system and many other unique elements.
+
+"Drachen von Laas" tells the story of two young friends who are bored with their everyday life in the medieval fantasy world of Laas. They decide to leave their little village and seek adventures. Adventures they find when they are asked to kill two mighty dragons that rampage the area of a far-away city.

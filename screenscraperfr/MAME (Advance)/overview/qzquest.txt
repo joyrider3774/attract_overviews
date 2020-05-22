@@ -1,0 +1,1 @@
+Quiz Quest - Hime to Yuusha no Monogatari (c) 1991 Taito.  - TECHNICAL -  Taito F2 System hardware Prom Stickers : C92  Main CPU : 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Players : 2 Buttons : 5  - TRIVIA -  Released in

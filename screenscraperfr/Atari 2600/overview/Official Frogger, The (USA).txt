@@ -1,0 +1,1 @@
+Starpath Version - The player guides a frog which starts at the bottom of the screen, to his home in one of 5 slots at the top of the screen. The lower half of the screen contains a road with motor vehicles, which in various versions include cars, trucks, buses, dune buggies, bulldozers, vans, taxis, bicyclists, and/or motorcycles, speeding along it horizontally.

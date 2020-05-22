@@ -1,0 +1,2 @@
+The game begins with a large enemy ship dropping mines onto the field as an ominous jingle plays, and moves from the top to the bottom of the screen, where it disappears. The player's ship starts in the middle of the field with 5 lives. Numerous mines then start popping up. The player must destroy all of the mines in order to progress to the next minefield. All of the mines can be destroyed with one shot, or hit with the player's ship, costing the player a life. There are 4 types of mines.
+This game came programmed onto the Vectrex.

@@ -1,0 +1,1 @@
+Drop Off is similar to Breakout, in that the player controls a paddle which can move left and right, hitting a ball which the player is using to eliminate jewels at the upper end of the play field. The game differs from Bre

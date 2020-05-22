@@ -1,0 +1,1 @@
+Taisen Mahjong Final Romance 4 (c) 1998 Video System.  An evening with cute mahjong girls.  - TECHNICAL -  Main CPU : 68000 (@ 16 Mhz) Sound CPU : Z80 (@ 8 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Player : 2 Control : mahjong keyboard  - TRIVIA -  Released in

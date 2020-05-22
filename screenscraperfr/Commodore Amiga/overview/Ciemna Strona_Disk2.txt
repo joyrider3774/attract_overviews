@@ -1,0 +1,5 @@
+Ciemna Strona is a science fiction point & click adventure game. The action takes place on board a space shuttle. During the return journey to the home planet stasis capsules have been deactivated. After waking up, Kurt finds the mutilated body of his wife Eliza. Lack of witnesses of the incident on board forces him to start his own investigation in order to avoid accusations of murder. 
+
+The space ship is divided into three levels and mechanical floor. The screen is split into gameplay view and interface part. The game interface contains a few basic commands, such as watch, take, operate, talk and open/close. 
+
+Due of appearance of gore scenes and vulgar language game is designated only for adults.

@@ -1,0 +1,1 @@
+Extra Inning (c) 1978 Midway.  An old baseball game.  - TECHNICAL -  [Game No. 642]  Main CPU : 8080 (@ 1.9968 Mhz) Sound Chips : Discrete  Screen orientation : Horizontal Video resolution : 256 x 224 pixels Screen refresh : 60.00 Hz Palette colors : 2  P

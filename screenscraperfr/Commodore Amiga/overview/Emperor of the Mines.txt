@@ -1,0 +1,3 @@
+You are now the Emperor of the Mines and are charged to command a vast fleet of spacecraft to explore and exploit the mineral deposits in your quadrant. Many hazards must be faced, including: battles against the elements, mechanical failure, financial problems and the neighbouring warrior-race in this 'real-time' space wargame where money is king.
+
+The game consists of 2 parts/episodes, either of which may be played by following the instructions at the CLI prompt after booting the game.

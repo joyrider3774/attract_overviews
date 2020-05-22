@@ -1,0 +1,13 @@
+International Superstar Soccer is a game for one or two players, or up to four players with multitap. It is by the same team who did the N64 games.
+
+The six main game modes are represented on the main menu by pentagonal facets on a stylised football, they are:
+Open Play: Here the player can select any of the A Teams (22 players) or Under 23 teams (18 players) and play a single match in a stadium of their choosing. These matches can be player vs player, player vs cpu or cpu vs cpu. For each team the game's difficulty, and the motivation of the team, goalkeeper etc can be customised
+World League: Again using any of the A teams or Under 19 teams the player takes part in a round robin league to become world champion. The league can have as few as four or as many as thirty two teams in it, and the tournament can be a single match or a two match round robin affair. 
+The International Cup: This is played between sixty four A teams which are divided into sixteen groups of four for the preliminary round. The top thirty two teams then take part in the Group League with the top sixteen taking part in the Final Tournament
+The Under 23 International Cup: This is played between thirty two teams which are divided into eight groups of four for the preliminary round. 
+P.K.: This is a penalty kick shootout competition 
+Scenario Mode: Ten situations most of which involve trying to win a match, or avoid losing, in the last few minutes of the game. each can be played with up to five difficulty settings
+Under 23 League: 
+
+
+Players can train and edit their teams, change the formations and tactics before the match. During the match they can adjust camera angles, make substitutions and tactical changes, adjust the game speed and so on. The main game element though is controlling the players, making searching passes and scoring goals.

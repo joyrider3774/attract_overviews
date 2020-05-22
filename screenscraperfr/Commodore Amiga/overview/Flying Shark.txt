@@ -1,0 +1,1 @@
+Piloting a biplane, the player takes out enemy land, air, and naval craft across various environments. Certain waves of enemy airplanes produce bonuses when shot down, such as powerups, point bonuses, and extra lives.

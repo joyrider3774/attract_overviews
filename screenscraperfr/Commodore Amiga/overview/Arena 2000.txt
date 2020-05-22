@@ -1,0 +1,5 @@
+Arena 2000 is a Puzzle game, developed and published by Data Becker, which was released in Europe in 1992.
+
+Puzzle game in which the player character has to collect stones and put them into holes of the same color. When all holes are filled, the level is done, a password is rewarded and the next of overall 40 levels started. Well, of course there are a few obstacles to overcome: for one, the stones move around and kill the player character when touching him. The solution to the problem is the frame of the level: small parts of the frame are colored and touching one of those parts renders all stones of the same color harmless and causes them to stop moving. Then they can be collected and moved to the hole.
+
+When a stone is gone, another one instantly appears on the playing field - but unfortunately it is not sure that the color is the same as required. In that case, the player can use a colorless hole which disposes of all stones and always stays active, but does not count towards solving the level. The player has a limited amount of lives and each level has a time limit. There is also an editor to build new levels.

@@ -1,0 +1,4 @@
+From the beginning of the game, players choose one of the six scenarios that determine the initial disposition of power in ancient China.
+After choosing the scenario, players determine the warlord (s) they control.
+Each character has several statistics: warfare, intelligence, politics, charisma, army command, naval command.
+The player wins the game by conquering all the territories of China.

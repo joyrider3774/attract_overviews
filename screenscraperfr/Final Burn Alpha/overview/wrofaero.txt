@@ -1,0 +1,1 @@
+War of Aero: Project MEIOU is a 2D vertical scrolling futuristic shoot 'em up. The player controls a spaceship and fights against others - he flies straightforward over cities and more futuristic locations, shoots all enemies in sight and hard bosses, avoids one-hit-death obstacles and collects bonuses to increase firepower (similar to options from Gradius).

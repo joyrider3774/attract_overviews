@@ -1,0 +1,1 @@
+Fantastic Voyage is a side-scrolling shooter based on the 1966 movie of the same name. The scientist Jan Benes is near death because of a clot of blood in his brain. A submarine, controlled by the player, is shrunk and needs to reach the brain through three levels. The enemies, which lower the energy bar when touched, are the human defense systems like antibody cells.

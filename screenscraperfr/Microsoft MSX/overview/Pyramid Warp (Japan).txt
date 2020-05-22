@@ -1,0 +1,4 @@
+In Pyramid Warp you are challenged to collect the valuable treasures in the pyramids of ancient Egypt.
+But offcoarse these pyramids are filled with monsters who are trying to stop you.
+Are you forced into a corner, try one of the pyramid secret escape routes, and you will appear in a second.
+Each pyramid contains 16 rooms.

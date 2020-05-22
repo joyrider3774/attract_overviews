@@ -1,0 +1,1 @@
+Super Bobble Bobble (c) 19??.  - TECHNICAL -  Main CPU : (2x) Z80 (@ 6 Mhz) Sound CPU : Z80 (@ 3 Mhz) Sound Chips : YM2203 (@ 3 Mhz), YM3526 (@ 3 Mhz)  Players : 2 Control : 2-way joystick Buttons : 2 = > [1] Bubble, [2] Jump  - TRIVIA -  Super Bobble Bob

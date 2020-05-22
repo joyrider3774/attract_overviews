@@ -1,0 +1,1 @@
+Questron is played on a two-dimensional top-down map. Everything is represented by tile graphics: towns, monsters, trees, hills, etc. The sprite that represents the player changes, depending on which mode of transportation is used -- beginning, for instance, on foot. Dungeons in the endgame are done in a three-dimensional first-person style similar to The Bard's Tale.

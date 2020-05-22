@@ -1,0 +1,3 @@
+Snail Maze is a hidden Sega Master System game, which is available in the BIOS screen of any original model Master System console. It is accessed by holding 1, 2 and Up at the Sega logo, assuming you do not have a cartridge inserted.
+
+The feature was removed in the later Master System II models, as well as models which include either Sonic the Hedgehog or Alex Kidd in Miracle World built in.

@@ -1,0 +1,12 @@
+Frankenstein is a text based adventure game by Rod Pike and is the follow-up to his earlier game, 
+Dracula.
+
+The story behind the game starts with the player taking the role of Dr Frankenstein. Having pursued your researches for many years you have acquired the necessary body parts and assembled them to create a perfect being. However what rises from the slab is horrible and you ran from the laboratory in fear and disgust. On your return you find that the creature has left so you breathe a sigh of relief and move on to other things.
+
+Four years pass and word reaches you that your sister has been slain, strangled by some hideous monster. Your task is clear, you must track down this monster, for you have no doubt where it came from, and destroy it.
+
+This quest takes up parts one and two of the game.
+
+In part three the player takes the role of the monster. This part of the game is only accessible if the player has completed the first two parts. Starting knowing nothing but pain with no idea of who or where you are the player must explore the surroundings, learn, and develop the monsters IQ. As this part of the game progresses the player will learn what makes the creature a killer.
+
+Though this is a text adventure the game does feature some graphic artwork.

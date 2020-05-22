@@ -1,0 +1,1 @@
+Samurai Shodown 64 - Warrior's Rage (c) 1998 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 05  Main CPU : R4600 (@ 50 Mhz), V30 (@ 8 Mhz), Z80 (@ 12.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in

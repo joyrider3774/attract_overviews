@@ -1,0 +1,1 @@
+The player controls a stuntman who has to drive through five movie sets by car. The playing field scrolls vertically and is shown from above. The player can shoot and must avoid various objects on the way whilst the level must be reached within a certain time. The car explodes if it is overloaded.

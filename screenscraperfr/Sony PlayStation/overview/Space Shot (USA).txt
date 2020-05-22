@@ -1,0 +1,5 @@
+Shooter Space Shot is a conventional flight shooter that offers a variety of weapons and equipment including missiles, boosters, and overdrives. Players must rack up impressive scores to earn the ability to save their progress but the game is designed to adjust itself on-the-fly to present a challenge matched to the player's demonstrated skill level. Like many good traditional shooters, this release prides itself on offering enormous boss characters at the end of each level.
+ Features:
+ * Choose one of three Republic Special Forces characters to play as
+ * Destroy enemies using the Vulcan cannon, missiles, and Over Drive, or ram them with the Booster
+ * The game's difficulty adjusts to the player's skill level

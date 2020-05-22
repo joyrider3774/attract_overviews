@@ -1,0 +1,21 @@
+This is an Atari 2600 version of a Star Trek game found on many college mainframes.
+
+Like those mainframe programs, it has no graphics, only text. You use the joystick, moving left or right, to select the command you want then press the red button. You then move the joystick left or right to select set the parameters of that command, if there are any. You start by pressing Reset or Select to choose how many enemies you must kill in how many stardates. 
+
+The commands and any settings are as follows:
+
+Galaxy Map=a 6x6 grid that starts out empty until you do a long range scan. Afterwards, the quadrants will show a 2 digit number. The left digit is the number of aliens in the area. The right digit will either be a 1 or a zero, depending on whether there is or is not a starbase in that area. Galaxy map costs you no energy or stardates.
+
+LR Scan=Long range scan. This will tell you what is in your quadrant and all the quadrants next to yours. If there are any enemies in your quadrant when you do an LR scan, they will attack you. LR scan does not cost energy or stardates but it does take a turn.
+
+SR Scan=Short range scan. This shows you the stars, aliens and starbases in your quadrant. You need to do this to destroy aliens and dock with starbases. Like LR Scan, if there are aliens in your quadrant, they will attack after you use SR Scan. Also, like LR Scan, SR Scan does not cost energy or stardates but it does take a turn.
+
+Warp=Warp is how you move, either from quadrant to quadrant or from sector to sector within a quadrant. You move by setting 2 settings. The first is your direction. You select a direction based on the numbers below:
+8  1  2
+  | /
+7--*--3
+ / | 
+6  5  4
+Next, you select how many quadrants and sectors to move. If you want to move within a quadrant, set the left number to zero so you don't warp out of that quadrant. Warp uses stardates, energy and a turn. If you warp into a quadrant that has only you and stars, the screen will be green. If you warp into a quadrant with aliens or aliens and a starbase, the screen will be red. If you warp into a quadrant with just the starbase, the screen will be gray. You cannot warp through stars. If you try, you lose the stardate and energy but don't go anywhere.
+
+Photon Torpedo=If you hit an enemy with one of these, just one shot kills them. You select the direction with the same numbers as warp. there must be a clear line of sight between you and the enemy; no stars. You carry up to 9 torpedoes and they can be r

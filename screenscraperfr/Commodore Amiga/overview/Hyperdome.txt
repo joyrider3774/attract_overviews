@@ -1,0 +1,7 @@
+Hyperdome is a Shoot 'Em Up game, developed by Microwish and published by Exocet, which was released in Europe in 1989.
+
+The training as fighter pilot for the Federation took five years. Now you are finished. But there is a final test to master: survive the 'Hyperdome'.
+
+The player is thrown in the Hyperdome with his space ship, the landscape is scrolling horizontally, and to survive, you have to shoot everything in sight. Your ship is equipped with a basic laser cannon. Luckily, some opponents drop collectible markers, which increase a counter visible on the right side of the screen. If you reached the weapon or bonus of your choice, you can activate it. There are nine extras available: increased ship speed, increased fire power, double fire, missiles, spread (clears in front), homing missiles, a satellite and a shield. If you loose one of your initially nine lives, the current extra weapon is gone. If you collect too many items without activating a weapon, the count is set back to the first bonus.
+
+Of course, your ship is crashing if the landscape blocks are touched - this is integral part of the design, as some levels build up less on shooting, but avoiding and securely navigating through the many obstacles on the way.

@@ -1,0 +1,1 @@
+You play as Q*Bert lookalike Hubert C. Jumpman, and have to hop around the blocks, turning them all another colour, while avoiding the blobs pursuing you, and trying not to fall off. There are six levels, which repeat again and again, each time adding another evil blob to the mix.

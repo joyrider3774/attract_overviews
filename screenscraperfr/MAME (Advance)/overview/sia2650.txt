@@ -1,0 +1,1 @@
+Super Invader Attack (c) 1980 Sidam.  - TECHNICAL -  Main CPU : S2650 (@ 950 Khz)  Screen orientation : Vertical Video resolution : 768 x 720 pixels Screen refresh : 55.00 Hz Palette colors : 2  Players : 1 Buttons : 3 (LEFT, RIGHT, FIRE)  - TRIVIA -  Thi

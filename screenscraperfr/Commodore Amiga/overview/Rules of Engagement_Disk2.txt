@@ -1,0 +1,5 @@
+A mouse-driven starship command simulation, with a user interface known as LYCAR, and similar to the LCARS system from the TV show Star Trek: The Next Generation .
+
+First of all you have create yourself as Fleet Commander and assign a mission, with previously adjusted Star System, Ships, Captains, and Aliens has objectives, which you must achieve to complete it. So the main gameplay lays in completing the missions where you control your starship using tactical, communication, and simulation skills. If you are successful, your commander will receive promotions and honors.
+
+Due to the Interlocking Game System owners of Breach 2 can use this to play out the game's battles. Also, a Mission Editor is present, where you may create a mission choosing the Star System, Ships, and Aliens involved.

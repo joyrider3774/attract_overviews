@@ -1,0 +1,1 @@
+Rambo must tranverse six zones from bottom to top while defending against waves of enemies, ending with a boss at the end of the stage. Rambo is armed with a machinegun that can only shoot upwards, left and right, as well as in diagonal between the mentioned directions. He also counts with explosive arrows that are limited in quantity but can be shot in eight directions.

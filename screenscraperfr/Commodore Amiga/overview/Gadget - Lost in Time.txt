@@ -1,0 +1,5 @@
+Gadget: Lost in Time is a Platform game, developed by Synergy Inc. and published by ESP Software, which was released in Europe in 1993.
+
+This is a quite simple platformer which starts with a rather steep learning curve. The game is a mix of two genres: an ordinary platformer, combined with a quiz game, asking single-choice questions from the player (three choices in total). Short instructions: Find the crystal and return it back to the time machine. You cannot free the crystal until you have answered ALL questions correctly. H - pause game U - use item (remote control, gun, mirror, monkey-wrench, mask, moonhopper) Pull down the joystick to pick up the bodies of nasties you previously paralyzed by jumping upon. Pressing FIRE will "dispose" them eventually. (NOTE: you must have your hands free to pick up anything, i. e. if you're holding an item, you will have to put it away first)
+
+Later levels are linear, better graphics, quite good and good controls spoiled by inertia.

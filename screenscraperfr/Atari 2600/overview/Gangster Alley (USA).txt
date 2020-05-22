@@ -1,0 +1,23 @@
+S.B.I. (Spectravision Bureau of Investigation) file on Chicago Joe and his gang:
+We apprehended Chicago Joe but in retaliation, his gang have holed up in an apartment building, taking hostage a dame and her kid. The following men have been positively identified:
+
+Shifty
+2. Scar Face
+3. Mugsy
+4. Lefty
+5. Nitro Ed
+
+Your orders are to snipe any gang member. DO NOT SHOOT AN INNOCENT! Watch out for Nitro Ed. He likes to play with hand grenades. One of those and you're pushing up daisies. Good luck.
+
+You move the joystick to aim at a gangster and push the button to fire. Your ammo is limited so don't fire randomly. Occasionally, Nitro Ed, on the roof, will hold up a grenade. You must shoot him to disarm him. You get money for each gangster shot. The values for level one are:
+
+1. Mugsy=$20
+2. Scare Face=$30
+3. Lefty=$40
+4. Shifty=$50
+5. Disarming Nitro Ed=$100
+
+These amounts increase for each level by $10.  You also get $10 for each bullet you have left after each level. There are six levels. The fourth level is a nighttime level. In this level, you must fire one bullet to light up the windows. If you do not fire for a couple seconds, they go dark again.
+If you shoot an innocent, you will lose $1000 or you total amount if you have less than $1000.
+
+If a gangster rises all the way out of a window, after a couple of seconds, he will shoot you and you will lose one bullet proof vest (life). After you lose all your vests, the game is over and Nitro Ed will laugh at you. If Nitro Ed gets off his hand grenade, no matter how many vests you have, the game is over. And Nitro Ed will laugh at you. You start with four vests and can earn another at $5000.

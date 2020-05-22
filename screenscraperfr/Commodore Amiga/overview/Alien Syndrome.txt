@@ -1,0 +1,3 @@
+Alien Syndrome is a scrolling shooter arcade conversion.
+
+Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.

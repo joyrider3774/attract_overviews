@@ -1,0 +1,1 @@
+Malzak (c) 198? Kitronix.  - TECHNICAL -  Main CPU : S2650 (@ 950 Khz) Sound Chips : (2x) SN76477 (@ 950 Khz)  Screen orientation : Horizontal Video resolution : 240 x 240 pixels Screen refresh : 50.00 Hz Palette colors : 16  Players : 2 Control : 8-way j

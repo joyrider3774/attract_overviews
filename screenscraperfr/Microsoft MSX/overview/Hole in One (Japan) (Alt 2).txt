@@ -1,0 +1,1 @@
+In this Golf Simulator you can choose field, course, tournament, player and go outdoors. Here is ordinary golf equipment, as usually you can choose your power and direction. But camera may be placed everywhere. Background landscapes are pixel-video.

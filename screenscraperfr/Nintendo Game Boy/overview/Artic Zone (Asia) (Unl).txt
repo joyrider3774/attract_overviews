@@ -1,0 +1,6 @@
+The objective of the game is to remove all the blocks heading towards the Bear,
+getting as high of a score as possible.
+
+To remove blocks in this game, you need to fill in the gaps of each block to
+form a rectangle.  This needs to be done before the set of blocks reach the
+bear on the right of the screen, or you will have a Game Over

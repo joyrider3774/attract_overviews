@@ -1,0 +1,4 @@
+W Ring: The Double Rings is a shoot 'em up developed and published by Naxat Soft for the PC Engine platform. The player makes their way across horizontal levels collecting power-ups from fallen foes.
+
+The game has three difficulty modes which determine the amount of enemies and their health: Beginner, Normal and Expert.
+Each power-up provides a different weapon to the player depending on the color, and collecting subsequent power-ups increases the power of that weapon. If the player switches colored power-ups, they'll acquire the stronger versions of those power-ups. If the player gets hit, they'll lose the current power-ups they have; if they don't have a power-up, they'll lose a life.

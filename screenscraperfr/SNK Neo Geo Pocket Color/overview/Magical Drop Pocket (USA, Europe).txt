@@ -1,0 +1,5 @@
+Magical Drop Pocket's core mechanics are similar to those of Magical Drop III. The only exception is that that the battlefield consists of six columns instead of seven, akin to the Super Famicom ports of the first two Magical Drop games.
+
+The game features Story, Self Challenge and Friend Challenge; these correspond to the standard 1P VS Com, Solo, and 2P VS modes featured in other Magical Drop games. Story features five difficulty modes while Self Challenge features three.
+
+Like many other handheld puzzle games of the time, Story does not feature a "true" AI opponent; instead, the player attempts to fill a gauge by creating chains. While the player attempts to fill this gauge, the AI attacks at random intervals.

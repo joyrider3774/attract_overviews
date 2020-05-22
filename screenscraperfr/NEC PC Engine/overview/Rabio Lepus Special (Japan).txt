@@ -1,0 +1,3 @@
+Horizontal shooter that puts you in control of a robotic rabbit.
+
+(From the PC Engine Software Bible)

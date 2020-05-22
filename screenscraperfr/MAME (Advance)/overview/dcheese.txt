@@ -1,0 +1,1 @@
+Turn a wheel to match numbers to determine the ticket output.

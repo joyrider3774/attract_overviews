@@ -1,0 +1,3 @@
+Daibakushou Jinsei Gekijou ("Great Hearty Laughter Theater Life") is a Taito board game simulation based loosely on the Jinsei Game, the Japanese equivalent of Milton Bradley's The Game of Life. It is the fourth game in the series and the first for the Super Nintendo.
+
+Each player (with a maximum of four human players) begins as a toddler and ends on retirement age, passing through each stage of life by landing on squares, earning money and increasing/decreasing their stats (which then affects how much money they earn). Each stage of life is a self-contained board and the first player to reach the end earns a bonus, with everyone then proceeding to the next board regardless of how far they've moved.

@@ -1,0 +1,3 @@
+GP World for the SG-1000 and MSX, is a loose conversion of the 1984 LaserDisc-based arcade game, GP World. It was released in 1985 exclusively in Japan.
+
+Gameplay in this "8-bit" version of GP World is similar in concept to the arcade GP World but given the wildly differing hardware, different in execution. Most notably all graphics in the game are generated in real-time by the SG-1000 rather than streamed from a LaserDisc, which in turn leads to more predictable car physics. The concept of racing in four different types of GP is scrapped, replaced instead with a GP that spans the world and three selectable difficulties.

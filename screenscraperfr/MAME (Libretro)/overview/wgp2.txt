@@ -1,0 +1,1 @@
+WGP - Real Racing Feeling (c) 1989 Taito.  - TECHNICAL -  Board Number : K1100537A Prom Stickers : C32  Main CPU : (2x) 68000 (@ 12 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM2610 (@ 8 Mhz)  Players : 2 Control : stick Buttons : 7  - TRIVIA -  Even if

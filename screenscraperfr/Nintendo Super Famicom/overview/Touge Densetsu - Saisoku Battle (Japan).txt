@@ -1,0 +1,3 @@
+Touge Densetsu: Saisoku Battle ("Touge Legend: Top Speed Battle") is a touge racing game that primarily features motorcycles. As with other touge racers, the goal is to catch up with an opponent and pass them without colliding with them. These races are traditionally held on the narrow and winding paths which makes overtaking other racers difficult, hence the challenge.
+
+The game makes ample use of Mode 7 for its courses, and features twelve tracks from all over Japan. The player can also choose their motorcycle model and customize its tires, suspension, chains and brakes. The player can also change the color of their bike, or their biker's helmet, jacket or pants.

@@ -1,0 +1,3 @@
+This game is an unreleased prototype, never went into production, and no dedicated cabinets are known to exist.
+
+A Votrax SC-01 speech synthesis chip is used to generate the incoherent speech of Q?bert swearing, Slick and Sam (high pitch) and Wrong Way and Ugg (low pitch). The only true speech ever generated is 'Hello, I'm turned on' when the game is first powered up and 'Bye Bye' after entering your initials at the end of a game.

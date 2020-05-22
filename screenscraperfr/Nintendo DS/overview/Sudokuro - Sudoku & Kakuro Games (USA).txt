@@ -1,0 +1,3 @@
+Sudokuro is a puzzle game featuring two different puzzles in the same game, which are Sudoku and Kakuro. Each kind of puzzle has different difficulty levels and all of them are automatically generated, with thousands of puzzles to choose from. You can enter the numbers to solve the puzzles using the buttons to add them or just write them with your stylus.
+
+In Sudoku the player has to put numbers in a grid in a way that no number is twice in a single row or column. In Kakuro the numbers have to be placed so that lines and columns equal the number next to it when all values are added together.

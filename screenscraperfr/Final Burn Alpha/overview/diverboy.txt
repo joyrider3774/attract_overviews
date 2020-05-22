@@ -1,0 +1,3 @@
+A reversed "Bomb Jack"-type game.
+
+All songs of this game are ripped from Data East's "Tumble Pop".

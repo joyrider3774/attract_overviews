@@ -1,0 +1,1 @@
+Designasaurus is an educational simulation game set in the far future. It enables the player to create (build) custom dinosaurs and then walk (control) them through all five ecosystems. The designed dinosaurs can also be printed.

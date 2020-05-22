@@ -1,0 +1,3 @@
+Detector is a Shoot 'Em Up game, developed by Amiga Artists and published by Time Warp Productions, which was released in Europe in 1988.
+
+This is 2D top down shooter, something like part of Thunder Force II. The player controls a ship and flies over surface of the planet. Game has open structure - the player freely moves on islands, searches keys, various bonuses (hidden in special squares) and destroys many enemies. Game has "tank control" - the player can rotary ship in 360 degrees and moves by speed up.

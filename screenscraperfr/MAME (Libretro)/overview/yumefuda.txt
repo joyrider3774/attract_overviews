@@ -1,0 +1,1 @@
+Yumefuda (c) 1991 Alba.  - TECHNICAL -  Main CPU : Z80 (@ 6 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz)  Players : 1 Buttons : 6  - TRIVIA -  Released in May 1991.  The title of this game translates from Japanese as 'Dream Card'  - SOURCES -  Game's rom.

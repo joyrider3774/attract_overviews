@@ -1,0 +1,1 @@
+Sukeban Jansi Ryuko (c) 1987 Whiteboard.  - TECHNICAL -  Sega System 16A hardware Game ID : 317-5018 / 5020 / 5021  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 4 Mhz), N7751 (@ 400 Khz) Sound Chips : YM2151 (@ 4 Mhz), DAC  Players : 1  - TRIVIA -  Rele

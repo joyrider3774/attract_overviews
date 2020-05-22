@@ -1,0 +1,7 @@
+Neo 21 is a casino-style blackjack game that offers three modes of play: Casino Mode, Original Mode, and Versus mode. As a casino style game, it supports all the actions that players sitting at a casino blackjack table can perform.
+
+Blackjack, also known as "twenty-one," is a card game where players attempt to put together a hand that adds up to as close to 21 in total points without going over. Aces count for one or eleven, face cards count for ten, and the other cards count as their respective values.
+
+At the beginning of each hand, the dealer deals each player, including the dealer, two cards. Each round players can opt to hit, stand, split or double down. When a player calls for a hit, the dealer deals another card. A player who stands is dealt no more cards for the rest of the hand. Players who get dealt two cards of the same value can split them, put another wager down and play both as individual hands. Doubling down is the act of calling for one last hit, and doubling your wager at the same time. Any player who goes over 21 in value busts and loses.
+
+In Neo 21, players engage in a one-on-one match against a CPU dealer, or in the Versus Mode, two players can compete via the link cable, with one acting as the dealer.

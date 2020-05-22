@@ -1,0 +1,3 @@
+This version of Rygar is quite different from the arcade original and its ports, though it shares the same basic story: a legendary warrior rises from the grave in order to defeat the forces of evil in the land of Argool. Rather than being a linear arcade-style game, this version emphasizes exploration and allows the player to re-visit locations with special items that may open previously inaccessible locations. 
+
+The game contains a light RPG element in form of permanent power-ups which increase the main character's performance in combat. It also offers multiple viewpoints: the action-oriented stages are viewed from a side-scrolling perspective, but when travelling between zones the game takes on an overhead view that can also lead to combat situations.

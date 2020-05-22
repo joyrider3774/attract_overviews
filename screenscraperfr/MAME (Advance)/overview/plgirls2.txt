@@ -1,0 +1,1 @@
+Play Girls 2 (c) 1993 Hot-B.  - TECHNICAL -  Taito L System hardware  Main CPU : Z80 (@ 6 Mhz) Sound Chips : YM2203 (@ 3 Mhz)  Screen orientation : Vertical Video resolution : 224 x 320 pixels Screen refresh : 60.00 Hz Palette Colors : 256  Players : 2 Co

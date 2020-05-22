@@ -1,0 +1,1 @@
+Football Masters is a football management simulation from ESP Software. The game allows the player to control a team from the four English divisions. Very easy to pick up and play with no fancy graphics, just a simple clock counting up and goal, cards and injuries highlighted.

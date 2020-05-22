@@ -1,0 +1,3 @@
+Barney Mouse is a  Platform game, developed by SoftTouch and published by Kingsoft, which was released in Europe in 1989.
+
+Barney Mouse is a single-screen platform arcade game. The player controls a mouse named Barney. Barney must find keys to move on to the next room. He must avoid other, hostile mice - if somebody touches him, Barney loses a life. He can collect various fruit for points. Rooms have multiple exits, each with different keys.

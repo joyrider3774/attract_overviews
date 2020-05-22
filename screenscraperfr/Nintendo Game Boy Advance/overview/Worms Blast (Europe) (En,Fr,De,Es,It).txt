@@ -1,0 +1,9 @@
+The gameplay is similar to that of Puzzle Bobble/Bust-A-Move, but with several key differences. There is a hexagonal grid of coloured blocks at the top of the screen, while the player's character sits on a boat floating in water. Unlike Puzzle Bobble, it is able to move side to side. There are multiple weapons that can be used, however the only weapon the player has to start with is a bazooka. As with Worms, holding down the fire button increases the power behind the weapon's launch, affecting how far it will travel. It is possible to fire the bazooka (and some other weapons, such as the grenade and dynamite) in an "arch", allowing players to reach difficult areas.
+
+Shooting blocks will have one of two effects:
+
+If you hit a block that is either the same colour as your bazooka missile, or is a rainbow block, that block and any other same-coloured or rainbow blocks connected to it will be destroyed. Any blocks that are not the same colour will not be affected; however, if the only thing holding those blocks up is the coloured blocks you have just destroyed, those blocks will fall into the water.
+
+If you hit a block that is a different colour from your bazooka missile, or is a "dead block" - an uncoloured, grey block - it will be recoloured to match the missile.
+
+(Weapons are affected differently by other blocks. This is covered further below.)

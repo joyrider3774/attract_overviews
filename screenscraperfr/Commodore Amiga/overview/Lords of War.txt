@@ -1,0 +1,5 @@
+1990 saw the release of Lords of War on the Amiga systems, a Breakout clone game with interesting idea, created and distributed by Digital Concepts.
+
+On every screen, there is a castle defended by a movable shield. The shield can be moved horizontally and vertically (always along the castle wall). The goal is to bring down the walls of one of the other castles within a given time limit. If no one does this in time, the game automatically switches to "fast speed" until the first slot is shattered.
+
+The well animated graphic looks decent, changes from level to level and the scrolling is nice. The sound effects are according to the atmosphere, beautifully creepy - timely. You can not complain about the joystick control either. What else is there? Menu with numerous options (faster, slower, etc.), pause function, highscore list. The gameplay is not exactly the latest, but the original presentation and the built-in gags, The Lords of War lift something of the usual breakout monotony from. After all...

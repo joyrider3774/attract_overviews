@@ -1,0 +1,3 @@
+XTreme Racing took Amiga racing beyond the sprites of Lotus and unshaded polygons of F1GP, into a more technically advanced era. The game environment is much fuller and wider than typical sprite based racers, with full freedom of movement and some Mode 7-style effects. Not only is a course designer included but a sound editor is as well. 
+
+The difficulty level is highly customisable, and the cars don't cheat in terms of artificially keeping up with you or pushing you out of the way and continuing at unabated speed. There are lots of weapons on track to be picked up and fired at will, giving it a Mario Kart feel. Multiplayer options are highly versatile, allowing for up to 8 human players if you link 2 systems, similarly to Super Skidmarks.

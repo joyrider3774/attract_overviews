@@ -1,0 +1,1 @@
+Super Speed Race Jr. (c) 1985 Taito.  - TECHNICAL -  Main CPU : Z80 (@ 4 Mhz) Sound Chips : AY8910 (@ 1.6 Mhz)  Players : 1 Control : dial Buttons : 2  - TRIVIA -  Released in June 1985.  - SOURCES -  Game's rom.

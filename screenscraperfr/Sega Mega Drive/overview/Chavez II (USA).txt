@@ -1,0 +1,1 @@
+Chavez II is a boxing video game for the Genesis. The boxers are represented by 2D sprites seen from over the shoulder of one of the fighters.

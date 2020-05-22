@@ -1,0 +1,1 @@
+Many Block (c) 1991 Bee-Oh.  - TECHNICAL -  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 3 Mhz) Sound Chips : YM2203 (@ 1.5 Mhz), (2x) OKI6295 (@ 24.242 Khz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in December 1991.  Defa

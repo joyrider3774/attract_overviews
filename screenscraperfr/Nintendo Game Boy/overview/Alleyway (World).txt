@@ -1,0 +1,3 @@
+Alleyway is a basic Breakout variant. As Mario, the player must control a "podship" and deflect the ball towards the mass of blocks. Hitting a block will either weaken or destroy it. Once all the blocks are destroyed, the level is complete.
+
+The game uses a small number of repeating tables along with twists such as horizontal rotation, periodical vertical drop of the entire mass of blocks, etc.

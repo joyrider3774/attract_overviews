@@ -1,0 +1,1 @@
+Harley-Davidson & L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".

@@ -1,0 +1,7 @@
+You are the driver of the only train able to supply the townsfolk of the Badlands and thus save them from the marauding bandits. But be warned, the forces of evil are out to stop you reaching your destination at all costs.
+
+The objective of the game is to travel between stations avoiding the enemy. Move forwards/backwards by moving stick right/left. Change tracks by moving stick forwards/backwards. Pressing fire releases smoke with which you can shoot down enemy planes.
+
+Also en-route you will encounter mailbags which can be picked up for bonus points and water towers which if stopped at will replenish your water supply.
+
+Each level is more difficult to complete than the previous one with number and type of enemy forces increasing. After completion of each level and calculation of mailbag and time bonuses there is a bonus level where you must shoot down planes to earn extra points.

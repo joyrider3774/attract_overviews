@@ -1,0 +1,5 @@
+Role playing comes to Infocom games in Beyond Zork, in which you must set up a new character or retrieve an existing one before you can start. Quite frequently in the game, the player is attacked by one of Beyond ZorkÃ¢â‚¬â„¢s many monsters. Apart from the high semi-random fatality rate in Beyond Zork, there are random elements in both the make-up of the map and in the placing of certain objects and creatures each time the game is played.
+
+The game is written in Interactive Fiction Plus and there are a whole lot of new features and commands at your disposal.The quest is to find the Coconut Of Cuendor.
+
+Beyond Zork is a clever combination of an Infocom text adventure with a D&D type role playing game. I am not sure that the combination works well. Nevertheless, the game is a must for all Infocom fans (the name alone should ensure that) for it is better than a number of their titles, particularly some of the more recent ones.

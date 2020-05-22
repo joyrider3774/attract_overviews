@@ -1,0 +1,5 @@
+Gorby's Pipeline is a variation on the classic Tetris game, with elements of Pipe Dream / Pipe Mania and its bonus game..
+
+While in the classic Tetris game you 'll have to fit the falling geometric shaped pieces together to make a row disappear in Gorby's Pipeline the geometric shapes are replaced with pieces that contain different forms and shapes of pipelines.
+
+The game starts with a water leak at the bottom right of the screen and it's you goal to put the various pipeline pieces together in such a way that the water runs from the bottom-right to the left and disappears in one of the pipelines on the left side of the screen. If you succeed a row will disappear.

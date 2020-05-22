@@ -1,0 +1,3 @@
+Twin Falcons or Whizz is a military themed 2D side-scrolling shoot 'em up game where you take control of a fighter aircraft. The aircraft has separate weapons for flying and ground based units/ships.
+
+You fight a variety of enemies like ships, aircraft and bosses. While playing destroyed enemies drop power-ups. These include: lower or higher speed (D and U), laser (L), hand operated three shot weapon (3 in a circle), three way automatic weapon (3 in a square) and a five shot weapon (R).

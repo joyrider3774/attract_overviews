@@ -1,0 +1,1 @@
+Tri-Pool (c) 1981 Noma.  - TECHNICAL -  Main CPU : Z80 (@ 3 Mhz) Sound CPU : Z80 (@ 1.5 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz)  Screen orientation : Vertical Video resolution : 224 x 256 pixels Screen refresh : 60.00 Hz Palette Colors : 32  Players : 2 Con

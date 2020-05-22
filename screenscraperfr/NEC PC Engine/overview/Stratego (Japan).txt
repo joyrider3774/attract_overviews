@@ -1,0 +1,1 @@
+The board game Stratego is a more elaborate version of Capture the Flag. Each player starts with 40 pieces; made up by the flag, 5 bombs, and an assortment of 9 types of military units. After these have been placed, each player takes it in turn to move th

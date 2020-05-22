@@ -1,0 +1,1 @@
+M-4 (c) 1977 Midway.  - TECHNICAL -  Game No. 626  Main CPU : 8080 (@ 1.9968 Mhz)  Screen orientation : Horizontal Video resolution : 256 x 224 pixels Screen refresh : 60.00 Hz Palette colors : 2  Players : 2 Control : 2-way joystick Buttons : 2  - TRIVIA

@@ -1,0 +1,1 @@
+Boxing arcade game where the protagonist is see-through and outlined. The player controls the boxer's punches, blocks, and dodges with two joysticks.

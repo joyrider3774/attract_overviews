@@ -1,0 +1,26 @@
+Pub games is a themed compilation of seven games that have been popular in public houses (drinking establishments) in the United Kingdom for decades. 
+This package is aimed at young teens with the inlay card containing words like 'Here's your chance to find out what it's like in those smoke-filled haunts of adulthood'.
+All the games are two player games of the 'hot seat' variety - with the exception of Table Football where both players have their own action keys
+The games can be played either as a 'Full Pub Games Run' - which takes the player(s) through all the games and will take around two hours to complete, or a practice mode which allows the player(s) to select and games in any order.
+
+Scoring in each game is self explanatory but in the 'Full Pub Games Run' players win £1 per game so the winner at the end of the run is the one with the most money.
+
+The games are split on both sides of the cassette
+Side 1 - Menu, Darts, Bar Billiards, and Dominoes
+Side 2 - Table Football, Pontoon, Poker, and Skittles
+
+The Menu.
+
+You must go through this at the start of the game to enter the players names and choose which mode is being used, 'full run' or practice mode. 
+
+Darts
+
+This is played as the best of three games starting at either 501 or 301 and finishing on a double. In the pub run the winner of each game gets £1.
+There's a choice of colours for the dart board.
+Predefined keys are used to position the cursor over the board to make the shot, however the cursor does not stay in one place, it circles erratically, so the skill is in pressing the 'fire' key as it passes over the desired target. Every dart will hit the board though it is possible not to score by either missing the scoring segments or hitting the wire.
+When a shot is made there's a little animation on the left of the screen showing a man throwing a dart. No option for lady players though. 
+
+Bar Billiards
+
+This game is played with eight balls (7 white and one red). The object is to pot any ball down any of the nine holes in the table. The red ball starts on the table and any score made with it in any break is doubled. Any foul shot, a ball returning to baulk, failing to hit another ball in play, or knocking down a skittle, ends and zero's the break. As in the 'real' game, for the first ten minutes balls potted are returned. After that the balls are not returned and the game continues until all balls have been potted. An on-screen timer is provided.
+To play this game predefined keys are used to positio

@@ -1,0 +1,5 @@
+This looks like a typical war-game: lots of counter to be clicked on and moved around a map, right? Wrong. It is a strategic war-game, which means you cannot control each individual unit precisely Ã¢â‚¬â€œ units do their best to follow orders but keep an eye on their situation.
+
+Panzer Battles models scenarios exclusively on the eastern front during WWII. You play either the Germans or the Russians, commanding vast corps and armies split into many subunits. The dramatic weather of the Steppes takes its toll on both sides.
+
+Six scenarios are included as is an editor for making your own. It has got lots of rough edges (the file requester is terrible) but it feels original, has pace and gives a feel of real military command. Definitely recommended if you like the period.

@@ -1,0 +1,1 @@
+Magic Ball is a 3D Breakout variant where the player controls a ball with a paddle and needs to break all the blocks in order to go to the next level. If the ball falling from the paddle, the player loses a life. There are power-ups that help to the player (like extra life, weapons to break blocks easily, increase and reduce paddle and more).

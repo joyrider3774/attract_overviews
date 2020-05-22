@@ -1,0 +1,3 @@
+A third-person racing game featuring real Formula 1 cars and circuits, which represented Team 17's first attempt at the genre.
+
+There are two gameplay modes, Arcade and Normal - in Arcade mode you have to finish in the top 3 each time, whereas in Normal mode you accumulate the appropriate points, irrespective of one or two bad results. There are 3 difficulty levels, and the number of laps is variable.

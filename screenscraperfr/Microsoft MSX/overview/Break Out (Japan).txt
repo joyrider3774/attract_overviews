@@ -1,0 +1,7 @@
+Break-Out is a Break Out variant. The player controls a paddle at the bottom of the screen and must prevent a ball from hitting the floor and at the same time destroy bricks at the top of the screen by hitting them with said ball. Each destroyed brick scores points.
+
+There are some subtle differences compared to the original game. The paddle is controlled slightly differently. Pressing either the left or right direction with Keypad 4 or 6 respectively moves the paddle in that direction, and the paddle keeps moving until it hits the side or the player presses 5.
+
+When the ball hits a corner of a brick it will not bounce back and instead break through multiple rows, this makes it easier to get the ball above the rows of bricks. Because the game is written in BASIC the ball can only travel at a 45 degree angle, causing it to leave quickly as well. 
+
+The player starts with 9 lives with which to score points. There's no keeping of high-scores.

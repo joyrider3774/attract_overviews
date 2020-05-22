@@ -1,0 +1,27 @@
+The is an American football game with an isometric view. Player one always starts as offense and are in the red jerseys. The computer (or player two) starts as defense and are in blue jerseys.You have the choice to pass or run. On the offense, you control the quarterback until he passes the ball. You then control the receiver. The quarterback cannot pass after he crosses the line of scrimmage. On defense, you control the corner.
+
+Game variations
+Game 1 (Novice)=3 minutes per quarter
+Game 2 (Standard)=7 minutes per quarter
+Game 3 (Advanced)=10 minutes per quarter
+Game 4 (Expert)=15 minutes per quarter
+
+Play selection
+Offense selects both the formation and pattern that the receiver will run*. The formation is the number on the left, from 1 to 9. The pattern is the number on the right, from 1 to 4.
+
+Defense only selects formations, from 1 to 9*. If the offense selects to punt or a field goal, the defense play is automatically selected to counter that.
+
+To see the formations and patterns, you must refer to the game manual, as they are not named or graphically displayed on screen.
+
+*=In game 1 (Novice), you do not manually select plays, they are selected automatically.
+
+Scoring
+Field goals=3 points
+Touchdowns=6 points
+Extra point=1 point
+
+Inaccuracies
+There are only 5 players per side.
+You cannot tackle anyone within the five-yard line and the goal, therefore...
+There are no 2-point safeties or 2-point conversions
+There are no penalties

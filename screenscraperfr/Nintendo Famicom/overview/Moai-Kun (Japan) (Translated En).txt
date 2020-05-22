@@ -1,0 +1,3 @@
+Moai Kun is a platform puzzle game where you play as Moai, the Easter Island statue, that has appeared in many other Konami games. 
+
+The goal of the game is to collect other Moai-like statues and reach the door leading to the next level before the time runs out. In order to make your way to the statues and finally to the exit you have to move and destroy the rocks blocking your way and avoid getting killed by enemies.

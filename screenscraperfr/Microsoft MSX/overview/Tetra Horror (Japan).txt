@@ -1,0 +1,9 @@
+In Tetra Horror the player takes on the role of an adventurer who has found a treasure map of the ancient city Tetra in South America. The game consists of three different stages.
+
+In the first stage the player must try to collect fuel for the fire gun. The player can jump from platform to platform and must avoid hazards such as falling skulls and monsters. When the player collects the letters FUEL before the timer runs out the player continues to the next stage. if the player misses a jump and falls a life is lost.
+
+In the second stage the player must destroy skull flying in the air using the fuel gun. The player can try and get to the skulls following various paths in an isometric perspective, again avoiding hazards such as rolling boulders. The player can try to avoid them climbing stairs.
+
+In the third and final stage the setting is identical to the first, but now there are various monsters that will attack the player. Once all skulls are destroyed the treasure will appear at the top of the screen.
+
+The game features three possible skill levels to start with. With each recovered treasure the player starts anew but on a higher difficulty.

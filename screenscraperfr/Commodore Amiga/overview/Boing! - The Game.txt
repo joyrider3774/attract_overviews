@@ -1,0 +1,3 @@
+Boing! The Game is written in dedication to the first Amiga demo program, Boing! The Demo. Remember it? The big checkered ball bouncing in stereo, much to the amazement of everyone? Yah, that one.
+
+The game centers around Seymour Greene, a plastics engineer at a beach ball company. There are two Ã¢â‚¬Å“crittersÃ¢â‚¬Â in his world: the good, red-and-white-checkered Boing! balls, which he is to collect for points, and the evil, black-and-green-checkered balls, which for some reason not explained by modern science, are ravenously hungry. For Seymour, his only defense is to find a large needle and poke a bad ball with it, after which the needle is ruined.

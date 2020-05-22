@@ -1,0 +1,1 @@
+Zero Target (c) 1985 Data East Corp.  - TECHNICAL -  Main CPU : (2x) M6809 (@ 2 Mhz) Sound CPU : M6502 (@ 1.5 Mhz) Sound Chips : (2x) AY8910 (@ 1.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 5  - TRIVIA -  Zero Target was released in September 1

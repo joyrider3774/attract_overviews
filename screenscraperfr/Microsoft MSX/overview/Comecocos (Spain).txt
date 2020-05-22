@@ -1,0 +1,3 @@
+Comecocos can be defined, basically, as Pac-Man with new mazes. In this way, the game retains intact the original concept of the Namco's classic game, with the only addition of new mazes of crescent shapes.
+
+The game doesn't let you modify any parameters - in fact the main (and only) menu only have two options: play and exit. At least the game saves the ten best scores in a high score table.

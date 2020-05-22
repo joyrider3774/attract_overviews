@@ -1,0 +1,3 @@
+The NES version of King's Quest V retains the icon-based interface and most of the locations, puzzles, and dialogue from the earlier release. Graphics had to be re-drawn with less colors and detail to fit within the restrictions of the hardware, and the artwork in many areas is different.
+
+This version removes most alternate solutions to puzzles and does not allow many actions that would render the game unwinnable. It also shortens and eliminates several scenes; for example, it is impossible to revisit the wizard in the first house. A few locations (such as the desert) are smaller. Some death sequences have been removed or modified not to include words related to death; also, some text descriptions were altered.

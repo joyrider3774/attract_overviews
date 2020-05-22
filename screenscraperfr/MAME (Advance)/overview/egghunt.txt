@@ -1,0 +1,1 @@
+Egg Hunt (c) 1995 Invi Image.  A puzzle game.  - TECHNICAL -  Main CPU : (2x) Z80 (@ 6 Mhz) Sound Chips : OKI6295 (@ 8 Khz)  Screen orientation : Horizontal Video resolution : 384 x 240 pixels Screen refresh : 60.00 Hz Palette colors : 2048  Players : 2 C

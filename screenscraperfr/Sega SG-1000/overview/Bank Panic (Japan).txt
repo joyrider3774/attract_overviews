@@ -1,0 +1,3 @@
+Bank Panic is an arcade shooting game developed by Sanritsu and manufactured by Sega in 1984. It was later ported by Sega to the SG-1000 and Sega Master System. An unlicensed clone called West Bank was released for several home computer systems. The same hardware would also be used for the later Sega/Sanritsu game Combat Hawk.
+
+The player takes on the role of a sheriff in 19th century USA, protecting a bank from armed robbers. There are twelve doors arranged in a circle, with the player in the centre, which can be viewed three at a time. Robbers who appear from the doors are to be shot (after they draw their weapons, for a higher score) and customers are to be ignored while they make a deposit. Once deposits have been made from all twelve doors, the level is complete.

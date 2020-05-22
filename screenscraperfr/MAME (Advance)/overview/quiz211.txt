@@ -1,0 +1,1 @@
+Quiz (c) 1986 Elettronolo.  - TECHNICAL -  Main CPU : Z80 (@ 4 Mhz) Sound Chips : DAC  Screen orientation : Horizontal Video resolution : 416 x 224 pixels Screen refresh : 60.00 Hz Palette colors : 256  Players : 1 Buttons : 6  - SOURCES -  Game's rom.

@@ -1,0 +1,5 @@
+The player takes the role of Rick Swift, a fixer hired by the Defence Department for dangerous missions. The latest job is to go to an area which has been inhabited by mutated plant and animal life following a chemical accident, to recover six flask of the deadly chemicals within one hour. In order to survive Rick has been equipped with a protective suit and a jet-pack that require energy.
+
+Rick moves about the maze like environment avoiding the mutated wildlife while shooting it down. If hit by a critter it zaps the energy reserves. Several types of mushrooms can be picked up, including deadly ones who will cost you a life, magic mushrooms that teleport you to a new zones and energy mushrooms which will replenished your energy.. Smart bombs can also be picked up, which if activated will kill everything on-screen.
+
+The six flasks are scattered around the maze in different locations each time the game is played.

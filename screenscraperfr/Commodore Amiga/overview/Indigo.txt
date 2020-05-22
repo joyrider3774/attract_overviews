@@ -1,0 +1,9 @@
+The story of Indigo is quite simple. You play Jack, a young kid who loves drawing in a book the adventures of his imaginary friend Indigo. But Indigo gets trapped for some reason inside the book. It leaves no other choice to Charley but to go inside his own worlds in the hope of rescuing his friend.
+
+Indigo is a platformer where the objective is to reach the end of each level within the time limit. To open the exit, you have to find all the keys. The number of keys left is displayed in the bottom right corner of the screen. Some of the keys can be found on monsters.
+
+Controls are simple. You can walk left and right. Jump by pushing the joystick upward. While jumping, press fire to go into attack stance and land on monsters to stun them. You can then bounce on the monster until he awakens or kill him by attacking again. You can also stand beside the monster and press fire to grab him. Press fire to throw him at enemies. Some monsters can't be stunned. Also, a thrown monster will make every hidden bonus appear in its path.
+
+There are a variety of power ups you can find throughout the game. The remaining active time gauge is displayed in the top left corner.
+
+Author, Stephane Belin said: Indigo does not pretend to be the greatest game but I had a very good time creating it. I hope you'll enjoy it for what it is.

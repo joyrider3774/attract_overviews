@@ -1,0 +1,3 @@
+Ice Runner is a Platform game, developed and published by Magic Soft, which was released in Europe in 1991.
+
+Pretty decent Lode Runner variant in which you evade colour swapped clones of your player sprite, collect fruit, and then try to escape the level. I think the playability of Ice Runner is just right. On the other hand, the game lacks variety: There is only a single tile set for level graphics and there is only a single track of background music. The samples can get annoying after a while, too. You might want to turn off your Amiga's speakers and turn on some relaxing music from your stereo instead.

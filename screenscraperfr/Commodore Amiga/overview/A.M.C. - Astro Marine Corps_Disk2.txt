@@ -1,0 +1,5 @@
+AMC is a 2D game with horizontal scrolling in 2 phases (typical of Spanish games), in the same style as Gryzor. In the first phase, one plays a commando that is sent on the planet DENDAR to trap the ship of the Death Bringers, the bearers of death. There are 11 different enemies to meet you, and Krauer, the Death Bringers leader who protects the ship and is 4 meters tall.
+
+The game starts with a single shot, then the weapon is expanded over the game, we pick up weapons more and more powerful. Note that the contents of the crates sent from the sky by the Astro Marine can be changed by the Death Bringers, so you can die suffocated by green carnivorous plants.
+
+Phase 2 of the game takes you to the Death Bringers ship that drops you on their planet, and you have to exterminate them in a limited time, and contains 13 different enemies and the end boss, Great King Alien.

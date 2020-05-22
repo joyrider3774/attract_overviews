@@ -1,0 +1,9 @@
+Face Off is a 4-player overhead-view hockey game, featuring 8 countries:
+U.S.S.R.
+CANADA
+SWEDEN
+CZEKOSLOVAKIA
+U.S.A.
+FINLAND
+FRANCE
+JAPAN

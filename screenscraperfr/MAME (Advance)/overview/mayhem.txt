@@ -1,0 +1,3 @@
+A sports game that is rather like a combination of roller derby and soccer with four goals.
+
+A ball is entered into play and you must get the ball into one of the four designated goals the one that is lit up and flashing. Your oponent is trying to do the same. You can elbow your oponent to make them lose the ball then take the ball yourself and either throw it into the goal or run right up to the goal and put it in. Points are awarded for each goal that is made.

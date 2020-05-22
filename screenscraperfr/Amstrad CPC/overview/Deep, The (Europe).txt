@@ -1,0 +1,1 @@
+Fight an onslaught of enemy submarines single-handedly in this simple shoot-'em-up. You control a boat at the top of the screen, and you must destroy the submarines using depth charges. Some submarines will release a pod when destroyed, which floats to the surface and releases a flag.

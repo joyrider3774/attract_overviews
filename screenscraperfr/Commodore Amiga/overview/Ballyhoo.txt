@@ -1,0 +1,3 @@
+Ballyhoo is an interactive fiction computer game designed by Jeff O'Neill and published by Infocom in 1985. It was released for ten different 8 and 16-bit platforms, including MS-DOS, Atari ST, and Commodore 64. It is Infocom's nineteenth game.
+
+Ballyhoo is a mystery text adventure in which you play a disillusioned circus goer who decides to help find the owner's kidnapped daughter. Gameplay involves searching for clues in the circus arena, the tents and other back areas trying to locate the girl. The game features a "Standard" difficulty level.

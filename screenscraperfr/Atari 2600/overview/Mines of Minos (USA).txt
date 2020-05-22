@@ -1,0 +1,42 @@
+You are the last mining robot on the Minos mine. Monsters have destroyed all your comrades.
+
+As the last robot, you must traverse the mine's various levels, gathering spare parts to make more robots (extra lives). You must either avoid the monsters or blow them up with a bomb. After a few seconds, if the monster hasn't hit the bomb, it will explode harmlessly. You can only drop one bomb at a time. If a monster is killed, it will regenerate somewhere in the maze.
+
+To deposit your spare parts, you must get to the center top or bottom of any level. To move to another level, hold your joystick button down while moving through the tunnels on either side. You can also use these tunnels, without holding down the button, to quickly get from left or right side of the maze to avoid monsters.
+
+To win the game, get to level five and ram each of the three stationary monsters to kill them. You will need at least two spare robots as the ramming will destroy you and the monster.
+
+In two player games, player one is the robot, player two is a monster. If the robot runs into the monster being controlled, the monster is destroyed instead of the robot. However, by pushing the joystick button, player two can switch to another monster, allowing the robot to run into an uncontrolled (and therefore deadly) monster.
+
+Difficulty switches
+Left switch for the robot, right for the monsters.
+Set to A to make half speed, B for normal speed.
+
+Game variations
+1P=one player
+2P=two player
+S=spare parts needed for spare robot
+F=mine levels flood, slowing you down if you enter the water.
+-T=cannot drop bombs in flooded areas
++T=can drop bombs in flooded areas
+I-mines are invisible except when monsters are exploding by time bomb
+
+Game 1 1P; S=3; F-T
+Game 2 2P; S=3; F-T
+Game 3 1P; S=6; F-T
+Game 4 2P; S=6; F-T
+Game 5 1P; S=3
+Game 6 2P; S=3
+Game 7 1P; S=2; F-T
+Game 8 2P; S=2; F-T
+Game 9 1P; S=3; F+T
+Game 10 1P; S=3; F+T
+Game 11 1P; S=3; F+T; I
+Game 12 2P; S=3; F+T; I
+
+Scoring
+Destroy a monster=20 points
+Pick up robot part=70 points
+Deposit robot part=lose 70 points
+
+Every 1000 points scored up to 4000 raises your power level by one unit.

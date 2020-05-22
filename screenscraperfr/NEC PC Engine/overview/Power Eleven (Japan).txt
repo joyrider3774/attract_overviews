@@ -1,0 +1,1 @@
+Power Eleven is a top-down soccer game with three playing modes: multiplayer, penalty kicks (shown from the back of the transparent goalkeeper) and a tournament mode. The latter is the main mode for solo players and features twelve national soccer teams.

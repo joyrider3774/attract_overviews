@@ -1,0 +1,4 @@
+One of many grand war simulations in Daisenryaku series, Daisenryaku for Famicom is a turn-based strategy with quite modern armies, the abstract "Blue" and "Red" countries (controlled by the player or AI), are at war with each other. Three basic phases make up each turn: production, movement and combat. Like in other Daisenryaku games, each side has to produce units such as infantry, several types of tanks, helicopters, etc. Attack is possible, when enemies are near.
+
+
+ The game includes 30 maps with varied types of locations and terrains (islands, deserts, mountains, etc.) Each terrain type has different movement and defence values. This version uses "fake hexagons" for battlefields; the hexagons are in fact squares, with six neighbours. As opposed to most other versions, it has round-based combat, i.e. a turn ends when the player has moved all the units. It also has a less complex management system than the computer versions.

@@ -1,0 +1,1 @@
+The objective of the game is to remove the blue creatures from the grid by making them drop to the bottom but make sure that the pink ones remain on the grid. On each level its game over if you lose half of the pink characters.

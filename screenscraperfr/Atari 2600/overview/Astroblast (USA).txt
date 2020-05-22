@@ -1,0 +1,1 @@
+This is the Atari version of the Intellivision game Astrosmash. There is a bug in the original release of this cartridge - when two controllers are plugged in and moved simultaneously, unpredictable graphic effects can occur, and the joysticks may stop op

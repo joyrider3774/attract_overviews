@@ -1,0 +1,1 @@
+A mahjong game utilizing prerecorded tape to show you your prizes!

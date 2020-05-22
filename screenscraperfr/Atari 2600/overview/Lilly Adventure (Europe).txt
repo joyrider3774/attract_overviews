@@ -1,0 +1,1 @@
+Lilly Adventure is a platform game released by Home Vision. The goal is to run and jump over static and moving obstacles while moving across the screen. The game is divided into several levels, with the player going from the left to the right in each level.

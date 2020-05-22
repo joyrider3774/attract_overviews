@@ -1,0 +1,1 @@
+A very refreshing combination of Tetris and mahjong; the object is to complete a mahjong hand by getting correct tiles next to each other.

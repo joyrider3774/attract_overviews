@@ -1,0 +1,7 @@
+Terrans have won the war for the Coalition, but at a terrible price. It has unleashed the powers of the Bions, warriors bred for battle and victory. After the war ended, Bions started their own war against Humanity... And humanity managed to win again, but Earth was decimated in the process. We thought we had destroyed all the Bions, but apparently we are wrong. A few Bions have survived... and they are rebuilding on the planet named Fury... As a councillor in Council of Peace, the premier peacekeeping force, you will take the advanced fighter and repel the Bion invasion, and eventually destroy the Bion threat once and for all. 
+
+Fury³ is basically a Windows adaptation of Terminal Velocity where you pilot a super fighter and kill bazillion targets from first person (default) or third-person viewpoints. The action is fast and furious, with plenty of air and ground threats plus structures to shoot. However, the player has to regulate where to shoot because a certain number of points are deducted for each shot greenery. shrub or tree.
+
+The fighter sequences are interspersed with a bit of tunnel running (inspired by Descent, no doubt) and a lot of shooting. Shoot the weapon pods to release missiles and other goodies which you can use to supplement your own ship. 
+
+The game is in full 3D without the need for a 3D video accelerator, though it only supports 320x200 resolution and preferably 256 color only.

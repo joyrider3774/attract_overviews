@@ -1,0 +1,1 @@
+Sliver (c) 1996 Hollow.  - TECHNICAL -  Main CPU : 68000 (@ 12 Mhz), I8051 (@ 8 Mhz) Sound Chips : OKI6295 (@ 7.575 Khz)  Screen orientation : Horizontal Video resolution : 512 x 256 pixels Screen refresh : 60.00 Hz Palette colors : 512  Players : 1  - SO

@@ -1,0 +1,1 @@
+Quiz Theater - 3tsu no Monogatari (c) 1994 Taito Corp.  - TECHNICAL -  Taito F3 System hardware Prom Stickers : D95  Main CPU : 68EC020 (@ 16 Mhz) Sound CPU : 68000 (@ 16 Mhz) Sound Chips : ES5505 (@ 15.23805 Mhz)  Players : 4 Control : 8-way joystick But

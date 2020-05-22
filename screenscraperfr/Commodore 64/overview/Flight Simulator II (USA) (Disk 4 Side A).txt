@@ -1,0 +1,3 @@
+This flight simulator simulates a real aircraft, the Piper PA-28-181 Archer II. For those with the knowledge, it offers practice with the variables of flight, including the avionics.
+
+The game has more features than first generation flight simulators. Pilots are expected to pay attention to small details. SubLOGIC encouraged the players to go to flight stores and purchase flight-training manuals and aeronautical charts to help them understand the variables within the program. The game is oriented toward pilots-in-training, but there are options for laymen too: an easy mode, and a slightly more detailed reality mode. These modes do not require the same level of knowledge.

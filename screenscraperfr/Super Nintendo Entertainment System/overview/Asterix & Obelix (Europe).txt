@@ -1,0 +1,3 @@
+Asterix & Obelix is a platform game where one player can choose to control either Asterix or Obelix or two players can play simultaneously. The mission of the two Gauls is to acquire artifacts from all across Europe. 
+
+The game, like the comics, is set around 50 BC. It includes some bonus levels like a rugby match and the Olympic Games in Greece. Codes are used to save the player's progress.

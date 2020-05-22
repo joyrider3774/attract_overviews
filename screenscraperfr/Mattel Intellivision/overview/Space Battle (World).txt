@@ -1,0 +1,10 @@
+5 alien squadrons are closing in on your Mother ship, you have 3 squadrons with which to defend her. Check enemy positions on Radar Screen, then dispatch your squadrons. When they reach alien squadrons, GO TO BATTLE! When the screen switches to Battle, you move the gun sight to aim and fire converging missiles. Watch out! The aliens shoot back.
+It's you against computer-controlled invaders.
+
+SPACE BATTLE can be played at 5 different speeds. Selecting a game speed takes you to Radar Screen and starts the game.
+
+BEGINNING SPEED (slow) - Press 3
+MEDIUM SPEED - Press 2
+FAST SPEED - Press 1
+ADVANCED SPEED - Press Direction Disc
+SUPER ADVANCED SPEED - Press 4

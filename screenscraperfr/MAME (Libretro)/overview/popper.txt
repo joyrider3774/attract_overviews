@@ -1,0 +1,1 @@
+In this game, you control a rabbit, whose goal is to jump to every maze in order to complete a level.

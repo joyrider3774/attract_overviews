@@ -1,0 +1,7 @@
+Power Balls is a block breaking style action game developed and published by Playmark for Arcades.
+
+When starting the game, players choose a character, which each have their own strengths and weaknesses.
+
+Players then start a stage on the left side of the screen with various objects littering the right. A ball is then hit towards the right which will damage the objects. When the ball is returned towards the player they must hit the ball back or they will lose a life.
+
+Once all of the objects are destroyed, players will move to the next stage. Every set amount of stages players will face a boss which must be hit in the same way as the obstacles.

@@ -1,0 +1,3 @@
+World Cup USA 94 is a top-down football (soccer) game recreating the namesake tournament. Beside the 24 teams who qualified for the actual World Cup, other significant footballing nations like England, France and Denmark can be drafted in.
+
+ Tackling is difficult and passing is easy, making for a flowing end-to-end style of play. The presentation of the menus is largely icon-based, with the official mascot featured prominently.

@@ -1,0 +1,1 @@
+Sudoku is the puzzle phenomenon from Japan, a game that looks like a math problem, but is in fact a twisting puzzler. The rules are simple: start with a grid consisting of nine three-by-three squares in which some of the numbers are already supplied. Fill in the blank squares so that each column, row, and three-by-three grid contains a number from 1 to 9 with none repeated.

@@ -1,0 +1,1 @@
+Cycle Shooting (c) 1986 Taito.  - TECHNICAL -  Prom Stickers : A97  Main CPU : (2x) Z80 (@ 4 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : (2x) AY8910 (@ 2 Mhz), MSM5232 (@ 2 Mhz)  Players : 1 Buttons : 1  - TRIVIA -  Cycle Shooting was released in July 19

@@ -1,0 +1,2 @@
+This is a Tetris style puzzle game by Gaelco. 
+As a player you have to complete the number of lines before time runs out.

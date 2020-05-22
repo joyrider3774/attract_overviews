@@ -1,0 +1,3 @@
+The 98 edition of the FIFA series for the Game Boy differs very little from its immediate predecessor by the same developer. It features the same isometric gameplay graphics, the same teams (51 national teams plus the all-star THQ Tornados) and the same game modes: exhibition matches, tournaments (group stage plus knockout stage), playoffs (only the knockout stage) and a league mode.
+
+Changes are an entirely new menu frontend and revised controls. In particular, the Game Boy's two buttons no longer distinguish between the strength of kicks with the choice between a goal kick and a pass depending entirely on the situation; the buttons for passes and kicks are now distinct.

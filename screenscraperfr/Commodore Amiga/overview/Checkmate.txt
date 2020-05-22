@@ -1,0 +1,5 @@
+Checkmate (or Chess Champion 2175) is the successor of Chess Player 2150. Most basic options and displaying are the same like in the predecessor. Improvements are done in the strength of the chess engine (the authors claim over 2000 ELO for the program), the usage of extra RAM for additional deep searching, a bigger opening library, the possibility to extend the opening library by the user and some improvements to the user interface.
+
+Otherwise this is a traditional full-featured chess game with all of the standard chess features. Difficulty is chosen by selecting one of four levels and then assigning a time limit for the computer to choose a move. The idea is to allow infinite degrees of difficulty. The board is rendered in 3D, and the player is able to rotate the board through any angle.
+
+The game offers options to rate the approximately ELO rating of the player by showing different board situations and judging the users solutions. This can also be used to judge the ranking of the program. During play, the program can give you tips, you can change the sides or force the computer to stop thinking and take the best move found until then.

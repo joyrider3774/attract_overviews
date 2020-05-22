@@ -1,0 +1,1 @@
+Soldam - Action Puzzle Game (c) 1992 Jaleco.  - TECHNICAL -  Jaleco Mega System 1-A hardware  Main CPU : 68000 (@ 12 Mhz) Sound CPU : 68000 (@ 7 Mhz) Sound Chips : YM2151 (@ 3.5 Mhz), (2x) OKI6295 (@ 30.303 Khz)  Screen orientation : Horizontal Video reso

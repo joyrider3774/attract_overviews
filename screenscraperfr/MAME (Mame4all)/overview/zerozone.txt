@@ -1,0 +1,1 @@
+Zero Zone (c) 1993 Comad Industry Co., Ltd.  A risque version of "Columns".  - TECHNICAL -  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 1 Mhz) Sound Chips : OKI6295 (@ 8 Khz)  Players : 2 Control : 4-way joystick Buttons : 3  - TRIVIA -  This game shar

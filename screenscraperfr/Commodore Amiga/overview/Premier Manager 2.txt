@@ -1,0 +1,7 @@
+This football management game featured all five national English leagues. You started off managing one of the teams in the Conference, and had to try to reach the Premier league and win European competitions, either by improving your current club or by doing well enough to earn job offers elsewhere.
+
+For each match you had to select the team, and choose a formation and a set of match tactics - intensity of tackling, height and length of passes, and shooting range could all be varied. In total there were almost 500 permutations of these options, as well as 18 basic formations.
+
+You could sign players from other clubs, which involved making a financial offer to both club and payer and hoping that no other club offered more. Players who's contracts had expired could be signed for no club fee - so make sure all your players are under contract.
+
+You also had to negotiate sponsorship deals, plan ground improvements, ensure that injured players got the right treatment, set up training schedules, and hire backroom staff (such as coaches and scouts).

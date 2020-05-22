@@ -1,0 +1,1 @@
+Minesweeper is a single-player computer game. The object of the game is to clear an abstract minefield without detonating a mine. The game has been rewritten for nearly every system platfor

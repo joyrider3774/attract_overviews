@@ -1,0 +1,1 @@
+A arcade game with lateral scroll of two policemen that have to recover on every stage the objects stolen by the thieves.

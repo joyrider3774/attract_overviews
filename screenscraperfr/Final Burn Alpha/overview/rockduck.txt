@@ -1,0 +1,1 @@
+Rock Duck (c) 1983 Datel.  - TECHNICAL -  Main CPU : M6502 (@ 1.5 Mhz) Sound Chips : (2x) AY8910 (@ 1.5 Mhz)  Palette colors : 8  Players : 2 Buttons : 1  - SOURCES -  Game's rom.

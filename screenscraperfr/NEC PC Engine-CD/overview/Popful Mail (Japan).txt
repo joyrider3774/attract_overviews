@@ -1,0 +1,5 @@
+The cute bounty hunter known as Popful Mail looks like she would have no trouble making a living slashing bad guys with her sword. In reality Mail is having a hard time making ends meet.  One day, however, she learns about a magician who has gone rogue and has a hefty bounty on his head. Her adventure begins as Popful fights her way through a new adventure, and makes new friends along the way.
+
+Popful Mail is a platform action game with very light RPG elements. As the heroine makes her way through the stages she collects money from slain foes. This money can be used in shops to buy weapons, armor, health, and so on. The game features interaction with many characters through both on-screen dialog and fully animated sequences. Some of these characters become playable as the player progresses through the game.
+
+This release has the same story and general gameplay style as the  earlier version, but otherwise was made from scratch, having entirely different graphics, locations, enemies, challenges, etc.

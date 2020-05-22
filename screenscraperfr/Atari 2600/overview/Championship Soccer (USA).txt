@@ -1,0 +1,4 @@
+PelÃ©'s Soccer is an Atari 2600 game based on the famous football (soccer) player PelÃ©, and published in 1981.
+
+It features basic graphics, ball handing and goal keeping techniques using the Atari joystick. Each team has one forward, two defensemen, and a goaltender on the field at all times. The player's goaltender is always controlled by the computer unless he saves a shot. Each game consists of two halves of various time lengths (depending on the game settings being used). All the forwards and backs run in their proper formation.
+There are 54 different game variations (27 single-player and 27 multiplayer) that allow for different speeds, game lengths, and goal sizes.

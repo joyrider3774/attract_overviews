@@ -1,0 +1,9 @@
+Kikstart 2 is a motorcycle trials racing videogame released for the Amiga, Amstrad CPC, Commodore 64 and ZX Spectrum. It enjoyed more success than its predecessor, Kikstart. The game allowed 2-player simultaneous (via a split-screen facility) or 1-player, vs-computer play. The game mechanics were copied into other games too, like the Game Boy game "Motocross Maniacs".
+
+The basic premise of the game is to control a bike using acceleration, braking, "hopping" and "wheelies" to navigate across a course of various obstacles, from ramps and gates to telephone boxes and tyres.
+
+The game was based on the BBC Television series Kick Start. An enhanced version was released for the Commodore 128,[1] one of the few native mode game titles for that computer.
+
+Some obstacles only allowed travel across them in certain ways. For instance, fences and wooden beams can only be navigated at low speed, without "hopping" or falling onto them. Tyres would only allow travel at high speeds, driving slowly will "throw" the rider. When a rider lands badly (i.e. with the front wheel first) or "falls off" an obstacle, they are catapulted a certain distance forward, imposing a certain time penalty because the player is not put back into the game until the screen has scrolled to a "safe" (i.e. flat) area of the course on which to restart the bike.
+
+Players can either play against their opponent in a straight-out race to the finish post, or they can "win" by aggregated finishing times. Courses are played in sets of five, denoted by a letter of the alphabet and can be edited by the player using the built-in course designer. This allowed the user to place any obstacles on a blank track and later save and share completed courses.

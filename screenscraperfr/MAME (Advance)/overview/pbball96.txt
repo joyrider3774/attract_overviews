@@ -1,0 +1,1 @@
+Jikkyou Powerful Pro Yakyuu '96 (c) 1996 Konami.  A cartoony baseball game from Konami.  - TECHNICAL -  Konami GV System hardware Game ID : GV017  Main CPU : PSX (@ 16.9344 Mhz) Sound Chips : SPU (@ 16.9344 Mhz), CD/DA (@ 16.9344 Mhz)  Players : 4 Control

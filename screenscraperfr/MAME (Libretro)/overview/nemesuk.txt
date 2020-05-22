@@ -1,0 +1,1 @@
+Nemesis (c) 1985 Konami.  European version. For more information about the game, please see the "Gradius" entry.  - TECHNICAL -  Game ID : GX400  Main CPU : 68000 (@ 9.216 Mhz) Sound CPU : Z80 (@ 3.579545 Mhz) Sound Chips : (2x) AY8910 (@ 1.789772 Mhz), K

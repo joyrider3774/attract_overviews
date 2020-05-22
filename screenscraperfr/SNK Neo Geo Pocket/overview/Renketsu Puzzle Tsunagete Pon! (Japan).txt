@@ -1,0 +1,1 @@
+Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.

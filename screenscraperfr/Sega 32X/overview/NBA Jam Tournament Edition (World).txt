@@ -1,0 +1,9 @@
+This game lets you play two-on-two arcade basketball with players from all the NBA teams. Gameplay is fast and action-packed, with few rules, no fouls, and deliberately unrealistic slam dunks. Players are rated on eight ability categories, from steals and blocks, to dunks and 3-pointers.
+
+Up to four players can take play with AI for missing players. 2v2 and 2v1 are supported.
+
+The Tournament Edition ups each team's roster to three players, and allows for substitutions between quarters. Players can now be injured requiring them to be subbed out to let them recover. 
+
+Aside from the usual secret characters and cheat modes, Tournament Edition also includes "Hot Spots", "Powerups", "Juice Mode" and "Tournament Mode".
+
+Winning Tournament Mode also unlocks a higher CPU difficulty level.

@@ -1,0 +1,27 @@
+You are a secret agent sent on an important mission to recover enemy documents. There are enemy assassins trying to stop you.
+
+You move the joystick to move your character, left or right. Press the button to fire. You fire in the direction you are moving. When you are next to an elevator, you will automatically board it when it gets to your level unless your are pushing towards it, in which case you will walk across it. 
+
+If you are on the same level with an assassin and there is no elevator between you, you can shoot him. If he shoots at you, you can pull down on the joystick to duck. You cannot shoot while ducked. If the assassin shoots or touches you, you lose a life.
+
+Difficulty switch
+A=Enemy shots travel the length of the screen
+B=Enemy shots only travel half the screen's length
+
+Scoring
+Agent travels all floor levels, top to bottom or bottom to top=3,000 points
+Shooting an assassin=250 points
+Assassin is riding elevator when shot=75 bonus points added to assassin shooting points
+
+You get an extra agent every 10,000 points.
+
+Game variations
+Games 1-1, 1-2, 1-3, 1-4, 1-5, and 1-6=One player
+Games 2-1, 2-2, 2-3, 2-4, 2-5, and 2-6 =Two players
+
+Assassin speed and intelligence:
+at Level 1 in games 1-1, 1-4, 2-1, and 2-4
+at Level 2 in games 1-2, 1-5, 2-2, and 2-5
+at Level 3 in games 1-3, 1-6, 2-3, and 2-6
+
+There are invisible assassins in games 1-4, 1-5, 1-6, 2-4, 2-5, and 2-6.

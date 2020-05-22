@@ -1,0 +1,3 @@
+1989 saw the release of Terror Liner on the Amiga systems, a Qix variant, developed and released by Wolf in Europe.
+
+Terror Liner is a Qix variant. The basic playing principle: the player controls a spider-like character which can draw lines on the screen and when a closed figure is drawn, the colour of the area changes. Additionally there are enemies, either confined to the uncoloured or coloured areas, which cause the player sprite to die if touched. The goal is to colour 75% of the screen.

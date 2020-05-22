@@ -1,0 +1,3 @@
+A Zelda clone action-RPG hybrid which stars you as a Valkyrie that sets out to rid the magical lands of Valhalla from evil and recover the magic key of time, stolen by a mad god.
+
+Gameplay follows the same top-down action-RPG rules as Zelda, with added niceties such as a life bar for most enemies and different stat upgrades when leveling up depending on your choice of star sign and blood group. You can purchase weapons and equipment to make your life easier (and solve some of the puzzles in the game which require specific items) but most of the game revolves around exploring the game world and slashing as many baddies as you can.

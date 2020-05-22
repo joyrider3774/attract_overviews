@@ -1,0 +1,1 @@
+Scion is a vertical scrolling shooter. Players have to shoot the alien space ships while destroying the ground structures. In order to continue on to the next scene,  the ground structures need to be completely destroyed.

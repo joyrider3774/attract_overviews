@@ -1,0 +1,3 @@
+The game can be described as upside-down space invaders. You fly your balloon from the right of the screen to the left and then appear at the right of the screen again but one block closer to the ground. You have randomly generated building which you drop bombs on to until you have destroyed them all. To stop you getting to low you have sand bags which you can drop to gain height. You also need these to dodge seagulls that are heading for your balloon.
+
+At the start of each level two, ACME construction vehicles appear and instantly build a city. The sky scrapers rise from the ground and then the lights pop on. At the end of each level a bulldozer clears the remaining rubble, and the two ACME construction vehicles appear etc.

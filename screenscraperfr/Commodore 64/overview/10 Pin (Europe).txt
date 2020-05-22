@@ -1,0 +1,1 @@
+10 Pin is a simple bowling game. By pressing a single key you choose if the ball is thrown straight, left or right and then you choose the starting point of the ball throw. Depending on your choices the ball will throw over pins and the next round begins. Two players can play alternate in throwing balls.

@@ -1,0 +1,9 @@
+Gundam, Kamen Rider V3 and Ultraman Taro are the main representatives of the 'heroes' side of the six teams in Battle Dodge Ball, with Zeong, Ikadevil and Zetton rounding out as the villains.
+
+The general gist of the game is that you can choose one of the six teams. You then fight each of the other five teams once per round in a short dodgeball game, two-on-two. Unlike normal dodgeball, you are not knocked out with a single hit. Rather, in Battle Dodge Ball, each character has a specific amount of HP. Once he takes enough hits to lose all his HP, he is out of the match.
+
+Along with HP, this trends into a general statistics system with several other stats. If you win a match, you gain a variable amount of experience points, and 15 experience points if you lose a match. You can level up your stats and make each match significantly easier over time.
+
+Your team has two players each. The Leader has the ability to make special attacks, and is generally more powerful. The follower, however, has two 'forms' or copies or whatever - an infielder who plays on the main arena, and an outfielder who stands on the lines behind the enemy side of the arena and can catch long passes and grab balls that enemies dodge. The outfielder can also return balls to you, but also throw it at the enemy players, making him potentially dangerous. Stats for the outfielder are upgraded separately from his infield counterpart.
+
+Once you play a full 10 rounds against each of the five opposing teams, the game ends.

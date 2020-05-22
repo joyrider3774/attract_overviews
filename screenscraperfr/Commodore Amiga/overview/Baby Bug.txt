@@ -1,0 +1,1 @@
+This maze game plays similar to the arcade game Lady Bug. The player takes the form of a bug that navigates a maze. A series of paddles are needed to be turned to progress. The player collect X food pellets and must avoid ants and other baddies. The player can collect hearts for extra points and letter spelling the word EXTRA for an extra life.

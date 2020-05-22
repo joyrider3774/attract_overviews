@@ -1,0 +1,1 @@
+This is a generic and very primitive mahjong game.  It  is Nintendo's second mahjong game made for the Famicom, the first titled simply Mahjong.  This game has smaller tiles than the first one but allows people to play against three computer opponents instead of one.  Both games made with a single 16kbyte PROM and 8kbyte CHROM, thus they don't use any special mapper chips.

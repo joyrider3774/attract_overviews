@@ -1,0 +1,1 @@
+Firebug is a half hearted attempt at a 3D target shooting game.  This is probably something that shouldn't have ever been attempted on the 2600, but Vidco decided to try it anyway.  The result is a game that looks decent, but plays horribly.  The goal of the game is to have your wizard create and shoot a fireball at the catapult that movies across the top of the screen.

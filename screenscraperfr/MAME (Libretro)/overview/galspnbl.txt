@@ -1,0 +1,1 @@
+Gals Pinball (c) 1996 Comad.  A video-pinball game with girls... lots of girls.  - TECHNICAL -  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 4 Mhz) Sound Chips : YM3812 (@ 3.579545 Mhz), OKI6295 (@ 8 Khz)  Screen orientation : Vertical Video resolution

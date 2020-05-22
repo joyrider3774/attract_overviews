@@ -1,0 +1,1 @@
+Quiz Ghost Hunter - The Quiz Adventure (c) 1994 Sega.  - TECHNICAL -  Sega System 24 hardware  Main CPU : (2x) 68000 (@ 10 Mhz) Sound Chips : YM2151 (@ 4 Mhz), DAC  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Developed by C.P. Brain.  Re

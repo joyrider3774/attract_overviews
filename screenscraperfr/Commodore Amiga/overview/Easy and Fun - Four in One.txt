@@ -1,0 +1,7 @@
+Slotcars is similar to 'Dodgem', except you must shoot the drone car before it shoots you. Steer with joystick and fire button to fire.
+
+Circuit mania is similar to 'Barrier', where you must avoid walls left behind both your and the drone's car, the first one to crash loses. Attempt to trap your opponent without getting trapped yourself.
+
+Shuffle puzzle is as the name suggests, with 6 different puzzles to choose from. Use mouse to select, left click to move piece.
+
+Follow that tune is an unusual version of 'Simon', where you must accurately reproduce the notes played first by the computer. Use mouse to aim cursor at the appropriate mushroom, left click for decision.

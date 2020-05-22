@@ -1,0 +1,6 @@
+Backgammon is a Board game, developed and published by Magic Soft, which was released in Europe in 1991.
+
+This is a computer version of the classic board game. However, it only allows to play against the AI with ten competence levels. The gameplay offers no surprises in comparison to the original, but there are a few additional features like the option to undo a move, a in-game help function and replay. A speciality is that the player can manually set the AI's dice throw instead of relying on the random generator.
+
+Tip:
+To move on beyond the title screen, click LMB and RMB simultaneously.

@@ -1,0 +1,1 @@
+A side scrolling beat-em-up that uses Japanese superhero-type characters. Characters are able to throw and break background objects and use them against their enemies. The goal is to progress past the end-of-level bosse

@@ -1,0 +1,1 @@
+Marine Date (c) 1981 Taito.  - TECHNICAL -  Main CPU : Z80 (@ 2.5 Mhz)  Players : 2 Control : trackball Buttons : 1  - TRIVIA -  Released in June 1981 in Japan.  - SOURCES -  Game's rom. Machine's picture.

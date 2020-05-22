@@ -1,0 +1,1 @@
+Gardia is extremely similar to Namco's Xevious. The player controls a space ship capable of firing at air targets with one button, and ground targets with another. There are weapon powerups and end bosses.

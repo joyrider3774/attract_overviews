@@ -1,0 +1,10 @@
+The main idea of this game is that players take control of a football team and have the task of trying to score a touchdown before the clock runs out.
+
+Players start out as a high school team. Games consists of two halves. One touchdown must be scored before time runs out in each half or the game is lost. After a touchdown is scored, the half ends and the 2nd half of the game starts. If the player scores in both halves, they win the game, and then move on to the next level of difficulty. Difficulty levels after high school go from college, pro, then to super. The higher the difficulty, the less amount of time is given for a player to score a touchdown.
+
+Since the game is concerned with scoring touchdowns, in the 1 player game the player is always on offense. Players can score points for completing passes and for gaining yards by either rushing or passing. Scoring a touchdown also adds to the players score, as does any remaining time on the clock after the touchdown is scored. Also after a touchdown, the player can add on to their score by kicking an extra point. 
+
+Other rules on the field include getting a 1st down to add time to the clock. If the player throws an interception or go four downs without getting a 1st down, they are penalized yards.
+
+
+In a 2 player game, the second player plays defense until it's their turn to play offense.

@@ -1,0 +1,3 @@
+Ninja Mission is a side-scrolling beat-'em-up game consisting of a succession of fights, in which you (surprisingly) play a ninja whose job it is to go through the playfield and kill everyone in your path. You are also equipped with a dagger and a shuriken which you can hurl at your enemies.
+
+You must also collect "idols" which are left lying around, which will reinvigorate you, as well as grant you further points. Once you collect all of the idols, you have won the game.

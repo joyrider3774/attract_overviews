@@ -1,0 +1,25 @@
+In this game, you play as Stevie and Nancy.
+
+The Music Machine moves back and forth at the top of the screen, dropping symbols that represent good qualities (Fruits of the Spirit). You have to catch these in you basket. Once you have caught one of each of the other symbols, then the heart (representing love) comes down. You MUST catch the heart to end the round and go to the next round. If you miss the heart, you lose a life.
+
+Just under the Music Machine is Mr. Pims. He tries to mess you up by dropping down his assistants, the Pudgeons. If you catch a Pudgeon, you lose a life.
+
+The symbols and what they represent are:
+Heart=Love
+Snail=Patience
+Lamb=Gentleness
+Mustard Seed=Faith
+Music Note=Joy
+Harp=Peace
+Gift=Kindness
+Angel=Goodness
+Stop Sign=Self-control
+
+The points vary per level. They are:
+Level........................1......2.....3......4.......5......6.......7.......8........9......10
+Catch symbol=........10...15....20....30.....40....50.....60.....70.......80.....90
+Miss symbol=.........-5....-8....-10...-15...-20....-25....-30....-35.....-40.....-45
+Catch love=.........100..200..300..400..500...700..1000..1400..2000...2500
+Catch Pudgeon=-100.-200.-300.-400.-500.-700.-1000.-1400.-2000.-2500
+
+You get a bonus basket at 10,000 points if you have less the three in reserve.

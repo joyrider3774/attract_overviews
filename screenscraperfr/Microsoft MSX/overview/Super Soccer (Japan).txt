@@ -1,0 +1,1 @@
+Super Soccer is a soccer (football) game for two players or one player against the computer. The game features throw-ins, goal kicks, corner kicks, penalty kicks and a side-on view of the field which scrolls to follow the action. There is a referee but no tournament mode and the duration of match can not be set.

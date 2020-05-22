@@ -1,0 +1,3 @@
+This Breakout clone for the Nintendo DS offers touch screen controls for directing your bat. As well as a traditional "Tokoton mode" offering 50 screens of bricks to destroy, it also offers over 3 million random levels to go for a high score. There is also "Quest mode" where you fight through 12 levels and face 8 bosses. Finally "Survival mode" where 8 bats attempt to knock balls at each other's weak point to defeat them.
+
+Power-ups are available in Tokoton mode but you select which 4 you wish to use out of a total 8, including bat lengtheners and weapons. It also offers up to 8 player single or multi-card play locally for Quest and Survival mode.

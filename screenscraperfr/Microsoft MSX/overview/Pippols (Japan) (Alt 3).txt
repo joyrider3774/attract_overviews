@@ -1,0 +1,3 @@
+You are Pippols, a brave boy, who is seeking the Holy Gem to bring back light to the world. Watch out as the fairies of darkness will try to stop you in your journey across the various countries of the world of Magic.
+
+Pippols is a vertically scrolling shooter in which you take control of a lad who navigates what seems to be a garden and shoots hearts at enemies. The screen is divided into five vertical paths by rows of flowers (or other shrubbery and obstacles in later stages). Within the path the protagonist can move freely up and down, but to change the path he needs to jump left or right if there is an opening. You can collect coins and various power-ups as you go. At the end of a stage you can choose one of the branching paths to advance to a different stage.

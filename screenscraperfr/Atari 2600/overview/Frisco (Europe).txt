@@ -1,0 +1,3 @@
+This game is based on the code of Pac-Man.
+
+It's still not known where the initials R.J.P.G. stand for.

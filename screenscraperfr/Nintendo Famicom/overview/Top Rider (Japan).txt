@@ -1,0 +1,2 @@
+Top Racer is a motorcycle racing game from a behind-the-bike perspective. The player can choose from two modes: Grand Prix, in which the player partakes in several consecutive races and Touring, in which the player can choose one of four courses for a single race.
+The game is notable for its unusual peripheral: An inflatable motorcycle with a special handlebar controller built-in. The player can sit on the peripheral once fully inflated and use the handlebars to control the on-screen bike.

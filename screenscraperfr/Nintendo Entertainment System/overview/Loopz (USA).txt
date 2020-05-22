@@ -1,0 +1,3 @@
+A puzzle game where the main goal is to make loops! Random pieces are presented over a board, including simple lines and corners as well as S bends and other warped shapes, of varying sizes. It is up to the player to link them up in a loop form, then moving on to the next level. Pieces can be placed on any empty space on the grid, and rotated into one of the four main compass directions.
+
+Any pieces which are not part of the finished loop when a level is completed are left on the screen, so there is value in playing towards 2 distinct loops, to ensure that you have options depending on which pieces are drawn - unlike Pipe Dream there are no clues as to which pieces are coming next..

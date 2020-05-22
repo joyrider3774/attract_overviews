@@ -1,0 +1,1 @@
+Palamedes (c) 1990 Taito.  - TECHNICAL -  Taito L System hardware Board Number : K1100610A Prom Stickers : C63  Main CPU : Z80 (@ 6 Mhz) Sound Chips : YM2203 (@ 3 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in October 1990

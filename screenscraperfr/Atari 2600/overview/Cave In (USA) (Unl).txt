@@ -1,0 +1,22 @@
+An Adventure type game created by Steve Engelhardt in 2009.
+
+Here are the differences between the three difficulty levels:
+
+Game 1 - Beginner
+Enemies move at normal speed and never have a fast attack
+No health reduction when changing rooms
+Keys are always hidden in the same rooms
+You start out with your gun, and you will never lose it.
+
+Game 2 - Intermediate
+Enemies move at normal speed with occasional fast attacks
+1 point health reduction when you change rooms only after you are down to 3 health blocks left
+Key locations are randomized
+You start out with no gun - you will have to find it, either in the hidden room or dropped by an enemy.
+
+Game 3 - Advanced
+Enemies move at top speed all the time
+1 point health reduction when you change rooms at all times
+Key locations are randomized
+You start out with no gun - you will have to find it, either in the hidden room or dropped by an enemy.
+Falling rocks in the locked caves will fall twice as fast

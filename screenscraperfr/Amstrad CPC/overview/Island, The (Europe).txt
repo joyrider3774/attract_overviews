@@ -1,0 +1,4 @@
+The Island is a traditional text adventure where you as the protagonist have survived a plane crash into the ocean and wound up on a nearby island. The island is the tip of a once mighty volcano, surrounded by a chain of further volcanoes. The objective is to escape to civilisation alive.
+It is mostly known for its lengthy maze sections and the obligatory treasure hunt which did little to set it apart from its contemporaries.
+
+Player interaction is via simple verb/noun commands and there are no graphics to illustrate the game.

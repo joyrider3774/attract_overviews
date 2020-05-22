@@ -1,0 +1,3 @@
+Nice de Shot is a golf game from Magical Company, released on the Super Famicom in 1994. The game supports up to two players who compete on eighteen different courses. A single-player option, in which the player goes through each course sequentially, is also available. Each course takes place in a different part of the world, and tends to include unusual features like ice, stalagmites and other unlikely obstacles.
+
+The game uses a rudimentary polygonal landscape to convey the lay of the land to the player, though this increases the loading time in many parts of the game as the topography has to be loaded in every time it shifts, either after a shot or while adjusting the camera to aim the ball a different direction.

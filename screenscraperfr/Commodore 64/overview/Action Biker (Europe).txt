@@ -1,0 +1,1 @@
+The player controls the protagonist Clumsy Colin who rides a motorbike and has to navigate a landscape to extra equipment to improve the bike. Once all pieces are collected the player performs a final drag race. There is a time limit, and the player also has a limited number of lives reduced by crashing into background objects.

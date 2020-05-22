@@ -1,0 +1,7 @@
+Draggy And Croco is a Platform game, developed by World Software and published by Horn, which was released in Europe in 1996.
+
+Draggy and Croco is a timed arcade game for up to two players. The main goal of the game is the victory with the evil dwarfs wizard, called Mot. To do so the player has to collect all letters on the board in a particular order (according to the password, which has to be guessed), kill all the hostile creatures and reach the vehicle before the time runs out. The player may choose between two heroes - dragon and crocodile.
+
+The game is divided into 5 big stages, each consists of eight standard boards plus one with a final level boss. After each stage the player receives a password and may exchange acquired coins for some useful items, such as bombs or extra lives. In addition there is a 30 seconds mini game involving catching the specific quantities of ripe apples falling from the trees.
+
+If you see a screen telling you "Za malo pamieci", you are out of memory. Disable all additional drives except DF0: or add more memory.

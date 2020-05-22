@@ -1,0 +1,1 @@
+Mystic Defender [Mega-Tech 27] (c) 1989 Sega.  - TECHNICAL -  Cabinet dimensions : Width : 53 cm. Depth : 76 cm. Height : 176 cm. Weight : 113 Kg.  Sega Mega-Tech hardware Game ID : Mega-Tech No. 27  Main CPU : 68000 (@ 7.670442 Mhz), (2x) Z80 (@ 3.57954

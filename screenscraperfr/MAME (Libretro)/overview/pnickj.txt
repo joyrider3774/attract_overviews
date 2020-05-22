@@ -1,0 +1,1 @@
+A falling blocks game released only to arcades. Like-colored blocks merge together and more points are awarded for larger masses.

@@ -1,0 +1,1 @@
+Meteoric Shower is essentially a clone of Space Invaders, Galaxian and Galaga, but it introduces several new concepts: Your ship can move in all four directions, it flips upside down when moving down, and enemies can attack from both above and beneath your ship.

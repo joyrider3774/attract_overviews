@@ -1,0 +1,1 @@
+Mahjong with a pachinko bonus game playable during each mahjong hand.

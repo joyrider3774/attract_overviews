@@ -1,0 +1,3 @@
+What you get from TopDown is a hog standard Pacman clone with very few frills. You use joystick or cursor keys and troll off round a whole bunch of mazes - you get 50 on the disc - while being pursued by some arthritic ghosties. Yup, there are dots, power pills which give you the ability to put the ghosties out of their misery, and wraparound corridors that'll take you from one end of the screen to the other.
+
+Gameplay, when you get down to it, is not particularly fast or startlingly responsive. So far, so standard, but the redeeming feature of Footman is the comprehensive Maze Editor. This lets you design your own mazes in which to weeble, providing all sorts of opportunities to shock maiden aunts and generally be terribly rude.

@@ -1,0 +1,5 @@
+The player takes control of a soldier who is dropped off onto an island and must fight his way through hordes of enemy soldiers until he gets to the final showdown in order to protect Mother Earth from the invaders.
+
+Gameplay consists of moving forward and blasting all the enemies who get in the way. The player starts out with a normal gun, but can find other weapons throughout a level, such as a flamethrower or a laser gun. While the normal gun has an infinite amount of bullets, the other types of weapons will eventually run out of ammo. With these weapons, the player can shoot either straight, up, or on a diagonal. The player will also have the opportunity to commandeer a vehicle, which they can also fire bullets from.
+
+The player starts with 5 lives and 3 continues. Each of the stages must be defeated in a certain amount of time or the player loses one of those lives.

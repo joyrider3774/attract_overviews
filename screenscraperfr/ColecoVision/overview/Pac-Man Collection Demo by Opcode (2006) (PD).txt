@@ -1,0 +1,7 @@
+The refinements of dot choming lead to high scores as hungry Pac-Man avoids ambush by voracious goblins.
+When Pac-Man gulps an energy dot, he can turn the tables and eat everything in sight...
+
+That includes yummy bonus nuggets, sending scores into the thousqands.
+
+But goblins won't allow themselves to be gobbled for a long;
+and soon become their old selves, fast and sneaky, to try to put an end to Pac-Man's three lives.

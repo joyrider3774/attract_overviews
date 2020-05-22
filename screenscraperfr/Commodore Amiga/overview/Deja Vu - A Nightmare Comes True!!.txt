@@ -1,0 +1,8 @@
+Deja Vu: A Nightmare Comes True!! is an Adventure game, developed by Pacesetter Laboratories and published by Mindscape, which was released in 1986.
+
+Deja vu is a most unusual adventure, driven almost exclusively by joystick. Nevertheless, it is a text adventure, not an arcade adventure! Let me explain.
+The screen consists of three main windows. The graphics window shows a pictorial representation of the current location. A window below it conveys the text narrative, plus any messages in response to commands like EXAMINE. The inventory window, to the right, is used to deposit objects shown in the graphics window that have been TAKEN. Above these windows is a collection of verb boxes, and below the inventory window is an exits window.
+
+The plot is that of a mystery thriller. Finding yourself in the toilet cubicle of JoeÃ¢â‚¬â„¢s Bar after closing time, you have suffered a total loss of memory. Locked doors prevent you from escaping, and soon you stumble upon a corpse in an upstairs office. His face is vaguely familiar, but you cannot quite place him. Are you being framed for the murder Ã¢â‚¬â€œ or did you actually commit it? You do no know, and you cannot remember.
+
+For something different, Deja vu is worth trying, and in any event, makes a worthwhile adventure

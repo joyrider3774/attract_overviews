@@ -1,0 +1,1 @@
+Teki-Paki (c) 1991 Toaplan.  - TECHNICAL -  Game ID : TP-020  Main CPU : 68000 (@ 10 Mhz) Sound Chips : YM3812 (@ 3.375 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in June 1991.  This game in known in Japan and Asia as "Te

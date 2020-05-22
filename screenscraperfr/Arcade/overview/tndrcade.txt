@@ -1,0 +1,1 @@
+It has a dip switch that let the operator change the game name to 'Twin Formation'.

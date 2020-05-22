@@ -1,0 +1,1 @@
+Meijinsen (c) 1986 SNK.  - TECHNICAL -  Main CPU : 68000 (@ 9 Mhz), Z80 (@ 4 Mhz) Sound Chips : AY8910 (@ 2 Mhz)  Screen orientation : Horizontal Video resolution : 232 x 224 pixels Screen refresh : 60.00 Hz Palette colors : 32  Players : 2 Control : 8-wa

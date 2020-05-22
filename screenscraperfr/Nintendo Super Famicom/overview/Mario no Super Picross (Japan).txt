@@ -1,0 +1,5 @@
+A sequel to Mario's Picross on the GameBoy, Mario's Super Picross features the same gameplay as its predecessor. The game is played slab of stone with a grid on it. Above of every column and next to every row are numbers that acts as clues as to where a filled square is located along that column or row. The point of the game is to find all the filled squares on the grid by using your hammer and chiseling out squares that you think are filled and marking those that aren't with X.
+
+There are two different sets of puzzles available but you start off with only one, Mario's Picross, and when you completed the first level, Wario will pop in and offer you his set of puzzles. The difference between the two is that Mario's Picross have to be completed within a certain time. Every time you chisel out the wrong square, it will deduct time. If time runs out before you can solve the puzzle, it's game over. Wario's Picross are timed to see how long it will take you to complete it, but will not run out. The catch here is that you will not be notified of a wrong square.
+
+Other features includes game-saves, hints and tutorials.

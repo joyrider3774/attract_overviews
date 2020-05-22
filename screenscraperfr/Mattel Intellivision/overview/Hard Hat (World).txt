@@ -1,0 +1,3 @@
+Place your workman on the floor where the center moving scaffold is. Run to the scaffold and your workman will jump from the building to the scaffold. Pick up a pane of glass and move it into place. Complete your building before your opponent does. If your opponent is getting ahead of you, do not fret; run over to his building and knock off his panes!
+
+Programmers at Mattel Electronics came up with a series of casual games meant to be played at parties. The "Party Line" cartridge was shown at the 1984 CES but never produced.

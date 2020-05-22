@@ -1,0 +1,1 @@
+Trivia Master (c) 1985 Enerdyne Technologies.  - TECHNICAL -  Main CPU : Z80 (@ 1.5 Mhz) Sound Chips : TMS36XX (@ 0.35 Khz), Custom (@ 0.35 Khz)  Screen orientation : Vertical Video resolution : 224 x 288 pixels Screen refresh : 60.00 Hz Palette colors :

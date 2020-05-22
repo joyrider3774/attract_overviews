@@ -1,0 +1,3 @@
+Emlyn Hughes' Arcade Quiz is a game based on quiz machines found in bars and public houses. The idea is to move through ten mazes of blocks and reach the Win bar on the right of the screen. Be careful though, as the maze scrolls to the left and if your not quick enough you will reach the Lose bar on the left of the screen.
+
+When you reach the Win bar you enter a bonus game where on a time limit you have to answer as a number of questions based on how many coins you collected. Afterwards you have a choice to either cash in your money or move onto the next level which will cost you money to enter. Along with the main playing area, you can also see how much money you have and any bonuses collected.

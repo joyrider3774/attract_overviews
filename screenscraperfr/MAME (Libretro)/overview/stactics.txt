@@ -1,0 +1,1 @@
+A first-person space shooter arcade game released by Sega in 1980. It featured early 3-D effects (the entire screen mobilzes as the player aims a centred crosshair, and lasers shoot into the screen), five bases that need to be defended and can be commanded to fire shots, and an energy shield available for further protection.

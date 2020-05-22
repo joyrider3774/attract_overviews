@@ -1,0 +1,3 @@
+Sadakichi Seven: Hideyoshi no Ougon is a menu-driven adventure game that focuses on a silly James Bond style story of an evil organization known as N.A.T.T.O. (natto is a regional Japanese dish) and a chef-like spy determined to stop them. Several allusions to the 007 franchise are made throughout the game, including an opening cutscene viewed from the barrel of a gun and the hero casually tossing his hat onto a hat rack as the game begins.
+
+Besides the odd narrative elements, it plays much like any Portopia-derived adventure game: The player can interact with their environment through a list of commands on the right side of the screen and the goal is to talk to NPCs, explore the surroundings and discover clues in order to solve a mystery.

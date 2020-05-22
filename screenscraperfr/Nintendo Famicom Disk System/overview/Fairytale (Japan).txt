@@ -1,0 +1,1 @@
+A strategy game about a group of children going to battle against an army of pigs that has suddenly appeared near their village. The children and pigs take turns moving around a map before going into semi-real time turn based battles. A cute but surprisingly difficult game and the last of Soft Pro International's releases for the Famicom Disk System.

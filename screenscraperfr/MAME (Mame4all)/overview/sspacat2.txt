@@ -1,0 +1,1 @@
+Another game inspired by Space Invaders. This one is a more straightforward version, although after you finish off a rack a UFO starts working its way down; shoot it and you'll get a bonus (and maybe a free ship).

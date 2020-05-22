@@ -1,0 +1,3 @@
+What can go wrong on a scout summer camp in a dull village? A lake and forest are nearby, as is an old army base, with an old rusty tank making up for a great playground... but now it's your job to rescue a fellow Girl Guide that got trapped inside the tank!
+
+The wacky graphical style and silly jokes were obviously inspired by Day of the Tentacle. The interface is simple and the default action (out of 6 basic commands) is usually highlighted. Just like with other point'n'click adventures from L.K. Avalon, the map allows jumping between locations, saving us tedious walking.

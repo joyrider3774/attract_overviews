@@ -1,0 +1,1 @@
+Lode Runner: Lost Labyrinth is an exact conversion of the original Lode Runner. However, this version features one hundred levels which mostly differ from the original ones. Another difference is that the levels scroll.  This is a platformer in which the

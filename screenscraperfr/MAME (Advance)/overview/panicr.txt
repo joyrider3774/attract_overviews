@@ -1,0 +1,1 @@
+Panic Road (c) 1986 Taito.  - TECHNICAL -  Main CPU : V20, Z80 Sound Chips : YM2151  Players : 2 Buttons : 4  - TRIVIA -  Panic Road was released in December 1986 in Japan.  - SOURCES -  Game's rom.

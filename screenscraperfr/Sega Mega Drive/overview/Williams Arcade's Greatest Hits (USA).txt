@@ -1,0 +1,6 @@
+A collection of five classic arcade games released by Williams. The games included are:
+Defender
+Defender II (Stargate)
+Joust
+Robotron 2084
+Sinistar

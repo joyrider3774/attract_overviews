@@ -1,0 +1,3 @@
+Olivia's Mystery is a puzzle game. It features a story, told with scrolling text, that every so often segues to one of the game's puzzles.
+
+The game's puzzles resemble normal jigsaw puzzles: the player has to take several pieces, often flipping them vertically or horizontally, and place them in their correct locations on a grid. The complication is that the image is animating in a constant loop. Often, this provides a hint as to the correct orientation of the piece (if a figure is climbing a wall, for instance, all the wall pieces should be scrolling downwards), but is often used by the game to be disorienting.

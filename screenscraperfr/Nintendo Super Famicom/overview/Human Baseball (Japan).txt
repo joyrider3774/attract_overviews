@@ -1,0 +1,1 @@
+A baseball game featuring the team from the Nippon Professional Baseball league. The game uses Mode 7 to present the field stretching out from behind the batter, allowing the player to see far into the distance. It also includes a mini-map of sorts of the baseball diamond that makes it easier for the batting player to figure out who is on which base.

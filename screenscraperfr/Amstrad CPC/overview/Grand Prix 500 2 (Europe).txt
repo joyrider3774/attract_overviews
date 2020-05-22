@@ -1,0 +1,1 @@
+In this motorcycle racing game, two game modes are offered: the training mode which is played over two laps with two competitors and the racing mode which puts you against 5 opponents, one of which can be controlled by another player, over 9 laps races. The game includes 12 tracks in total.

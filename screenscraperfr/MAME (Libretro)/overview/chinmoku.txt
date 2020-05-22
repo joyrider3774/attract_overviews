@@ -1,0 +1,1 @@
+A mahjong game with a war theme and random bonus items. The 'manzu' suit of tiles are in English rather than Chinese.

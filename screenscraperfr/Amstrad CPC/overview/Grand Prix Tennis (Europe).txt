@@ -1,0 +1,1 @@
+Grand Prix Tennis allows you to play against the computer or another player in a five set game of tennis. The court is shown on the whole screen at an isometric angle and all the rules and scoring follows the actual game of tennis closely. There are five skill levels that can be selected at the start of the game (one - five).

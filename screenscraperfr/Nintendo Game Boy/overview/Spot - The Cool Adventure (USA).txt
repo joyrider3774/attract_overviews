@@ -1,0 +1,1 @@
+The game structure is based on M.C. Kids; although the map screen closely resembles Super Mario Bros. 3. Getting hit causes players to lose health. In addition to avoiding enemies, Spot can either jump or collect blocks that are need to collect hard-to-reach spots and hearts.

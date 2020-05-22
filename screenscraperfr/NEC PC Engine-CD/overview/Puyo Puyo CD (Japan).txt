@@ -1,0 +1,1 @@
+Classic Tetris-style puzzle game where you compete against opponents by grouping together coloured blobs that drop down from the top of the screen.

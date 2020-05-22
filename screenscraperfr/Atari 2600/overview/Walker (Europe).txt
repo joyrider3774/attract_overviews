@@ -1,0 +1,3 @@
+The goal of this is just as banal as the English title itself: You walk down the street and have to reach the other end of the screen before you run out of time. This is not displayed in the form of bars, but by the number of points. With every second that passes, points are consistently deducted, and if this goes down to zero, the game ends.
+
+However, motivation reaches its zero before the end of the game, because after half a minute you have seen everything in the game. If the first screen is still empty, you will find in the second a standing policeman, who has to be skipped. In the third section, there are already two and so on. The boost is that the sergeants move until the game starts over after six screens. The sole change is the faster elapse of the time pad.

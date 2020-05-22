@@ -1,0 +1,1 @@
+Qwak (c) 1982 Atari.  - TECHNICAL -  Main CPU : M6502 (@ 1.512 Mhz) Sound Chips : (2x) POKEY (@ 1.512 Mhz)  Screen orientation : Vertical Video resolution : 240 x 256 pixels Screen refresh : 60.00 Hz Palette Colors : 16  Players : 1 Control : 8-way joysti

@@ -1,0 +1,5 @@
+Super Uno is a card game for the Super Famicom and a recreation of the popular card game Uno. The player has a number of customization options for the number of players, special rules and other features. The game also has a bright cartoony style and a number of anime portraits for the player(s) to use.
+
+As with the original card game, the goal is to be the first to play all the cards in the player character's hand. Each player can only play a card if it has the same number or color as the current card on the discard deck, otherwise they need to collect a new card. There are a number of exceptions, such as the Wild Card that can change the color in play. Other cards can put the player's opponents in dire straits, forcing them to add more cards to their deck and reversing the turn order.
+
+The game was released exclusively in Japan for the Super Famicom by Tomy Corporation. Tomy licensed the Uno brand from rival toy giant Mattel.

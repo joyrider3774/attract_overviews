@@ -1,0 +1,1 @@
+This is based on air hockey, except that you shoot at the puck to make it move. The goalmouth is quite narrow, and your finger will probably become sore as you frantically unleash a hail of bullets at the puck. The first person to score a set number of goals wins the game.

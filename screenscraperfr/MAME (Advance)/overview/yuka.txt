@@ -1,0 +1,1 @@
+Yu-Ka (c) 1999 Yubis.  - TECHNICAL -  Main CPU : Z80 (@ 8 Mhz) Sound Chips : ST0016 (@ 8 Mhz)  Screen orientation : Horizontal Video resolution : 1024 x 1024 pixels Screen refresh : 60.00 Hz Palette colors : 1025  Players : 1  - TRIVIA -  Developed by T.

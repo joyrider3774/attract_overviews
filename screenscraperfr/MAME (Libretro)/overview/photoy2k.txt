@@ -1,0 +1,1 @@
+Photo Y2K (c) 1999 IGS.  - TECHNICAL -  IGS PGM hardware  Main CPU : 68000 (@ 20 Mhz) Sound CPU : Z80 (@ 8.468 Mhz) Sound Chips : ICS2115 (@ 8.468 Mhz)  - TRIVIA -  Released in June 1999.  - UPDATES -  * V102 * V104 * V105  - SERIES -  1. Photo Y2K (1999)

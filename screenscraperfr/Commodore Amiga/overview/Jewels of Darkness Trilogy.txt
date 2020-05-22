@@ -1,0 +1,5 @@
+1986 saw the release of Jewels of Darkness on the Amiga system, a Text Adventure game with still pictures created by Level 9 and distributed by Firebird in USA and Rainbird in the rest of the world.
+
+Originally conceived in 1983 by Level 9 as the Middle-Earth trilogy, the standalone 8-bit releases of Colossal Adventure, Adventure Quest and Dungeon Adventure were enhanced and published in this renamed compilation Jewels of Darkness.
+
+The Amiga version is the update of the original text-only Middle Earth Trilogy. Jewels of Darkness enhances the original text-only incarnations released for 8-bit platforms by adding graphics, more extensive text descriptions, an extended parser that understands many more commands and other user-friendly features. The subsequent games in this trilogy are full of illogical puzzles and paper-thin plots, although Dungeon Adventure does add a D&D style magic system to make it more interesting. These games originally had references to Lords of the Ring novels that were later removed, possibly to avoid charges of copyright infringement.

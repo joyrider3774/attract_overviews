@@ -1,0 +1,1 @@
+An educational game consisting of four different mini games. The minigames included are: Division - Players control a man in front of a building which has several doors. Entering a door will bring the player to a separate room where they have to try and l

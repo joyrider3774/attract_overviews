@@ -1,0 +1,3 @@
+Space Armor is a 1984 shoot-'em-up game developed and published by Tsukuda Original. It was built with the Othello Multivision in mind, but like all Multivision games, is also compatible with the SG-1000. Space Armor was not released outside of Japan.
+
+The game is built similarly to Namco's Xevious, in that it is a vertical shooter where one button fires at flying targets and the other at ground targets.

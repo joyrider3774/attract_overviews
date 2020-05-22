@@ -1,0 +1,1 @@
+A strategy warfare game that takes place on a hex grid.

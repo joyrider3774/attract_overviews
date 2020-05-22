@@ -1,0 +1,1 @@
+Backgammon is a straightforward backgammon simulator that allows up to two players to compete in backgammon matches. The game has a tutorial that explains how backgammon is played and offers single-player Match Play (one-off) and Tournament (multiple matches) modes. There is also the requisite two-player mode in which two human players take turns.

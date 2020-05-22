@@ -1,0 +1,3 @@
+Explosive Breaker is a up-scrolling space themed shoot 'em up game where you take control of one of six different pilots and their ships. The pilots are Jean, Nigel, Steel, Mai, Mifune and Hanse, each having their own distinct weapons pattern.
+
+You fight a variety of spacecraft's, static guns and bosses. While playing destroyed enemies drop power-ups. These include: A front weapon power-up (P), missiles (M), homing missiles (H), some kind of flouting bombs (C), Side weapon (S), extra big bomb (B) and instant Max power (P in block).

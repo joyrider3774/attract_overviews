@@ -1,0 +1,1 @@
+The game starts on a world map, which contains 22 castles. The player's main goal is to move the character through the various castles to ultimately arrive at the main castle fortress on the right side of the map. Each castle has multiple rooms, traps and floors. The map and routes change every time a new game is started

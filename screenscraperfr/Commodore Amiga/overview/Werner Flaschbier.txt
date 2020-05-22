@@ -1,0 +1,11 @@
+Werner Flaschbier is a PD/Freeware Maze game, developed by Level Four and published by Alpha Flight, which was released in Europe in 1989.
+
+
+
+The player takes control of big nosed Werner (a popular comic character in Germany) who struggles to retrieve beer bottles whilst avoiding falling boulders and getting stuck. The game plays similar to classic 2D platformers Boulder Dash and Mr.Do upon which Werner is based. The name of the game 'Flasch Bier' translates loosely to Bottle O' Beer.
+
+
+
+Cheats:
+
+On the title screen, hold down the RIGHT MOUSE BUTTON, LEFT MOUSE BUTTON, and press 'SPACE'. The game will start the 1st level and at the bottom of the screen the message TRAINER ACTIVE will appear. Push up on the joystick to select level and press fire to try the level.

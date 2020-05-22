@@ -1,0 +1,1 @@
+Star Sweep (c) 1997 Axela.  - TECHNICAL -  Namco System 11 hardware Game ID : STP  Main CPU : PSX (@ 16.9344 Mhz), M37702 (@ 16.384 Mhz) Sound Chips : C352 (@ 16.384 Mhz)  Players : 4 Control : 8-way joystick Buttons : 3  - TRIVIA -  Released in July 1997

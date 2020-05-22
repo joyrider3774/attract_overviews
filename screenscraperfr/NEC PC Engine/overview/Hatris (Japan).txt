@@ -1,0 +1,1 @@
+In Hatris, the falling blocks of Tetris are replaced by falling hats which are top hats, cowboy hats, baseball caps, derbys, party hats and crowns. The setting is a hat factory, where hats are dropped down from a conveyor belt two at a time and must be st

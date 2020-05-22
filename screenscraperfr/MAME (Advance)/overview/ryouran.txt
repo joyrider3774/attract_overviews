@@ -1,0 +1,1 @@
+A joystick-controlled mahjong game with selectable characters and anime sequences.

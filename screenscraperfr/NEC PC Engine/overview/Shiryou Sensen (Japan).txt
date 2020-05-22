@@ -1,0 +1,5 @@
+This version of Shiry Sensen: War of the Dead can be described as a cross between the MSX and the PC-88 releases. 
+
+Similarly to the original MSX release, guns require ammunition, battles have backgrounds, several enemies may attack at once, and it is possible to leave the side-scrolling battle area (which became larger in this release) by walking to its edge. However, map layout and locations are almost identical with those of the PC-88 version, hence being completely different from those of the MSX release.
+
+The most significant change - which is unique to this version - is the addition of a RPG system. Whereas in the two other versions the battles didn't serve any other purpose but challenge the player and impede the progress of the story, in the PC Engine (TurboGrafx-16) release they are essential to Laila's character growth. Like in most RPGs, Laila can now gain levels, which enhance her parameters and make her stronger in combat. When defeated, enemies leave orbs of various colors and chests; these serve to heal Laila, grant her experience points, "mind points" (to replenish her psychic abilities), or ammunition for the firearms.

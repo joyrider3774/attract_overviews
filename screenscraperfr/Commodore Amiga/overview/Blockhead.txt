@@ -1,0 +1,5 @@
+Blockhead is an Puzzle game, developed by Applaud and published by Islona, which was released in Europe in 1997.
+
+Blockhead is a puzzle game similar to Sokoban. The player controls a character called Bertie from a top down perspective who has to push and pull boxes into their holes. Once all boxes have been placed correctly an exit opens that Bertie has to reach to end the level and move on to the next. The game is timed.
+
+On the right side of the screen is a character called Petrified Pete who above him has a falling 16 ton weight. The player has to complete the level before the weight crushes Pete. If failing to so a life is lost and the current level has to be restarted. As the weight falls it changes from gold to silver to bronze. The higher value it has when the level is completed the more points will be earned. Another way to earn extra points is to collect the fruit (bananas, apples, oranges) and hidden jewels that are scattered around the levels. Blocks can have different colors and they then has to be pushed to holes with the same color. Some levels have dynamite that is needed to blow up certain walls.

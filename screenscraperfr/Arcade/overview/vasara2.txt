@@ -1,0 +1,3 @@
+Vasara 2 is a 2D arcade shoot-'em-up in bullet hell/danmaku style, and a sequel to Vasara. Like in the first game, the action takes place in alternate Japan (science fantasy + Sengoku period), and Oda Nobunaga is the main enemy. The player can select one from four characters: Takeda Nobukatsu, Momochi Sandayu, Seiryubo and Akechi Mitsuhide (there's also one hidden character, Saika Magoichi).
+
+Game's danmaku style is simple - fly forward, shoot enemies, collect points and weapon's upgrade, dodge myriad bullets and defeat giant bosses. Vasara 2 has one unique feature, direct contact with the enemy is not deadly - the player is only slightly repelled.

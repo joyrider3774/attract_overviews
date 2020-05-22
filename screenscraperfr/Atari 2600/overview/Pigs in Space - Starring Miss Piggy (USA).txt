@@ -1,0 +1,30 @@
+Now it's time for...PIIIIIIGS IN SPAAAAACE!!!
+
+This game is really three smaller games. You select what to play to choosing which character you want.
+For Captain Link Hogthrob, it is Chickenvaders. A Pigs in Space take in Atari's Atari 2600 version of Space Invaders.
+While exploring the planet Cluck, our intrepid hero was set upon by space chickens. Captain Link must destroy them before they make their way all the way to the planet. He does this by firing link sausages up at the chickens. But the chickens are not helpless. They are dropping space chicken eggs. If one hits Link, he will be turned into...a chicken! You also lose a life. From time to time, Gonzo flies across the screen top in his saucer. You can hit him for points also.
+
+Scoring
+Hitting a chicken on...
+Row one=10 points
+Row two=20 points
+Row three=50 points
+Row four=70 points
+Row five=100 points
+Hitting Gonzo=300 points
+Destroying all the chickens=1000 point bonus
+
+If you select First Mate Piggy, you play Pastaroids. Somehow, Piggy has been ejected from the Swinetrek into a pastaroid storm. You must guide Piggy from the bottom of the screen to the top and board the Swinetrek before it leaves. If you touch a flying meatball or spaghetti strand, you will lose ground, and thus time. You can press fire to give a meat ball a karate chop for points but don't dawdle.
+
+Scoring
+Karate-chopping a meat ball=100 points
+Boarding the Swinetrek=1000 points
+
+If you select Dr. Strangepork, you play Escape from Planet of the Gonzoids. The Swinetrek has gotten trapped in an abandoned pizza mine still being guarded by robotic Gonzoids, created by Gonzo. The Gonzoids are standing on ledges, throwing pizzas across the mine, You have a weapon called the Boomeray. When you fire, it goes up then curves to the side, hopefully landing on a Gonzoid. The direction it curves depends on which way you move before you fire. If you are hit by a pizza, hit the mine walls or are hit by your dropping Boomeray shot, you lose a life.
+
+Scoring
+You get one point for every mile you get through the mine.
+Hitting a Gonzoid=100 points
+Escaping the mine=1000 points
+
+The difficulty switches do nothing. The only game selections are one player or two player, alternating.

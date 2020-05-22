@@ -1,0 +1,2 @@
+Oh My God! is an arcade puzzle game from Atlus. The gameplay is similar to Dr. Mario.
+A sequence of snakes made of colored balls fall down into the playing field. The object of the game is to manipulate the direction of these snakes, by using the joystick, in order to form a line of 3 colored balls vertically, horizontally, or diagonally. The game ends when the playing field tops out, that is, when there is no room for a new snake to enter the playing field.

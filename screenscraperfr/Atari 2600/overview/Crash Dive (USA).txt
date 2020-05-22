@@ -1,0 +1,27 @@
+The object of this game is to use your flying sub, the Sea Hunter,  to destroy enemies and get treasures.
+
+You move fastest when in the air, half speed when in the water and cannot move forward when on the sea bottom.
+
+Your enemies and their point values are:
+Plane = 300
+Helicopter = 100
+Bird = 0
+Boat = 50
+Sting Ray = 20
+Shark = 100
+Angler Fish = 200
+Squid = 100
+Lobster = 25
+
+You get 1 point for stunning the sea monster but cannot kill him. You cannot do anything with mines but avoid them.
+
+The possible treasures and their point values are:
+Sword = 200
+Wine Bottle = 400
+Sunken Boat = 500
+Crown = 1000
+Chalice = 2000
+Pot of Gold = 3000
+Key = 5000
+
+You just play until you crash your sub or run out of fuel. You refuel by docking with the sub at the top of the sea (looks like a boat without a gun) called Sea View.

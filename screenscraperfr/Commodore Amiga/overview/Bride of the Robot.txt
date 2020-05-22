@@ -1,0 +1,5 @@
+In Bride of the Robot, you play Brad Stallion, a galactic hero/playboy, who has been called on to rescue the new Miss Galaxy, Allura. It seems that she was kidnapped by the sex-crazed and unimaginatively named Robot, the first machine with a sex drive. As dramatic as that sounds, the program goes downhill from there.
+
+The majority of the input for Bride is handled with the mouse, clicking on objects on the screen. However, the objects you can click on aren't distinguished in any way from the background clutter, so when you enter a room, you must slide the mouse around, pretty much randomly, until you happen across something with which the program will let you interact. The sentence parser, if it can be called that, has trouble with the simplest input and doesn't even recognize the same verb when it's used with different objects.
+
+If Bride of the Robot has a saving grace, it's the graphics. Though they're not animated and only mediocre when compared to the rest of the Amiga commercial software market, next to the rest of the program the pictures are high art.

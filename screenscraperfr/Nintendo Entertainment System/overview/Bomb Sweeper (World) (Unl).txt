@@ -1,0 +1,1 @@
+Bomb Sweeper is a clone of Nintendo's Game & Watch "BombSweeper" from 1987. It's a simple, addictive puzzler. You are John Solver, fearless bomb squad person, who has to save the city from Jack, a demented criminal who is trying to blow it all up with his bombs.

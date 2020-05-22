@@ -1,0 +1,1 @@
+Arcade-style soccer game. It has two different parts: Indoor and Outdoor.The Outdoor game is the normal European soccer. You may play single matches, league or tournament (world championships). Optional features are: weather effects, replays, customizable

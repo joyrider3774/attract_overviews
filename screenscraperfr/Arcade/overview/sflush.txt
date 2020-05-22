@@ -1,0 +1,1 @@
+Straight Flush (c) 1979 Taito.  - TECHNICAL -  Main CPU : M6800 (@ 2 Mhz)  Players : 2 Control : paddle  - TRIVIA -  Released in October 1979 in Japan.  Also released as a Cocktail model : "T.T Straight Flush".  - SOURCES -  Game's rom. Machine's picture.

@@ -1,0 +1,3 @@
+Brands Hatch is a Racing game, developed and published by Robtek which was released in Europe in 1988.
+
+This is a top-down racing game similar to Super Sprint. The player gets confronted with ten non-scrolling course on which ten rounds have to be finished in a limited time. Collisions with the crash barriers or the opponent (either controlled by the AI or another player) do not damage the car and only result in the needs to back up a bit. The courses can be played one after another in a tournament or individually.

@@ -1,0 +1,5 @@
+As a master in karate and the sole survivor of your village, you must confront the evil Akuma and defeat his army to rescue your beloved Mariko and get your revenge.
+
+Master Karateka is an enhanced port of Karateka, in which you take the role of a Karate-chopping hero as he scrolls across several screens fighting each one of Akuma's henchmen in succession until you reach the bad guy himself. Your weapons are your hands and feet, with each button commanding either punches or kicks that can be modified in height with the directional controls.
+
+This Gameboy version replaces all graphics and cramps the action into smaller screens, featuring different enemies and challenges. Furthermore, you can customize your hero's stats at the beginning of the game to better suit your fighting style.

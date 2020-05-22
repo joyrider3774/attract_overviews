@@ -1,0 +1,13 @@
+Downhill Challenge is a Sports game, developed by MicroÃƒÂ¯ds and published by BrÃƒÂ¸derbund Software, which was released in Europe in 1989.
+
+
+
+An avalanche of unanswered questions buries Downhill Challenge before the skiier gets a third of the way down the hill. The game attempts to simulate slalom skiing, downhill skiing, giant slalom skiing, and ski jumping.
+
+
+
+You had better know the rules of these Nordic events already, because the skimpy manual is little help. I was left wondering: How does the program keep time in the downhill events? What do the splits mean and where are they taken? What is the penalty for missing a gate? How many times do you go downhill in the competition mode (thereÃ¢â‚¬â„¢s also one for practice) before you can move on to the next event? Besides pressing the Shift key or joystick button for extra height, how do you control the skiier while jumping?
+
+
+
+At least you have above average graphics to look at while you ponder. The scenery you ski toward but never quite reach is nearly breathtaking. The viewpoint of the game is from about 15 feet behind the skiier. The game would come alive much better if it actually put you up on the skis with perhaps only your poles showing in each hand, and if it didnÃ¢â‚¬â„¢t sound as if you have a motor attached to your back after the starting bell.

@@ -1,0 +1,63 @@
+Birds of Prey is a flight simulation set in a fictional battle between the Soviet Union (B-side) and the Nato + allied (A-side).
+
+The player can fly up to 40 different planes and also control the whole battle campaign.
+Aircraft available for A-side:
+BAe Hawk Mk.66
+BAe Hawker Siddley Harrier GR. Mk 3
+Boeing B-52H Stratofortress
+Boeing 747-400 Jumbo Jet
+Dassault-Breguet Mirage F.1E
+Dassault-Breguet Rafale A
+Fairchild A-10A
+General Dynamics F-111
+General Dynamics F-16
+Grumman F-14A+ Tomcat
+Grumman X-29
+Lockheed C-130H-30 Hercules
+Lockheed F-104S Starfighter
+Lockheed SR-71 Blackbird
+Lockheed TR-1A
+Lockheed F-117A
+McDonnell Douglas F-4 Phantom II
+McDonnell Douglas F-15E Eagle
+McDonnell Douglas KC-10A
+McDonnell Douglas F/A-18A Hornet
+North American X-15A
+Northrop F-5E Tiger II
+Northrop F-20A Tiger Shark
+Northrop B-2 Stealth Bomber
+Panavia Tornado F Mk.3 (ADV)
+Rockwell B-1B
+SAAB JAS-39 Gripen (Gryphon)
+Aircraft available for B-side:
+Antonov AN-124 Condor
+Mikoyan-Gurevich MiG-21 Fishbed N
+Mikoyan-Gurevich MiG-23 Flogger G
+Mikoyan-Gurevich MiG-25 Foxbat E
+Mikoyan-Gurevich MiG-27 Flogger J
+Mikoyan-Gurevich MiG-29 Fulcrum A
+Sukhoi Su-21 Flagon F
+Sukhoi Su-24 Fencer D
+Sukhoi Su-25 Frogfoot
+Sukhoi Su-27 Flanker B
+Tupolev Tu-95 Bear G
+Tupolev Tu-26 Backfire B
+Yakovlev Yak-38 MP Forger A
+The player is required to select one side 'A' or 'B' in the conflict, and keep the save game for each pilot on a separate floppy.
+Each pilot you can fly different missions and aircraft, but only those from your own side.
+
+The player character flies from three land bases and two aircraft carriers on each side, and these bases can be damaged in several ways by enemy action, making them unavailable until repaired and reducing the available aircraft in the campaign.
+Mission types are:
+air intercept
+air superiority
+long range bombing
+bomber escort
+close support and ground attack
+border or sea patrol
+reconnaissance
+troop drop
+supply drop
+stealth bombing
+stealth reconnaissance
+test pilot
+An autopilot mode is available for longer cruises, if the enemies are far off. The 'test pilot' mission involves flying the X-15/X-29 and is not a part of the campaign.

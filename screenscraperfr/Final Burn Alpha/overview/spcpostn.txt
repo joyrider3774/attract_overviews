@@ -1,0 +1,1 @@
+Space Position (c) 1986 Sega.  - TECHNICAL -  First Board Number : X090-PC-A 171-5383 Second Board Number : X090-PC-B 171-5384  Main CPU : NEC D317-0005 (Z80) @ 8 Mhz) Sound CPU : NEC D780C-1 (Z80) (@ 4 Mhz) Sound Chips : (2x) YM2203 (@ 4 Mhz)  Players :

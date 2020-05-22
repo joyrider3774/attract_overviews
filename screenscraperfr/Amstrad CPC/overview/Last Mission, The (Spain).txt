@@ -1,0 +1,4 @@
+The Last Mission is a side-view arcade game without scrolling (viewpoint moves from screen to screen) with map of big dimensions. The game takes its inspiration from games such as Underwurlde and Starquake.
+
+You control a tank-like robot which can be divided in 
+two: you rotate caterpillar and head-canyon, and the head part can fly off on its own. However,the head can only survive separately for a short amount of time, and your restart position is dictated by the location of the body, even if the head has moved forward through further screens. Therefore, the difficulty of the game was in making it possible to advance with the assembled robot's two parts.

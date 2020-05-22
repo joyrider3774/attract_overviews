@@ -1,0 +1,3 @@
+When king Graham returns from a walk, he finds his castle and family missing. Luckily a talking owl, named Cedric, has witnessed what happened. He tells Graham that an evil wizard, Mordack, has kidnapped his family, and decides to help Graham. Cedric takes Graham to his master Crispin in Serenia. Crispin, a good wizard, gives Graham his old wand and tells Cedric to join Graham on his quest.
+
+The game uses Sierra's SCI engine, a point-and-click interface, and has VGA graphics. King's Quest V was first released on floppy and later on CD-ROM with speech.

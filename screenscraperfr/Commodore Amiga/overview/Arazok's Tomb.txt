@@ -1,0 +1,3 @@
+Arazok's Tomb is a traditional text adventure with illustrative graphics and occasional animations, pull-down menus and basic speech-synthesis. The text parser accepts fewer commands than used in contemporary Infocom text adventures, with a smaller vocabulary.
+
+The plot: Mark Trade is an investigative reporter at the L.A. International Inquirer who receives a telegram from Daphney, an archaeologist friend who with her uncle Jason is excavating at the tomb called Caer Arazok in Scotland. Uncle Jason has gone missing. When Mark arrives he finds that Daphney has also disappeared. It's the player's job to find out what happened to them.

@@ -1,0 +1,1 @@
+A second-generation 8-bit console. The game library was composed of 51 unique games and about 10 variations. The graphic quality is similar to that of the Intellivision and the Odyssey.

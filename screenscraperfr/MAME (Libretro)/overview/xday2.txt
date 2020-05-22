@@ -1,0 +1,1 @@
+X-Day 2 (c) 1995 Namco.  - TECHNICAL -  Namco System NA-2 hardware Game ID : XDS  Main CPU : 68000 (@ 12.52825 Mhz) Sound Chips : Namco (@ 32 Khz)  Players : 4 Control : 8-way joystick Buttons : 3  - TRIVIA -  Released in July 1995 in Japan.  Soundtrack r

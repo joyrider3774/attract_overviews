@@ -1,0 +1,1 @@
+Pinball Tycoon is a pinball simulation featuring four themed tables. Each table has its own goals and objectives. Dig for gold in California Gold Rush, strike oil in Black Gold, become a movie millionaire in Hollywood Mogul and win a fortune in Golden Chance.

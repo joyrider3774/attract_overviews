@@ -1,0 +1,1 @@
+A basketball game somewhat based on the NBA but with entirely fictional teams. Most of the action is depicted NBA Jam style, with a horizontal view of the court and large sprites for the athletes. Upon scoring a field goal from up close (slam dunks or otherwise), the camera briefly changes to a dynamic shot of the basket.

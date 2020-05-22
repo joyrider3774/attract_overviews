@@ -1,0 +1,5 @@
+Gamble Mania is a Bandit game written on AMOS Pro, developed by Mark Townsend and published by F1 Software as a Public Domain in 1996.
+
+Gamble Mania is a casino gambling simulator with three reels which spin when a button is pushed. Slot machines are also known as one-armed bandits because of their ability to leave the player in debt and impoverished.
+
+Use enter key to gamble and to start machine. Use 1, 2, 3 keys to hold respective hold button. Use space to collect. Use arrow keys for hi/low game and for nudging. Use help key during game for in-game help on prices keys and reels.

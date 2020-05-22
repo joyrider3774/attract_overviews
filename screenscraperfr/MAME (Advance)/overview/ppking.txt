@@ -1,0 +1,1 @@
+Ping-Pong King (c) 1985 Taito.  - TECHNICAL -  Main CPU : Z80 (@ 6 Mhz), Z80 (@ 3 Mhz) Sound CPU : M6809 (@ 750 Khz) Sound Chips : YM2203 (@ 1.5 Mhz), MSM5205 (@ 375 Khz)  - TRIVIA -  Released in June 1985.  - SOURCES -  Game's rom.

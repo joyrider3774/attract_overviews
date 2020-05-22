@@ -1,0 +1,7 @@
+Tactical Soccer is a soccer game published by Electronic Arts, although it was developed by a Japanese team.
+
+Like Zico Soccer, the gameplay is more reminiscent of a strategy game in real time. It takes place before players' eyes so the action (which is represented by a small window at the top of the screen) can't be interrupted.
+
+Each of the 16 national teams have 16 players with different skills (ranging from A to E). During a match, the player gives directions such as force at the center, play on the wings, back in defense, take a long or short pass. Depending on what the player chooses, it is possible to apply the command to a particular player, the player in possession of the ball, a part of the team (defense, midfield, attack) or the whole team. Everything is done relatively simply with combinations of buttons.
+
+There are no headers, bicycle kicks or other fancy movements, scoring goals is only possible by kicking the ball. A replay is played every time a fault is committed (which happen quite often), a shot off target is made, or a goal is scored.

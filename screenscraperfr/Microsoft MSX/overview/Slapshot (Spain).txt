@@ -1,0 +1,30 @@
+Slapshot is an aggressive online street roller-blade hockey game without any principles and rules on the rink. Each game-player logs in and tries to raise his/her level as much as he/she can, playing numerous matches, winning the money, raising their stats, and buying equipment and skills.
+
+There are three kinds of hockey players: Defender, Centre Forward, and Wing Forward. Each of them may be male or female, and they differ by stats. Defender is strong, but slow, while Wing Forward is fast, but not strong. There are 13 stats for each player, which may be raised with level increases and/or with clothes worn or items used.
+
+There are three stages of the game:
+
+1) Tutorial;
+
+2) 1-5 Levels; 
+
+3) 6-50 Levels
+
+During Tutorial stage, you'll learn basic techniques and some tricks available with certain levels.
+
+During 1-5 Levels stage, you may play in 2 kinds of matches:2 human players versus 2 bots
+2 human players versus 2 human players
+
+It is a stage to increase your level to 6th, and the ability to earn money if you run out of such on the third stage.
+
+During 6-50 Levels stage, you may play in 3 kinds of matches:1 human player versus 1 human player
+2 human players versus 2 human players
+3 human players versus 3 human players
+
+It is a stage to increase your level to maximal and become the legend of Slapshot.
+
+Each player may create the room for the rink, adjust its theme, invite others, dismiss unwanted players, protect the room with a password, etc. Winning the money, you as a player may spend it on clothes, which increase your stats, or items such as clubs. Money also may be spent on the skills, which you'll use during gameplay by pressing combination of keys defined for such skill. To master the skill, you may practice in a separate rink.
+
+The hockey gameplay itself is in 3rd person view, while you move your player with arrow keys, and use defined keys to hit the puck, hit the opponent, steal the puck, speed up, use command options, ask a team player for a pass, give a pass  to team player, get ready for a strong hit before a pass, etc. Additional skills allow you to hit the puck sliding left/right, turning in 360 degrees, get out from opponents, hit the puck sliding around the gates, etc. Animation sequences are shown using the game engine, when the match starts, finishes or somebody scores.
+
+During each match some players may have some additional missions (for example to interrupt the pass for 2 times), which gives more money on accomplishment. Tactical an

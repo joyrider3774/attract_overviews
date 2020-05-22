@@ -1,0 +1,2 @@
+This game is a motorcycle race with the standard schema "gone last, finish first". It was based on the real-life Isle of Man Trophy race. Only 2 tracks are available, a short and a long version of the course.
+The arcade cabinet provided a life-size bike on which to sit, which was really fun. However, it aged more badly than other similar games.

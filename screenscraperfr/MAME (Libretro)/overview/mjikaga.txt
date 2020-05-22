@@ -1,0 +1,1 @@
+A mahjong game that takes place at a bus stop of all places.

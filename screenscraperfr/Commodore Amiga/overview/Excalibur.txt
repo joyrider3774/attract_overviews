@@ -1,0 +1,3 @@
+Excalibur is a Shoot 'Em Up game, developed by Next Generation and published by Kingsoft, which was released in Europe in 1988.
+
+The game hasn't real story and has quite a simple game play - the player controls a red space ship, flies straightforward, avoid obstacles and shoot enemies in various locations (mostly mountains with space background). The enemies are in many types, shapes and colours - spaceships, 'molecules', geometric figures, etc. If a spaceship flies too slowly, then it has a tendency to fall down. The player has 2 lives.

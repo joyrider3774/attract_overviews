@@ -1,0 +1,3 @@
+Wayne's World is an adventure game based on the movie with the same name. The game itself is a classic point and click adventure, and should not be confused with the platform game based on the movie.
+
+You play both Wayne and Garth, and you can switch between them at any time. The plot is simple; In an attempt to save their tv-show, Wayne and Garth decide to hold a pizza-thon (a charity show with a pizza-theme) in order to raise money. In order to be able to hold the pizza-thon Wayne and Garth must embark on several quests to collect items and hire people they need for the show. The adventure includes participating in babe-jeopardy, joining a biker's gang and baking pizza. The graphics are in 2D and the sound contains several samples from the movie.

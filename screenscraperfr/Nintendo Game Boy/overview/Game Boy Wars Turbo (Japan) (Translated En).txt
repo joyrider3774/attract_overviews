@@ -1,0 +1,3 @@
+Game Boy Wars Turbo is an enhanced version of the original Game Boy Wars that was released on June 24, 1997. The main new feature in Game Boy Wars Turbo is that the CPU now has a better decision-making algorithm during its turns, allowing battles to proceed swifter than in the original. Turbo also features 50 new maps, as well as Super Game Boy support.
+
+An alternate version of Game Boy Wars Turbo was released as a promotional giveaway by Weekly Famitsu featuring a set of maps submitted by readers of the magazine.

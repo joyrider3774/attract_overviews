@@ -1,0 +1,1 @@
+Moto Roader II is a racing game shown in a top-down perspective. Five vehicles compete on a course with the goal to finish first. However, the screen always follows the leading vehicle and if a vehicle is left behind, it gets replaced on the current scree

@@ -1,0 +1,1 @@
+Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-

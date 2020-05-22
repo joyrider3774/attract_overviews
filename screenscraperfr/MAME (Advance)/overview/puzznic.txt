@@ -1,0 +1,3 @@
+Puzznic is a puzzle game in which the aim is to move symbol-bearing blocks onto identically-symboled blocks in order to eliminate them. Blocks can only be moved left or right, or dropped downwards. 
+
+The order in which the blocks are eliminated needs careful planning, as it's sometimes necessary to destroy three blocks at a time, or use blocks as bridges for other blocks. Some puzzle screens have moving background blocks that act as elevators, making careful timing essential.

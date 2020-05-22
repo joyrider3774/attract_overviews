@@ -1,0 +1,1 @@
+Moon Landing is a Lunar Lander variant. The player must try to land a lunar landing module on the moon, with limited fuel.

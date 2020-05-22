@@ -1,0 +1,1 @@
+Juuouki is a port of the Sega arcade classic Altered Beast for the Famicom.

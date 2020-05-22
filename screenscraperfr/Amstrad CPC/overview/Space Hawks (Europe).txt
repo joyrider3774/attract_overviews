@@ -1,0 +1,4 @@
+Space Hawks is a galactic shoot'em up in the style of Galaxian. As in Galaxian, the player's space ship can only move along the horizontal axis. When an alien is killed, the player must avoid the debris of the alien. At advanced levels the player must also be careful with space mines that move around the game screen.
+
+Eight waves of aliens must be destroyed to complete the adventure. 
+Before starting the game, the user can select the difficulty (among 8 levels), and the number of players (1 or 2).

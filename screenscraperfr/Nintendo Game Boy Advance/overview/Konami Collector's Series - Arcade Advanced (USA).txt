@@ -1,0 +1,1 @@
+Contains emulated ports of Frogger, Time Pilot, Yie Ar Kung-Fu, Gyruss, Scramble, and Rush-N Attack.

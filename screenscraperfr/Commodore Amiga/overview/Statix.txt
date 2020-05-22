@@ -1,0 +1,5 @@
+Seemingly, even with Tetris over 5 years old by the time this game was made, there were new things to do with blocks that had to be dropped from the top of screen by being correctly position, and grouped into lines of 3 (horizontally, vertically or diagonally), so that those blocks would disappear and cause others to drop to fill the gaps. In Statix you have to balance the blocks on a see-saw, which has a central pivot which starts several notches above the ground. 
+
+The balance adjusts depending on how many blocks are in each column, meaning that removing vertical matches from the far end of the playing area has an especially dramatic effect. If it is too unbalanced, it's game over. Things are also made harder by the limited amount of blocks that can be supported - if this is exceeded the see-saw drops a notch, giving you less leeway with the even-ness of the blocks.
+
+There's a two player mode in which each player has access to half of the see-saw, and the player whose end becomes overstocked loses. At times co-operation is required to keep the game alive, at other times you ought to set up a combo on your side, causing it to plummet down on your opponent.

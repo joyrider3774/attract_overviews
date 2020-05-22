@@ -1,0 +1,3 @@
+Kevtris was the first Colecovision games to be developed for almost ten years, and it was a natural choice to start with a game that was simple to implement, yet had been released too late to be officially ported to the Coleco console; namely Tetris.
+
+Despite being an early home-brew, Kevtris features both colourful graphics and background music, as well as three different game modes for both one and two players as well as handicaps. Apart from the normal Tetris game mode, there is the zero-out mode, where you have to clear a set number of lines to win a game, and the builder mode, where the blocks don't fall automatically, giving you all the time in the world to plan your moves.

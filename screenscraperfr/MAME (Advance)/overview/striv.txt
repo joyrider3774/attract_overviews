@@ -1,0 +1,1 @@
+Triv is a french language trivia arcade game.

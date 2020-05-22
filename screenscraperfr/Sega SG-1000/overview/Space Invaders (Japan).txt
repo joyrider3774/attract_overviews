@@ -1,0 +1,5 @@
+Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land. The aliens march back and forth, and each time the end of the screen is reached they will drop one row closer to the bottom. Shoot them all, and you move on to the next (tougher) level, but if even one of them lands the game is over. 
+
+Surprisingly the SG-1000 port of the game was one of the most accurate of its time, surpassing the NES and MSX versions which were the console's main competitors. Though it adds more color (the arcade version was simply black and white, with translucent overlays to mimic color), the SG-1000 version retains all the original graphics, whereas other ports (especially for Atari systems) re-drew the invaders due to various graphical restrictions.
+
+The SG-1000 version does not appear to have been released outside of Japan.

@@ -1,0 +1,1 @@
+Witch (c) 1992 Sega.  - TECHNICAL -  Main CPU : (2x) Z80 Sound Chips : ES8712, (2x) YM2203  Screen orientation : Horizontal Video resolution : 240 x 225 pixels Screen refresh : 60.00 Hz Palette colors : 2048  Players : 1 Buttons : 6  - TRIVIA -  Developed

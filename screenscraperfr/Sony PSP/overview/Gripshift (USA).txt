@@ -1,0 +1,5 @@
+Gripshift is a driving game with a twist. It combines racing with puzzles and even some platform action. 
+
+The game is built around a tour mode where the player must complete the stages one by one. Clear these stages by driving fast to the finish or try to top the times required to obtain bronze, silver, and gold medals. There are also stars to collect and a hidden item on every stage to discover. All of the levels are afloat in the air, so if the player happens to drift off the course, the car drops into nothingness.
+
+There are many multiplayer modes, including bonus games such as soccer, ice hockey and a Snake game played with cars. In the track editor, players can construct their own gravity-defying tracks and share them through a wireless connection.

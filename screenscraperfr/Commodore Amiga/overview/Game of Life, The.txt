@@ -1,0 +1,5 @@
+The Game of Life is a Strategy game, developed and published by Linel, which was released in Europe in 1992.
+
+Calling itself modestly "the ultimate cell simulation", the Game of Life tries to recreate the processes inside a simple organic structure. This body consists of five different types of cells: The proto cells (the "flesh") will grow quickly and aimless, unless you border them with skin. To control proto growth, you can install control cells; they consume energy produced by support cells. Sense cells will provide you with information about the well-being of your organic entity.
+
+The basic cells will grow all by themselves, but also rot if left unattended. Your task is control: Move or destroy unwanted cell blocks, build and link a power supply throughout the structure, prevent decay and (in later missions) virus attacks. There are 99 levels to fulfill. Early ones make you rebuild a given design; later on, you'll have to reach goals like a certain amount of energy stockpiled. The time for each mission is limited.

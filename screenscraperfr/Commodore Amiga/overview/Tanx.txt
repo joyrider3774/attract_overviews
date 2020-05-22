@@ -1,0 +1,5 @@
+Tanx expands the gameplay of the old arcade game Tanks. Two human players do battle over a randomly generated terrain, each of them in control of a tank. Taking it in turns, you must fire a shot of the correct weight and angle to hit your opponent's tank and destroy it.
+
+You can configure the game to vary the strength of the wind, the effect of gravity, and the gradient of the terrain. Special features such as pushers and pullers, which redirect shots up and down when interfered with, can be turned on or off.
+
+A special feature is the Free Shot target, hitting which gives you two consecutive shots on your next go, allowing you to fine-tune a second shot if your first misses fractionally.

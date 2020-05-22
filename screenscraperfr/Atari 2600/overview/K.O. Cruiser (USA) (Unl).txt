@@ -1,0 +1,14 @@
+K.O. Cruiser is a first-person boxing game that matches you against six different boxers with different strengths, weaknesses and styles. Do you have what it takes to be the champ? Is the Gold Belt within your reach? Let's find out!
+
+You'll face six different opponents in K.O. Cruiser, each with his unique traits and special moves:
+
+Tomato Ken
+K.C. Nova
+Russ Tick
+Major Concussion
+Wally B.
+Rod Ickle
+
+You move your boxer with the joystick controller to move around the ring, throw punches, and guard against punches. You can also quickly dodge left or right to avoid an incoming punch from your opponent. If you're knocked down, you can attempt to get back up and into the fight by quickly tapping the joystick fire button.
+
+K.O. Cruiser features three levels of difficulty so you can continue to be challenged after you've mastered your opponents on easier levels!

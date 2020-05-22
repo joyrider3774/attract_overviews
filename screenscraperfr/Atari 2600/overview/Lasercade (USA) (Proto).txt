@@ -1,0 +1,3 @@
+Clear all the targets at the back of the gallery within the given time limit.
+The game ends if you fail to do so. 
+You start with 4 in round one and a new, smaller one is added for every 2 rounds you clear (up to 8).

@@ -1,0 +1,1 @@
+An educational game consisting of four different mini games. The minigames included are:Addition 1 - Players control a car and have to drive it into the correct number to answer a math problem. Crashing into another car or answering the problem wrong will

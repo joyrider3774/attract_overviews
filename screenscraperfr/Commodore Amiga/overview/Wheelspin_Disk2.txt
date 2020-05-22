@@ -1,0 +1,1 @@
+A top-down track racer that let's you face off against the computer or your friends. Choose between Buggy, Offroad, Sport or World leagues and select the preferred driver with the stats that suit your driving style. At the start of each race you also get to customize your car parts before heading to the race track, ready to burn some rubber.

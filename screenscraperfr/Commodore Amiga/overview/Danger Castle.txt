@@ -1,0 +1,3 @@
+Danger Castle is a Platform game, developed by Computer-Express and published by Kunert Soft, which was released in Europe in 1989.
+
+This is 2D single screen platform game. The player controls an elf-like boy and must collect all crystals on the screen to complete levels and go further. Each level is full of various enemies, locked doors and various traps. To unlock doors player must pick up the key. He must use ladders to climb up and down - the fall of most platforms is fatal. He has 3 lives and 3 continues.
