@@ -4,3 +4,6 @@ Overview files for attractmode frontend from different sources mostly linked aga
 * screenscraperfr is probably your best choise as it used crc matching before filename matching
 * igdb is also good but much less info found and they did not differentiate between platforms according to skyscraper so you might end up with same descriptions across platforms or even mismatches
 * worldofspectrum is sinclair zx spectrum only
+  
+### NOTE
+The MAME (Libretro 2016) system is a customn system i added linked against the complete 0.174 (2016) set so that means everything
