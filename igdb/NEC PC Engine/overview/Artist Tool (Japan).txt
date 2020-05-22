@@ -1,0 +1,1 @@
+An art program for the PC Engine. Compatible with three peripherals: a drawing tablet, a scanner and a printer.

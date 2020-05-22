@@ -1,0 +1,1 @@
+A multi-directional shoot'em up in which the player tries to find the exit out of a giant automated spaceship by piloting the Shadow Skimmer over its surface.

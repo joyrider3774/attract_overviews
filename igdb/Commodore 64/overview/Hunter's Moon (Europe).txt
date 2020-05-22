@@ -1,0 +1,5 @@
+Each level takes place in a void with two dimensional cities appearing as they are being built by "worker cells". The worker cells are indestructible but the bricks dropped by them can be temporarily destroyed using the ship's weapon. The goal of the game is to collect enough star cells contained inside the cities to get to the next level. 
+ 
+By collecting enough star cells within a strict time limit (displayed in the lower score table) it is possible to skip the remaining levels in current star system and pass on to the next, allowing skilled players to advance the game quicker. 
+ 
+The game was well received, gaining a score of 92% in the well-known computer games magazine Zzap!64.

@@ -1,0 +1,1 @@
+A side-scrolling, four-player American football game that can be played as two-on-two, one-on-two, etc. The game is somewhat primitive in that there is no play pattern selection; only the receiver can be selected before play begins. One player controls the QB, the other plays the wide receiver/running back.

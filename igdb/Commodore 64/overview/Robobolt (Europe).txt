@@ -1,0 +1,1 @@
+A horizontal bi-directional scrolling shoot'em up written by Gary Leach and published by Alpha-Omega Software for the Commodore 64.

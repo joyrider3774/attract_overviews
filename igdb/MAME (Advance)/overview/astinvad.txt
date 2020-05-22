@@ -1,0 +1,1 @@
+The player controls a small spaceship is at the bottom of the screen. Like most Space Invaders-type games of the period, the ship can move left and right (but not up or down), and can fire one bullet at a time. The ship may not fire again until its previous shot has detonated.

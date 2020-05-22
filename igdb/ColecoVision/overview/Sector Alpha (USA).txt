@@ -1,0 +1,1 @@
+SECTOR ALPHA is a three-dimensional arcade-type search and destroy game. Robot penetrator space craft are invading from three directions and you must face and destroy them in each direction of the playing field.

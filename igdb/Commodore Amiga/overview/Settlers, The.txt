@@ -1,0 +1,5 @@
+The goal of this game is to build a prosperous and well organized city and to gain control of enemy cities. This might initially seem simple to do, but in reality it is much more complex. If you consider all the game's problems inversely, that is from the end of the game first, you will understand better. 
+ 
+In order to conquer the enemy castles, you will need many knights. To keep their morale up, you will need gold, and for the weapons you will need iron and coal. These raw materials are found in mines. The mines must be provided with food and the raw materials must be melted in a foundry. 
+ 
+The food supply is ensured by the fishermen and the farmers, but they need tools, as do all other workers. These tools are made by smiths. To build huts, houses, castles you will need construction materials and workers...

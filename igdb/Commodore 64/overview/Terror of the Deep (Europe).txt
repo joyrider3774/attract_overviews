@@ -1,0 +1,1 @@
+Action game involving underwater exploration of Loch Ness for the C64 and Spectrum. Used a literal "Hands on" approach to controlling a diving bell.

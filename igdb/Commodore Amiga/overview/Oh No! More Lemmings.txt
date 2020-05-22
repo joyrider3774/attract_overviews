@@ -1,0 +1,1 @@
+Lemmings is a series of logic games. Your goal is to get as many Lemmings as possible to the exit. Lemmings walk mindlessly but you can choose some and assign them a special purpose.

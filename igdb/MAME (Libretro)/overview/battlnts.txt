@@ -1,0 +1,1 @@
+A vertical shoot-em-up. Protect the castle by moving a bowman horizontally across the bottom of the screen, shooting upwards at the assorted fantasy warriors who are advancing in waves. The game includes boss waves and has nice music.

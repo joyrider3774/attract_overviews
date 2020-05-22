@@ -1,0 +1,1 @@
+Gunboat is a 3D action simulation of River patrol U.S. Gunboat. Your Gunboat carries a crew of four men. A first-class petty officer who serves as boat captain and pilot. A gunner’s mate, who controls the forward guns. An engine man, who takes care of the engines and serves as midship gunner and a seaman who controls the guns.

@@ -1,0 +1,30 @@
+Sneak'n Peek is played in and around a spooky old house with a large yard and three weird rooms. Each room, including the yard, is a separate scene: 
+- a living room 
+- a pink bedroom 
+- a blue bedroom 
+- the yard 
+ 
+Each scene contains up to five hiding places. That makes a total of twenty 
+hiding locations. Some of them are in really strange places, and some of 
+the locations can change depending on the level you select. 
+ 
+GAME 1: One Player Game 
+- Fixed Hiding Places 
+- Computer Hides 
+ 
+GAME 2: Two Player Game 
+- Fixed Hiding Places 
+- Players Both Hide 
+ 
+GAME 3: Two Player Game 
+- Variable Hiding Places* 
+- Players Both Hide 
+ 
+GAME 4: Two Player Game 
+- Fixed Hiding Places 
+- Computer Hides 
+ 
+ 
+* Game 3 fixed hiding places and 2 variable hiding places. The 2 variable hiding 
+places can change from their standard positions to new positions in the same 
+scene. They change every time a player enters the scene to hide.

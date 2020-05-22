@@ -1,0 +1,1 @@
+A action maze game developed by John R. Keneally and published by The Power House for Amstrad CPC and ZX Spectrum.

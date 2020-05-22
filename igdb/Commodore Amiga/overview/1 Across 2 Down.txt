@@ -1,0 +1,1 @@
+1 Across 2 Down is a crossword puzzler, featuring eight pre-made crosswords for the player to fill in. You fill in the crossword based on guesswork from the clues given, and then you can verify the correctness. There is no timer element, nor any way to create your own crosswords, so once all the eight crosswords are done it's game over.

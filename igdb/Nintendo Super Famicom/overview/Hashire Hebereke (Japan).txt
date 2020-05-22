@@ -1,0 +1,1 @@
+An isometric on-foot racing game featuring SunSoft's Hebereke/Ufouria characters.

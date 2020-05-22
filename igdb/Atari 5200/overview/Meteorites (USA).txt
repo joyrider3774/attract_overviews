@@ -1,0 +1,3 @@
+Meteorites is an arcade action game featuring gameplay similar to Asteroids. You control a spaceship surrounded by numerous asteroids; your goal is to destroy them! Each time you shoot an asteroid, it will break up into smaller asteroids. Eventually the pieces will be small enough that you can destroy them. When you have destroyed all of the asteroids, you will move on to the next, more difficult level. 
+ 
+Meteorites was originally called Disasteroids, but the name was changed under pressure from Atari.

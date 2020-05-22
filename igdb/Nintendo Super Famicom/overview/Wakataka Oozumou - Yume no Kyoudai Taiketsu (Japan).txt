@@ -1,0 +1,1 @@
+A sumo wrestling game for the Super Famicom. Players choose their next move in a turn-based system.

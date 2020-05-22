@@ -1,0 +1,1 @@
+A player versus player puzzle game where blocks are arranged by color in order to build houses. Depending on the size of the house built, the player receives various rewards.

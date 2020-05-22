@@ -1,0 +1,12 @@
+Radar Mission (レーダーミッション Rēdā Misshon?) is a Nintendo Game Boy title developed and released in 1990 in Japan and North America by Nintendo. It was one of the earliest Game Boy titles, and was the first military-based game released for the Game Boy. On June 6, 2011, the game was re-released as a launch title for the Nintendo 3DS Virtual Console system via online distribution.
+--------------------------------------
+
+This title has two different modes for one or two players. The player has several options to set up in both modes, in order to play in certain ways.
+
+Game-A
+This mode is very similar to the pencil and paper game, Battleship, however, there is a storyline to it. The storyline follows the player destroying the enemies fleet on the first two levels and then proceeding to the enemies headquarters on the third level. On the third level, the enemy's vessels are replaced with a large runway and tanks.
+
+There are also additional features that could be toggled to affect gameplay. First is the "Near Miss". If this feature is enabled, a shot directly next to a target ship will display a larger splash and play a beeping noise. Next, there are "Lucky Shots" which are randomly placed in empty grid squares. The Lucky Shots are split into two types; Black and White. A Black Lucky Shot will launch one missile, but if that missile hit a target ship, then it will instantly destroy that ship and any other ship touching it. A White Lucky Shot launches a silo of either five or nine missiles depending on the original grid size. There is a hindrance in this Lucky Shot, however, because only hits and misses are displayed on the players radar. If any of the salvo are Near Misses, then the player has to work out where the near misses are. Lastly, there is also an option which allows non-sunk aircraft carriers to launch an airplane mid-game. The airplane is only one square big, but moves around the aircraft carrier between turns.
+
+Game-B
+This mode allows the player to set up his submarine with extra Prop Speed, shoot Twin Shots, and/or equip a Power Sonar, before battling against other ships. The player moves left or right slowly when above the ocean, while he moves faster when submerged. Players use the radar to locate their enemies and allies only when submerged. They can use the B-button to attack the enemy's submarine with a machine gun, while the player uses the A-button to send out torpedoes at all ships. When the player destroys every ship but the

@@ -1,0 +1,3 @@
+In this futuristic arcade-action 2D-isometric-looking game you slip into the role of the DECEPTOR on your quest to discover what your elders have set forth as your destiny. They taught you the way of transformation, your able to assume 3 forms helping you to master your quest. 
+ 
+In-game you have to navigate the terrain of each of the 4 corridors and avoid its dangerous inhabitants. Whenever you want you can transform into a land vehicle or a air vehicle to reach higher platforms of the corridors. Each time you touch the ground with the air vehicle you will be automatically transformed into the land vehicle (by pressing the fire button of your joystick you can transform between land or air vehicle).

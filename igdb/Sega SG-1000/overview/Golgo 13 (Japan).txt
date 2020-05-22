@@ -1,0 +1,3 @@
+Golgo 13 is a shoot-'em-up game for the SG-1000 based on the Japanese manga of the same name. 
+ 
+The game has you shoot at windows of a passing train. Hitting objects that get in the way will make the bullet rebound and potentially kill you.

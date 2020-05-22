@@ -1,0 +1,1 @@
+World boxing Championship in pseudo 3D graphics. Choose your champion and win the boxing match.

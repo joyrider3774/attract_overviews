@@ -1,0 +1,1 @@
+Championship Pool is a pool game where players can 8-ball or 9-ball pool tournament that starts off with the BCA Regional Championship where the player must defeat 32 opponents in a first to four games match. If the player loses against any of the 32 opponents, they are then eliminated from the tournament. The winner of that then goes onto the World Championship.

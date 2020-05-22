@@ -1,0 +1,1 @@
+You control a paddle that tries to rebound a ball into the blocks and collecting power-ups. Getting enough power-ups causes more blocks to be added to your opponent's side.

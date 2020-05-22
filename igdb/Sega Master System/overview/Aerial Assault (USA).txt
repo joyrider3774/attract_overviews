@@ -1,0 +1,1 @@
+A sidescrolling shooter in which you fight your way through 5 missions, each with a boss to defeat at the end. Along the way you find Power-Ups to help your odds either by improving your weapon or speed. Three difficulty levels are available (careful: "Easy" does not let you reach the very end)

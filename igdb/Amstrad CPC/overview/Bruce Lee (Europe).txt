@@ -1,0 +1,3 @@
+Bruce Lee is a video game designed by Ron J. Fortier, with graphics by Kelly Day and music by John A. Fitzpatrick. It was originally developed for the Atari 8-bit family and published in 1984 by Datasoft, along with a port for the Commodore 64. The game was converted to the ZX Spectrum and Amstrad CPC and published by U.S. Gold in the same year. An MSX version was published in 1985 by Comptiq. 
+ 
+Bruce Lee is a platform game/beat 'em up hybrid, in which the player controls Bruce Lee.

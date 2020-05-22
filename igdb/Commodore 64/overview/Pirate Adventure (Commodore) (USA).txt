@@ -1,0 +1,1 @@
+Your goal in this text adventure is to find a pirate treasure using two word commands.

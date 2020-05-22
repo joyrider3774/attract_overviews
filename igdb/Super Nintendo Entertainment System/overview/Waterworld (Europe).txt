@@ -1,0 +1,1 @@
+In Waterworld, you play from an overhead/isometric perspective controlling the Mariner's boat on the ocean. The point of the game is to destroy the Smokers' boats and dive for sunken artifacts, at which point the game switches to a side on perspective so that the player can directly control the Mariner underwater.

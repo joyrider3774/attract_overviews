@@ -1,0 +1,3 @@
+Le jeu se joue avec une manette ou au clavier. 
+ 
+Le joueur dispose de trois vies et doit ramasser tous les fruits du tableau à l'exception des pommes en évitant des monstres. Frank possède un pépin de pomme qu'il peut lancer pour se débarrasser des monstres. Il ne peut en utiliser qu'un seul à la fois. Une fois qu'il a atteint une cible ou a été perdu dans le nid des monstres, il réapparaît après quelques instants. Il doit également éviter de se faire écraser par les pommes.

@@ -1,0 +1,1 @@
+A horizontal scrolling shoot'em up written by Gavin Raeburn and published by The Power House for the Commodore 64.

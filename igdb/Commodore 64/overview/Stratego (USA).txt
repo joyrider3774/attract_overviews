@@ -1,0 +1,1 @@
+A video game adaptation of the famous strategic board game. Find the opponent's flag, and watch out for that spy.

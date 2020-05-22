@@ -1,0 +1,3 @@
+King Salmon: The Big Catch is a fishing competition simulator: a player has to spend a day fishing for king salmon. Activities simulated include driving a boat to choose the best place to fish, choice of lures, line lengths, fishing depths, driving a boat to troll for salmon and, finally, pulling the caught fish out. The objective is to overcome some fictional fishermen, played by computer, in terms of the fish caught. 
+ 
+Game also includes simple role-playing elements, as player's skill improve with time and experience and it's possible to catch bigger and better fish successfully.

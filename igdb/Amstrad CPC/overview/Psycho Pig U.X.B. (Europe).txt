@@ -1,0 +1,3 @@
+El jugador controla a un cerdo y el objetivo del juego es explotar a otros cerdos tirándoles bombas. Las bombas son generadas aleatoriamente por el mapa y pueden ser recogidas y arrojadas a los demás cerdos. A las bombas se les da un número entre 5 y 30; cuando la bomba es lanzada toma ese número de segundos para explotar. Las bombas que directamente golpean cerdos explotan en contacto. Varios poderes están disponibles en todas partes del juego como el gas que hace que todos los otros personajes se duerman. 
+ 
+Un mini-juego de bonificación consiste en cerdos apareciendo aleatoriamente desde unos agujeros, y el jugador debe golpearlos devuelta hace abajo del agujero con su propio cerdo, en un modo de juego similar a Whac-A-Mole.

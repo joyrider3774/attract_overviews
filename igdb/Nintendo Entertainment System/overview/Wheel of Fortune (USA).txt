@@ -1,0 +1,3 @@
+Wheel of Fortune was the first game based on the TV game show for the NES. It was developed by Rare and released on the same month as their NES Jeopardy! adaptation. Rare would follow it up with two more NES adaptations of the show: Wheel of Fortune: Junior Edition and Wheel of Fortune: Family Edition. 
+ 
+It follows the rules of the show, where people spin a wheel and then try to solve a hangman puzzle, either guessing a consonant or spending their reward money to buy a vowel. Up to three human players can play via a pass-and-play system. Players must input their answers within a time limit using the in-game text parser.

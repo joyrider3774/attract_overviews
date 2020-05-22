@@ -1,0 +1,3 @@
+The character controls a penguin who must clear 40 levels worth of action. There are a certain amount of lines with switches and dots that need activating.[3] Once all the lines are cleared, so are any enemies that are remaining in that level. A strict time limit make players lose their lives in addition to bumping into an enemy. 
+ 
+There is no regularity to the movement of the character, giving an element of luck to the game. Some aspects of background graphics appear in certain levels (especially on levels 12, 20, 28, and 36). Level 40 is essentially a giant maze which leads up to a castle that ends the game.

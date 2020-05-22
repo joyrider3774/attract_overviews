@@ -1,0 +1,1 @@
+A side-scrolling action/shooter based on the 1987 Schwarzenegger movie Predator. It was published by Activision for many home computers, though its NES incarnation plays slightly differently.

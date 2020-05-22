@@ -1,0 +1,1 @@
+A turn-based tactics game for Game Boy; it is the second game in the Nintendo Wars franchise.

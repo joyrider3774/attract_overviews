@@ -1,0 +1,1 @@
+Vous incarnez Molecule Man et parcourez un labyrinthe afin de récupérer les 16 circuits disposés aux extrémités du niveau et qui vous permettent de vous échapper. Le jeu comporte un éditeur de labyrinthes dans lequel vous pouvez personnaliser votre niveau si vous trouvez la difficulté inadaptée.

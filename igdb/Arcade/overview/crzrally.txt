@@ -1,0 +1,1 @@
+A top-down, vertical scrolling racing game in the style of other rally games. The route consists of three stages with a variety of obstacles including tight turns, accidents on the highway and oncoming traffic. Rival cars perform special attacks including smoke clouds and spraying oil slicks on the road.

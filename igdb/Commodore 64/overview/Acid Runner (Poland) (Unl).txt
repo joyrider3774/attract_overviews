@@ -1,0 +1,3 @@
+Acid Runner is a variant of famous Lode Runner. The game is all about timing and proper usage of ladders and ropes while avoiding all the enemies and obstacles. The protagonist needs to collect all items scattered out over the levels and reach the escape doors before the time runs out. The task is complicated by numerous enemies roaming around which should be avoided and various electrical discharges. The only way to get rid of a guard is to make a hole in the ground, which may be used as temporary prison. After a certain amount of time a hole is filled up and the guard regains freedom. 
+ 
+The game features 30 levels.

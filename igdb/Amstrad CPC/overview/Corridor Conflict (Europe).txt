@@ -1,0 +1,1 @@
+A mixture of a bidirectional, horizontal scrolling shoot'em up and a racing game where two players compete on a splitscreen with one player racing his spaceship above and one below.

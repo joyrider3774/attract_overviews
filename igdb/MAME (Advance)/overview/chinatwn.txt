@@ -1,0 +1,1 @@
+A Tetrits-like Mahjong game that players drops Mahjong pai to compose winning pattern.

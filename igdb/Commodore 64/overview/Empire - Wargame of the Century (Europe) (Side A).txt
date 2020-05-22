@@ -1,0 +1,1 @@
+Empire is a turn based strategy game where the player founds cities and build armies in order to achieve world domination.

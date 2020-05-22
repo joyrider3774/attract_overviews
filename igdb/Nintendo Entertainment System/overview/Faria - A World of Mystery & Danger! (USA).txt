@@ -1,0 +1,1 @@
+The player controls a female character throughout most of the game. A male character is played towards the end of the game. The game uses "Levels", HP, items, and upgrades. Three game saving slots are used, rather than passwords. Overhead view action oriented battles. Randomly generated battles while traversing the overworld.

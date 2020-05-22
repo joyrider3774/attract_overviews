@@ -1,0 +1,1 @@
+A platformer/puzzle game based on a Japanese movie. It is heavily inspired by Tecmo's Solomon's Key.

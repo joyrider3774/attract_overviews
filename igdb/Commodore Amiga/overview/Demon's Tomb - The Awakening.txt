@@ -1,0 +1,5 @@
+Demon's Tomb: The Awakening is a text adventure set on England on modern times. The game starts with a prologue to the rest of the game, where the player controls the main character's father while he is fighting for his life. After this brief prelude, the story jumps to 16 years-old Richard and his search for his father in Britain's moors. 
+ 
+The parser is on par with the one developed by Infocom. It supports chain commands and adverb recognition, and goes beyond by adding support of mouse input and interface customization. These features are enabled on a menu that pops up when right-clicking on the screen. 
+ 
+The optional verb menu allows complete sentence construction with the mouse. The interface can be changed to several different ways of displaying text, from a Zorkish traditional full screen output to a scrolling window.

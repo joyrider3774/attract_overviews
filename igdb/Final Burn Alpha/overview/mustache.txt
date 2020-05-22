@@ -1,0 +1,1 @@
+Touch all the tiles in a given level, changing them to the desired color. Jump over various enemies or destroy them by walking over special tiles bombs. Jump up to collect the balloons for points, letters or bonuses.

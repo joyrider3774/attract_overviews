@@ -1,0 +1,3 @@
+You pilot a fictional airplane called the SSF-14 fighter, using Up to descend and Down to climb it, like in a real fighter plane (although that can be changed in the options under "UP/DOWN"). Playing with a three-button controller A and C fire the vulcan guns, which have infinite ammunition; B is used for missiles, which are limited to 50 at start but get replenished at certain points of the game. Six-button controllers are also supported, with which A rolls, B still shoot missiles, C and Mode fire the vulcan guns, X sets the speed to low, Y speed middle and Z speed high. 
+ 
+There are 23 stages in all and upon reaching stages 5, 9, 13 and 19, allows you to continue the game from the respective stage, through a new option at the title screen.

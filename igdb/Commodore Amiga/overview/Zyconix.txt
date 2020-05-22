@@ -1,0 +1,1 @@
+Puzzle game where you match three tiles either horizontally or diagonally by dragging them in place. The game speeds up and adds more coloured tiles the further you get into the game and the game ends when the tiles reach the top of the screen.

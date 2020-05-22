@@ -1,0 +1,11 @@
+Penetrator is an early Sinclair ZX Spectrum game made by Melbourne House programmers Philip Mitchell and Veronika Megler, one of the early hits. It was released in 1982 as a clone of the Scramble arcade game. 
+ 
+In Penetrator, the gamer flies a ship, which can shoot forwards and drop bombs beneath the ship. The first level is on open air, with just mountains to dodge, missiles which try to hit the ship, and animated radars. From the second level onwards, the game is inside increasingly complex caverns, so the ceiling is also a danger, as well as new enemies - the missiles are now sometimes replaced with skulls that can move up and down, blocking the path. 
+ 
+The levels change with no pause, only the screen colour changes. After four levels there is a short fifth level where a base needs to be destroyed by dropping a bomb precisely, and then there is a firework animation as a reward. After all levels are finished, the ship goes back through inversed levels, with backward turned landscape. 
+ 
+Reviews at the time said that graphics and the game were impressive, even stunning.[1] 
+ 
+There is an edit mode for designing levels, and a training mode with infinite number of lives in which one can start from any level. Also, there is a simultaneous two-player mode. The game's sound consisted of a characteristic uplifting theme before ship launch, while in-game there were simultaneous shooting/explosion effects, which was relatively advanced use of the limited one channel Spectrum beeper system at the time. 
+ 
+Later, versions for Commodore 64 and TRS-80 appeared.

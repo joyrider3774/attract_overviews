@@ -1,0 +1,3 @@
+The player must line up falling blocks of animals and foodstuffs. When an animal is aligned adjacent to a tile of its favoured food, the animal eats the food. Larger groups of connected food of the same type scores higher when eaten. 
+ 
+When animals eat foodstuffs, they also make random blocks fall on the opponent's area, right after the currently falling blocks. The object of the game is to make one's opponent not be able to place more blocks.

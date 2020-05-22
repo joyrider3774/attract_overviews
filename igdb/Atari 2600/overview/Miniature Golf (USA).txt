@@ -1,0 +1,1 @@
+This is a computer game simulation of a miniature golf course. It attempts to refine your sense of timing and your perceptiveness in judging distance. As in a traditional miniature golf course, a variety of obstacles are placed in your path to the cup. Depending on the game that is selected, the course can be played solo, or a two player competition can be initiated.

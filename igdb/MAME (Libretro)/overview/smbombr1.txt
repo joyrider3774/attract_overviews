@@ -1,0 +1,1 @@
+A wrestling game where the player uses different grappling techniques to defeat opponents and climb the championship ladder. When the fighter sustains enough hits, he becomes angry and powers- up to inflict more damage upon the opponent.

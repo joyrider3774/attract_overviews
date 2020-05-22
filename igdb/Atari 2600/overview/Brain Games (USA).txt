@@ -1,0 +1,1 @@
+In Brain Games one or two players attempt to earn as many points as possible by solving various puzzles presented by the computer.

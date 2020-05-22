@@ -1,0 +1,1 @@
+Gameplay is a variation of the snake genre, in which players compete by surrounding each other with lines of dominos. Players change direction via a set of four directional buttons representing up, down, right, and left respectively. A player loses when they hit a wall, their own dominos, or their opponent's, at which point all the dominos in their line "fall" down.

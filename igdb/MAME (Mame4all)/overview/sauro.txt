@@ -1,0 +1,1 @@
+Horizontal scrolling submarine game. Guide your submarine through a hail of depth charges, mines, enemy ships and subs. Collect fuel, triple guns, missiles, and shield on the way. Fight a tough sub at the end of each section.

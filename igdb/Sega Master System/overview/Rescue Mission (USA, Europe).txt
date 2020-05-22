@@ -1,0 +1,1 @@
+Rescue Mission is a shooting game. Using the Light Phaser peripheral, the player is required to shoot waves of enemy soldiers to protect a medic on a rail cart who slowly moves around the level rescuing injured friendly soldiers.

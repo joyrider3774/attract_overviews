@@ -1,0 +1,1 @@
+The game features a 2D side-scrolling shoot 'em up style of gameplay and the character chosen by the player can be moved in 8 directions by the D-Pad. The player can move, shoot, dodge, and block. To block an enemy projectile, the player must place the power star in the path of the projectile. There is also an array of different weapons at the ships' disposal.

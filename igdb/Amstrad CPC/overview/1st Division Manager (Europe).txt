@@ -1,0 +1,3 @@
+1st Division Manager is a football management game where the player takes on a team of their choice in any of the top four English leagues.
+
+After the match you will get reports about players being injured, results in the other matches, and the finances for that week.

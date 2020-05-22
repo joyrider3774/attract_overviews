@@ -1,0 +1,5 @@
+The story has the solar system under threat from Myon invaders. MAT ("Mission: Alien Termination") is a teenager implanted with all the combined tactical skills of the planetary leaders. MAT pilots a prototype spacecraft, the USS Centurion, in an attempt to defend the system from the alien's all-out attack.[6] 
+ 
+The game's action takes place in a realtime 3D representation of MAT's view from the ship. The player has access to forward and rear views, which switch automatically if the tracking computer is active. Threats come in the form of Myon Fighters which engage the player immediately, Cruisers which only engage at short range, and Starbases which also attack immediately but withdraw when their shields are damaged.[6] 
+ 
+The player's ship can suffer damage. If the Centurion's energy is reduced to zero, it is destroyed and the game ends. The ships instruments, engines and weapons can also be damaged; these can be repaired if the ship docks at a planet.[6]

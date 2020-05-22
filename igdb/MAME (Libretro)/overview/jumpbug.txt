@@ -1,0 +1,1 @@
+The player controls a constantly bouncing car while driving through various environments including a city, pyramid, and underwater. The height of the jump and speed of a fall can be controlled with the joystick. The player can shoot various enemies that appear. Points are gained by collecting treasure, killing enemies and jumping on clouds.

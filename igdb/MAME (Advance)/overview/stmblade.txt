@@ -1,0 +1,1 @@
+A vertical-scrolling shoot-em-up where you fly a jet over land and sea battling various land, air, and sea enemies.

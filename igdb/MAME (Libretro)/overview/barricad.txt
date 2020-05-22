@@ -1,0 +1,1 @@
+Barricade is an overhead view maze arcade game released by RamTeK in 1976. Players move their blocks across the screen to create walls to try to surround their opponents and force them to crash into the walls or any block.

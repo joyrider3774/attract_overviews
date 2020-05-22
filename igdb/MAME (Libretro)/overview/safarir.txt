@@ -1,0 +1,1 @@
+A maze game where the player guides a car through a maze-like forest collecting coins while avoiding an enemy cars and snakes.

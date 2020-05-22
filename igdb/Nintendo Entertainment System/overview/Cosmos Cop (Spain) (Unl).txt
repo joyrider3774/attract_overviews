@@ -1,0 +1,1 @@
+Cosmos Cop is a pseudo-3D into-the-screen shoot 'em up that is similar to Sega's Space Harrier. However, the game experiences a lot of image breakup on the screen due to the NES's limited capability of handling first-person scaling.[2]

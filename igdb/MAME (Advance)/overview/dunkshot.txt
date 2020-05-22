@@ -1,0 +1,1 @@
+A four-player basketball game that is played from a bird's eye view of the court. The game can be played as one person versus the computer, two players either competing or cooperating, or three or four players with two players per team.

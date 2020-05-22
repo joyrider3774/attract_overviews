@@ -1,0 +1,1 @@
+Retro platformer where the player can switch between four different forms. Each form has special abilities, some of which the player needs in order to pass certain obstacles. Every form isn't available in all of the levels.

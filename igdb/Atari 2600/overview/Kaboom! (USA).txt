@@ -1,0 +1,3 @@
+Kaboom! is an unauthorized adaptation of the 1978 Atari coin-op Avalanche. The gameplay of both games is fundamentally the same, but Kaboom! was re-themed to be about a mad bomber instead of falling rocks. 
+ 
+Gameplay in Kaboom! consists of using a paddle controller to catch bombs dropped by the Mad Bomber with a set of three buckets. Points are scored for every bomb caught, extra buckets (maximum of three) are awarded at every 1,000 points, and one bucket is lost every time a bomb is missed. As the game progresses, the "Mad Bomber" traverses the top of the screen much more erratically, dropping bombs at increasingly higher speeds, making each of the seven higher levels more difficult.

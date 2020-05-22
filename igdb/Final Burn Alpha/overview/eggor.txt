@@ -1,0 +1,1 @@
+Early multi-directional Pacman-like game featuring an ostrich Eggor where you are shooting bullets at vultures while collecting eggs.

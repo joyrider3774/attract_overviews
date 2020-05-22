@@ -1,0 +1,5 @@
+Blue Max is a video game developed and published by Synapse Software, originally released for the Commodore 64 and Atari 8-bit computers in 1983. In 1984 it was ported to the ZX Spectrum by U.S. Gold. in 1987 Atari Corp. published it in cartridge form for the then-new Atari XEGS. 
+ 
+The player controls a Sopwith Camel biplane during World War I, attempting to shoot down enemy planes and bomb targets on the diagonally scrolling terrain. It has strong similarities to the arcade game Zaxxon. The game is named after the medal Pour le Mérite, informally known as Blue Max. Its theme song is "Rule, Britannia!". 
+ 
+In 1984, Synapse released a sequel called Blue Max 2001 with a futuristic sci-fi setting, but otherwise similar in style to the original game.

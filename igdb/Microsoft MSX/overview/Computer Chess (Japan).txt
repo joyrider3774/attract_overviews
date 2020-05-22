@@ -1,0 +1,1 @@
+Classic chess game against the computer.

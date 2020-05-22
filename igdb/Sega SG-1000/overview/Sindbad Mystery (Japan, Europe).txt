@@ -1,0 +1,3 @@
+Sindbad Mystery is an arcade game developed by Sega for Sega G80 (raster) hardware in 1983. It was ported to the SG-1000 in the same year. It follows a boy named Sindbad who must avoid monsters while piecing together a treasure map, similar to Pac-Man. He can also use a digging mechanic to trap enemies, similar to Heiankyo Alien and Space Panic. 
+ 
+The game was re-released as part of the Sega Saturn game, Sega Ages Memorial Selection Vol. 2 in 1997.

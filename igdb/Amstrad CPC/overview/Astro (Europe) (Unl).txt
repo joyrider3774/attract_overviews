@@ -1,0 +1,3 @@
+A.M.C.: Astro Marine Corps is a sideways scrolling shooter in which you control a member of the Astro Marine Corps who has to blast his way through the various alien infested levels. 
+ 
+You have three lives and each life has an energy bar which is depleted by contact with aliens and can be replenished by picking up the 'E' powerup. Other powerups include three way fire and an overhead shield. There are various instant death hazards you must avoid such as a plant which smothers you and a dragon which devours you and spits out your bones.

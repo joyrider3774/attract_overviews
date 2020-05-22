@@ -1,0 +1,1 @@
+A puzzle game to make similar patterns to win.

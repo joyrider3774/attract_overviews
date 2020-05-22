@@ -1,0 +1,7 @@
+In Gain Ground, players control one of a set of characters at a time. There are twenty characters, each with different weapons. To beat a level, players must reach the exit point with at least one character or destroy all enemies on the level before time runs out. 
+ 
+Littered across the level are captive characters, which can be rescued by walking over, then escorting the controlled character to the exit point. If a player controlled character is killed, that character turns into a captive, except that they will disappear if the next active player controlled character dies, exits the level without them, or the player has no characters left in their party. 
+ 
+The game is over when all controlled characters in the party are killed without any reaching the exit. However, there are three continues which allow a player to restart the level with their original three characters. 
+ 
+There are 40 levels in the arcade version of the game. The Master System and the Genesis/Mega Drive have 50 levels in the game.

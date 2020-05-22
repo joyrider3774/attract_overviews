@@ -1,0 +1,1 @@
+A hostage rescue simualtion developed by Subway Software for the Amiga, Atari ST, C64 and PC systems.

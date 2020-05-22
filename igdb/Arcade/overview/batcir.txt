@@ -1,0 +1,5 @@
+Battle Circuit is a 2D side scrolling beat'em up drawn in a comic (manga) style in a futuristic science fiction setting. A group of bounty hunters must capture the mad scientist Dr. Saturn with a giant head. 
+ 
+The roster of heroes has 5 characters for the player to choose from: Cyber Blue, a human bounty hunter with cybernetic attachments to his body; Captain Silver, a humanoid shape-shifting hunter who has ability to project ice particles from his body; Pink Ostrich, a large, sentient, pink ostrich, who is always accompanied by its owner, a young girl named Pola Abdul; Yellow Iris, a part-time fashion model with claws and Alien Green, a space creature looking like a giant, moving plant. 
+ 
+Gameplay is quite typical for the genre, like in Final Fight, Streets of Rage, or Cadillacs and Dinosaurs - players go right, beat the enemies (player has access to various attacks), collect bonuses and money, and fight against bosses, for example Dr. Saturn and his robots. Players' abilities can be expanded by purchasing special "upgrade discs" after the completion of levels using coins obtained from dead enemies.

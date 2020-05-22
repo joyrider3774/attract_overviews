@@ -1,0 +1,1 @@
+Sharp Shot is collection of 4 single-button action games: Touchdown Passing, Space Gunner, Submarine, and Maze Shoot. The goal of each game is to score as many points as possible within 60 seconds.

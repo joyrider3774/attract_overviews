@@ -1,0 +1,9 @@
+This is probably the most comprehensive 'real-time' battle simulation program 
+ever written for a home computer. It can be played on a simple level as a 
+'shoot-them-up' game, or a more stealthy player can make use of the 
+intelligence map to locate and destroy selected targets. The most skilled 
+players will be able to protect their bases with mines, support forward bases 
+under attack with air cover and fresh troops, and also intercept and destroy 
+enemy vehicles (land and air) while in flight between bases. A game could 
+last five seconds or five hours depending on the dexterity and tactical skill 
+of the player.

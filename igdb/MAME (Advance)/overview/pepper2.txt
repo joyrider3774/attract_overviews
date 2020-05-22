@@ -1,0 +1,1 @@
+Change the sides of a cube to a solid color while avoiding "Eyes" and other baddies.

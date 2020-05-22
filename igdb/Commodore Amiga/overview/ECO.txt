@@ -1,0 +1,1 @@
+A global survival game where you play in a multiplayer world that has the possibility of being permanently destroyed, resulting in server-wide perma death. What’s more, the reason it’s destroyed would be the players’ own fault. It’s not that different from our own world in that way.

@@ -1,0 +1,1 @@
+Piloting a pie-shaped spacecraft, you must move from sector to sector collecting treasure while avoiding enemies and corner-mounted lasers. The more treasure you have with you the higher your bonus when you reach the goal. A "thief" roams the sectors collecting treasure at the same time, but shooting the thief causes him to drop all his treasure.

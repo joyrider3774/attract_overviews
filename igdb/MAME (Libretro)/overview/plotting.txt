@@ -1,0 +1,1 @@
+The screen is broken into two halves where each player controls their own game. This strategy game starts out simple where the player hits one block at a time but it becomes more difficult when other obstacles start preventing a direct hit on the desired block.

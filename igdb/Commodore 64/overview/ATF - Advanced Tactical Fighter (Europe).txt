@@ -1,0 +1,3 @@
+The display is a third-person view showing the player's ATF, which remains stationary on screen as the scenery scrolls past it, which takes up most of the screen. A head-up display is superimposed on the main screen; this shows engine thrust, the ATF's speed, ground height and altitude, along with the missile system available, direction of flight and a target's range and bearing. 
+ 
+The right-hand side is devoted to the "on-board flight computer" which shows enemy positions on a world map, the status of weapon systems and the ATF itself. Above the flight computer display is a panel which shows the score and number of lives left.

@@ -1,0 +1,5 @@
+Hat Trick is an ice hockey based arcade game released by Bally Sente in 1984. Each team in the game consists of two players, including a goaltender. The game takes an overhead view of the rink. At the end of each game, an ice resurfacer is seen cleaning the ice. 
+ 
+Gameplay 
+ 
+Hat Trick features a two-on-two version of ice hockey. The player controls both hockey players at the same time, with each up and down movement of the joystick also moving the goaltender across his goal line. Goals are scored each time a player successfully shoots the puck across the opposing goal line. The number of saves are also displayed on the scoreboard, solely for reference. The winner is the player who outscores their opponent in a game length of two minutes. If the scores are tied after the clock has run down, a maximum of twenty seconds of overtime is played until one player scores to be declared the winner. The game is for one or two players simultaneously.

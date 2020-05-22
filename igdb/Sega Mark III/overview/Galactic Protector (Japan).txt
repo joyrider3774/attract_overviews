@@ -1,0 +1,5 @@
+Galactic Protector (ギャラクティックプロテクター) is a Sega Master System shoot-'em-up game developed and published by Sega. It stars Opa Opa of Fantasy Zone and Zillion fame, who must save various planets from enemies and debris hurtling towards them. 
+ 
+The game is built specifically for the Paddle Control, and therefore cannot be played on a standard Master System Control Pad. This also makes emulating the game tricky. 
+ 
+Like the Paddle Control itself, Galactic Protector was not released outside of Japan. It was released as part of the Fantasy Zone Complete Collection for the PlayStation 2, also Japan only.

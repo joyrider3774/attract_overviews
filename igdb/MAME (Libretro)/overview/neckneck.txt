@@ -1,0 +1,1 @@
+A horseracing game. Time your jumps so your horse is not slowed down. The winner's tickets are doubled.

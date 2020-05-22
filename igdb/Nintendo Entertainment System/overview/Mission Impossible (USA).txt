@@ -1,0 +1,1 @@
+NES game from Konami based on the 1980s TV Series. It used the same game engine as Metal Gear.

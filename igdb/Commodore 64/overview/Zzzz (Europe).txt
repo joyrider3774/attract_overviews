@@ -1,0 +1,1 @@
+Zzzz is a single player text adventure game with graphics.

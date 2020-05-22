@@ -1,0 +1,3 @@
+Dragon Quest Monsters is a turn-based RPG that involves recruiting monsters to fight for you in random encounters. Two recruited monsters can be fused together for a better one and extra monsters can be stored on a farm while not in your party.
+
+It was released in Japan for the Game Boy Color before the system was released.

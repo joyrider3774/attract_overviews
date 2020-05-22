@@ -1,0 +1,1 @@
+Fortress Underground is a sidescroller in which the player controls a chopper flying through an underground cave facing hostile cannons and units while avoiding a fuel shortage.

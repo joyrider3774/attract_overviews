@@ -1,0 +1,1 @@
+Hatris is a puzzle video game developed by Alexey Pajitnov, creator of famous video game Tetris.

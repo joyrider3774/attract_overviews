@@ -1,0 +1,3 @@
+A shoot-'em-up designed for use with the Light Phaser, but can also be played with a control pad. 
+ 
+Not to be confused with the Sega System 18 version.

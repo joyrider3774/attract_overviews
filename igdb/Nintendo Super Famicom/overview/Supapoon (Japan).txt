@@ -1,0 +1,11 @@
+A cutesy Breakout clone developed exclusively for the Japanese Super Famicom. 
+ 
+Supapoon is a Super Famicom game released late in 1995 that presents a colorful world with an elastic blue hero reminiscent of a Dragon Quest slime. The hero's solar system has been invaded by a group of yellow balls wearing triangular shades, and he jumps into action to send them packing. 
+ 
+Supapoon is inspired by games like Breakout and Arkanoid, but offers a few twists of its own, like being able to project the ball with additional power by using the "paddle"'s intrinsic elasticity, and a constant timer that ticks down faster whenever the paddle takes damage from skull drops or enemy attacks. 
+ 
+The goal of the game is to reflect a ball of energy around a table, ensuring that it doesn't fall off the bottom of the screen. Rather than clearing all the blocks on the screen, which is common for other games of this type, the player only has to remove the yellow balls wearing shades to clear a level. They will receive a bonus for clearing the screen, however. 
+ 
+Occasionally, items will drop from the destroyed blocks. These include extending and shrinking the paddle, adding more balls, extra lives and power stars. By collecting power stars, the player can increase the strength that the ball leaves the paddle, causing more damage to blocks. If the player finds four stars, this charged up bounce will clear the screen. 
+ 
+Skulls can often drop from blocks too, and collecting these will lower a green gauge at the side of the screen, which operates as a combined timer/health bar.

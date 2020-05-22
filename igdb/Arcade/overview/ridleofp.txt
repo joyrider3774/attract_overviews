@@ -1,0 +1,1 @@
+Bounce a ball around the screen to eliminate blocks and score points. Deflect the ball using your paddle.

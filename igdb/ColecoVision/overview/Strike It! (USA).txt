@@ -1,0 +1,1 @@
+Game similar to Arkanoid released by Bit Corp. in Taiwan.

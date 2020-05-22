@@ -1,0 +1,1 @@
+Fly your squadron of five ships around shooting down the enemy pilots. When you get hit, you simply lose one of your ships. After each round, you'll get a replacement ship which you have to maneuver into your formation or it's lost forever. In Tac-Scan, you control which direction you fly, though your planes stay in the same location of the screen.

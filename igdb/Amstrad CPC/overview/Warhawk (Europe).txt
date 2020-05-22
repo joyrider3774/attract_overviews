@@ -1,0 +1,3 @@
+Warhawk is an action/simulation game built around a futuristic VTOL craft. The player maneuvers with 360 degrees of flight control through 6 unique levels. 
+ 
+Take to the skies over desert and volcanic planets, through ancient castles and towers, and against massive airships in WarHawk. As a member of the Strikeforce Omicron, your goal is to wipe out the aggressive forces of Kreel. You will have complete 360 degree movement over large 3D worlds as you evade or attack in any direction: reverse, bank left or right, dive, barrel-roll, perform loops or even use the Immelmann turn to blast enemies out of the sky.

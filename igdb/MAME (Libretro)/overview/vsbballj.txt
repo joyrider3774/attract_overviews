@@ -1,0 +1,1 @@
+Players pick from a list of teams in this Dual Vs. baseball game. Time-points are awarded per credit which are either increased with runs batted in or decreased by opponent's runs or just regular plays. The gameplay can be very frustrating because infielders may not pick up a ball at their feet since they are waiting for another player to come over and pick it up.

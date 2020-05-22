@@ -1,0 +1,7 @@
+The player moves a vacuum through a maze in order to suck up dollar bills that are strewn throughout the screen. After several bills are vacuumed up, the vacuum will increase in size. After several size increases, the vacuum will become full and will not be able to vacuum up any more bills, so the money must be deposited in the vault in the center of the screen before the vacuum can start gathering up money again. 
+ 
+Robbers (which look like the player's blaster in the Tempest arcade game) begin appearing, entering via the two escape tunnels (as opposed to Pac-Man's one) that run vertically and horizontally in the maze. If a robber catches the player they will lose a life; run out of lives and the game will end. 
+ 
+Along with using the escape tunnels (which will warp the vacuum to the opposite end of the maze [i. e. entering an escape tunnel from the bottom will cause the player to reappear at the tunnel entrance at the top of the screen]), there are four special rooms -- one in each corner of the maze -- that the player can enter in order to be able to vacuum up the robbers for a brief time. The robbers will re-emerge from an escape tunnel seconds later though, and any remaining robbers that the player was not able to vacuum up will start blinking, indicating that they are about to return to their previous, dangerous form. 
+ 
+The difficulty level increases by having the vacuum fill up quicker, causing the player to make multiple trips to the vault during a level.

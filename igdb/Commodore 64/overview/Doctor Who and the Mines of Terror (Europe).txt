@@ -1,0 +1,5 @@
+The game centers on the player's character of the Doctor (specifically his sixth incarnation), and his robotic programmable cat Splinx. The goal of the game is to halt the Master's production of Heatonite, retrieve stolen plans for the Time Lords, and return safely. 
+ 
+The game's screen always has the player in the center, and depending on the direction of movement, the entire screen scrolls horizontally, vertically, or diagonally. The player can move freely, but can die in many ways: monster attack, robot attack, too great a fall, forced regeneration, lack of oxygen, and sharp spikes. 
+ 
+Enemies include patrolling robots that resemble the Daleks; however, the actual name and exact design of the Daleks was not used due to the rights to them being part owned by Terry Nation, creator of the Daleks.

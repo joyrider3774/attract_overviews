@@ -1,0 +1,1 @@
+Warlord is a graphic text adventure where the screen has a picture to show what you can see while text describes each location. You type in commands with the keyboard to interact with your surroundings.

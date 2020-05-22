@@ -1,0 +1,3 @@
+Gameplay is similar to the original Phantasy Star, the first game in the series. Its battle system is turn-based, allowing the player to choose commands for their party of up to four characters. Each of the eight characters has a different set of preferred weapons and armor, as well as techniques, suited to the character's job. The player must defeat enemies in the overworld and in dungeons to advance in the game. 
+ 
+The game abandoned the first-person view that the first game used for dungeons and battles. Phantasy Star II instead uses a top-down perspective for exploration and a third-person view in battles.

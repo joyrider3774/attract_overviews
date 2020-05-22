@@ -1,0 +1,3 @@
+USAAF Mustang is a horizontally scrolling shoot 'em up arcade game originally developed by NMK, and published by UPL in 1990. It was ported a year later to the Sega Mega Drive by Taito while being renamed Fire Mustang. NMK Co. Ltd. also developed the Sega Mega Drive version. 
+ 
+The game is a very standard horizontal scrolling shoot em' up with only one type of available weapon and a bomb weapon. Players took on a fictional campaign in a World War II setting as a USAAF fighter pilot in a titular North American P-51 Mustang against the Nazi Luftwaffe and the Imperial Japanese Navy Air Service.

@@ -1,0 +1,1 @@
+Vertically scrolling shooter arcade game developed by Takumi Corporation and published by Capcom on their CPS-2 arcade system board and ported later that year to the Dreamcast console.

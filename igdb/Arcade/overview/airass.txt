@@ -1,0 +1,3 @@
+Air Assault is a 2D up-scrolling shoot 'em up game where you take control of fighter. The game is similar to Air Duel. You have to tward the evil plans of an organization called the Fourth empire over the span of eight stages. 
+ 
+As you make progress and fight of various tanks, flying crafts, ships, static guns and bosses power-ups come available. Power-ups can be collected from capsules. Four types of guns are available: Balkan gun (broad strait shooting gun), Wing gun (broad arc shooting gun), graviton laser (strait narrow beam) and grenade (all direction gun). Missiles include the strait megaton missile and a homing missile. There is also a bomb that clears the entire screen. The game can be played solo or with a friend.

@@ -1,0 +1,12 @@
+Treasure Island Dizzy is a computer puzzle game published in 1988 by Codemasters for ZX Spectrum, and later ported to the Amstrad, Commodore 64, NES, Amiga, Atari ST and Windows.
+
+Treasure Island Dizzy was the second game in the Dizzy series, and is the sequel to Dizzy – The Ultimate Cartoon Adventure. The game was developed by the Oliver Twins with graphics being designed by Neil Adamson and music by David Whittaker.
+----------------------------------
+Design:
+This game is quite different from its predecessor, with a new inventory system and improved animations. The game notably contains fewer enemies than the previous title. It is more centred on inventory based problem solving. The aim of the game is to solve various puzzles in order to obtain a boat so that Dizzy can return to his friends and family, the Yolkfolk. To do this Dizzy must journey through haunted mines, tree villages, as well as underwater. The game also features a subquest (albeit one essential to completing the game) in which thirty gold coins must be collected. Such subquests were found in many of the sequels.
+
+Critics consider this one of the most difficult Dizzy games as the energy bar system of later titles was not yet implemented and Dizzy is provided with only one life—contrasting with five in the first game and three in Fantasy World Dizzy, the immediate sequel, and most subsequent titles. Also unique to this game, the player is unable to select any particular item from the inventory for use—Dizzy simply puts down whichever item is at the top of the list. If Dizzy is underwater and the snorkel happens to be at the top of the inventory list, he will drop the snorkel when the player collects another item and instantly die. Treasure Island Dizzy therefore requires more foresight and planning than the other games in the series.
+
+Adding to the difficulty of the game was the fact that the player had two main tasks to complete; the escape from the islands, and the collection of the thirty coins. Indeed, upon escaping the final island, the Shopkeeper character appears and tells Dizzy that he cannot leave without finding all thirty coins. Given that a number of the coins were hidden behind scenery, this second task proved to be more difficult than the main game. Commodore Format printed a "complete" solution and map which did not include the hidden coins, frustrating many players.
+----------------------------------
+There was some variation between different releases. For example, the 

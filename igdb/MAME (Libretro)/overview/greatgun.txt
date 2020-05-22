@@ -1,0 +1,1 @@
+A game of shooting. Contains many different levels including circus, prehistoric, and wizard scenes. Targets move and both players aim their guns at the screen and shoot.

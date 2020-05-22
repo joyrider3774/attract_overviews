@@ -1,0 +1,16 @@
+The Lost Vikings is a puzzle-platform video game developed by Silicon & Synapse (now Blizzard Entertainment) and published by Interplay. It was originally released for the Super Nintendo Entertainment System in 1992, then subsequently released for the Amiga, Amiga CD32, MS-DOS, and Sega Mega Drive/Sega Genesis systems the next year; the Mega Drive/Genesis version contains five stages not present in any other version of the game. Blizzard re-released the game for the Game Boy Advance in 2003. The GBA port is identical to the SNES version, but the password feature has been removed and replaced with three save slots, no longer allowing the player to replay any level at any time.
+
+The game features infinite opportunities of retries in case the player loses one of the Vikings.
+
+In 2014 the game was added to Battle.net as a free download emulated through DOSBox.
+
+In 2015, The Lost Vikings were added as a playable hero in Heroes of the Storm, allowing players to control the three Vikings as individual units, making a unique departure from the typical heroes available.
+
+
+Character abilities:
+
+All three Vikings (Erik, Baleog and Olaf) have three health points which they can lose by getting hurt by enemies or by falling from great heights, and the ability to carry and use items, mainly keys, bombs, and food (which restore health points). Each of the Vikings has a unique set of abilities:
+
+Erik can run faster than the other two, can jump, and can bash through some walls (and enemies) with his helmet.
+Baleog can kill enemies with his sword, or from a distance with his bow (and a "life-time supply of arrows"). The bow can also be used to hit switches from a distance.
+Olaf can block enemies and their projectiles with his shield, and use his shield as a hang glider. Olaf's shield can also be used as a stepping stone for Erik to enable him to reach higher ground, which would not be possible without the shield.

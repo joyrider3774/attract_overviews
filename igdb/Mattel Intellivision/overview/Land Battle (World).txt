@@ -1,0 +1,10 @@
+[Unreleased 1982] Land Battle is a two player war game which utilizes both strategic and tactical modes of play. Each player controls an array of forces with the objective of capturing or destroying his opponent's "flag." 
+  
+PRODUCTION HISTORY 
+This wargame simulation took a long time in programming (officially 391 days, compared to 170 days for Night Stalker, begun at about the same time); when completed in mid-1982, Marketing was concerned that its design already looked dated. 
+ 
+A second concern was that, due to the complexity of the game, it required more memory than an Intellivision contained; the cartridge would have to include 256 bytes of RAM onboard. Only USCF Chess had been approved for onboard RAM, an expensive proposition. 
+ 
+When the Entertainment Computer System (ECS) was given the green light, Gabriel Baum, VP of Applications Software, proposed changing Land Battle to an ECS title; the ECS had an additional 2K of RAM available for cartridges. Marketing resisted this -- they still wanted Land Battle as a stand-alone game. Peggi Decarli was assigned to give the game a graphics makeover. 
+ 
+After the makeover, Marketing still didn't find it visually interesting enough. By that time, wargame fanatic Steve Sents, having completed Deadly Discs, had started work on an ECS wargame called Desert Fox, which Marketing liked the looks of better. The decision was made to kill Land Battle and incorporate as much of its gameplay and programming as possible into the Desert Fox design.

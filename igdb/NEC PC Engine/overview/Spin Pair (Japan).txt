@@ -1,0 +1,1 @@
+A falling blocks puzzle game for the PC Engine. By matching pairs of symbols with opposing designs, they will cancel each other out and remove similar symbols from the grid.

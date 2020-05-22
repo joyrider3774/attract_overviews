@@ -1,0 +1,1 @@
+An adventure game based on the novel by Arthur C. Clarke.

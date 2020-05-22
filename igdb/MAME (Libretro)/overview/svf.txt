@@ -1,0 +1,1 @@
+A pseudo 3-D soccer game where sprite-based players pursue the ball on a scaled pitch.

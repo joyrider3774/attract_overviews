@@ -1,0 +1,1 @@
+The game has four scenes: fighting ships at day, fighting ships by night, fighting planes and ships by day, fighting planes and ships by night. You move left or right and press the button to fire. In the night scenes, you cannot see the ships or planes in the distance unless something explodes.

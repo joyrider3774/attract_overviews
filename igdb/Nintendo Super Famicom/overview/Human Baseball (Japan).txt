@@ -1,0 +1,1 @@
+A Super Famicom baseball game from Human Entertainment. It took advantage of the system's Mode 7 to create an illusion of 3D.

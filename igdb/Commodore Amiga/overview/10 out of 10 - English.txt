@@ -1,0 +1,1 @@
+Children's educational game designed to teach the user English skills such as, spelling. The games consists of six minigames.The player is given a grade after completing each game, Pathetic being the worst, Genius being the top level. The games are: Sniper, Cover Up, Word Fit, Grab It!, Librarian and Cheers.

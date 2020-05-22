@@ -1,0 +1,1 @@
+Lunar Lander is an arcade game released by Atari, Inc. in 1979, which uses a vector monitor to display vector graphics. The object is to pilot a lunar landing module to a safe touchdown on the moon.

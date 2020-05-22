@@ -1,0 +1,1 @@
+Cyber Tank is a would-be dual screen on-rails shooter from Coreland. Due to poor feedback during the location test phase of development, the game was not put into further production. Luckily, the board from the lone existing arcade cabinet was lent to MAME developers, and the game can now be played by a much wider audience. Game preservation!

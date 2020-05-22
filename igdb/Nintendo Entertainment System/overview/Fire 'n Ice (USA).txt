@@ -1,0 +1,1 @@
+The aim of the game involves players extinguishing all fires in a level in order to proceed. They do this by creating and melting ice (in a Lode Runner style) or kicking ice onto the fires. This game also has a level editor (which may expose some bugs that substantially affect the game mechanics).

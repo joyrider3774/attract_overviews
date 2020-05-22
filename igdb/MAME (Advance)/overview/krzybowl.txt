@@ -1,0 +1,1 @@
+A bowling game with two modes of play: regular and Krazy Bowl. The latter is bowling with various pins missing and is harder.

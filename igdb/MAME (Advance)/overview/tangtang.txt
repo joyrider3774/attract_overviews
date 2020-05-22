@@ -1,0 +1,1 @@
+This GBA game mimics the gameplay of Solomon's Key. Players are tasked with creating and destroying blocks to collect items and reach stage exits.

@@ -1,0 +1,1 @@
+Compiles both Harmony of Dissonance and Aria of Sorrow on one Game Boy Advance cartridge.

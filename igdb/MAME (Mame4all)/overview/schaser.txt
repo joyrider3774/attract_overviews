@@ -1,0 +1,1 @@
+Collect all the dots in the maze without colliding with (or being collided by) the missile. You can use your speed boost as long as you have fuel left. If the missile gets behind you on a long stretch it will speed up and the only way to avoid collision then is to turn a corner.

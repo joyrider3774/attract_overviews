@@ -1,0 +1,1 @@
+A 16-bit action platformer game based on the TV show of the same name which in turn was based on the toyline of the same name. Max's friends Bea and Felix are also playable characters.

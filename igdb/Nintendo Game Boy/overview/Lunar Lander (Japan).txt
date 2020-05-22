@@ -1,0 +1,3 @@
+Lunar Lander is a space exploration game based around Lift-off, Landing and Exploration 
+ 
+After you have landed and explored all eight areas, your mission is completed and you proceed to the next one, which is more of the same.

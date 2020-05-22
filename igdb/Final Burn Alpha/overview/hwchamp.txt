@@ -1,0 +1,1 @@
+A first-person boxing simulation that uses a unique control system which allows the player to experience both the strategic and physical aspects of boxing. Control manipulation is accomplished by motions similar to what might be seen in an actual prize fight.

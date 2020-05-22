@@ -1,0 +1,1 @@
+An early video game version of the game Checkers.

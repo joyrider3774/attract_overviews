@@ -1,0 +1,5 @@
+The contest is on! Create a maze to corner your opponents...before you are cornered yourself. Split-second reflexes keep your trail in motion -- while blocking your opponent and/or the computer in a trap from which there is no escape. Or direct a hungry serpent after your opponent, and bite his tail off before he bites yours. It's a twisting tangle which only the swift survive. 16 game variations put you in control. 
+ 
+Trap Games (12 variations) -- To keep your trail moving without colliding -- and to block your opponents' trails so that they are forced into collisions. Trails that collide with others, with the edge of the picture, with obstacles or themselves are eliminated. 
+ 
+Bite Games (4 variations) -- To make contact between the head of your serpent and the tail of your opponent's serpent, "biting" off one link with each contact. The winner is the surviving serpent.

@@ -1,0 +1,7 @@
+Serpent (かこむん蛇 Kakomunja) is a Game Boy snake game exclusive for the North American and Japanese markets. 
+ 
+In the future, there is a sport called Serpent. Two fighters in serpentine robotic machines try to box each other in to win the fight. The serpents are detailed in the fact that they aren't just a line, giving a greater sense of realism to the game. Each snake has a fixed amount of lives; with losing a life being a representation of "losing the war." The "game over" message is a simple message saying "the bitter taste of defeat" with an animated picture of a snake crying and accompanied by a melancholic music in a waltz rhythm. 
+ 
+There are two modes with four difficulty levels; level 1 is considered to be the easiest (normal speed and enemy performance) while level 4 is the hardest (fast speed and enemies are likely to cheat death). The first mode allows players to simply compete against an opponent while the second mode brings in a series of small snakes that emerge when players take too long conquering a level. Missiles can be launched when the player collects them on the field. White numbers help the player develop a longer body while black numbers make the body shorter. 
+ 
+Missiles can either make the enemy faster (black missiles) or slower (white missiles). Winning 7 of the 13 possible matches automatically makes the player into the "champion of serpents."

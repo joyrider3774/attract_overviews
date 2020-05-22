@@ -1,0 +1,5 @@
+On many levels there are enemies to be shot, by holding the joystick forward. At the end of certain levels are large enemy dragons, inspired by the game Space Harrier, which must be destroyed before the time runs out. Other hazards include large yellow walls with doors that open and close. 
+ 
+A timer ticks down constantly, and only stops when the player reaches the grey tiles that mark the end of a level. Remaining time is carried over to the next level, and a bonus score awarded based on the number of seconds left. (The timer is reset after each dragon level). 
+ 
+There are 24 levels in total. At the end of the game a rating is awarded, from Hilarious to Superblazer for completing the game.

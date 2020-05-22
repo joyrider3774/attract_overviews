@@ -1,0 +1,3 @@
+A robot is shooting at you - lob a grenade to destroy it. Boom! But once it's gone, a tougher robot takes its place! 
+ 
+Steve Montero developed this game at Activision after programming the robot-themed Night Stalker at Mattel Electronics. The game was completed in late 1983, just as Activision decided to give up on releasing new Intellivision titles. It was finally released in 2001 on the Intellivision Rocks CD.

@@ -1,0 +1,11 @@
+Operate POP FLAMER with lever to crush ballons avoiding or burning up monsters. 
+ 
+Be careful! If hit by electro-shock wave emmited by HARADON, POP FLAMER will be paralyzed for a while. 
+ 
+Flaming distance comes to be shorter gradually. Replenish fuel supply by crushing balloons. 
+ 
+Throw flame to exterminate frogs if blocked by them. 
+ 
+Get POWER DRINK to change to SUPER MOUSE and swallow monsters nearby. 
+ 
+POP FLAMER disappears if touched by monsters.

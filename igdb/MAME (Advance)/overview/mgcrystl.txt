@@ -1,0 +1,1 @@
+A cute top-down action game where you control a wizard that must rescue fairies who are trapped inside of crystals.

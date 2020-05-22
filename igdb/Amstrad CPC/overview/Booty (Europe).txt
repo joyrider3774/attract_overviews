@@ -1,0 +1,15 @@
+Jim the Cabin Boy must make his way below decks to collect 
+various items of booty (automatically picked up when he walks 
+past it) strewn around the ship. 
+ 
+When you have collected all the items from the Black Galleon's 
+20 holds, you will be given 45 seconds to locate the Bronze key 
+to the next pile of booty. Clearing all booty a second and third 
+(impossible!) time causes a search for the Silver and Gold keys, 
+each increasing the game's speed and hazards. 
+ 
+Jim will meet an untimely death if he falls through a trap door, 
+drowns, is bitten by a ship's rat, or pecked by one of the Captain's 
+parrots, or cut down by a Ghost Pirate, or blown up (some 
+pieces of booty are booby-trapped to step lively, mates) or 
+steps through a hold door into mid-air (heh! heh!)

@@ -1,0 +1,1 @@
+A german version of the game based on the Connect Four board game.

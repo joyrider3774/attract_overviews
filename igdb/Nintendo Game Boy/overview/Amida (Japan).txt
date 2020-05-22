@@ -1,0 +1,1 @@
+Amida is a Japanese ladder climbing puzzle video game. The game requires players to navigate the main character safely across several pre-set bridges. Each bridge is composed of a number of obstacles that the character will blindly navigate into. The player can utilize an animated platform to redirect the main character as they move through the stage.

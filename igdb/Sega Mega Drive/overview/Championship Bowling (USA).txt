@@ -1,0 +1,1 @@
+The object of the game is the same as a regular game of bowling; score the highest to win. The game utilizes factors such as left or right-handedness, spin, power and weight of the ball which can affect the outcome of a throw.

@@ -1,0 +1,3 @@
+The Legend of Silkroad is a 2D side-scrolling beat 'em-up game that puts players in the shoes of either the heroes Munmoo from Korea, Sochun from China or Jamuka from Mongolia. The adventure leads you along the Silkroad, with a total of twenty-five different enemies. 
+ 
+Each character has five attack skills and twenty different magical attacks. Along the way items can be found that replenish health as well as magic stones for different magic attacks. The game has nine regular stages and four hidden stages. It can be played solo or with a friend.

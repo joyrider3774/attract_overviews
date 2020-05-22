@@ -1,0 +1,1 @@
+SimLife was a genetic diversification simulator from Will Wright and Maxis. Create new life forms, introduce them to a planet's ecosystem, and watch them flourish or become extinct.

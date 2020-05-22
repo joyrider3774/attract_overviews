@@ -1,0 +1,1 @@
+Alpha Mission II is a 2D vertical scrolling shooter with a great deal of depth for two players moving vertically up the screen boards shooting anything that moves. Equip up to three pieces of armor, which also serve as weapons, for a variety of attacks such as the laser and flamethrower. Use them to defeat the evil “Fulvar” and save mankind!

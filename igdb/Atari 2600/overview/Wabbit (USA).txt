@@ -1,0 +1,4 @@
+You are a farmer, named Billie Sue, trying to protect your crops. One patch in particular is giving you trouble. It's surrounded by ten holes from which wabbits [sic] dart into your field. Scare off the pesky creatures by throwing wotten eggs at them (they're in 
+abundance this year and worth much less than good country carrots). 
+ 
+The score on the left depicts the number of carrots the wabbits have snatched and deposited in their wabbit holes. The current carrot count increases every time a wabbit gets back into his hole with one of your carrots. Your score increases every time you wallop a wabbit with a wotten egg. It's an egg-citing experience.

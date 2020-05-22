@@ -1,0 +1,4 @@
+AeroWings is a simulation that allows the player to fly as a member of a jet aerobatics team. The game contains a variety of jet-powered aircraft that the player can fly in several game modes. • Blue Impulse Mission: Learn 20 aerobatic maneuvers and become a member of the elite Blue Impulse team. Learn loops, rolls, and more while flying both solo and in formation. 
+• Sky Mission Attack: Fly through a series of targets suspended in mid-air before time runs out. 
+• Free Flight: Fly around and freely explore the landscape. 
+• Multi Play: Up to 4 players can perform in formation simultaneously.

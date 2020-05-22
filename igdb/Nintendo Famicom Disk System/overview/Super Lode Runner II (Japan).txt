@@ -1,0 +1,1 @@
+The second compilation of levels from Irem's Lode Runner Arcade series. Developed for the Famicom Disk System, it was never released outside of Japan. Gameplay consists of collecting all the gold of a level and then exiting. Be sure to avoid enemies while doing so, and team up with a friend to experience the co-op levels

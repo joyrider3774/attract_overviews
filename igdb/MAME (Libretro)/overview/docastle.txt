@@ -1,0 +1,1 @@
+Mr Do!, the clown, moves around six floors interconnected by ladders -- some fixed, some whose top can be pushed left or right. Baddies look like unicorns. He has a hammer which can knock out floor stones.

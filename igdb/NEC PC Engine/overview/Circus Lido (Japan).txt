@@ -1,0 +1,5 @@
+A single-screen action game featuring a chameleon that feeds bugs to Venus flytraps. 
+ 
+Circus Lido, or Circus Ride, is an action game published by Uni Post exclusively for the PC Engine. 
+ 
+The goal of the game is to navigate the stage and defeat the enemies using the chameleon's two powers: his long tongue and his prehensile tail. The tongue can be used to capture enemies and spit them out towards the Venus flytraps, which are the only way to remove them from the stage. The tail can be used to climb vines scattered around, which allows the chameleon to ascend through the stage.

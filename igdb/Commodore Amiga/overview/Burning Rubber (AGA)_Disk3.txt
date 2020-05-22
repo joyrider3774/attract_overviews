@@ -1,0 +1,1 @@
+"A port of an arcade game that is a copy or variant of Bump n Jump. Bump n Jump never got a c64 conversion but this and Bumping Buggies are worthwhile versions of the top-down jumping car genre." --bookhouse boy (lemon64.com)

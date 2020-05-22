@@ -1,0 +1,1 @@
+The Patrician is a trading simulator set in the middle ages, it's the first game in the Patrician series.

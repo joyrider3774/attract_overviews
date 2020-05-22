@@ -1,0 +1,3 @@
+The Pit is a 1982 action/strategy video game developed by AW Electronics, published by Centuri in the United States, Taito in Japan, and Zilec/Zenitone in the UK. The objective of The Pit is to descend into an underground labyrinth, retrieve a gem, and escape. 
+ 
+A game similar to The Pit programmed by Chris Gray inspired Peter Liepa to create Boulder Dash

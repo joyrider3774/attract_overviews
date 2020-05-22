@@ -1,0 +1,1 @@
+An undersea shooting game where the player uses a mounted spear gun to kill sea creatures that move across the screen. Shoot the sharks, swordfish and octopuses but try not to hit any of the skindivers.

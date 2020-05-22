@@ -1,0 +1,9 @@
+Blitz! is a simulation of American football. Each player (which the game supports a simultaneous two player mode) controls one member of their team on offense and defense and the basic objective is to move the ball up the field to reach the opposition end zone. This is done using a series of "downs", there being four downs available to move the ball ten yards forward. If a player fails to achieve that then the ball turns over to the opposition offense. The player can also score by opting to attempt to kick the ball between the opponent's goal (called a field goal and worth fewer points than a touchdown). 
+ 
+When on offense, the player controls the snapping of the ball (which must be done within 30 seconds of the formations being set) and then the quarterback, who can either run with the ball himself, or pass it to a team mate by "pointing" the joystick towards that receiving player, which the player will then assume control of to run with the ball. 
+ 
+On defense, the player controls a single defender who runs faster than any of his teammates and is thus most able to tackle the opposition's ball carrier. 
+ 
+Players can be penalised and be moved back five yards by either delaying the game (not snapping within 30 seconds), or moving offside (crossing the line of scrimmage when the ball is snapped). 
+ 
+After each game, a statistics screen is shown, listing items such as number of first downs and total rushing and passing yards for each team.

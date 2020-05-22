@@ -1,0 +1,7 @@
+Coded Arms is a visually stunning first-person shooter that places the gamer in the role of a computer hacker who infiltrates an abandoned virtual reality system. Originally created as a combat training simulator to prepare for an alien invasion, the VR system was shut down during development after a major flaw was discovered. Unbeknownst to its creators, the simulation program continued to evolve on its own, turning into a vast and brutal VR world populated with virtual alien invaders, dangerous computer bugs and the VR system's own security bots. Arm yourself with an assortment of weaponry and battle these enemies through the virtual landscape. 
+ 
+• Multiplayer modes for 4 players 
+• Immersive single player mode 
+• Weapons and power-ups collected in single-player mode stay with you in multiplayer 
+• More than 30 weapons including assault rifles, pulse weapons and rocket launchers 
+• Multiple game worlds with randomized levels

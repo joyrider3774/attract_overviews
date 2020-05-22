@@ -1,0 +1,1 @@
+A 2D action-platforming game that begins in a mystical representation of feudal Japan but travels all over time. It was originally released on European home computers, though the 1993 SNES port by Kemco was published in all regions.

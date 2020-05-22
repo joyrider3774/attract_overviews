@@ -1,0 +1,3 @@
+Snake Rattle N Roll features two snakes, Rattle and Roll, as they make their way through eleven 3D isometric levels. The object is to navigate the obstacles in each level and eat enough "Nibbley Pibbleys" to ring a weigh-in bell located in the level, which will allow the snakes to exit. The game can be played by a single player or by two players simultaneously.
+
+It was later re released as part of Rare Replay collection on Xbox One.

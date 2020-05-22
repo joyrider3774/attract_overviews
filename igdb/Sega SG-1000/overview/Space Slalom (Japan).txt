@@ -1,0 +1,5 @@
+Space Slalom is a video game developed by Orca and published by Sega for the SG-1000 in 1983. 
+ 
+Though on the surface it appears to be a space-themed vertical shoot-'em-up, there is actually no shooting involved. The player controls a shuttle and must navigate it through a course defined by colored stars, similar to ski slaloms. The player must also avoid obstacles, and will be awarded with extra points depending on on his/her speed across the course. 
+ 
+At a mere 8kB, the game is one of the smallest SG-1000 games, and was only sold in Japan.

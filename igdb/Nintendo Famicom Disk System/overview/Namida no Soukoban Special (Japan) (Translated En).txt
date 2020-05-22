@@ -1,0 +1,1 @@
+It is your goal to push a number of crates onto certain spots in order to finish a level. Finding the right way to move all the crates on the right spots becomes increasingly difficult and you have to plan numerous steps in advance in order not to block your own way.

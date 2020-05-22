@@ -1,0 +1,1 @@
+Player has a choice of three characters. Characters wander around a playfield while foodstuffs cascade down from the top. Player grabs a pie (for example) and chucks it at NPCs or the other player.

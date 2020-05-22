@@ -1,0 +1,1 @@
+An early racing simulator based on the 24 Hours of Le Mans. It was a pioneer of realistic simulation racing, and featured a unique cabinet that rotated to simulate the feel of driving a car.

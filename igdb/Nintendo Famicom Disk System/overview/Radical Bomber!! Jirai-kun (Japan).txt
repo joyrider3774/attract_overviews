@@ -1,0 +1,3 @@
+A strategy puzzle game developed by Jaleco involving blowing up connections between squares in a grid to trap opponents. 
+ 
+Radical Bomber!! Jirai-kun ("Jirai" means landmine) is a strategic puzzle game from Jaleco that has more than a passing resemblance to Hudson's Bomberman franchise. However, rather than trying to defeat the opponents in a frantic real-time environment, the goal of Radical Bomber is to carefully think out a plan of action and find a way to trap the opponents by removing connections between each "square" on the map. Successfully isolating an opponent from the rest of the board causes them to forfeit the game, and doing this with every opponent allows Jirai-kun to move onto the next level.

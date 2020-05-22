@@ -1,0 +1,64 @@
+You are "Lone Wolf" with your turbo Sherman tank in pursuit 
+of the "Desert Fox", Nazi Germany's Rommel forces in the 
+Lybian desert. 
+ 
+How to win: Save all your depots 
+How to lose: Either your tank damage gauge is full or your 
+ depots fall to the enemy 
+ 
+How to save your depots: 
+ 
+1. Zoom 
+Select ZOOM icon and press the fire button. When it turns from 
+red to green move the joystick, this will move the black box on 
+the map from depot to depot. 
+ 
+Allies depots indicated by gray flags: 
+saved depots turn blue, 
+lost depots turn red. 
+ 
+With zoom icon green, press fire button. Depot status will zoom 
+up to reveal the number of tanks (red=enemy, blue=allies), fuel 
+(oil drums) and supplies (tents). These supplies/fuel will be 
+used by 'Lone Wolf' to repair and refuel his tank (decrease 
+damage gauge). 
+ 
+Number in lower right hand corner equals hours remaining before 
+depot will fall. 
+ 
+2, Radio 
+Lone Wolf's heading is determined by selecting the RADIO icon. 
+When icon turns green, push joystick right or left to move radio 
+beacon. Press fire button again to activate Lone Wolf's secret 
+enigma decoder. This special radio device intercepts Rommel's 
+orders. The first word the player hears indicates the type of 
+enemy force; for example "stukas", "minefields", etc., directly 
+ahead. Later words indicate outlying enemy positions. 
+ 
+Through careful selection of the radio beacon heading, Lone Wolf 
+can thread his way through enemy forces to rescue his besieged 
+depots. 
+ 
+Strategy Tip: Listen for radio static. Static indicates no enemy 
+forces in an immediate area. Avoid confrontation whenever 
+possible and head for the wide open spaces. (The shortest 
+distance between 2 points is not always a straight line.) 
+ 
+3. Air Strike 
+When a depot is in danger of being wiped out (their status should 
+be checked throughout the game) and Lone Wolf is too far away for 
+a rescue mission, call in a spitfire airstrike to buy time. 
+ 
+Highlight the AIRSTRIKE icon in green (using fire button). 
+When arrow appears at a depot, move joystick until the correct 
+depot has been selected. Press fire button and air strike will 
+begin. If you choose not to send in an air strike, simply cycle 
+the arrow through all depots and the airstrike icon will 
+turn red again. 
+ 
+NOTE: it takes time for air strike to reach its destination. 
+Lone Wolf only has "one" air strike per game. 
+ 
+4. Swastika 
+Indicates location of Rommel who pursues Lone Wolf around the 
+map. Once the Desert Fox is 

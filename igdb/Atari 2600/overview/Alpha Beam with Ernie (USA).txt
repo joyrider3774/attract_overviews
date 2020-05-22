@@ -1,0 +1,3 @@
+The object of Alpha Beam is to help Sesame Street's Ernie pilot a small shuttle, collect fuel tanks (marked by a letter of the alphabet), and return them to his space ship so that he can return to Earth. 
+ 
+The game was marketed as a family-friendly game that could teach children pre-reading skills such as identifying and matching letters. Alpha Beam was compatible with the Atari Kid's Controller, which was sold separately, although the regular keyboard controller is also compatible

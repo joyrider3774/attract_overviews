@@ -1,0 +1,1 @@
+The first 'Maker' game from ASCII, this game was a creation tool that allowed users to create their own adventure games.

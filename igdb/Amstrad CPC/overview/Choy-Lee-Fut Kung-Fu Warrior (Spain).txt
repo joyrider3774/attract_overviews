@@ -1,0 +1,1 @@
+Kung fu fighting game. Typical quick and dirty ZX Spectrum port with the quality to match.

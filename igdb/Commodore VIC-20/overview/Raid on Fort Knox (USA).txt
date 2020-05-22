@@ -1,0 +1,1 @@
+The objective of the game is to steal gold bars from the vaults of Fort Knox and escape back to their hiding place with them. Fort Knox is represented as a labyrinth of hallways and for some reason there are patrolling black panthers that should be avoided.

@@ -1,0 +1,1 @@
+A two-player baseball game where each player bats and pitches against the other team.

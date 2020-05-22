@@ -1,0 +1,5 @@
+Wizard is a video game created in 1980 for the Atari 2600 video game system by Chris Crawford, although it was not released until 2005. Wizard's ROM takes up 2K, the last Atari 2600 game programmed by Atari Inc. to use such a small amount. 
+ 
+The player plays as a wizard from Irata (Atari spelled backwards) and battles Imps. It takes place in a maze, but it's not a symmetric battle: the player is faster than the enemy, but the enemy can go through walls and fire faster than the player can. 
+ 
+Wizard was innovative in several ways. There was no need to aim, as the angle of the player's fire was automatically sent in the direction of the player's enemy. The enemy remained invisible when it was behind a wall, making it one of the first games to implement a line-of-sight algorithm. It also had a very realistic (for the time) heart beat, which would become louder as the player got closer to the enemy.

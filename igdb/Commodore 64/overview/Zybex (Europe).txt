@@ -1,0 +1,3 @@
+A horizontally scrolling 'always firing' shoot 'em up game with an emphasis on power ups and notable for the fire button only being used to change weapon.  
+ 
+The player takes the role of one of two convicts; Rinser and Cassalana, escaping from an execution in intergalactic prison. To buy their freedom, players must collect tokens to open later levels by destroying the large end of level bosses.

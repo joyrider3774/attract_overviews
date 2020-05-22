@@ -1,0 +1,3 @@
+Project-X is a scrolling shooter game for the Amiga computer released in 1992. It was also ported to DOS. 
+ 
+Developed and published by Team17, it was regarded as one of the best shooter games for that platform at the time, both for its technical excellence in graphics and sounds, and for its difficult and interesting gameplay. The game resembles Konami's side-scrolling shooter games such as Gradius, Salamander and Parodius.

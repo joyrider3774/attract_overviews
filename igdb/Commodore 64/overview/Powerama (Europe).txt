@@ -1,0 +1,1 @@
+A vertically scrolling shoot'em up developed by David Crummack and Craig Galley, also known as Magnum Force. A fleet of colossal alien ships are heading towards Earth and the only one who can stop them is the player in his humble scout ship.

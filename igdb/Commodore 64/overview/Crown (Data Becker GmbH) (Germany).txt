@@ -1,0 +1,1 @@
+Very simple arcade game. Avoid obstacles, get bonuses, finish all levels.

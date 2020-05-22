@@ -1,0 +1,1 @@
+Manipulate the balls so they fall into the pits for points. Get enough points and you will move on to the next round.

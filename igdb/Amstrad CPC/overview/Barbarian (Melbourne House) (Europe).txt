@@ -1,0 +1,5 @@
+Welcome to the world of Barbarian. 
+In this world you control our hero "Hegor". Once the game has started you will see him standing in the marsh. Using the mouse, jouystick or keyboard (or all three simultaneously) you issue commands that control his actions. Thus enabling you to explore the world of Durgan. 
+ 
+You should always remember that Barbarian features context sensitive animation which allows the same commands to do different things depending on the situation Hegor is involved in. 
+In order to complete the game you must locate and destroy the crystal which is the source of the evil power of Necron. Once the crystal has been destroyed the volcano in which Durgan is located will start to erupt making it imperative that you reach the surface again before it blows.

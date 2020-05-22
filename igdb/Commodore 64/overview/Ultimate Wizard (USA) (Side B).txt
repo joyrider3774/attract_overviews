@@ -1,0 +1,5 @@
+Ultimate Wizard is an Action game, developed by Progressive Peripherals & Software and published by Electronic Arts, which was released in 1986. 
+ 
+The player character, Wilfrid, is a wizard in purple robes, and his enemies include witches, knights, giant insects and other various monsters. 
+ 
+Each level contains keys, and the object involves getting Wilfrid to get the key to move on to the next location. Each level also requires a different spell to find the key, and every key found gives him a finite amount of times he could cast the spell. Some spells cast projectiles, which could either kill or freeze enemies, while some would teleport Wilfrid around, either by turning him to a non-corporeal "shadow" or by instantly moving him to his starting point.

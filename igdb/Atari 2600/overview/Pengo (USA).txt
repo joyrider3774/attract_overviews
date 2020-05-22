@@ -1,0 +1,1 @@
+The player controls Pengo, a red penguin that resides in the Antarctic. The game takes place in an overhead maze made of ice blocks, where Pengo fights the trolling, blob-like Sno-Bees. The objective of the game is for Pengo to survive a series of rounds by eliminating all Sno-Bees, while amassing bonuses by bringing together the three diamonds dispersed in the maze.

@@ -1,0 +1,5 @@
+The player controls a worker in a warehouse. Gameplay is simple: the goal of each level is to push the crates onto specific squares marked with a yellow dot. It's very easy to get boxes trapped, so the player must carefully consider the route. 
+ 
+Boxyboy also features a level editor for players to create and play their own levels. 
+ 
+In Japan, Boxyboy is known as Sokoban World and is an official part of the Sokoban series.

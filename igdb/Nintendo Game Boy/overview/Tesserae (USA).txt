@@ -1,0 +1,3 @@
+Tesserae is a single-player video game developed by Nicholas Schlott based on Kent Brewster's DOS game Stained Glass. 
+ 
+Tesserae is played by flipping colored tiles over other tiles to remove them from the board. While flipping over tiles subtracts the color from the tile that was jumped, landing on a tile adds the colors, making it more difficult for that tile to be removed. Primary tiles of red, blue and yellow combine to produce secondary tiles of purple, green and orange. A gray tile is produced by combining all three primary tiles. Game play starts simple with only primary tiles on a rectangular board. More complex board shapes as well as introducing secondary tiles increases the difficulty.

@@ -1,0 +1,1 @@
+A puzzle game where you have to drop playing cards so they make poker-valid lines horizontally, vertically and diagonally.

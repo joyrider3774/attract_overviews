@@ -1,0 +1,5 @@
+Knight Orc is a standard text adventure game, with limited graphics on some platforms, by Level 9 released in 1987. It comes with a short novella by Peter McBride ("The Sign of the Orc") explaining the background to the story. 
+ 
+After a night of heavy drinking with friends, Grindleguts the orc awakes to find himself strapped to a horse and about to joust with a human knight. His "friends" are nowhere to be seen, and he must somehow escape from his predicament and get even with them. Grindleguts must survive in a world of hostile humans while seeking revenge against his tormentors. 
+ 
+After the first chapter, the game switches to science fiction setting where Grindleguts is revelaled to be a malfunctioning non-player character in a futuristic MMORPG. Using his power of transitioning between fantasy and reality, he convinces several other bots to join him, and escapes from the simulated reality facility.

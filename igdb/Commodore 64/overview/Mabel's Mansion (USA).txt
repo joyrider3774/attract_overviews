@@ -1,0 +1,1 @@
+A 2D action-adventure written by Kevin Bagley in which the player has to solve puzzles in a nintey-room mansion of the recenty died aunt Mabel and collect all the money.

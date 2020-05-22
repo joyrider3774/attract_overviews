@@ -1,0 +1,7 @@
+The player controls a hovercraft on its ascent up a mountain range with the goal of reaching the fortress at its summit. Each screen is part of a roadway, which is defended by three waves of guardians. These waves of guardians consist first of the Doomgrabbers, then the Tarantulas and finally the Ghouls. Each wave makes its descent down the roadway and towards the player, which all of one wave needs to be destroyed before the next wave begins its descent. Contact with enemies or the Spikers which are randomly released from the Doomgrabbers will result in the loss of a life. 
+ 
+The player's own fire has the ability to ricochet off the walls of the roadway. This not only has the benefit of creating angles, which the player may destroy the enemies without them being able to return fire, but can also be a disadvantage due to the ability for the shot to return and destroy the player's ship. 
+ 
+After three waves, the player is allowed to move up the screen and to the next roadway. Each roadway has the same enemies, although in increasing numbers. With the second roadway comes the addition of the Warbirds, who fly over the entire mountain and are able to fire at the player in the third roadway. 
+ 
+Once three roadways have been

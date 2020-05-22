@@ -1,0 +1,2 @@
+3D Boxing is a boxing game for one or two players. 
+The full game involves fighting against each over fifteen rounds to win the coveted AMSOFT belt. There are six opponents each with their own characteristics and names. Mad Joe for example moves around a lot but doesn't throw many punches while Jef is a champion with a killer punch who doesn't move much at all.

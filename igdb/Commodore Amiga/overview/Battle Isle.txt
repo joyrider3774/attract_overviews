@@ -1,0 +1,2 @@
+A turn-based strategy game taking place on a fictional island named Chromos. Different factions fight for supremacy.
+Created by German developer Blue Byte in 1991.

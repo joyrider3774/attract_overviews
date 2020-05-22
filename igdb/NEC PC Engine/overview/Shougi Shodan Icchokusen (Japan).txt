@@ -1,0 +1,1 @@
+Japanese chess board game playing against different opponents.

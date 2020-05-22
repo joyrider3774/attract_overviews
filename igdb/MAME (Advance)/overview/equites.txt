@@ -1,0 +1,1 @@
+A vertical space shooter with two modes of operation: ground based and air based. Some enemies can only be killed when they are either walking or flying. Tunnels lead to underground bases that contain bonuses and power-ups.

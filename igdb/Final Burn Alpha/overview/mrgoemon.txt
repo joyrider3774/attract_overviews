@@ -1,0 +1,2 @@
+Mr. Goemon is a side-scrolling-platform game developed by Konami in 1986. 
+Enemies charge and grab the character, ending his life unless the player jostles the control stick to break free. Later enemies also have projectile weapons that the player must dodge.[4] They are defeated by throwing a found object at them or hitting them with an always-equipped pipe. Jumping on the enemies' heads will push them down a level or off the screen entirely. Levels feature either boss battles or a pile of gold bars at the end, worth various points depending on the level.

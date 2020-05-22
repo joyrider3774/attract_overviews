@@ -1,0 +1,1 @@
+Omega, on the surface, appears to be just a simple tank combat simulation game. Once you get into it, however, the game gets much deeper. The player actually codes the AI for their tank using a pretty robust progamming language system.

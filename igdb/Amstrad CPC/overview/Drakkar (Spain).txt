@@ -1,0 +1,1 @@
+Frakas is a 3D arena brawler with multiple diversified challengers building combo points and using special and defensive moves. It is focused on dynamic close-range combats and can be played in Free-For-All or Team modes.

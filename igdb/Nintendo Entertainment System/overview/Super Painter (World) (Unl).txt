@@ -1,0 +1,1 @@
+Super Painter is a puzzle platform game in which the player tries to paint the tiles and make it to the exit while avoiding evil cats.

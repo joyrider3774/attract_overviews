@@ -1,0 +1,3 @@
+The game is a quick and dirty battle (or a longer campaign mode that is a series of battles fought over a dynamic strategic map) between two generals, "General Chaos" and "General Havoc". The objective of the game is to capture the enemy's capital city.
+
+Each player has to pick one of 4 teams, 3 of which have 5 soldiers (with differing selections weapons), while one has 2 "commandos" and uses a different control system giving greater control.

@@ -1,0 +1,1 @@
+ADK's early arcade rally-racing game for the Neo Geo hardware, featuring stages based on real events (most notably the Dakar Rally).

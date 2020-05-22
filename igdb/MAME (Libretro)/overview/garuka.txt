@@ -1,0 +1,1 @@
+AKA Devastators. This game essentially takes commandos that look identical to the Contra dudes and places them on long 3D battlefields. Rather than advancing screen by screen, you can walk forward by holding Up, as the background slowly scales toward the screen.

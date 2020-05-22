@@ -1,0 +1,1 @@
+An easier version of the classic trivia game show.

@@ -1,0 +1,1 @@
+A flight simulation game in which the player controls a jet fighter-bomber and eliminates targets like radar stations, submarine bases or naval dockyards.

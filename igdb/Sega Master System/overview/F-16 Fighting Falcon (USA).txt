@@ -1,0 +1,1 @@
+A first-person jet fighter simulation game created for the Japanese MSX and ported to the Sega Master System. Also known as F-16 Fighter. The goal is to fly an F-16 and take down opponents in dogfights.

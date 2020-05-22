@@ -1,0 +1,9 @@
+Super Puzzle Bobble introduces some new elements to the series (and removes some others): 
+ 
+ Large bubbles are found in certain levels. Shooting a bubble of the same color at them makes every bubble in the level change into that color. 
+ In some levels, the pointer and the bubbles that are shot are of a very small size, enabling the player to shoot bubbles between small gaps. These bubbles grow into normal size after being clustered. 
+ Occasionally, a conveyor belt will surround the level. This makes bouncing off the ceiling and the walls significantly tricky, since the bubbles' trajectory will change upon bouncing. 
+ Levels do not always have the usual rectangular shape. Some of them are jagged or have walls inside them, which forces the player to change strategy. 
+ Small blocks appear in some levels. They change the bubbles' trajectories, much like walls, but they move down with the level and fall off when they touch the line. 
+ The pulley system introduced in Puzzle Bobble 4 is nowhere to be seen. 
+ Chain Reaction is only present in 2P battles, but it is completely optional.

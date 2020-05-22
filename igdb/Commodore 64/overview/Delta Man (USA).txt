@@ -1,0 +1,1 @@
+A platformer written by Andy Jervis and published by The Power House for the Commodore 64. The two robots Jim and Bob must conquer several levels with platforms and monsters to rescue a princess.

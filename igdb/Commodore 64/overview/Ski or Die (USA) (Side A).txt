@@ -1,0 +1,5 @@
+Ski or Die is a 1990 winter sports game by Electronic Arts for the Amiga, NES, MS-DOS and Commodore 64. It consisted of 5 minigames which could be played individually or in a set sequentially. Up to 6 players could compete against each other via hotseat in 4 of the minigames, and semi-hotseat in 1 of them (up to two players at a time).
+
+The sports and activities depicted in the minigames are halfpipe-snowboarding, inflatable sled racing, aerial skiing, downhill skiing and snowball fights.
+
+The DOS port featured Roland MT-32, AdLib and beeper music and sound effects and ran at 15 FPS.

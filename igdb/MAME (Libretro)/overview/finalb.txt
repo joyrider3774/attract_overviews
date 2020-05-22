@@ -1,0 +1,3 @@
+Final Blow is a boxing arcade game created in 1988 by Taito. The name would remain the same for all ported platforms, except for the Sega Mega Drive/Genesis versions, which Sega released outside Japan as James 'Buster' Douglas Knockout Boxing featuring Buster Douglas himself in 1990 immediately after his victory over Mike Tyson. 
+ 
+The game is essentially a side scrolling boxing game where the player moves left and right to control a screen sized boxer. When the timing is right, the player can unleash a final blow punch which can sometimes KO the opponent in a single strike. The home versions contained a spectator mode where the player can watch their favorite boxers compete.

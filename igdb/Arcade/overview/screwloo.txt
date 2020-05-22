@@ -1,0 +1,1 @@
+Navigate the Robop character around a 3-D perspective playfield while shooting enemies and gathering items for points. Avoid the Inchworm since it will steal your hands!

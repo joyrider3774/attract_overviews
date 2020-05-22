@@ -1,0 +1,1 @@
+1st Person Pinball is a pinball game in which the camera follows closely on the ball rather than the whole table.

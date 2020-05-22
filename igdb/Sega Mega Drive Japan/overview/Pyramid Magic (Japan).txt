@@ -1,0 +1,5 @@
+Pyramid Magic (ピラミッドマジック) is a puzzle-platform game for the Sega Mega Drive, released exclusively in Japan via the Sega Game Toshokan service. 
+ 
+The basic aim of the game is to get to a goal, which often involves collecting keys, opening chests and moving blocks. A kicks, C jumps. Pressing C twice causes the player to attack blocks underneath the player. Pressing B while next to a stone block allows the player to pick it up, and then he/she can drop it with the same button. 
+ 
+Pressing C + Start causes the level to reset. A + Start allows you to skip the level, though this can only be used three times during the course of the game.

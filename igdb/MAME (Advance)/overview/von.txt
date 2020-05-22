@@ -1,0 +1,3 @@
+Virtual-On is set up similar to a Versus fighting game. Two Virtuaroids (Mecha) face each other on a stage. The player(s) use a variety of firearms, explosives, melee weapons, and other techniques to destroy the enemy for a set number of rounds, usually a single battle, or best two out of three rounds, like fighting games. 
+ 
+The game is made to be played with a two-joystick setup, known as the twin-sticks. Each stick is equipped with a trigger and a button on top of the stick.

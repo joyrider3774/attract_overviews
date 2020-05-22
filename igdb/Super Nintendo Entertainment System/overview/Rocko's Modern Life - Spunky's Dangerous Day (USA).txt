@@ -1,0 +1,3 @@
+Rocko's Modern Life is a side-scrolling action game where the player takes control of the Nickelodeon character, Rocko, as they travel through three different stages (Rock-O-Whey Beach, Hill-O-Stench garbage dump, and Laundryland) trying to protect his beloved dog Spunky from the various dangers throughout the stages. 
+ 
+As Rocko travels through the stage, he has to perform various tasks to keep Spunky out of danger such as tossing him above onto safer platforms, moving objects to break his fall or fight off various enemies that want to harm him.

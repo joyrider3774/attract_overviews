@@ -1,0 +1,2 @@
+Final Zone is an overhead run-'n-gun action game like Capcom's Commando, but it's not just that. The program contains an extensive story with lots and lots of dialog between each map. The game tells the story of the special forces team Black Cobra, on a mission to prevent a devastating missile attack from being launched. 
+While the squad consists of five characters, the player is always in control of the leader, Harward Bowie. Before each stage, however, two of the others can be picked as sidekicks.

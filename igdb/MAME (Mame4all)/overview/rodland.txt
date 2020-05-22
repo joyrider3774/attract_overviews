@@ -1,0 +1,5 @@
+En el juego interpretamos el papel de un hada con una varita que debe eliminar a todos los enemigos a golpes. También contamos con una escalera que nos permite subir y bajar plataformas. 
+ 
+Hay que destacar que la versión arcade de máquina recreativa (coin-op) realmente eran dos juegos en uno. Cambiando una de las opciones de configuración de la máquina los gráficos y la historia del juego cambiaban, pasando de un mundo de fantasía a un mundo futurista. 
+ 
+También era posible acceder a ese "mundo paralelo" terminando el juego. Entonces se mostraba en pantalla una combinación secreta de movimientos del joystick y botones que daban acceso al nuevo mundo.

@@ -1,0 +1,3 @@
+Guardic (ガーディック Gādikku?) is a shoot 'em up video game for the MSX computer. It was created and developed by Satoshi "Pac" Fujishima while working for Compile, the creators of other shoot 'em up games such as Zanac, The Guardian Legend, and Blazing Lazers. 
+ 
+Guardic is unique in that the player can choose stages, which are connected by a maze. Each stage is a non-scrollable single screen and has 1 to 3 groups of different enemies. The player can "buy" ship power-ups like speed, weaponry, and special powers before each stage—a departure from the traditional scrolling-shooter power-up system. In the end of each stage, the ship could safely fly through a scrollable maze to another stage.

@@ -1,0 +1,1 @@
+8-way scrolling shoot-em-up with a strategic overworld map for the c64 from Mirrorsoft.

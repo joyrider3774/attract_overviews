@@ -1,0 +1,1 @@
+Game where you should color the screen, similar to snake, without crashing.

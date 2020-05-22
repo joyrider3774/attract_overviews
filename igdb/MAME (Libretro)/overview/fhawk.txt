@@ -1,0 +1,1 @@
+Player needs to control a large plane and shoot at tanks and helicopters. The bomb button actually fires a bunch of missiles that lock-on and track your enemies.

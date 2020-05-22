@@ -1,0 +1,1 @@
+Mega Bomberman is a top-down action game. Control your Bomberman through various levels defeating multiple enemies and plenty of bosses. Each level consist of blocks for exploding and some blocks that don't explode. At times you will need the non-exploding blocks as shelter. The blocks that do explode reveal power-ups and eggs.

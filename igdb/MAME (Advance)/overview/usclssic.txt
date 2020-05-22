@@ -1,0 +1,1 @@
+A basic golf game that starts with a view from the tee that shows wind velocity, direction and distance to the green. Choose your club and swing by rolling the track-ball with the desired force and direction. Extra holes given for par and under par.

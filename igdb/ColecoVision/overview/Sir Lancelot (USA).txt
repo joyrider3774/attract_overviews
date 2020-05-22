@@ -1,0 +1,1 @@
+An action game about a knight rescuing a princess. Fly on your winged horse and destroy enemies outside the castle, then kill the dragon inside.

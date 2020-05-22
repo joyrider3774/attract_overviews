@@ -1,0 +1,7 @@
+Juno First is a shoot 'em up originally developed and published by Konami Corporation for Arcades. The game was later published by Mylstar Electronics (US arcades), Datasoft Inc. (Atari 8-bit, PC Booter, and Commodore 64), and Sony Computer Entertainment Japan (MSX). 
+ 
+Juno First is a top down, vertical scrolling shooter in which there is a limited amount of time to defeat the enemies in each wave. 
+ 
+The players spaceship starts out with a laser that has a longer reach than the enemy weapons. The enemies start out firing a few bullets at the ship but the amount enemy fire rapidly increases as players progress through to the next waves. 
+ 
+Certain enemies fire tracking missile-like projectiles that can shoot additional bullets.

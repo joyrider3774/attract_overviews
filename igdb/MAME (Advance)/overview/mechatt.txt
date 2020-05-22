@@ -1,0 +1,1 @@
+A shooting game where players use Uzi machine guns to battle an army of enemies consisting of humans, cyborgs, androids and robots. Launch grenades to quickly eliminate the enemies.

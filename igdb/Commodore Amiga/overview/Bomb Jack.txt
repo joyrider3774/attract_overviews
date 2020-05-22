@@ -1,0 +1,12 @@
+The player controls Jack, a superhero who can leap and glide. Someone has planted 24 bombs at famous tourist sites (the Sphinx and Great Pyramids, the Acropolis, Neuschwanstein Castle in Bavaria, and two cityscapes resembling Miami Beach and Hollywood, which appear only as screen backgrounds rather than unique game locations). Jack must fly around the screen to collect the bombs. Each screen uses a different configuration of platforms upon which Jack may run and jump. Eventually, the levels reoccur a number of times with increasing difficulty. 
+ 
+ 
+ 
+Bomb Jack's arcade version 
+Jack "defuses" the bombs by simply touching them. As soon as he has touched the first, he triggers a sequence in which another bomb's fuse lights up, and so on. A player can score a bonus in each round by touching 20 or more bombs in the correct lit-fuse sequence. Jack may also defuse an unlit bomb by touching it, but this impedes his opportunity to score the bonus for that screen. It also delays the appearance of the game's bonuses and power-ups. 
+ 
+Bomb Bonuses are triggered when Jack touches the first of 24 onscreen bombs. It is possible to collect the remaining bombs in fuse order, the maximum being 23 (the top score possible on a level). Expert players would combine this with X5 'b's for the largest multiplier score available. 
+ 
+The lit fuses have no strategic purpose other than the bonus; a lit bomb left unattended does not explode, although the onscreen enemies become faster the longer Jack is flying around and they eventually start to follow him at speed. At this point, new enemies appear in the form of flying saucers, that 'lock on' to Jack and are difficult to avoid. 
+ 
+Enemies such as birds, mummies, turtles, and orbs float around the screen, making Jack lose a life if he touches them. Collecting bombs will increase the bonus meter at the top of the screen (collecting lit bombs increases it more). When the meter is completely filled up, a circular bouncing "P" appears, and when collected, it will turn all the enemies into bonus coins for a short period during which Jack may collect them. Other similar bonuses are the B (Bonus) which increases the score multiplier (up to 5x), the E (Extra) which gives an extra life, and the rare S (Special), which awards a free game. The Twin Galaxies highest scores for Bomb Jack on the MAME (arcade) platform are 73,378,560 on marathon settings, and 4,888,740 on tournament settings (5 lives only), achieved by Paul Kearns of London.

@@ -1,0 +1,3 @@
+The objective of the game is to eat as much fast food as you can by devouring the junk food that is approaching your huge mouth from the left of the screen. While doing that you should be careful to avoid the purple pickles - after having eaten six of those it is game over.
+
+Fast Food was written by Don Ruffcorn.

@@ -1,0 +1,1 @@
+Echelon is a space combat simulator with wire-frame graphics. Fly around an alien planet, looking for clues to a "mysterious event" in the planet's past.

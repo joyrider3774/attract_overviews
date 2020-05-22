@@ -1,0 +1,1 @@
+A Flintstones platformer game based on the 1994 film. The game was released for the SNES, Game Boy and Sega Genesis (Sega Channel exclusive).

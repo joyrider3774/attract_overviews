@@ -1,0 +1,7 @@
+A platformer where the player controls a small girl with an egg in her backpack, which can turn into a dragon. 
+ 
+Dragon Egg (sometimes styled Dragon Egg!) is a 2D side-scrolling platformer set in a fantasy world. The protagonist is a young girl who wields a dragon egg as a weapon. As she collects fire orbs, the dragon egg hatches into a baby dragon, and then subsequently grows further as more fire orbs are collected. As the dragon grows, the effective attack range of the protagonist increases, making the game easier. However, the dragon will revert by one stage if the player character dies. 
+ 
+The game also has a currency system and stores, which can provide additional fire orb power-ups and other useful tools, like health restoration and barriers, if the player acquires enough funds before entering. 
+ 
+The game was released exclusively for the PC Engine. However, as an action game, it doesn't include a lot of Japanese text and can be easily played by those not fluent with the language.

@@ -1,0 +1,1 @@
+A shooter where fleets of ships fly in from either of the screen and loop around in formation. The player may move around the screen in any direction.

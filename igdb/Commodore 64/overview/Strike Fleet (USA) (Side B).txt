@@ -1,0 +1,1 @@
+Strike Fleet is a naval military simulator in which the player commands a fleet of warships in real-time through a series of missions inspired by real-life conflicts.

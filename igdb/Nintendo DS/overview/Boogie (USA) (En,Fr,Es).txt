@@ -1,0 +1,1 @@
+Boogie was a demo was coded by Atari for internal use as a demonstration of the audio capabilities of the Atari 5200. The cartridge plays an impressive little boogie, then repeats. There is no game or graphics here, just the title screen and the musical score

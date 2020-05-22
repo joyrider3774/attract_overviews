@@ -1,0 +1,1 @@
+A compilation cartridge of Defender and Joust for Game Boy. Includes Super Game Boy fuctionality.

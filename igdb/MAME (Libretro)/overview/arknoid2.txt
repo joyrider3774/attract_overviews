@@ -1,0 +1,14 @@
+Arkanoid - Revenge of Doh (a.k.a. Arkanoid 2) is an arcade game released by Taito in 1987 as a sequel to Arkanoid. 
+ 
+The mysterious enemy known as DOH has returned to seek vengeance on the Vaus space vessel. The player must once again take control of the Vaus (paddle) and overcome many challenges in order to destroy DOH once and for all. Revenge of Doh sees the player battle through 34 rounds, taken from a grand total of 64. 
+ 
+NEW FEATURES: 
+Revenge of Doh differs from its predecessor with the introduction of "Warp Gates". Upon completion of a level or when the Break ("B") pill is caught, two gates appear at the bottom of the play area, on either side. The player can choose to go through either one of the gates - the choice will affect which version of the next level is provided. The fire-button is only used when the Laser Cannons ("L") or Catch ("C") pill is caught. 
+ 
+The game also features two new features for bricks. Notched silver bricks, like normal silver bricks, take several hits to destroy. However, after a short period of time after destruction, they regenerate at full strength. Fortunately, clearing a level does not require that any notched bricks be destroyed. Also, some bricks move from side to side as long as their left and/or right sides are not obstructed by other bricks. 
+ 
+The US version features an entirely different layout for Level 1 that feature an entire line of notched bricks, with all colored bricks above it moving from side to side. 
+ 
+The game features a mini-boss in the form of a giant brain, which will help you practice for DOH. 
+ 
+Home versions of Revenge of DOH also featured a level editor, where players could create their own levels or edit and replace existing levels, with the exception of two levels: the mini-boss and DOH.

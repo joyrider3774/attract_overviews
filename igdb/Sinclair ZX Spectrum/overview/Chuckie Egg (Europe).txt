@@ -1,0 +1,9 @@
+A&F Software's Chuckie Egg is a home computer video game released in 1983, initially for the ZX Spectrum, the BBC Micro and the Dragon. Its subsequent popularity saw it released over the following years on a wide variety of computers, including the Commodore 64, Acorn Electron, MSX, Tatung Einstein, Amstrad CPC and Atari 8-bit family. It was later updated and released for the Commodore Amiga, Atari ST, and IBM PC compatibles. 
+ 
+The original idea is generally attributed to the then 16 or 17 year old Nigel Alderton. After a month or two of development, Nigel took a pre-release version of his Spectrum code to the two-year-old software company A&F, co-founded by Doug Anderson and Mike Fitzgerald (the "A" and "F", respectively). Doug took on the simultaneous development of the BBC Micro version, whilst Mike Webb, an A&F employee, completed the Dragon port. Chuckie Egg went on to sell over a million copies and remained a steady earner for A&F, who eventually went under in the latter half of the 1980s. 
+ 
+The versions fall broadly into two groups — those with realistic physics (e.g. the BBC Micro and Amstrad CPC versions) and those without (e.g. the ZX Spectrum version). Although there is a substantial difference in play between the two, levels remain largely the same and all the 8-bit versions have been cited as classics. 
+ 
+This game is often credited alongside Miner 2049er and Lode Runner with helping develop and popularise the platform game[citation needed], and has gone on to be a cult classic with a number of unofficial retro remakes appearing online. 
+ 
+Much of the game's cult status was helped by the fact that schools used BBC Micro computers, and many schools had a copy of the game, introducing it to a wide audience of youngsters.

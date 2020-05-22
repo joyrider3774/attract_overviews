@@ -1,0 +1,5 @@
+The game utilizes fractal technology to create the craggy mountains of an alien planet, where the visilibility was drastically reduced by the dense atmosphere. The player controls a fictional "Valkyrie" space fighter[2] (converted for search and rescue duty) from a first-person view, attempting to land and pick up downed Ethercorps pilots. Some of these mountains hold anti-aircraft guns, which have to be avoided or destroyed. Due to the varied terrain, the direction finder has to be used to locate the pilots, whose visual beacons are often masked by mountain ridges. 
+ 
+At higher levels, the enemy Jaggis begin flying kamikaze saucers. The mission area also moves into day/night boundaries. Night missions are particularly difficult, requiring diligent use of the altimeter to avoid crashing. 
+ 
+Flying consumes fuel. The way to replenish this supply is to rescue downed pilots who bring their remaining fuel supplies on board.

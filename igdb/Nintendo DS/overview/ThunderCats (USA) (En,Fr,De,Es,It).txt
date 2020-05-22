@@ -1,0 +1,5 @@
+ThunderCats is a side-scrolling video game that is based on the original animated television series ThunderCats. The game was published in 1988 by Elite Systems Ltd for home computers. 
+ 
+The player takes control of the character Lion-O and maneuvers him through 14 side scrolling levels to search for the missing Eye of Thundera. Lion-O begins the game equipped with the Sword of Omens (with the Eye of Thundera missing from the hilt) but has the option to switch throughout the game between the sword and a short range energy gun. In several levels, Lion-O will jump into a flying vehicle that can fire in a similar manner as the short range energy gun. The first four levels of the game are a part of the Garden of the Elementals, where the player may choose the order they play each of the themed levels, consisting of fire, water, air, and earth. 
+ 
+Each level has a time limit to complete it; when it expires, Mumm-Ra appears and more goons and villains appear to make it tougher for Lion-O to finish.

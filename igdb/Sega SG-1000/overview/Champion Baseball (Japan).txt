@@ -1,0 +1,1 @@
+Player chooses team and plays baseball against computer. Game ends when player is tied or losing at the end of an inning or nine innings have been played.

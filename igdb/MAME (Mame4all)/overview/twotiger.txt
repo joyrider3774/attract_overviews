@@ -1,0 +1,11 @@
+Two Tigers is an arcade game created by Bally Midway and released in 1984. It is themed around World War II-era planes attempting to sink military ships, but there are no references as to which countries are involved in the conflict. 
+ 
+Two Tigers offers the choice of two separate modes: one or two players working together to sink large enemy ships, or a dogfight mode where two players attempt to down each other's plane. 
+ 
+The game was not ported to home computers or game consoles. 
+ 
+In the primary mode, each player steers his or her always moving plane by rotating it clockwise and counter-clockwise. Enemy planes fly horizontally across the screen; shooting them causes them to crash into the warship along the bottom. Each crash damages the ship. Mines floating in the water can be shot, damaging the ship from below. Players can damage the ship directly by dropping bombs. Only one bomb per player can be in the air at once. 
+ 
+Repeated damage to the same location causes a leak. When enough leaks have been created (based on the level), the ship explodes. As an intermission, submarines, sharks, and swimmers occupy the open water and can be shot. After a brief respite, a new ship arrives. 
+ 
+Lives are unlimited in Two Tigers. Flying into another plane spawns a replacement once the wreckage falls offscreen. Player-controlled planes are unable to collide with the ship at the bottom. After a certain amount of time an undestroyed ship leaves—another such departure ends the game.

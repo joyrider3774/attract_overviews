@@ -1,0 +1,1 @@
+Single screen platform game for ZX Spectrum, Amstrad CPC and Commodore 64. Diffuse the bombs before time runs out.

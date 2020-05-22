@@ -1,0 +1,5 @@
+Gex 64 was the Nintendo 64 port of Gex: Enter the Gecko. 
+ 
+This version featured a new level, which replaced the secret levels. "Gecques Cousteau", which is centered on the RMS Titanic, is played almost entirely underwater. The only land parts of the level are at the entrance to the Titanic, which is sunk by the iceberg. 
+ 
+Other changes include fewer bonus levels and fewer quotes, due to the Nintendo 64 cartridges storing significantly less data for games than CDs. Some of the sound effects were altered slightly.

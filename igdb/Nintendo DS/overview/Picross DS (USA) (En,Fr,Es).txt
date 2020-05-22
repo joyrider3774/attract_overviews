@@ -1,0 +1,3 @@
+Fill in squares using simple hints to reveal the hidden picture. Players need both puzzle-solving skills and creativity to earn a picture reward. 
+
+Each puzzle has a sequence of numbers written in the margins of each column and each row. Those numbers show how many squares within that column or row need to be filled in. Players must deduce where each filled square is based on the numbers in the puzzle. Incorrect guesses earn the player a time penalty. If players solve the puzzle in under one hour, they earn a reward picture, an animated illustration of the thing represented in the puzzle. Puzzles range in size from simple 5x5 squares to much more challenging 15x15 squares—and larger. Players can create and swap puzzles with one another.

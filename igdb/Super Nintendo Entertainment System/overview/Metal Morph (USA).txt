@@ -1,0 +1,3 @@
+Metal Morph is a side-scrolling platformer. As the Metal Morph, you can jump, duck and shoot, as well as transform into an invulnerable liquid blob of metal. While as a blob, you can also travel through pipes to get to areas you couldn't normally. Power ups such as triple shots and homing missiles make battle easier for you. 
+ 
+The game also has sections where you fly your spaceship to track down your stolen pods. In flight mode, you can move the ship up, down, left and right while shooting enemies and dodging their incoming shots. Power ups such as speed up (which makes the ship travel faster to its destination) and shields (which prevent instant death) can also be found.

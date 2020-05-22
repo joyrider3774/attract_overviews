@@ -1,0 +1,1 @@
+A menu-based wrestling game that focuses on dramatic cutaways for moves and finishers.

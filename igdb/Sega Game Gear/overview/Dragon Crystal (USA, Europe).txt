@@ -1,0 +1,3 @@
+A roguelike "dungeon" crawler that leads you through 30 levels on your quest to find a way to return to your own world. 
+ 
+You're caught in a fantastic world of unearthly beauty and deadly demons. You'll pass through thirty worlds in search of the Magic Goblet. There's no way out of this musical nightmare...until you find it.

@@ -1,0 +1,5 @@
+A quiz game released for arcades running NeoGeo MVS hardware (and later ported to the NeoGeo AES and NeoGeo CD) exclusively in Japan. 
+ 
+The spiritual successor to SNK's Quiz Daisousasen series, Quiz King of Fighters uses the series' engine and structure (including a variety of new mini-games) while incorporating many characters from the Art of Fighting, Fatal Fury, and Samurai Shodown series (often lifting the assets from the games themselves). 
+ 
+The truth is sleeping in the battle ...

@@ -1,0 +1,1 @@
+A vertical scrolling shoot 'em up. Fire guns and drop bombs on the enemies in this deep space battle. Pickup assorted power-ups. The screen also scrolls left and right if your ship nears the edges of the screen.

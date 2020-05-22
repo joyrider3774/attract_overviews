@@ -1,0 +1,1 @@
+Sequel to "Exerion". Vertical scrolling shooter with 3D effect

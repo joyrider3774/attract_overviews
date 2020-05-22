@@ -1,0 +1,41 @@
+DEFLEKTOR es una experiencia en la lógica del láser. No hay ni héroes ni 
+enemigos, simplemente un magnífico reto de tu habilidad. El objeto de 
+DEFLEKTOR es de completar el circuito óptico. El láser produce un rayo de alta 
+intensidad que debe llegar al receptor antes de que se haya reducido 
+totalmente la energía. Esto se consigue reflejando, refractando y polarizando 
+el rayo por la pantalla; los obstáculos en el camino del rayo pueden reflejar, 
+absorber, o en el caso de la fibra óptica, transportar el rayo. Tienes el 
+poder de controlar el rayo, pero la ruta hasta el receptor está cerrada hasta 
+que hayas utilizado el láser para destruir todas las células. 
+ 
+Debes tener cuidado de no sobrecargar el láser tocando minas o reflejando el 
+rayo de nuevo sobre bu propio trazado. Pero no sólo eso: NO ESTAS SOLO... ten 
+cuidado con los Gremlins! 
+ 
+CONTROLANDO EL RAYO 
+ 
+El láser puede ser dirigido ajustando el ángulo de ios espejos. Los espejos 
+que giran solos pueden parar, o girar más rápido, según la dirección en la que 
+intentes moverlos. 
+ 
+Otros factores no pueden ser controlados direc-tamente, pero se pueden usar 
+para afectar al rayo de alguna manera, bien reflej�ndolo, bien 
+rediri-giéndolo. En el caso de la fibra óptica, un rayo que da contra un 
+bloque reaparecerá en otro bloque en otara parte de la pantalla. 
+ 
+Situación de sobrecarga 
+ 
+Puedes sobrecargar tu láser de tres maneras: 
+ 
+1. Reflejo total. Si el rayo se refleja directamen-te sobre su propio 
+recorrido y vuelve al láser lo sobrecalentará. 
+ 
+2. Demasiada distancia. Si el rayo debe reco-rer una distancia demasiado 
+larga se debilitará y hará fallar el laser. 
+ 
+3. Alerta de minas. El rayo de láser ha colisio-nado con el campo de minas. 
+Se crea un exceso de corriente que llevará rápidamente a un 
+sobrecalentamiento. 
+ 
+En todos estos casos debes redirigir de inme-diato el rayo y esperar que 
+vuelva a cero el indicador de sobrecarga.

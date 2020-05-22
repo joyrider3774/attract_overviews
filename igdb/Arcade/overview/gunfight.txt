@@ -1,0 +1,1 @@
+Old west theme shoot-out. Using simple graphics, two cowboys one on the left and one on the right move up down, left and right trying to get a clear shot avoiding cactus at the other.

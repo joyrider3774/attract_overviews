@@ -1,0 +1,3 @@
+In this vertical scrolling spaceship shooter, you control a ship that can change its polarity at will. As blue/white, the ship can easily destroy red/black enemies, and visa versa. Bullets of your polarity can be collected to fuel your missile gauge, but those opposite will kill you. Destroying an enemy ship will make them drop points for you to pick up, but they are polarized, too. Different difficulties exist to change exactly how you interact with polarized points, or how they appear.
+
+Ikaruga is a balls-hard shmup with lots of difficulty even at the easiest level, and lots of replay value for those willing to face the challenge.

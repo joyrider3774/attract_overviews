@@ -1,0 +1,1 @@
+An action puzzle game where you play as a Zupapa, a strange creature that hurls tiny Zupipi characters at your foes. The more Zupipi on an enemy when he is trampled, the larger the explosion.

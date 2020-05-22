@@ -1,0 +1,4 @@
+Shufflepuck Café is a computer air hockey game developed by Christopher Gross, Gene Portwood and Lauren Elliott for Brøderbund. 
+There are two game modes. The player can compete in a tournament, playing against opponents who visit the Café, or can practice against each opponent to find out his/her/its weakness in a single-player match. 
+ 
+There is a general storyline behind the Amiga version of the game in which the player is an inter-galactic salesman whose spaceship has broken down. He needs to find a telephone to call the breakdown service and get the spaceship fixed. Shufflepuck Café is the nearest place for miles, so he goes in to use their telephone. The main eight Shufflepuck players are standing in his way and will not let him get to the phone until he has beaten them all. Once all are defeated, the player gets in his spaceship and flies off into the distance.

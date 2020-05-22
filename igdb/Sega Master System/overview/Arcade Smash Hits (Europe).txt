@@ -1,0 +1,1 @@
+The game had a choice of 3 arcade games to play. They are Centipede, Breakout and Missile Command.

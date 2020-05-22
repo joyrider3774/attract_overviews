@@ -1,0 +1,1 @@
+The object of Starship 1 is to destroy alien spacecraft while maneuvering through star and asteroid fields. The game uses a first person perspective on a black-and-white monitor. Compared to common arcade games of the time, Starship 1 was comparatively advanced, but used quite a bit of analog technology that would become less common in arcade games in following years.

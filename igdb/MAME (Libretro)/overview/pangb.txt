@@ -1,0 +1,15 @@
+There are 50 stages at 17 locations: Mt. Fuji, Mt. Keirin, the Temple of the Emerald Buddha, Angkor Wat, Ayers Rock, the Taj Mahal, Leningrad, Paris, London, Barcelona, Athens, Egypt, Kenya, New York, Maya ruins, Antarctica, and finally Easter Island.
+
+Each location has a unique background that shows the area's most famous landmarks. The stages contain a different layout of blocks, some that disappear after being shot, others that do not, and still others that are hidden and can reveal bonuses.
+
+The stages start with differing numbers and sizes of balloons. The largest balloon divides for the first three times it is popped; after the fourth and smallest balloon is popped it vanishes. Each player starts with a single harpoon. When a balloon is popped, special weapons may drop down.
+
+At a certain point in the stage, a food item will drop down that is worth several thousand bonus points.
+
+If a player touches a balloon of any size, the player dies and both players must start the stage again.
+
+When both players touch a balloon at the same time, only Player 1 will lose a life but this is somewhat offset because when both players reach a bonus or weapon simultaneously only Player 1 will get it.
+
+Players start with 3-5 lives depending on the dip switch setting. Extra lives are also given when certain point totals have been accumulated. The stage ends when all of the balloons are successfully cleared. The game ends after all stages have been completed and our heroic duo ride their jeep into the sunset on an Easter Island beach.
+
+In some later versions, there are more than 17 locations.

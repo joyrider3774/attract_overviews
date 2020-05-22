@@ -1,0 +1,16 @@
+Valhalla was a ZX Spectrum and Commodore 64 adventure game published in 1983 by Legend. 
+ 
+ 
+Valhalla is mostly text-based with some graphics showing the location and the characters there. It was set mainly in Asgard and Midgard, though when your character died you would reappear in Hell (Niflheim under another name) and be able to walk out. 
+ 
+Within its limits, the text parser would understand multi-part sentences, so long as they were written using the words it understood, which (unlike in many other games) were helpfully listed in the manual. 
+ 
+The aim was to collect six mythical objects, for which you needed the help of other characters, who were taken from Norse mythology and would wander around randomly. The six objects were Ofnir (key), Drapnir (ring), Skornir (shield), Skalir (sword), Felstrong (axe) and Grimnir (helmet). These objects were needed to access otherwise unreachable parts of the game, however carrying any of them would sap your strength. 
+ 
+To help with the quest, your character had an alignment (between good and evil) that would change depending on which other characters you helped. Thus, the more you helped good characters, the more other good characters would help you. Characters include gods, goddesses, dwarves, dragons, wolves, a snake and a raven. 
+ 
+Within the game world, characters would move about and interact independently without any action required from you. If you do nothing, the game will 'play' itself, with the characters moving about whilst you decide what to do. 
+ 
+Typing in a swear word would generate the message "Mary is not amused..." and a dwarf[1] would dash onto the screen to punch the player. Mary could be found in El Vinos but killing her achieved little as she would return within a minute. 
+ 
+The game engine had a limit of eight objects that could be left in any one location, whether on the ground, in a chest, or in a cupboard. If the player dropped an object when the limit had been reached, a character called Klepto appeared to "Steal" the item, removing it from the game.

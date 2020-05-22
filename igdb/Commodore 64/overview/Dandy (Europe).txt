@@ -1,0 +1,5 @@
+Dandy es un juego de Arcade que transcurre en las más reales mazmorras que 
+hayas podido contemplar en toda tu vida. Solo o con un amigo valiente, podrás 
+herir, golpear y esquivar a los espectros, necrománticos y demás habitantes de 
+las mazmorras que se crucen en tu camino. Ellos intentarán mermar tu salud 
+para que ésta llegue a cero.

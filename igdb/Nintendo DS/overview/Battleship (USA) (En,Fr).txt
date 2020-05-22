@@ -1,0 +1,3 @@
+Battleship is a game based off of the film, based off of the board game/toy. 
+ 
+The PS3/X360 version are a morder first person shooter, while the wii/DS/3DS versions take a turn based strategy gameplay approach instead.

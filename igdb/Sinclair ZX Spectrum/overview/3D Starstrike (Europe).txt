@@ -1,0 +1,1 @@
+3D Starstrike is a clone of the original wireframe Star Wars game.

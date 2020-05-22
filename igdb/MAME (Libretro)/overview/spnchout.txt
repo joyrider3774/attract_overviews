@@ -1,0 +1,1 @@
+This is a boxing game where you attempt to defeat five different champions, Bear Hugger, Dragon Chan, Vodka Drunkenski, Great Tiger and Super Macho Man. If you defeat all five, you become the champion and defend your title against the same five characters.

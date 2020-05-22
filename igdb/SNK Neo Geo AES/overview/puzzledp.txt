@@ -1,0 +1,1 @@
+An arcade puzzle game based on Bust-a-Move/Puzzle Bobble. Instead of clearing all the balls, the goal is to clear the balls surrounding a large "drop token".

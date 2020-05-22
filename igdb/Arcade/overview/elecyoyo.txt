@@ -1,0 +1,1 @@
+You play a Yo-Yo whose job is to collect all the dots on a level while avoiding enemies. Certain dots make you immune to attack from the smaller enemies, but not the main enemy.

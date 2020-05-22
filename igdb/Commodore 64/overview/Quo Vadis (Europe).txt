@@ -1,0 +1,1 @@
+A multi-directional scrolling platformer in which the player has to explore a large maze on a quest to retrieve a scepter.

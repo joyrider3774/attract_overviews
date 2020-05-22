@@ -1,0 +1,9 @@
+RoboCop 2 is a series of video games published in the 1990s by Ocean and Data East for various home computers and video game consoles. They are based on the movie of the same name. Three different games were produced, each produced on two systems.
+
+The version for the Commodore 64 and NES was a simple left-to-right scrolling platformer, in which RoboCop was required to collect/destroy at least two-thirds of the drug "nuke" in each level and arrest two-thirds of the suspects by running into them (in contrast to shooting them). If RoboCop does not manage to attain the required amounts of nuke or number of arrests then he has two chances in the game to prove his efficiency at a shooting range. If he succeeds, he may continue onto the next level. If he fails, or if both chances at the shooting range are already used up, he must repeat the level.
+
+The version for the ZX Spectrum and Amstrad CPC was also a platform game, but one that offered movement in both directions (vertically and horizontally) as well as into various areas providing an element of exploration. There were also a number of puzzle sub-games that had to be completed to progress in the game.
+
+The version for the 16-bit Commodore Amiga and Atari ST was similar in nature to the 8-bit Spectrum and Amstrad CPC versions, but contained completely different levels to take advantage of the extra power offered by these computers.
+
+There was also an arcade-only version of RoboCop 2, developed and published in 1991 by Data East (who still held the rights to create arcade games based on the franchise), which allowed up to two players at once (one controlling the original RoboCop, the other controlling a slightly purple-hued clone). The game followed the basic premise of the movie, but had some major sequential differences.

@@ -1,0 +1,3 @@
+Super Pro Hockey is a one or two-player hockey game. There are four handicap/skill levels to choose from after selecting whether or not the player wants a one or two-player game: Amateur, Rookie, Pro, Super Pro. Essentially, changing the handicap results in changing speeds to the gameplay, from low (Amateur) to high (Super Pro). There are no teams, only Home and Visitor. 
+ 
+Each team has three players and a goalie. The home team is tan and the visitor team is green. The player can only control one character at at time, and this character is colored lighter than the rest of the player's team. Goalies are controlled by the computer.

@@ -1,0 +1,1 @@
+A single-screen action game in which the player controlls a perpetual moving ball and collects items by simply touching them. Written by Frederik Akinlawon and published by The Power House for the Amstrad CPC.

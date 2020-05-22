@@ -1,0 +1,8 @@
+Dodge Boy features six selectable teams. Each of the six teams are represented by a different country. 
+ 
+-Japan 
+-Germany 
+-U.S.A 
+-U.S.S.R 
+-Australia 
+-China

@@ -1,0 +1,15 @@
+Paperboy is a 1985 arcade game by Atari Games originally developed in 1984 . The players take the role of a paperboy who delivers newspapers along a suburban street on his bicycle. The game was ported to numerous video game consoles and personal computers. The Nintendo Entertainment System (NES) version represented the first NES game developed in the United States and coincidentally, the Sega Master System version represented the first SMS game developed in the United Kingdom. Paperboy was innovative for its theme and novel controls. 
+ 
+ 
+GAMEPLAY: 
+The player controls a paperboy on a bicycle delivering newspapers along a suburban street which is displayed in a cabinet perspective (or oblique projection) view. The player attempts to deliver a week of daily newspapers to subscribing customers, attempts to vandalize non-subscribers' homes and must avoid hazards along the street. Subscribers are lost by missing a delivery or damaging a subscriber's house. 
+ 
+The game begins with a choice of difficulty levels: Easy Street, Middle Road and Hard Way. The object of the game is to perfectly deliver papers to subscribers for an entire week and avoid crashing (which counts as one of the player's lives) before the week ends. The game lasts for seven in-game days, Monday through Sunday. 
+ 
+Controlling the paperboy with the handlebar controls, the player attempts to deliver newspapers to subscribers. Each day begins by showing an overview of the street indicating subscribers and non-subscribers. Subscribers and non-subscribers' homes are also easy to discern in the level itself, with subscribers living in brightly colored houses, and non-subscribers living in dark houses. 
+ 
+Delivering the papers 
+The paperboy begins his route at the start of the street (bottom of the screen) and progresses towards the end. The player can control the paperboy's speed, but the paperboy is in constant movement and cannot stop moving forward until the level (day of the week) has ended. Should he slow down or stop for more than a few seconds, a swarm of bees will appear (arcade version only). For each paper that is delivered to a subscriber's mailbox, the player receives 250 points. If the paper is delivered to the subscriber's doorstep, the player receives 100 points. Points are multiplied x2 for playing 'Middle Road', and x3 for playing 'Hard Way'. Points can be gained for breaking plants, running over flowers, or throwing papers into windows of the non-subscriber houses. 
+ 
+ 
+In Paperbo

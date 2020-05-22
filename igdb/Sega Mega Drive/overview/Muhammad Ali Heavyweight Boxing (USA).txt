@@ -1,0 +1,1 @@
+In career mode, the player can choose to fight as any of the game's 10 boxers. They start at rank 10 in the heavyweight division, and fight their way through all the others in order.

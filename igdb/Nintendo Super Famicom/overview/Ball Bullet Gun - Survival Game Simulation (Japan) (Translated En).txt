@@ -1,0 +1,5 @@
+A turn-based strategy game based on paintball simulation battles. 
+ 
+Ball Bullet Gun: Survival Game Simulation is a Japan-exclusive turn-based strategy game for the Super Famicom. The game allows the player to create a party of "soldiers", though the implication is that these are regular civilians taking part in a military simulation, and determine their names, faces and loadouts. The player then takes this team through a series of missions, using whichever members best fit the criteria. 
+ 
+The game makes heavy use of fog of war, making it impossible to see the enemy's team unless they get within visual range. The player characters can use cover and change the direction they're facing, which allows them to get the drop on enemies. Everything - movement and reloading or shooting a weapon - requires a finite number of "AP" that replenishes after each turn. Both sides take turns to be the remaining team on the field.

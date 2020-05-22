@@ -1,0 +1,1 @@
+Yoshi is a puzzle game featuring the titular character. In this game, the player must stack two of the same Mario enemy on top of one another to clear them. The concept of the game was inspired by Tetris.

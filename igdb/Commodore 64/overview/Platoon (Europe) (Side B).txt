@@ -1,0 +1,3 @@
+The film Platoon featured a squad of five soldiers on their mission for the US Army in Vietnam. In this action game based around the film, you take control of these five guys in turn, with the chance to switch between them as they each take one of the 3 hits that would kill them. 
+ 
+The game recreates each of the sections of the film, starting with a side-scrolling journey through the jungle, with paths to cross both horizontally and vertically, and the ability to jump or duck hazards. You will need to blow up a bridge and then locate a village, which contains a torch, a map and a trap-door. The enemy has booby-trapped the area and are launching airstrikes, so the danger is not all from enemy ground soldiers.

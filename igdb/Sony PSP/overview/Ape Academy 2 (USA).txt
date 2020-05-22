@@ -1,0 +1,3 @@
+Ape Academy 2 is the sequel of Ape Escape Academy. 
+The game consists of using a deck of of cards to battle your oponents and reduce their stamina. The cards use a Rock–paper–scissors system in which the winning card will apply a penalty to the oponent. In order to apply the penalty you need to win a minigame. To be able to use cards you need an equal or higher numbers of banana specified in the number of the card. 
+You will be rewarded with a new card whenever you win an opponent. After beating some you can unlock bosses and new islands in which you will find more bosses and oponents until you defeat the antagonist.

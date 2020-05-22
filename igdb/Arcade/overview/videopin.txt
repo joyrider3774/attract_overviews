@@ -1,0 +1,1 @@
+A video version of a classic pinball game. The playfield is mounted to the top of a cabinet and its image is reflected off of a mirror. A video pinball is then displayed onto the image of the playfield.

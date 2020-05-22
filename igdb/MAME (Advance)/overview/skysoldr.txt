@@ -1,0 +1,1 @@
+A vertical-scrolling shoot-em-up where the player controls a plane flying over a landscape with no land-based enemies. Collect power-ups to upgrade your ship's speed, shot power and special weapon power selected at beginning of the stage. Fight through different time zones and locations, each with a large boss aircraft.

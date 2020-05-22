@@ -1,0 +1,1 @@
+In this game you have to find a hidden word in a screen filled with letters in which a particular word is hidden twice.

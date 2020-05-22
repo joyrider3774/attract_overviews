@@ -1,0 +1,1 @@
+The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.

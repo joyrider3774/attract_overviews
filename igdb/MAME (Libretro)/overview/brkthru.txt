@@ -1,0 +1,5 @@
+Pilot a military vehicle, equipped with super jump capability, through enemy territory. You must traverse dangerous mountain passes, bomb-torn bridges, harsh jungle and fortified cities to rescue your PK430 aircraft. 
+ 
+BreakThru is a side-scrolling action game where the player must drive their high-tech assault vehicle through five stages. The player can use their forward cannon to remove obstacles in their way, or leap over them with the car's impressive jump. For the jump to get better clearance, the player must speed up, though this also makes it harder to shoot/avoid hazards in the road. Occasionally, there are otherwise impassable barricades like landslides that the player needs to a high speed jump to clear. The levels include "Mountain", "Bridge", "Prairie", "City" and "Airport" (or "Recover the Aircraft"). After completing the game, the player starts over at the level of their choice. 
+ 
+The game was first released for the Arcade platform in 1986. It was ported to various home computers later the same year by US Gold, and also saw a North American-exclusive NES release in 1987.

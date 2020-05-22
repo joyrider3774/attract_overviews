@@ -1,0 +1,1 @@
+Heroes of the Lance is a side-scrolling action game. The game used actual Dungeons & Dragons statistics, with statistics for the characters exactly as they were in the rule books. Eight heroes from the Dragonlance novels series must be assembled for the quest, and only one is visible on the screen at a time; when one on-screen hero dies, the next in line appears.

@@ -1,0 +1,10 @@
+Time Crisis is a light gun shooter arcade game released by Namco in 1996. It was later ported for the PlayStation in 1997, bundled with the Guncon light gun controller.
+
+
+GAMEPLAY:
+Time Crisis is a three-dimensional first person rail shooter similar to Virtua Cop and The House of the Dead installments, in which the player holds a light gun and goes through the motions of firing at on-screen enemies. Time Crisis is best known for its cover system, in which players can duck behind cover to avoid enemy fire and reload his weapon. There are three stages, each consisting of three areas and a boss battle. Unique features are described here in:
+
+A foot pedal which performs multiple functions: when the pedal is released, the player takes cover to conserve hit points while reloading the gun. While the pedal is released, the player cannot attack. In console conversions, a button command replicates the foot pedal's functions. The player loses a life if he/she is hit by a direct bullet or obstacle whilst not taking cover, with the game ending if he/she loses all lives.
+A light gun (introduced in Point Blank) which utilized a special memory chip to synchronize areas of the screen's image as the player rotates the gun around. The light gun also features a blowback function which simulates real-life gun recoil.
+A countdown timer, recharged by clearing an area of enemies. As running down the clock causes an instant game over, the player must take risks, shooting enemies rapidly and hiding only when necessary. A time extension is rewarded when an area is passed and there are also time bonuses awarded for shooting certain enemies quickly.
+The PlayStation port features an exclusive side-story mode, in which the player's performance, such as how quickly he can clear an area, affects the path he takes through the game, resulting in multiple possibilities.

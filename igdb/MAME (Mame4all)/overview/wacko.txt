@@ -1,0 +1,10 @@
+The player moves Kapt'n Krooz'r with the trackball and fires in four directions using either joystick. Shooting a single monster stuns it for a few seconds. The player must then shoot the monster's twin before the first one recovers in order to eliminate the pair. 
+ 
+On later boards, shooting a different monster results in the two becoming a mutant—the head of one joins with the torso of the other, and vice versa. To eliminate these mutants one must either unmix them, by shooting the same pair again, or produce a second identical mutant which can then be paired up with the first. Eliminating a pair of mutants is worth more points than eliminating a pair of non-mutants. 
+ 
+As the player advances from board to board, the following additional transformations appear, introduced one at a time: 
+ 
+Matched pairs of large monsters become tiny and fly around the screen 
+Tiny monsters turn into eggs and run around 
+Eggs turn into bats 
+Each new form requires only one shot to be either destroyed or changed into the next one. All monsters on the screen must be turned into the next form before any of them can be destroyed or further transformed.

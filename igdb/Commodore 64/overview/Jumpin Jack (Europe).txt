@@ -1,0 +1,1 @@
+Jumpin' Jack is an isometric Frogger clone for the Commodore 64 and MSX.

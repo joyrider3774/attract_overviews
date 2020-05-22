@@ -1,0 +1,1 @@
+A text adventure game published by The Power House for the Amstrad CPC and written by Richard Robinson using Incentive's Graphic Adventure Creator.

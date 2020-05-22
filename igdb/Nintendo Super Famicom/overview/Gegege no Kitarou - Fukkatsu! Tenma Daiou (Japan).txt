@@ -1,0 +1,1 @@
+An action platformer for the Super Famicom based on the Gegege no Kitarou anime and manga. The player, as Kitarou, must defeat the all-powerful Demon King Tenma before he can resurrect.

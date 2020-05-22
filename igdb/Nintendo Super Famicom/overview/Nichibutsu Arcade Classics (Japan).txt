@@ -1,0 +1,5 @@
+Nichibutsu Arcade Classics is a compilation for the Super Famicom and Sony PlayStation released in 1995. It features three of Nichibutsu's (or Nihon Bussan) Arcade games from the early 80s, adapted for consoles but otherwise left as-is. Contract developers Syscom were brought in to make the adaptations. 
+ 
+It was followed up by Nichibutsu Arcade Classics 2, which contained the original 1979 Arcade version of Heiankyo Alien and a graphically enhanced remake. 
+ 
+The games included are Crazy Climber (An action game where the protagonist scales a building. Best known for its complex controls that independently control each hand), Frisky Tom (An action game where the protagonist has to maintain a plumbing system and protect it from rogue rats), and Moon Cresta (A single-screen shoot 'em up similar to Galaxian in which the player's ship can dock with larger ships between stages to become more powerful).

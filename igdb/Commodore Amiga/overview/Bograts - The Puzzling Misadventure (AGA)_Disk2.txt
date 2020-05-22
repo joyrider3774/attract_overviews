@@ -1,0 +1,1 @@
+A 2D side-scrolling puzzle game, similar to Lemmings. You play a parent 'Bograt' who must guide its children successfully through each level.

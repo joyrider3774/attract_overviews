@@ -1,0 +1,1 @@
+Real Bout 2 revamps the two-line battle system from Real Bout Special. Instead of fighting in either two lines, the player is now forced to fight in a main line, while the second line is a "sway line" used to avoid attacks (similar to the original Real Bout). The one-line trap stages last seen in Fatal Fury Special also return.

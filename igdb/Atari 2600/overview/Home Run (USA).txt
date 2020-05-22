@@ -1,0 +1,1 @@
+This is the first of three iterations of baseball from Atari and is the most simple. The pitcher pitches and controls the direction of the ball. The batter hits and keeps running until he's made to stop. There are up to 3 defensive players that can try to get the batter out after he hits. All hits are grounders and defensive players can't throw the ball.

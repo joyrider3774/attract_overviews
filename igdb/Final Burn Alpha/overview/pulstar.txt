@@ -1,0 +1,7 @@
+The basic gameplay is simple: progress through the levels in the spacecraft, collecting powerups and protecting the spacecraft from destruction. The game has very obvious similarities in design and gameplay to R-Type. It is actually believed that some ex-Irem employees left the company to join Aicom, which used to be a subcontractor for various coin-op manufacturers like Jaleco or SNK. 
+ 
+Despite the familiarities, Pulstar is not without innovations. There is the option of using the weapon power bar, which consists of two halves. The right-hand side of the bar turns blue when the fire button is depressed. When fully charged the ship delivers a devastating emission of energy. The left-hand side turns red when it is continually pressed, shooting out a barrage of smaller, rapid blasts. 
+ 
+The in-game visuals are mostly pre-rendered 3D graphics, which gives the interactive elements a far more realistic appearance. Great care was taken to really place the player into the world of the game, with cinematic style cut scenes and pre-rendered movies. 
+ 
+There is a hefty reliance on strategy and not just blasting everything in sight. Using the charged weapon is key, and requires careful precision. Also, once a power up is obtained, a small orb appears at the posterior end of the ship. This can be used as an advantage by deflecting/absorbing oncoming enemy fire and taking out small enemies that run into it.

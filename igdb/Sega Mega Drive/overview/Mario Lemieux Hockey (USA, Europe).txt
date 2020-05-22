@@ -1,0 +1,1 @@
+This hockey game contains an exhibition, tournament, shootout, and a fight mode. It also has 16 teams that represent the cities of real NHL teams but the game does not contain either real NHL teams or players.

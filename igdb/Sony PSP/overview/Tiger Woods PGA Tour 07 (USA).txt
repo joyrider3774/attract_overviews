@@ -1,0 +1,1 @@
+This golfing simulation game is the 2007 multi-platform edition of Electronic Arts' Tiger Woods PGA Tour franchise. Although the game's features differ across platforms, most notably from next-gen to current-gen, it has a few things in common across the board: more licensed players, more courses, more game modes, and improved GameFace character creation.

@@ -1,0 +1,1 @@
+Arcade rail-shooter game that used a Light Gun. Dredd must save the mayor, who is being held hostage by a former judge. Live-action cutscenes were played at the conclusion to each stage. Completing the game unlocked the final cutscene where Dredd resolves the crisis.

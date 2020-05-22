@@ -1,0 +1,1 @@
+A rifle game where the player shoots the "bad" targets while avoiding the friendly/good targets. The game has a child-friendly theme with balloons, cuddly animals, etc.

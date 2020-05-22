@@ -1,0 +1,1 @@
+A computer chess game published by Datamost for the Commodore 64 and the Atari 8-bit homecomputer family.

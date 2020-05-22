@@ -1,0 +1,13 @@
+There are four modes of gameplay in Atomic Punk, including two single player modes and two multiplayer game modes. 
+ 
+Solo: 
+ 
+"Game A" (known as "Bomber Boy" in the Japanese version) is similar to other games in the series, with a few differences. Power-ups, known as panels, which are usually gained in each level and carried over from one to the next, can also be bought from a store by using GP, which is collected depending on how much time it takes to complete a level and how many blocks are destroyed. At the beginning of each round, the player decides which panels to use to complete the round. Another difference is that the linear gameplay of the original, with the player advancing levels after completing each one, was changed to implement a world map with nine locations. 
+ 
+The second game mode, "Game B" (known as "Bomber Man" in the Japanese version) is the same as that in the original Bomberman game, but the stage area is squared rather than rectangular and the screen is always centered on Bomberman rather than scrolling when he touches the border. 
+ 
+Vs.: 
+ 
+Panel Mode, in which players begin with only one bomb to place at a time and a bomb blast length of one unit, and Bomb Up and Fire Up panels appear. 
+ 
+Powerful Mode, in which players have four bombs to place at a time and a bomb blast length of four units, and no panels appear.

@@ -1,0 +1,1 @@
+A platformer based on the Tiny Toon Adventures cartoon series by Warner, where you play as Buster.

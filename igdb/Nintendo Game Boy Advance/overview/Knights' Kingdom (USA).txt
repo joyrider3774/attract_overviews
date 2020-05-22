@@ -1,0 +1,3 @@
+Knights' Kingdom is a top-down perspective action-adventure game. The player controls one of four characters, with only one character being controlled at a time. The character run through a series of nine levels, attacking Shadow Knights and solving tasks along the way. The player collects shields in levels as a form of health: upon being hit by an enemy or harmful obstacle, the player's health will deteriorate. 
+ 
+The game also includes a tournament arena mode, where the characters compete against each other in three modes: Hand to Hand Combat, Jousting and Lightning Combat.

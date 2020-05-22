@@ -1,0 +1,1 @@
+One of the more "kid-friendly" animated gun-shooting games. Players use an optical gun to shoot at the "bad eggs" while avoiding shooting the "good guy eggs". Players advance stage by stage to different levels by shooting a certain number of targets.

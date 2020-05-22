@@ -1,0 +1,1 @@
+Hard Hat Mack is a classic jumping arcade game. Your goal is to place all bricks to the right places without being kicked/killed or whatever by any other moving object or person. There are some special tools ready for you too.

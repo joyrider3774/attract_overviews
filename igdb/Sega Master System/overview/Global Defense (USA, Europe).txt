@@ -1,0 +1,1 @@
+Players control a satellite and must destroy enemies by moving a crosshair over them and firing the satellite's weapons.

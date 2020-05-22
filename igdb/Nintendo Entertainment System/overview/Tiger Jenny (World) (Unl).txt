@@ -1,0 +1,5 @@
+Tiger Jenny is a NES game set in the same universe as "Ittle Dew" it takes place a thousand years before the events of that game. 
+Battle your way through the forests to seek vengeance on the Turnip Witch who dwells in her castle. 
+ 
+Note that this game actually runs on the real hardware, it's not just an imitation. 
+Therefore the release is in nes rom format so you'll need an emulator to play it.

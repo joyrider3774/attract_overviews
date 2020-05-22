@@ -1,0 +1,1 @@
+Matthias Sammer Soccer is a soccer game made for Germany. The game features a field spread North to South where your player moves North and the opponent moves the ball South. The game was released in Germany in 1997.

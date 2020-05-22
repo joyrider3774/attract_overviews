@@ -1,0 +1,1 @@
+A puzzle game for the Super Famicom where the hero has to push blocks across a grid to complete lines of the same color.

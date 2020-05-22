@@ -1,0 +1,1 @@
+Adventures in the Magic Kingdom is a game developed by Capcon where the player explores various rides in Disney theme parks. The player must complete five different stages, modeled after rides, as well as a trivia quest in order to retrieve the set of keys. Players choose which stage to play by walking around the park in the game's overworld map.

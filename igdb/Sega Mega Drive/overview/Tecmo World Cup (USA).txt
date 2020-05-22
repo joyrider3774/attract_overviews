@@ -1,0 +1,5 @@
+Tecmo World Cup '92 (テクモワールドカップ'９２) is a 1992 port of Tecmo's 1990 NES game Tecmo World Cup Soccer to the Sega Mega Drive by SIMS. The American release, distributed by Atlus, is called simply Tecmo World Cup. 
+ 
+The game is a conventional pseudo-3D soccer game. A and C pass the ball; B kicks. 
+ 
+Sega was also in the process of making a Sega Master System port which would become Tecmo World Cup '93 — a prototype ROM of that with the name Tecmo World Cup '92 circulates.

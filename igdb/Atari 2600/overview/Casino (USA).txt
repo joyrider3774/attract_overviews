@@ -1,0 +1,1 @@
+Casino is a collection of three card games: Blackjack, Five-card stud poker, Poker Solitaire.

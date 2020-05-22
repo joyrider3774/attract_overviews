@@ -1,0 +1,3 @@
+A 2D screen-to-screen maze/platformer for the Apple II and Commodore 64 system. 
+ 
+In Lady Tut, you are searching underground for Lady Tut's sarcophagus. In order to do this, you must go through five mazes collecting all the rings that you can find while avoiding creatures that roam around. There are one or two doors leading to the next maze, but you must first find the key to unlock them. Later, a gun can be obtained, and can be used to shoot creatures.

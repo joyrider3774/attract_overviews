@@ -1,0 +1,1 @@
+A bowling game simulation for up to 8 players. You can play an Open Bowling mode or a League mode and try several game difficulties. Except for an old graphics, the game is still enjoyable for one or more bowling players.

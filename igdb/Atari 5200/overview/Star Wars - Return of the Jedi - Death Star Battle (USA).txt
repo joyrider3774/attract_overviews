@@ -1,0 +1,5 @@
+Return of the Jedi: Death Star Battle is a Shoot 'em up video game published by Parker Brothers in 1983 for various Atari platforms and in 1984 for the Sinclair ZX Spectrum. It was the first released video game to be based on the movie Return of the Jedi. 
+ 
+In the game, the player controls the Millennium Falcon with the aim of destroying the second Death Star. The game is split into two stages. In the first, the player must shoot enemy TIE fighters while waiting for an opportunity to pass through an energy shield. In the second stage, the player must shoot at parts of the Death Star until there is a clear path to the reactor. Once the reactor has been destroyed, the player must survive the resultant explosion. 
+ 
+Once these objectives are completed, the game begins again in a new round with greater difficulty.

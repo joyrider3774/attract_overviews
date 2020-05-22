@@ -1,0 +1,5 @@
+Metro-Cross is a platform arcade game that was released by Namco in 1985. It runs upon Namco Pac-Land hardware (but with a video system like that used in Dragon Buster, modified to support a 2048-color palette). It uses a Motorola M6809 microprocessor, with a Hitachi HD63701 sub-microprocessor (both running at 1.536 MHz) and Namco 8-channel waveform PSG for audio. 
+ 
+The player must take control of a man known only as Runner, who is given a time limit to run through each of the game's thirty-two rounds while avoiding obstacles and collecting drink cans. The actual running happens automatically: the job of the player is to avoid the obstacles and collect the cans by moving the Runner with the stick and adjusting his speed accordingly. 
+ 
+If the Runner finishes the round within the time limit, the remaining time will be awarded to him as bonus points and he will proceed to the next round. Every fourth round is special, using the remaining time from the three previous ones as additional time. However, if the Runner has not finished the round by the time the time limit runs out, he will be electrocuted and the game will immediately be over.

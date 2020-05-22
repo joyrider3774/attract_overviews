@@ -1,0 +1,1 @@
+Generically-named Shogi game from Pony Canyon.

@@ -1,0 +1,1 @@
+A platformer game where you play as Loony Toon's Tasmanian Devil. You run jump and spin through each level collecting points and avoiding enemies before the timer runs out. Some power ups such as extra life and spin attack tokens are provided. The game featured 5 levels and an end boss fight. Losing all lives and continues means you must restart the game.

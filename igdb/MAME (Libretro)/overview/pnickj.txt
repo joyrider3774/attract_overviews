@@ -1,0 +1,3 @@
+Pnickies is a Tetris-style puzzle game, where the objective is to match coloured balls of the same colour, causing them to disappear. Balls which are the same colour link together on contact to form large shapes, and must be carefully stacked to allow access to other colours. 
+ 
+The playfield you can see consists of six columns twelves rows high. The thirteenth row which is not visible is also used for storing balls and is counted for scoring purposes. The balls drops from the top of the screen in linked pairs in the third column, and can be of two types, those with stars and plain. The plain ones simply connect with those of the same colour, but any single colour with two stars or more in it will cause the whole linked colour to disappear and award you points.

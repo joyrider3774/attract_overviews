@@ -1,0 +1,1 @@
+Gunpey offers a unique puzzle experience. As lines of various angles climb up the screen, the player's objective is to flip the lines, located in squares, to connect them over five columns. Connecting lines from left to right remove the connected row. If an incomplete line reaches the top of the screen, the game is over.

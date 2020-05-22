@@ -1,0 +1,1 @@
+A starfighter emulation game with a first-person cockpit view, like Wing Commander. Certain portions of the game require assaults on the enemy's planetary bases. These segments are played as 2D side scrolling shoot-em-ups, like R-Type.

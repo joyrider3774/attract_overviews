@@ -1,0 +1,1 @@
+The object of the game is to out-score your opponent. There's passing, rushing, blocking, and touchdowns! Simulated 15 minute quarters. You set both offense and defense. Individual control of both the quarterback and linebacker.

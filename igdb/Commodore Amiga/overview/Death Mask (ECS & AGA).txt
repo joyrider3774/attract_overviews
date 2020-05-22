@@ -1,0 +1,1 @@
+In one-player mode there are 34 levels, accessed via passwords, 3 lives, and lots of powerup weapons. If one player completes the level, both advance to the next one (like Lotus 2, funnily enough. I guess I ought to think of a similarity to Lotus 3, just to complete the set). There's also the standard Death Match mode.

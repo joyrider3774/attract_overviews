@@ -1,0 +1,5 @@
+Brilliant logic game about piracy of vessels battle well done. 
+ 
+The task regards 15 pirates on any of the two ship who must infiltrate into the enemy’s ship as they must do in your. The playing field is a 6×5 grid Series, which has a 4 “field”. Each pirate reaches level 3, so wisely, they need to run it in a battle. 
+ 
+One of these is the 17th Century naval setting, with the opposing galleons of Black Pete the pirate, versus Captain Carlos of the Spanish Armada. Each opposing ship has 15 troops (checkers) laying in wait in the cannon bays, ready to pounce out onto the “game board”. Each of the five cannons bays has three troops. You have the option to play as Captain Carlos or Black Pete.

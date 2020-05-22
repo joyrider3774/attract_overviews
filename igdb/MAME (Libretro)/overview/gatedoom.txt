@@ -1,0 +1,1 @@
+A diagonal scrolling action game allowing players to choose 4 characters including Knight, Wizard, Bard and Ninja.

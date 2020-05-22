@@ -1,0 +1,1 @@
+A boxing game featuring 20 different opponents. It is known as Barry McGuigan World Championship Boxing in the UK.

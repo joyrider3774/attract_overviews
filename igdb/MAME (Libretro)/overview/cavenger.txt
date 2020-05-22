@@ -1,0 +1,1 @@
+In this side scrolling shooter you have to kill as many enemies as possible to raise your high score.

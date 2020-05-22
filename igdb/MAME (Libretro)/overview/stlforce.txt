@@ -1,0 +1,1 @@
+Steel Force is a 2D top down arcade shooter, similar in style to Alien Breed, but much more action-oriented. The main hero, a Federation soldier fights against space pirates - he must kill various enemies and find the exit in limited time. He can find ammunition, health packs and various power ups along the way.

@@ -1,0 +1,1 @@
+The game presents a top-down view of a simple version of soccer (there are no fouls, substitutions, or strategies). Players must dribble and pass the ball towards one end of the field and try to score a goal by forcing the ball into the opposing team's net.

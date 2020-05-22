@@ -1,0 +1,1 @@
+A vertical air combat game where the player controls a jet fighter and battles enemy aircrafts in the sky.

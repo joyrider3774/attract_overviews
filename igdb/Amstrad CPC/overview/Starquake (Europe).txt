@@ -1,0 +1,1 @@
+Starquake is an arcade adventure, platform and maze game written by Stephen Crow and published by Bubble Bus Software in 1985. It was released for Commodore 64, MSX, ZX Spectrum, Amstrad CPC, Atari 8-bit family, Tatung Einstein (all 1985), the BBC Micro (1987) and IBM Compatible and Atari ST (both 1988). An Amiga port was released in 2018.

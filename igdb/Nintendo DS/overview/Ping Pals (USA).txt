@@ -1,0 +1,1 @@
+A chat program for the DS. Functionally, it's very similar to Pictochat, a program that comes preloaded on all DS units.

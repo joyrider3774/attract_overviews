@@ -1,0 +1,1 @@
+A computerised version of the old pencil and paper game combining simple strategy with sheer guess-work.

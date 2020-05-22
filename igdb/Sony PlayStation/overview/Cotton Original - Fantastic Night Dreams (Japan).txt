@@ -1,0 +1,2 @@
+This game is a port of the Arcade game "Fantastic Night Dreams - Cotton" originally released in 1991. 
+This version combines the enhanced digital CD-ROM soundtrack of TurboGrafx-CD release and the gameplay and graphics of the original Arcade version.

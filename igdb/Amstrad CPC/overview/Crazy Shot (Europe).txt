@@ -1,0 +1,1 @@
+A simple shooting range game with six different levels.

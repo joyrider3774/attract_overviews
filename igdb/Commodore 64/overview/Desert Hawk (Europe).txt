@@ -1,0 +1,1 @@
+A 2D Sidescrolling shooter for the C64. The player controls a chopper, flying over a desert landscape.

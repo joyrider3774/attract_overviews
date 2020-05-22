@@ -1,0 +1,7 @@
+When nightmares come to life... You discover you're not immortal! You're a mighty wizard in search of your lost master, Mordamir. Venture into the dungeon and slove the mysteries of each level. Unravel the secrets of The Immortal! 
+ 
+The Immortal is an isometric action-adventure game. 
+ 
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of isometric death await. 
+ 
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards.

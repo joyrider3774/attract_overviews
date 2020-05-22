@@ -1,0 +1,3 @@
+Terra Cresta is a vertically scrolling shoot 'em up. The player controls a ship, initially with limited firepower. Numbered pods appear containing further parts of the ship that will increase firepower. These additional parts combine with the player's ship to increase its firepower, and the final module transforms it into a fiery phoenix which is invulnerable for a certain period of time. Once the ship has multiple sections, the player may also split it, allowing it to fire in multiple directions. 
+ 
+The player begins with three lives and it is possible to play with either one or two players.

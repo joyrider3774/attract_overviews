@@ -1,0 +1,5 @@
+A Nightmare of Elm Street is an action game based on the movie of the same name, where the player attempts to free friends from the grasp of the evil Freddy Krueger. Find a way into Freddy's house on Elm Street, enter the Nightmare World, and fight him with unique powers or die trying! 
+ 
+Before the game begins, the player must first choose one of available five characters in an attempt to free Joey who, as informed by this selection screen, has been already been captured by Freddy. Spending too much time during this section will allow Freddy to capture random character, until all but one selectable character is left, so choose a character quickly! When a character is selected, all the other characters are deemed captured by Freddy and must also be rescued. 
+ 
+Each character has a different Soul mater and Power meter rating, as well as unique abilities. Soul represents the player's health and if it runs out, the player dies. Power is used up every time the player uses a special ability.

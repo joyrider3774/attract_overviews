@@ -1,0 +1,7 @@
+The player takes part in the ten events of the modern decathlon: 
+ 
+Day 1: 100 metres, Long jump, Shot putt, High jump, 400 metres 
+Day 2: 110 hurdles, Pole vault, Discus, Javelin, 1500 metres 
+The player starts the game with three lives; failure to reach the minimum standard in an event results in the loss of one life. Success in the 1500 Meters event results in the game returning to Day 1 to repeat the events with more difficult qualification criteria. 
+ 
+Running is simulated by hitting two keys (representing the left and right leg) alternately and as quickly as possible. The game rapidly gained a reputation amongst players as a "joystick killer" because of the constant vigorous waggling of the joystick required during many of the events.

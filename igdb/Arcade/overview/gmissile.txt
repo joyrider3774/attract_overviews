@@ -1,0 +1,1 @@
+Launch missiles at targets moving horizontally across the screen.

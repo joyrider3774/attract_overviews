@@ -1,0 +1,1 @@
+Race Drivin' is a sequel to the arcade driving simulator Hard Drivin'. Game play is similar to the first game. The player must complete laps around the race track before a timer expires. There are several checkpoints around the track which increase player's time as he passes.

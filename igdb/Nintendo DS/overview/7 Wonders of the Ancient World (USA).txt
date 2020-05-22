@@ -1,0 +1,2 @@
+Players take the task of reconstructing the 7 Wonders of the Ancient World. In each wonder, there are 5 to 7 sub-levels of runes that players switch to form a row of 3 or more runes.
+There are two modes of play: Free Play and Quest Modes. In Free Play, players can choose to play any level they have completed in Quest Mode.

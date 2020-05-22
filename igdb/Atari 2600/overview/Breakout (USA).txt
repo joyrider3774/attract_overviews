@@ -1,0 +1,1 @@
+The objective of the game is to destroy a multilayered wall of bricks at the top the screen. Upon hitting the bricks with a ball which bounces off of a paddle at the bottom of the screen the bricks are destroyed. If the player misses the ball with his horizontally moveable paddle the ball is lost. After loosing five balls the game is over.

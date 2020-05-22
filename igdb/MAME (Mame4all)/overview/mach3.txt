@@ -1,0 +1,1 @@
+There are two modes of play: fighter or bomber. You fly along moving a computer generated airplane and shoot at computer drawn target boxes superimposed over real laser disk images filmed over some desert and other real objects. You have a gun and a bomb button.

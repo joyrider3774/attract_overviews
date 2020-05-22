@@ -1,0 +1,1 @@
+Numan Athletics is sports game - or more more precisely a bunch of several futuristic sports minigames. The player controls 'numan' - a superhuman. Four numans (numen?) compete in eight bizarre competitions, such as throwing a rocket, running (faster than a dragster), and shooting targets (with fireballs or missiles). The game supports multi-player for up to four players.

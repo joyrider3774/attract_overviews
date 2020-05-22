@@ -1,0 +1,1 @@
+Encounter is a vertical-scrolling space shooter developed by Cory Bruening and released for DOS.

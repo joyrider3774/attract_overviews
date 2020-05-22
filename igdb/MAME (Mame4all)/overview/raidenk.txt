@@ -1,0 +1,3 @@
+Raiden consists of eight vertical scrolling missions where the player maneuvers the Raiden craft dodging and destroying enemy robots, buildings, ground targets, and aircraft. There are bombs and missile powerups as well as collectable medals which add to the score. When player dies, the fighter's fragments become projectiles that damage enemies.
+
+After defeating the Stage 8 boss, the mission is completed, and player receives 1 million points for each completed loop. Afterwards, it will start back to Stage 1. This time around, enemies shoot faster and at a more rapid rate.

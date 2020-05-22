@@ -1,0 +1,1 @@
+This is a video version of the game where players must use a mallet to hit objects that pop-up and down. Instead of using a mallet to hit physical items that pop-up, the players press nine large buttons that correspond to nine holes on the screen where various moles or monkeys pop-up.

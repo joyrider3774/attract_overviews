@@ -1,0 +1,1 @@
+Le joueur doit diriger un personnage pelucheux nommé Skweek dans un dédale colorié en bleu. Chaque passage sur une dalle la transforme en rose. Le but principal est de colorier toutes les cases en rose. De nombreux obstacles, mécanismes, monstres, etc. compliquent la tâche de Skweek, qui dispose d'une panoplie d'armes et de bonus pour arriver à ses fins.

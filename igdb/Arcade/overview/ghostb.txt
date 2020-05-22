@@ -1,0 +1,3 @@
+A 3-player top-down arcade game where one player controls one of three unidentified ghost-busters. The game is based off of The Real Ghostbusters cartoon, rather than strictly off the movie franchise. 
+The player can choose between a red, yellow or blue-jumpsuited character though all have the same abilities. These powers include an energy gun that transforms a hostile monster into a harmless, basic ghost, which are then captured using the proton beam. Other abilities are an invincibility field and the ability to summon Slimer to absorb attacks instead of the player. 
+ In Japan the game is known as Meikyuu Hunter G, but bears little resemblance to the western version as it did not use the Ghostbusters license.

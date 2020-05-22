@@ -1,0 +1,1 @@
+A Pokémon-themed typing game where players type words that appear on-screen to defeat Pokémon. It comes packaged with a wireless keyboard.

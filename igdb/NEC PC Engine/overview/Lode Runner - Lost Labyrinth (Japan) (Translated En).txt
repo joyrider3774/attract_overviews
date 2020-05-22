@@ -1,0 +1,3 @@
+This TurboGrafx-16 release of Lode Runner allows users to create and save levels, much like the original computer-based releases. 
+ 
+A very straightforward conversion of a popular puzzle platform game. You must collect the piles of gold on each level, while avoiding the robots on patrol. To defend yourself, you are able to shoot holes in the platforms to your left or right, and these will capture the robots for a short time before they climb out again. Once you have collected all the gold, make your way to the top of the screen for the next level. The game also includes a level editor.

@@ -1,0 +1,1 @@
+A horizontally scrolling game with a superhero-type character who battles robots and monsters.

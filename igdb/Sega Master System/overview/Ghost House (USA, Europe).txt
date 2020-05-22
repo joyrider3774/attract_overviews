@@ -1,0 +1,3 @@
+The player controls Mick, a young vampire hunter out to destroy five vampires in each stage before proceeding to the next. 
+ 
+Everything is out to stop Mick from completing this tasks and making his way out of the mansion. The player has to punch, or jump on, his enemies to defeat them. Arrows will be flying from either direction and will attempt to hit Mick on the head, and he must either duck or jump on them for extra points. Players can jump or touch lights to freeze everything on screen for a few seconds. Rather than punching, the player can collect a sword on the lower level by jumping on it as it flies past him.

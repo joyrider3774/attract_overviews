@@ -1,0 +1,3 @@
+They Stole a Million is a strategy computer game released by Ariolasoft in 1986. The objective of the game is to plan robberies and execute the crime. The player first purchases blueprints of the house where the soon-to-be-stolen object is kept. Then several specialists can be hired which disable alarms, open locks or drive the getaway car. 
+ 
+The planning stage allows the player to set waypoints, actions and the times at which the actions should take place. For example, the alarm specialist needs two minutes to disable the alarm for a certain display. After two minutes, the lock picking master opens the display and takes the loot.

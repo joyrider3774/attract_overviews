@@ -1,0 +1,1 @@
+An action game that takes place in a castle-like maze.

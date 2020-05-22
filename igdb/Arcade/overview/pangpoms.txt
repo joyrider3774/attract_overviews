@@ -1,0 +1,1 @@
+Pang Pom's is a single screen platform game in which players must burst all of the balloons on the screen by jumping on and kicking them to advance to the next stage. Some of the balloons reveal bonus points, enemies or power-ups like a clock that temporarily stops time, a jet pack that increases jumping ability and a star that makes the player invincible for a short period.

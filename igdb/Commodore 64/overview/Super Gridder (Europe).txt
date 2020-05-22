@@ -1,0 +1,1 @@
+C64 game where the player fills in the grid while avoiding the black and white spiders.

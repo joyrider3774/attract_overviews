@@ -1,0 +1,1 @@
+Solar Wars is a tank combat game like Scorched Earth on the PC, Scorched Tanks on the Amiga, or Gorillas from QBasic. The game is two-player and pits you against a foe throughout our solar system. You can fight against a friend using two controllers, or the same controller, on ten different worlds, each with its own gravity, atmosphere, and climate.

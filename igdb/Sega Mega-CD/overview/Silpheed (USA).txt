@@ -1,0 +1,3 @@
+In Silpheed, the player pilots a spaceship through levels of increasing difficulty, in a pseudo-3D vertically scrolling field, shooting everything in his path. New weapons will become available as he gathers points, and power-ups are sprinkled throughout the levels. 
+ 
+The game is one of the first-ever that used music as a selling point.

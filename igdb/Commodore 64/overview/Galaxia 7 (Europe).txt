@@ -1,0 +1,1 @@
+A mixture of a platformer and a flying jetpack shoot'em up in which the player has to collect four objects on each planet and than land on the surface to complete the game.

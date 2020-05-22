@@ -1,0 +1,1 @@
+A multi-screen platform game where the players controls penguins fighting against various enemies.

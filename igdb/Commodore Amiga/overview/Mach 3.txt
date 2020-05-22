@@ -1,0 +1,1 @@
+Players control a spaceship in this pseudo-3D shoot 'em up.

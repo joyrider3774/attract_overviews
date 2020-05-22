@@ -1,0 +1,11 @@
+You will need skill and quick reflexes to survive in the dangerous 
+castle complex. Watch out for the guards who shoot bolts at you with their 
+crossbows, you can duck or jump to avoid them, or even run away. If you get 
+hit you will lose vital HEALTH points. These start at 99 and if they fall 
+below 00 you are a dead man! There are tablets lying around which will 
+increase your HEALTH points if you can get them. 
+ 
+You must collect all the hearts around the castle and then go to the 
+East Tower to save Maid Marian. However, to make progress through the castle 
+you have to get the keys needed to operate the mechanical mediaeval lifts 
+which elevate you to different sections of the castle.

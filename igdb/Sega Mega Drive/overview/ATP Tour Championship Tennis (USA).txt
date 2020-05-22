@@ -1,0 +1,3 @@
+There are three game modes: Exhibition match, Exhibition Tournament (where the player competes in a 32-player tournament), ATP Senior Tour Event (where the player chooses one of the retired players and competes in a 8-player tournament) and the ATP Tour, where it's possible to create a player and develop his skills by winning (or simply doing well) on tournaments, with one extra point on each round won. 
+ 
+Gameplay uses a simple 3-button layout, where the A button lobs the ball, B performs a controlled passing shot and C allows the fastest top spin shots, with the directional pad affecting the direction and depth of the shot.

@@ -1,0 +1,1 @@
+The player is a participant on an 18-hole championship golf course. His objective is to acquire the lowest score possible. The rules used in this game are the same as in actual golf.

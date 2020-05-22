@@ -1,0 +1,1 @@
+The player configures each plane's loadout for your mission, plans the mission package, then fly your missions. The player's task is to configure the planes and to plan and execute each mission, commanding multiple sections of each plane.

@@ -1,0 +1,1 @@
+A space exploration and trading game, instead of the original's text based presentation, Universe II features side-scrolling graphics and a mouse based UI.

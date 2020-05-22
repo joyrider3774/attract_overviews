@@ -1,0 +1,1 @@
+A shooter where a blue and red airplanes fight off enemy airplanes, helicopters, and tanks while collecting power-ups.

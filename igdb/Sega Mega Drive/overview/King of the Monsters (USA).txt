@@ -1,0 +1,3 @@
+Players get to choose any one of six monsters (four in the 16-bit ports) for battle, and two players can join forces to fight the monsters together. Battles end when one of the monsters is pinned for a three count or if time expires (in which case the player loses). 
+ 
+The game consists of 12 total levels: the player first must defeat all six monsters, with the last monster being oneself, but in a different palette. Then the player must defeat the six monsters again, in the same order, but this time in different cities

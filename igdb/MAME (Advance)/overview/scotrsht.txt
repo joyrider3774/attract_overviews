@@ -1,0 +1,1 @@
+Scooter Shooter is a horizontal-scrolling shooter arcade game developed by Konami in 1985 with competitive play against either a computer opponent or another player.

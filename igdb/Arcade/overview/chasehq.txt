@@ -1,0 +1,7 @@
+At the start of each level the player is informed who they are pursuing, a great distance away: They must apprehend the criminal before their time limit expires. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape. At some points during the game the road splits, and the correct turn must be taken, otherwise it will take longer to catch the criminal. When their vehicle is reached, the time limit is extended; the vehicle must be rammed a number of times until the criminal is forced to stop, then is arrested. 
+ 
+The game includes five levels. As both the initial time limit to reach the criminal and the time extension to ram the criminal are just 60 seconds, the game is very short - a player who is able to finish the game on one credit will enjoy at most ten minutes of game-play. 
+ 
+Interestingly enough when Nancy at Chase HQ (at the start of every level) calls on the radio the frequency is always 144.X (various)Mhz. This is actually the 2-meter band of amateur or ham radio frequencies. 
+ 
+Although superficially similar in technology to Sega's Outrun, Chase HQ features significant technical advancements over that title in the presentation of perspective, hills and track splits.

@@ -1,0 +1,3 @@
+Turbo Esprit puts you in control of a Lotus Esprit cop car, with the challenge of breaking up a drugs gang and protecting the innocent. 
+ 
+A map is built into the car, which can instantly show the positions of the baron's cars - this is crucial because you can't interrupt them before the initial deal is done, as this will simply make them leave and try again another time.

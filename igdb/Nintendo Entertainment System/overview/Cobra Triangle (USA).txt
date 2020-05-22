@@ -1,0 +1,1 @@
+in Cobra Triangle the player controls a weapon-equipped speedboat through 25 levels. Objectives include winning races, saving swimmers, and defusing bombs. The game also includes power-ups and is displayed from a 3D isometric perspective with automatic scrolling that follows the player's movement.

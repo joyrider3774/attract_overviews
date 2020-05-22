@@ -1,0 +1,1 @@
+A shooting game, with a western motif. The player uses a gun (mounted to the cabinet) to escort the sheriff through a variety of dangers, gathering bounty for capturing criminals.

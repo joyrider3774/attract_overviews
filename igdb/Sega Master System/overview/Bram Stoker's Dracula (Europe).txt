@@ -1,0 +1,1 @@
+Bram Stroker's Dracula is a side-scroller platform game loosely based on the 1992 film of the same name. Players take the role of Jonathan Harker whose mission is to destroy Count Dracula by first heading to Transylvania and then London.

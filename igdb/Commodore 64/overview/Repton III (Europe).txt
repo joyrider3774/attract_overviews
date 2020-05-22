@@ -1,0 +1,5 @@
+Repton 3, released 5 November 1986, was developed by Matthew Atkinson at Superior's invitation since Tim Tyler wasn't interested in programming it—although he did design some of the levels for the new game. While the first two games had only taken a month each to program, Repton 3 took eight months. It reverts to the form of a series of time-limited, password-protected levels. 
+ 
+A few new features were introduced: fungus (a substance that gradually spreads wherever it finds space and kills Repton on contact), time capsules (resetting the current level's time limit each time one is collected), crowns and a timebomb which must be defused to complete each level. 
+ 
+The inclusion of the timebomb meant that, as well as collecting all of the diamonds and crowns, the user had to plan their route so as to finish up at the timebomb at the end of the level.

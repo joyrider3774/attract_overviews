@@ -1,0 +1,1 @@
+Another Bomberman style action game. You have to place explosives on the ground and blast your way through the maze. Destroying all enemies is a good plan.

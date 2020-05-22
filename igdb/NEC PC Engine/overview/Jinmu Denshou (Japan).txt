@@ -1,0 +1,5 @@
+A pseudo-3D third-person rail shooter of the Space Harrier mold. It had multiple developer credits and is exclusive to the PC Engine. 
+ 
+Jinmu Denshou is an action game in which the player character marches towards the horizon while enemies fly towards him. It looks and plays like Sega's Space Harrier, its clear inspiration, though a major difference is that the main character is a samurai-like figure who is usually limited to attacking incoming enemies with his sword. After an upgrade, he is able to fire projectiles and he can also charge up an attack and unleash it to cause a significant amount of damage. The game has a few superficial platforming elements as well. 
+ 
+Development of the game is credited to three separate teams: obscure TG-16 developers Manjyudo, Wolf Team (better known for their Tales series) and Goblin Sound who were responsible for the music.

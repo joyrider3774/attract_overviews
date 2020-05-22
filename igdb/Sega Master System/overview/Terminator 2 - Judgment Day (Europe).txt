@@ -1,0 +1,1 @@
+An on-rails light-gun shooter produced for the Arcade by Midway, based on the 1991 film of the same name. The home versions were titled "T2: The Arcade Game" to distance themselves from the LJN/Ocean side-scroller action game.

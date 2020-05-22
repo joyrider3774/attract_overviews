@@ -1,0 +1,5 @@
+Strip Poker game with the opponents Myriam, Birgit, Frances and Ines. 
+ 
+Coder:	  Holger Gehrmann 
+Graphics:	Frank Knust 
+Musician:	Chris Hülsbeck

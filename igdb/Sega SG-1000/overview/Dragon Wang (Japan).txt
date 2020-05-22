@@ -1,0 +1,3 @@
+Inspired by the arcade classic Kung-Fu Master, Dragon Wang (ドラゴン・ワン) is an action game for the SG-1000. You play as Wang (Chinese for "King"), a Kung-Fu master (inspired by Jackie Chan or his character, Thomas), and must kick other men across four stages. 
+ 
+This is the prequel to Kung Fu Kid for the Sega Master System.

@@ -1,0 +1,1 @@
+The game features Q*bert, but introduces new enemies: Meltniks, Soobops, and Rat-A-Tat-Tat. The player navigates the protagonist around a plane of cubes while avoiding enemies. Jumping on a cube causes it to rotate, changing the color of the visible sides of the cube. The goal is to match a line of cubes to a target sample; later levels require multiple rows to match.

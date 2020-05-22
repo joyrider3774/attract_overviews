@@ -1,0 +1,1 @@
+A German submarine simulator partially inspired by the Das Boot movie. The game contains several missions for your submarine, which must be accomplished. There are several battle stations like : torpedo bay, anti aircraft gun, navigation, etc... which must be mastered to succeed.

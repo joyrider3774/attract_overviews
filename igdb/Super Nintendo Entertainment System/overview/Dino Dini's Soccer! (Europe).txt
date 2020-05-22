@@ -1,0 +1,5 @@
+Dino Dini's Soccer is a top-down football game for the Sega Mega Drive programmed by Dino Dini, the man behind the first two Kick Off games by Anco Games. It was only released in Europe. 
+ 
+Dino Dini's Soccer is a retooled version of an earlier Amiga game, Goal!, sporting superior graphics and support for four players via Sega's Team Player peripheral. Though this has not been confirmed, it has been suggested that during development Dino Dini's Soccer was set to be a straight port of Goal! with no extra features (this being the situation with the SNES version, which despite its name, was not personally handled by Dino Dini like this Mega Drive release). An unconfirmed working title appears to have been Dino Dini's Goal!. 
+ 
+As a spiritual sequel to Kick Off 2 (or Super Kick Off, as it appeared on the Mega Drive), Dino Dini's Soccer offers similar gameplay but with the addition of smarter AI, multiple cameras and improved presentation.

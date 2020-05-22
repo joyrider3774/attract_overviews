@@ -1,0 +1,1 @@
+Hyper Zone plays like a cross between a racing game and shooter. The object of the game is to navigate each level while shooting enemies and earning points, until finally an encounter with a boss ends each level. After enough points are acquired, the player earns an "extend" and his or her ship is upgraded in the next stage. The player's ship can receive up to six upgrades.

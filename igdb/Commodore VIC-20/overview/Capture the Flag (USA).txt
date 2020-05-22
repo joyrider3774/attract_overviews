@@ -1,0 +1,1 @@
+A 3D maze game where one player seeks to capture the flag while the second seeks to capture the other player.

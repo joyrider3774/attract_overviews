@@ -1,0 +1,1 @@
+Starcross is a sci-fi text adventure.

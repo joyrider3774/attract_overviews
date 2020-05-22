@@ -1,0 +1,2 @@
+The player flies a BD5J, a small agile jet. The player has to complete a series of eight stunt courses and routines with the jet. For example, in one set, the player has to fly the plane around a series of pylons. In another, the player must fly a figure eight. Stunts get harder as play progresses. Some game parameters, such as weather, are configurable. 
+There are ten acrobatic events which can be played by up to four players at four levels of difficulty. In all ten events the player must fly over a series of obstacles.

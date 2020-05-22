@@ -1,0 +1,7 @@
+The game consists of two different soccer simulations, you can carry out a match in the stadium or indoors. The field is always shown from the top and scrolled softly into all directions. 
+ 
+Different game modes make for diversity. Up to 15 players can enter their names and then compete with each other in a league. One can also take part in a World Cup, whereby the venue corresponds to the one of a real World Cup. The computer takes over the controls of as many teams as needed. A two-player friendly can be played head to head. 
+ 
+The game offers features as "banana kick", "action replay" and weather. 
+ 
+The original was developed by Sensible Software for the C64, Electronic Pencil Company were responsible for the Amiga and Atari ST versions.

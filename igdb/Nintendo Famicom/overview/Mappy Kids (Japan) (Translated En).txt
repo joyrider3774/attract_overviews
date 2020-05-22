@@ -1,0 +1,3 @@
+The player controls the son of Mappy in a platformer game. He wants to find a wife but she won't marry him until Mappy can become a provider for his family. At the end of each level, there is a slot machine. Pulling the lever to the slot machine may allow the player to earn extra lives. After the mini-games, players access a shop, where they can buy various things with the money that they find during the game. 
+ 
+This game was released for the Nintendo Famicom in Japan only.

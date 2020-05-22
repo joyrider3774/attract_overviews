@@ -1,0 +1,1 @@
+A side-scrolling platform game based very loosely around the second Batman movie. Penguin's army of killer clowns threaten to take control over Gotham City. The only thing standing in their war is Batman.

@@ -1,0 +1,1 @@
+After selection of region, style, and enemies, the pilot is assigned a primary mission and a secondary mission. These could include such objectives as "Destroy enemy headquarters" or "Support friendly troops" (i.e. destroy targets near friendly forces). The latter would be an easier mission, because the battle would be fought closer to friendly lines.

@@ -1,0 +1,1 @@
+Trace the lines of the maze while avoiding enemies in this home computer Amidar clone.

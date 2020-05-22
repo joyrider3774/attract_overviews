@@ -1,0 +1,5 @@
+A vertical-scrolling shoot 'em up that configures its difficulty to match the skill of the player. 
+ 
+Final Blaster is a vertical scrolling shoot 'em up for the PC Engine. The player is part of squadron of fighters sent to save the world from an alien invasion. Final Blaster hosts a number of features that are distinct to the game: the first is a charge shot that resembles a phoenix and is the only form of projectile that can destroy certain larger enemies. The second is that the game configures its difficulty depending on how many power-ups the player has when finishing a level, or how often they've been destroyed. 
+ 
+The game was unique to the PC Engine and did not see an international release outside of Japan. It came out on the same day as W Ring: The Double Rings, another shoot 'em up exclusive to the Japanese PC Engine.

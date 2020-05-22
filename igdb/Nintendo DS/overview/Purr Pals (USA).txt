@@ -1,0 +1,1 @@
+Purr Pals is a pet simulation game in which the player takes care of a kitten. It is Crave Entertainment's answer to Nintendo's Nintendogs and is sponsored by Purina.

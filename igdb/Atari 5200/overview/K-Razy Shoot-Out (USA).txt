@@ -1,0 +1,3 @@
+K-Razy Shoot-Out is a clone of the arcade game Berzerk developed by K-Byte, a division of Kay Enterprises, and released for the Atari 8-bit family in 1981. The game was written by Torre Meeder and Dr. Keith Dreyer. An Atari 5200 version followed in 1983. 
+ 
+The game is part of a series of titles with the "K-" prefix, including K-Razy Kritters and K-Star Patrol. All of them were published on cartridge. The K-Byte games were later published by CBS Software, including the Atari 5200 port of K-Razy Shoot-Out]

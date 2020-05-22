@@ -1,0 +1,20 @@
+A NES game based on the famed Paris-Dakar Rally, developed by ISCO. While ostensibly a racing game, the style of gameplay tends to change per level. 
+ 
+Paris-Dakar Rally Special! is an unusual racing game in which the player must successfully win the Paris-Dakar Rally. However, in order to do so, the player is faced with a wide variety of odd challenges to overcome, a scant number of which actually involve racing. 
+ 
+Developed by ISCO for the NES, Paris-Dakar Rally is notorious for its bizarre structure. Depending on who is asked it is either a testament to the NES library's occasionally creative and off-beat ingenuity, or a legendary "kusoge" (crap game). 
+ 
+Stage 1 - Preparation 
+In the first stage the player is without vehicle. In order to race in the Paris-Dakar Rally, the player must first acquire a sponsor, some money, a car and a navigation partner. In order to achieve these objectives, the player must walk around town and talk to the right order of sponsors, executives, bank tellers and rally co-ordinators to begin. Once the car has been purchased and a navigation partner chosen (which is resolved with a fast reactions mini-game), the player can take a plane to Paris to begin the rally. 
+ 
+Stage 2 - First Day 
+The first day races most closely resemble an actual racing game. The player has a top-down view of a vertically-scrolling track and must control the car's speed and direction with the D-pad. In order to qualify for the next stage of the event, the player must make it through the course within a time limit while dodging hostile vehicles from behind and in front. Losing three lives restarts the stage. 
+ 
+Stage 3 - Second Day 
+This mode more closely resembles the Arcade game Rally-X. The player must maneuver and corner around the Parisian streets in order to avoid rival drivers. They can distract pursuing CPU opponents by dropping rubber balls (possibly tires) behind the player's car to deter them. 
+ 
+Stage 4 - Third Day 
+The action changes to a side-scrolling perspective and now the player must contend with birds dropping deadly eggs, bridges that collapse once driven on, rolling boulders, fires and other obstacles on the racecourse. Occasionally, the player will need to leave the vehicle in order to hit a switch to extend a bridge before they can continue. 
+ 
+Stage 5 - Fourth Day 
+As the player is on a variant of the Paris-Dakar course that will inconveniently cross a major sea, the player must steer their car-boat over and under the ocean and

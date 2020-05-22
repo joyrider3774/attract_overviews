@@ -1,0 +1,1 @@
+A horizontal helicopter shoot 'em up for Arcade and NES, where the player is tasked with both eliminating enemy forces as well as rescuing hostages.

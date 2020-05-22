@@ -1,0 +1,1 @@
+Aside from including a traditional Tetris mode, Super Tetris 2 + Bombliss included Bombliss mode that featured bombs used to destroy surrounding pieces after a line was completed. It also included a Tetris "C Mode" in which the ground level blocks automatically rise after a set number pieces are destroyed.

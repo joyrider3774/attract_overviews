@@ -1,0 +1,1 @@
+The game keeps the typical gameplay of the Lode Runner series. Players have to collect all the gold on the stage, while either avoiding or trapping the robotic guards who are constantly giving them chase. The game also features a level editor so players can create their own stages to play on.

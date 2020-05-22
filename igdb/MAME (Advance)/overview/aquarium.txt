@@ -1,0 +1,1 @@
+Aquarium is a Tetris variant puzzle arcade game released by Excellent System in 1996 in Japan only. Play consists of matching three fish shapes rows to make them disappear.

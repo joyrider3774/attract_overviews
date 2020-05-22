@@ -1,0 +1,1 @@
+Othello is a conversion of the board game. It was developed by Kawada and published by HAL Laboratory for the Famicom Disk System in Japan.

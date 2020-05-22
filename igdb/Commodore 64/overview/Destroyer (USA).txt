@@ -1,0 +1,1 @@
+Destroyer is a 2D Naval simulation game set in World War II. You play as a captain of a U.S. destroyer and must navigate your ship to victory over the course of several missions.

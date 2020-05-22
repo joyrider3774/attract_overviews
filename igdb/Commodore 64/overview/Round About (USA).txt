@@ -1,0 +1,1 @@
+Abstract shoot'em up for the Atari 8-bit, Apple II and Commodore 64 home computers.

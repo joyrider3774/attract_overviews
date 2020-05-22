@@ -1,0 +1,3 @@
+Magical Taruruuto-kun (まじかる☆タルるートくん) is a 1992 action game for the Sega Mega Drive by Sega and Game Freak to tie into Tatsuya Egawa's/Shueisha's Magical Taruruuto-kun manga, which had been recently turned into an anime by Toei Animation. 
+ 
+C jumps; C in mid-air lunges forward. By default, B attacks. When standing next to an object, B will grab that object; B again throws it at enemies. Objects can only be used in the area they are found. You get a new magic power after every stage; hit Start to bring up a menu to choose one and A to use.

@@ -1,0 +1,5 @@
+Time Trax is an unreleased Sega Mega Drive action game developed by Malibu Interactive and set to be published by Black Perl Software, based on the Time Trax TV series. The Mega Drive version of the game was not widely covered and was largely unheard of until the title screen music by Tim Follin, was released online. Some years later, development documents were acquired and a prototype ROM was released to the general public in July 2013. [1] 
+ 
+It is not known why the Mega Drive version of the game was cancelled - a Super Nintendo version was released in North America and Europe in early 1994, suggesting the Mega Drive version was originally set to be released around this period. Malibu would be sold to GameTek in the coming months which may explain its disappearance. A different Time Trax was released for the Commodore 64 and ZX Spectrum in 1986. 
+ 
+The game is notable for its use of a relatively advanced sound driver designed by Dean Belfield for Follin - one which was never used in any other Mega Drive games neither before or since. The SNES version uses an entirely different soundtrack.

@@ -1,0 +1,1 @@
+Side scrolling action shooter. Shoot the aliens and rescue colonists from various planets. Defeat the alien mothership with the special weapons you collect.

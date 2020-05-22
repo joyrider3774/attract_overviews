@@ -1,0 +1,1 @@
+The player controls a planetary salvage ship high above a planet. He/she must capture as many pods as possible before the time runs out or alien ravagers take the pods for themselves.

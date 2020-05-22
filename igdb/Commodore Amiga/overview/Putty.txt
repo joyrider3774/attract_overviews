@@ -1,0 +1,5 @@
+Putty is a game developed by System 3 and released in 1992 for the Amiga. 
+ 
+In Putty, the player controls a blue blob with eyes. Putty has many moves that he could use to attack enemies or to navigate around the level. These abilities include being able to stretch out upwards, downwards, left and right to access far-off ledges. He also has the ability to inflate. This allows him to provide a cushioned landing for any falling bots. Over-inflation also acts as a "smart bomb", with Putty bursting, killing all of the enemies on the screen, whilst reducing his health in the process. 
+ 
+The levels in Putty are laid out vertically, with the screen scrolling up and down. The levels contain regular platforms, as well as "solid" ledges that Putty can not move through, and other special tiles including electric platforms and bounce pads.

@@ -1,0 +1,4 @@
+The Playoff Edition expands dramatically on the original in a number of ways:•16 teams of 12 (fictitious) players each 
+ - All players individually rated for various skills (Shooting %, Stamina, etc.) 
+ - Three play modes: Exhibition, Playoff (with password feature), and Multiplayer 
+ - 8-way multiplayer support with the Sega "Team Player" adapter

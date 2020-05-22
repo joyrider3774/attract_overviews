@@ -1,0 +1,7 @@
+Rock 'n' Roll is a computer game for the Commodore 64, Atari ST, Amiga, MS-DOS, ZX Spectrum and Amstrad CPC, published by Rainbow Arts in 1989. The Soundtrack for the Amiga Version was composed by Chris Huelsbeck
+
+Rock 'n' Roll is an action-oriented puzzle game with 32 levels (plus a secret bonus level). The player controls a ball (steered with the mouse on the Amiga or the joystick on the Commodore 64) and his job is to reach the exit on each level.
+
+Numerous objects help or hinder the player's path to the exit. These include locked doors that he needs to find a key to, ice which hinders his steering, fans that push him away or magnets that pull him towards them, crumbling floor tiles, and others. A map of the level is accessible at any time, but it starts out completely blank. The player has to collect eyes along the level to make various objects visible on the map. He may also buy various supplies like a fastball, a spikeball, bombs, and even hints for game secrets like extra money, extra lives and short cuts.
+
+The name "Rock 'n' Roll" comes from both the aspect of "rolling" your ball along the level, and the various catchy Rock and roll-inspired tunes that play as the background music.

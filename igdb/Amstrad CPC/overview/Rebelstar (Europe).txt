@@ -1,0 +1,5 @@
+The Rebelstar games are a series of turn-based tactics video games designed by Julian Gollop. Rebelstar Raiders was published in 1984 by Red Shift for the ZX Spectrum.[1] It was reworked in machine code as Rebelstar, published by Firebird in 1986.[2] A sequel, Rebelstar II, was published in 1988 by Silverbird.[3] Rebelstar, but not its sequel, was also adapted for the Amstrad CPC home computer.[4] 
+ 
+Each title in the Rebelstar series is a science fiction-themed turn-based tactics game, in which each player controls an opposing squad of soldiers, using their individual action points for movement, attacking, and other activities. The playing area is top-down plan view, with units shown in profile. The games achieved critical acclaim, and form the beginning of a development history that led to the Laser Squad and X-COM series.[5] 
+ 
+A spiritual successor titled Rebelstar: Tactical Command was developed by Gollop's Codo Technologies and released for the Game Boy Advance by Namco in 2005. Two more Namco projects, Rebelstar: Psionic Rebellion and Rebelstar 2: The Meklon Conspiracy, were cancelled.

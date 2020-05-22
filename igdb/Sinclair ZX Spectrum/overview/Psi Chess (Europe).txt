@@ -1,0 +1,1 @@
+A chess game written by Steven L. Watson and published by The Edge for the ZX Spectrum.

@@ -1,0 +1,1 @@
+Probotector est un jeu de tir en 2D. Le héros est le plus souvent vu de côté avec un défilement horizontal des décors, parfois vu de derrière dans une pseudo 3D. Le joueur doit éliminer le maximum d'ennemis tout en évitant leurs tirs et atteindre la fin des niveaux pour battre les boss.

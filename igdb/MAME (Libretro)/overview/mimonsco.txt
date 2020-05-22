@@ -1,0 +1,1 @@
+This game is based on the ancient Chinese legend of "Monkey". The player scrolls through waves of enemies, avoiding rocks and platforms along the way.

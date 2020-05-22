@@ -1,0 +1,5 @@
+An action racing game featuring sprinting mechs. 
+ 
+Fighting Run is a vertical scrolling action game for the PC Engine featuring mechs. The game was published by Nichibutsu, or Nihan Bussan. 
+ 
+The goal of the game is to build a mech's stats and take on other mechs in straight courses. Both mechs sprint up the screen, but must also fight each other until one of them is destroyed. The mechs can also be damaged or stunned from obstacles in the course.

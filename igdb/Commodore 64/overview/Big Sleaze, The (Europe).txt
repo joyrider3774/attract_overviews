@@ -1,0 +1,1 @@
+Spoof text adventure based on pulp detective novels like "The BIg Sleep" and "Mike Hammer."

@@ -1,0 +1,1 @@
+A bouncing cute-pie of a hero who is controlled by joystick as he leaps with dizzying speed across parallel rows of panels. The object: hit each panel in sequence, changing their color and finishing them off, while avoiding the nasty, bouncing Bubble Eater, or the jumping Pin, which move like greased lightning across the field.

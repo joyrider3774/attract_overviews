@@ -1,0 +1,1 @@
+Head On is an arcade game developed in 1979 by Sega. In this game, players control their cars through the maze where the goal is to collect the dots while avoiding collisions with the computer-controlled car that is also collecting dots. It was an early maze game revolved around collecting dots and is considered a precursor to Namco's 1980 hit Pac-Man.

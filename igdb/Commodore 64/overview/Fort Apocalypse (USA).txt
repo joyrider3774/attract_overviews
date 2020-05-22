@@ -1,0 +1,1 @@
+Fort Apocalypse is a 2D multi-directional scroller where the player navigates an underground prison in a helicopter, destroying or avoiding enemies while rescuing the prisoners.

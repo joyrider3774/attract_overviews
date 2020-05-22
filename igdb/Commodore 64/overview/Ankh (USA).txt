@@ -1,0 +1,1 @@
+In this action game written by David van Brink the player controls a Mindprobe through the 64 rooms of the metareal world of Ankh solving puzzles, collecting treasures and shooting at obejcts that move around.

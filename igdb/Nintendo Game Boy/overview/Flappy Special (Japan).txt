@@ -1,0 +1,1 @@
+Flappy moves stones to get around enemies in order to reach his goal.

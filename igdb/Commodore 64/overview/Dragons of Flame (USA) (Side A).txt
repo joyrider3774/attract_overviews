@@ -1,0 +1,1 @@
+This game is a sequel to Heroes of the Lance. It is arcade oriented, with RPG elements. The player utilizes both a top-down view of map travelling, as well as side-view scrolling combat.

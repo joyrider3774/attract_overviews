@@ -1,0 +1,1 @@
+A pinball simulator, along the same lines as Atari's Midnight Magic. But this one differs in that it uses the buttons on two paddle controllers to work the flippers, giving it that real pinball feel.

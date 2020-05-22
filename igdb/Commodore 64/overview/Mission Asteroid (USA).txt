@@ -1,0 +1,1 @@
+An asteroid is on collision course with Earth and it's up to the player to prevent the inevitable catastrophe. "Mission Asteroid" is the third text adventure with graphical illustrations by Sierra. But due to its easy difficulty level it was released as number zero in Sierra's Hi-Res Adventure series. The game's parser only understands simple one- or two-word commands.

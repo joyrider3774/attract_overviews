@@ -1,0 +1,1 @@
+An arcade brawler starring six X-Men characters. It was the only brawler to allow up to 6 simultaneous players on one arcade machine.

@@ -1,0 +1,3 @@
+This is a mythologically-themed gladiator game with simple controls, allowing players to move left and right, jump, and attack. Players choose one of two human fighters, who must overcome eight terrifying and monstrous fantastic opponents (eg. dragon, wizard, scorpion-man) in the ring to win a tournament and rule the kingdom for one year. Between bouts, players can visit a store and upgrade their equipment, granting them different health, range and damage bonuses. A second player can join in at any time to challenge the current player, but only the winner can proceed in the tournament. 
+ 
+This game is succeeded by Mutant Fighter.

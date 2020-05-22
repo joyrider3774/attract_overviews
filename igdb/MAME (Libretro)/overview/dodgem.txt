@@ -1,0 +1,1 @@
+A maze game where where the player controls a car which erases dots by running over them while avoding a head on collision with another car.

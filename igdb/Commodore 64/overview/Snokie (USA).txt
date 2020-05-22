@@ -1,0 +1,1 @@
+This is a side scrolling game where you control a cute little penguin. You have to jump over holes and not get hit by balls.

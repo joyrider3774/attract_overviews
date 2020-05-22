@@ -1,0 +1,7 @@
+Rollergames is a coin-operated arcade game by Konami, made in 1990, and based on the television show of the same name. 
+ 
+Score values are cut in half from the real show (and rounded up if needed), and feature only four 99-second cycles instead of 45-second cycles within four 6-minute periods. 
+ 
+The players control the two jetters. After referee Don Lastra blows his whistle to begin the cycle, the first lap leads the jetters to the Wall of Death (the heavily banked curve of the jetwave). They get one point for getting three steps in the between the two red lines and three points for getting above the top line. On the jet jump, they get three points for landing beyond the 12-foot marker and one point for landing in front of the line. The rest of the cycle awards one point passing or fighting off opposing blockers (who come back to haunt the jetters afterwards) and three points for lapping or fighting off the opposing jetter. The team with the most points wins. 
+ 
+While it doesn't affect the score of the game (only awarding a small amount of "power" to the winner), there is a bonus Street Fighter II style fight that may happen to illustrate the violence and rivalry that happens on RollerGames.

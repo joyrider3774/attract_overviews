@@ -1,0 +1,1 @@
+In Super Trolley you are tasked with stocking a supermarket, firstly by labelling items with a price gun and then navigating the maze-like aisles to stock shelves.

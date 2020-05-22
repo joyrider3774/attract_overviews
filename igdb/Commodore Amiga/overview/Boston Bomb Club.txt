@@ -1,0 +1,1 @@
+Boston Bomb Club is a steampunk-themed game, in which a few Victorian gentlemen enjoy their past time of explosive puzzle games. The levels are top-down puzzle "maps" in which the player must direct the ignited bombs across the tiles safely to their destination. There are various tiles of various functions, teleporting, blocking etc.

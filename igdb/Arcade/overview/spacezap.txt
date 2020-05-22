@@ -1,0 +1,1 @@
+Prevent your firebase from taking damage by defending it from all angles. Well... four angles, anyway.

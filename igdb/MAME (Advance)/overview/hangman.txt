@@ -1,0 +1,1 @@
+Hangman is a word-guessing game. The player must try to guess the word that the computer randomly chose, letter by letter. On each incorrect letter the player can opt to draw a picture of his current state.

@@ -1,0 +1,1 @@
+An overall average golf game for the Neo Geo MVS. Play on two different courses in three different modes (Nassau, Skins, and Match play).

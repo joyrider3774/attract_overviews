@@ -1,0 +1,1 @@
+Ports of Call is a classic German business simulation with some action sequences. In this sequences you must steer your ship into the port or have to rescue some shipwrecked people.

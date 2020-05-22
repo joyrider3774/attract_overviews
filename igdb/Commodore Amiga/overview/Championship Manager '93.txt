@@ -1,0 +1,1 @@
+The release of Championship Manager '93 built on the original game Championship Manager, which was released a year before. This new game was ported to the C programming language, adding a real life player database and other features.

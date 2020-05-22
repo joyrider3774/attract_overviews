@@ -1,0 +1,1 @@
+Mailing List is an address book program for the SC-3000, released in Australia and New Zealand.

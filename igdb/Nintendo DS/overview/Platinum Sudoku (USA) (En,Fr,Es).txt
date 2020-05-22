@@ -1,0 +1,1 @@
+Includes both Sudoku and Kakuro games at multiple difficulty levels.

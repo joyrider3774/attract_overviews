@@ -1,0 +1,1 @@
+You control a tank that must fill up more of the box than the computer.

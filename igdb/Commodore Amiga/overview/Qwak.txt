@@ -1,0 +1,3 @@
+In this game, you play a duck and the object of the game is to get the highest score without losing all your lives. This can be achieved by getting all the fruit and gems in the level, or killing off enemies. There are 80 levels to complete and once you complete all of them, the levels are repeated. 
+ 
+You exit each level by collecting all the gold keys then entering through the door that opens. You have a certain amount of time to complete the level before spikes fall down the level. There are eight areas, all consisting of ten levels. At the end of each area, there is a guardian waiting for you, and again, you have a certain amount of time to defeat them.

@@ -1,0 +1,3 @@
+Players progress through the game as a robot racing through a pipe, shooting everything that moves. The robot can shoot from both arms, jump, kick and punch. There are also power-ups and bonuses that can be collected to upgrade the robot's weapons and armor. 
+ 
+There are three different types of robots to choose from: Silver Mare, Beliws, and Nitika. Weapons are chosen before each stage and every level has Mode 7 graphics. Three difficulty levels can be chosen; ranging from easy, medium, and hard.

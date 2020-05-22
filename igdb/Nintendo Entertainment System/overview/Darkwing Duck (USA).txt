@@ -1,0 +1,2 @@
+Darkwing Duck is a 2D platformer based on the Disney cartoon of the same name. 
+The game was re-released in 2017 as part of the Disney Afternoon Collection.

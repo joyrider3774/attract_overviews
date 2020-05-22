@@ -1,0 +1,3 @@
+Lords of Doom is a hybrid game that incorporates elements of adventure and role-playing. The player controls the party of characters from a first-person view, navigating a pseudo-3D town. The adventure gameplay manifests itself in exploration of individual locations, interaction with objects, and the use of items to solve puzzles. 
+ 
+Role-playing elements are present in party management and character statistics. Each character has, beside hitpoints, thirst and hunger meters, so that the player has to "feed" the characters regularly in order for them to stay alive. Combat is done in real time.

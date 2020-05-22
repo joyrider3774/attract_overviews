@@ -1,0 +1,5 @@
+Is a platform game in which the protagonist has to fight the titular monsters, snakes, spiders, and an array of other creatures in order to survive. 
+ 
+The dungeons the hero must traverse make use of visual effects, similar to those found in M. C. Escher's work, to create physically impossible scenarios. These structures serve as a basis for puzzles which must be solved in-between the fighting in order to proceed. 
+ 
+The game features a total of 13 dungeons with 129 different rooms. A cooperative mode with another player is also included.

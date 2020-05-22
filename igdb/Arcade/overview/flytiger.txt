@@ -1,0 +1,2 @@
+Flying Tiger is a vertical scrolling space themed shoot 'em up game where you take control of a spaceship. 
+You fight a variety of space crafts (ground and air based), static guns and bosses. While playing destroyed enemies drop power-ups. These include: plus one (limited) bomb (B), weapon power-up (P), plus one up and C to switch between the two weapon patrons. The weapon patrons are straight (white C) and three-way (red C). The game can be play solo or with a friend.

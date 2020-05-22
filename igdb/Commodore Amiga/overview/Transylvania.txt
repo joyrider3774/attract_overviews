@@ -1,0 +1,1 @@
+A game with a text interface and optional graphics. Players must locate the missing Princess Sabrina while surviving the hostile land.

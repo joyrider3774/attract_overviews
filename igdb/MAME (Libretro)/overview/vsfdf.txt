@@ -1,0 +1,1 @@
+An anti-terrorist shooter where the player shoots at terrorists while freeing hostages.

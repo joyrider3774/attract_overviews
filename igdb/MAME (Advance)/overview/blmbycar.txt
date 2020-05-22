@@ -1,0 +1,1 @@
+A rally driving game from ABM and Gecas. It has nicely detailed graphics and some speech announcing each course.

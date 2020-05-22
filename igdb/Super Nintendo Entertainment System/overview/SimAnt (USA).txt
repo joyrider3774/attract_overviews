@@ -1,0 +1,6 @@
+SimAnt is a simulation strategy game which makes you a head of ant colony. There are 3 ways to play SimAnt: Quick Games, Full Games, and Experimental games.
+In Quick Games you are a black ant colony competing with a red ant colony for food and territory. Your goal is to defeat the red ants and take over your home turf - the local patch of ground in the backyard. Your task will be complicated by marauding spiders, voracious ant lions, torrential rains, crusing human feet and merciless lawn mowers.
+
+In Full Games you must take over the entire backyard section by section. Then take over the house and drive out the humans. In addition to hordes of red ants and other pests, you will face the chemical death of inescticides
+
+In Experimental Games, you are a human playing and experimenting with ants. Your tools let you build walls and barriers to run ants through mazes, add food, add ants, dig of fill in holes, test ants' reactions to various trail marking and alarm chemicals, and play with insecticide.

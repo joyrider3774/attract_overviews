@@ -1,0 +1,1 @@
+A variant of Mahjong Solitaire, or Shanghai, where the player can only match tiles on a grid with regard to specific rules.

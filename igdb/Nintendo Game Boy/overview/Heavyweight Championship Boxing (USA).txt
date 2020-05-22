@@ -1,0 +1,1 @@
+Once the player chooses a boxer, the other challengers must be defeated in order to gain the title. Points can be distributed and re-distributed on the fighter's health meter, stamina, and how fast he moves around in the ring. Either uppercuts or normal punches can be used to wear down the opponent in the game.

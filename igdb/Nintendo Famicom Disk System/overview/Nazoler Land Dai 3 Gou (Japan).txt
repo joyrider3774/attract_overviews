@@ -1,0 +1,23 @@
+The third and final core entry in the Nazoler Land series of minigame compilations with a magazine theme. It was developed and published by SunSoft for the Famicom Disk System. 
+ 
+Nazoler Land Dai 3 Gou is the third game in the Nazoler Land series. Like its predecessors, it was developed and published by Sunsoft for Nintendo's Famicom Disk System in Japan only, and contains various minigames with diverse gameplay. 
+ 
+These minigames include: 
+ 
+Sugoro Quiz 
+All three Nazoler games had a quiz minigame of some kind, but Sugoro Quiz is the first to emphasize a multiplayer aspect. Two to four human players compete in a board game in which players progress by answering trivia questions. 
+ 
+Tomo Bakuso 
+The second minigame starring the schoolgirl Tomo, after Nazoler Land Dai 2 Gou's Blast Tomo. In this game, she is trying to pass through a level of platforms, some of which will block access after being passed through a certain number of times. 
+ 
+Tanteidan Boy Nazoler 
+An early example of an "escape the room" adventure game, which would become very popular in browser flash games and games like 999. The player must use the items in the room they are trapped in by clicking on items strewn around it and discover the exit. As the player interacts with the room it visibly changes. 
+ 
+Bingo 
+Not so much a game but a Bingo simulator. Two to four players can generate a unique bingo card and the game will randomly select numbers. The first player to finish their card wins the game. 
+ 
+Nazoler BOX 
+As with Nazoler Land Dai 2 Gou's Nazoler BOX, this isn't so much a minigame as a response to letters sent to SunSoft about the Nazoler Land series. Tomo, from Tomo Bakuso, answers user mail. Kirk, the protagonist of SunSoft's Dead Zone, makes a cameo appearance. 
+ 
+Nazoler BOX Contest Results 
+In Nazoler Land Dai 2 Gou's Nazoler BOX there was a way to create pixel art which users could then print out and enter into a contest. This minigame simply comments on the various entries that SunSoft received. It is hosted by cameo characters from Dead Zone and Ripple Island.

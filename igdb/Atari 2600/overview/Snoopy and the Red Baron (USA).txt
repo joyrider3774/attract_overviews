@@ -1,0 +1,3 @@
+The dastardly Red Baron has stolen important food supplies from the allies during the war. Hamburgers, ice cream cones, popcorn and other tasty treats have been taken by this evil aviator and sharpshooter. Your task is to help Snoopy shoot down the Red Baron and recover the stolen supplies. 
+ 
+You begin your mission with four doghouses. It takes eight direct hits to bring down the Red Baron, and for the Red baron to bring down Snoopy's doghouse. If the Red Baron downs a doghouse, all accumulated treats will be lost. Press the controller button to fire Snoopy's machine gun.

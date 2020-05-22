@@ -1,0 +1,9 @@
+Verytex (ヴェリテックス) is a 1991 shoot-'em-up game by Asmik for the Sega Mega Drive released exclusively in Japan. 
+ 
+Humans have developed the ability to colonize other planets and have started doing so with great success as no extraterrestrial life has been found. One day, however, the armed forces of the prosperous planet Syracuse have turned on its people for no apparent reason, and it is up to you and the Verytex fighter to stop them and find out why. 
+ 
+A shoots (you have rapidfire). B drops bombs (you have a limited supply, but you can get up to 6 by collecting items with the letter B on them). C changes the speed of the ship (there are three available speeds, the current speed is shown in the HUD), and the charge generated at the back of your ship can be used to destroy close-by enemies. 
+ 
+Powerups are collected as usual. There are three weapons available (each identified by a different color): the default "yellow" weapon that shoots normal bullets, the "blue" weapon that shoots boomerang-shaped bullets which are weak but very spread, and the "red" weapon that shoots a very powerful concentrated laser but only can shoot forwards. Collecting the same kind of weapon the ship currently has will level up it. 
+ 
+Two more power-ups are available: one with the letter "M" that makes the ship shoot missiles alongside the current weapon (up to 7 at any given time on screen) and one with the letter "S" with gives the player a shield that can last several hits.

@@ -1,0 +1,1 @@
+An obscure arcade-style game for the Amiga and Atari ST. The player tries to collect all dots to proceed to the next level, while avoiding enemies and hazards. Jumping and attacking rely on limited, collectible ammunition.

@@ -1,0 +1,3 @@
+Double Sphere is a sports game set in space played between two players. One of the players can be a CPU controlled opponent. 
+ 
+The game takes place on a single screen with two 'goals' moving up and down vertically on opposite ends of the screen. The goal is to grab the sphere and move it into your opponent's goal in order to score.

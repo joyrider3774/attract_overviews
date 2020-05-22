@@ -1,0 +1,5 @@
+This enhanced remake of Police Quest has been completely re-drawn using 256-color VGA graphics. Instead of the text-based interface of the original version, the remake features icons corresponding to the commands Walk, Look, Touch, and Talk for interaction with the game world. 
+ 
+The two versions also have some gameplay-related differences. The driving sequences from the original game have been simplified: the player is no longer required to physically navigate the car and input is limited to making the right turns while the car is driven automatically, and occasionally braking at stop signs. The mandatory poker mini-game during the final segment of the game has been made optional. A few puzzles have different solutions, though not all of those are simplified, and in some instances the puzzles have become more complex in the remake. 
+ 
+Story-wise, the game remains the same for the most part, but it also includes re-written and additional dialogue not seen in the earlier version.

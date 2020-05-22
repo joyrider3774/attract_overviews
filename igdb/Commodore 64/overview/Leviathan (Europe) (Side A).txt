@@ -1,0 +1,1 @@
+Leviathan is an isometric shooter game in which the player must fly a space ship and destroy flying enemies and their defense stations. There are three levels to complete, each with a time limit.

@@ -1,0 +1,1 @@
+In Magic Lines the player must fill various empty vials with a magical substance. To do this the player should move tiles and pipes to complete their goal of filling vials.

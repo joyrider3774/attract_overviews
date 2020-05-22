@@ -1,0 +1,1 @@
+Tecmo Cup is a soccer simulator combined with RPG elements. As the game progress, Robin and his teammates will get better. The matches themselves consist of numerous choices what to do at each moment. If you are attacking, you have options to pass, shoot or to dribble. And when you are defending, you can either tackle, cut pass/shoot, or mark the opposition player with ball.

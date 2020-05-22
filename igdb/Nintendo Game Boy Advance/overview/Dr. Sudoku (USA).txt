@@ -1,0 +1,3 @@
+Sudoku is the puzzle phenomenon from Japan, a game that looks like a math problem, but is in fact a twisting puzzler. The rules are simple: start with a grid consisting of nine three-by-three squares in which some of the numbers are already supplied. Fill in the blank squares so that each column, row, and three-by-three grid contains a number from 1 to 9 with none repeated. 
+ 
+Dr. Sudoku for the Game Boy Advance is the first of a series of Sudoku products from Mastiff. The GBA title features 1,000 hand created puzzles, Original Mode (which lets you create you own Sudoku puzzles,) a tutorial mode, help for those moments when you really are stuck, the ability to "pencil in" possible solutions, and a puzzle problem creation mode.

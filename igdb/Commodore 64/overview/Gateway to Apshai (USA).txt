@@ -1,0 +1,1 @@
+In this almost-but-not-quite Roguelike, you play a lone warrior exploring the mysterious dungeons of Aphsai, collecting treasure and better equipment as you proceed, in addition to leveling up and getting more experience.

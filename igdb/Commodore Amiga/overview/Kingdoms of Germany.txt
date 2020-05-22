@@ -1,0 +1,9 @@
+Based on the engine of Kingdoms of England, the game represents the same game, but flown now in the German lands. As its predecessor, the game is turn-based medieval strategy game for up to six humans or computer opponents. Each player assumes the role of a Lord in control of a Kingdom with up to twenty armies to command in an attempt to become Sole Ruler and King of Medieval Germany. 
+ 
+From the very beginning of the game, you are placed in complex control of your kingdom. Using the mouse as controller and its cursor as your powerful finger, you must build your skills not only as the leader of a Campaign Army but skillfully manage the infrastructure of your kingdom. 
+ 
+There are two game scenarios: 
+Against up to six human opponents. The scenario is based upon each player's ability to build his Kingdom into a society, which must prosper to enable the player to create the wealth to expand the growth required to increase the size and strength of his army, which will enable him to strategically conquer his opponents territory in his quest to become King of Germany. 
+ 
+ 
+Head-to-head against computer opponents. In this scenario the human player must gain the skills as outlined in scenario one, but he is pitched against War Lords (up to five) who play by different rules, their aim is to gain wealth by conquest with no thought of development. They act as barbarians. It is up to human players to use the more constructive approach to outwit the computer player.

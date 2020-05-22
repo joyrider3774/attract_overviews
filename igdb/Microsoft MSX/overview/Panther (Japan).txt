@@ -1,0 +1,1 @@
+A "collect 'em up" where the player must evade a character using cartoon tricks and abilities and collect various objects.

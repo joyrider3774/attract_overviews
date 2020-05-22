@@ -1,0 +1,3 @@
+SD Kidou Senshi Gundam: V Sakusen Shidou is a 2D side-scrolling shooter/brawler featuring characters from the Gundam universe. Specifically, it draws from the SD (Super Deformed) Gundam continuity in which all the Gundam mech suits are sentient robotic creatures. 
+ 
+The player must pass through various waves of enemies, either on the ground or in flight, in order to proceed to the end of the stage, where occasionally a boss must be fought.

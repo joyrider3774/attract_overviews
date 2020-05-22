@@ -1,0 +1,1 @@
+Your spaceship moves around in the bottom part of the screen and you shoot up at enemies. In the beginning of each stage you are given 30 seconds to build up barricades.

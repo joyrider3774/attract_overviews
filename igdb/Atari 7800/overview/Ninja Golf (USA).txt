@@ -1,0 +1,3 @@
+inja Golf is an Atari 7800 video game which combines scrolling beat 'em up with golf simulation gameplay. Released in 1990, it later gained some renown for its outlandish subject matter and unique blend of gameplay styles.
+The player starts each hole by aiming his ball and shooting it toward the green. He then runs toward the ball, in traditional sidescroller fashion, fighting various enemies encountered along the way. These enemies include other ninjas, gophers, birds, giant mutant frogs, sharks and more.
+The enemies faced depends on the environment the ninja golfer is currently in. Sharks are encountered in water hazards and snakes in the sand traps. Ninjas are encountered in all the environments, including underwater.

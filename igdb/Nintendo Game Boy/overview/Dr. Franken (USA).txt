@@ -1,0 +1,1 @@
+The Game Boy release of the game uses a password-based saving system to save the player's progress. The game consisted of seven floors where various items and parts of Bitsy (Franky's girlfriend) were hidden. Keys and special items were needed to access additional areas to find more body parts and equipment required to resurrect Bitsy.

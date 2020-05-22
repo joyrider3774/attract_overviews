@@ -1,0 +1,13 @@
+Gyruss (ジャイラス Jairasu?) is a shoot 'em up video arcade game developed by Konami, and released in 1983. 
+ 
+It was designed by Yoshiki Okamoto, who had earlier created Time Pilot for Konami. Gyruss was licensed to Centuri in the United States, and was ported to numerous games consoles and home computers. It follows in the tradition of space war games such as Space Invaders and Galaga. 
+ 
+Gyruss was the second and last game Yoshiki Okamoto designed for Konami, after Time Pilot. Due to pay disputes, he was fired after the release of this game, and soon joined Capcom, where he would write 1942 and the first Street Fighter game. 
+ 
+The game's background music is an electronic, fast-paced arrangement of J. S. Bach's Toccata and Fugue in D minor, BWV 565; this particular arrangement is similar in sound to "Toccata", a rock arrangement by the UK-based instrumentalist group Sky. 
+ 
+ Gyruss is notable for using stereo sound, which according to the bonus material for Konami Arcade Classics, was achieved by utilizing discrete audio circuits. The game used three microprocessors: two Z80 microprocessors and one 6809, as well as an 8039 microcontroller. For the sound, five AY-3-8910 PSG sound chips and a DAC. 
+ 
+Gyruss was released in both upright and cocktail cabinets. 
+ 
+R.Hirst "KOO", M.Jones, "BOX" and the Elliott Brother's are arguably considered some of the best Gyruss players of the 1990's.

@@ -1,0 +1,1 @@
+Players control a snake like pipe. The goal is to eat all the pellets on screen in order to get the highest score possible. Players must do this while avoiding being hit by enemies.

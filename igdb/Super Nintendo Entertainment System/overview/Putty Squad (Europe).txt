@@ -1,0 +1,5 @@
+Putty Squad is a 1994 video game developed by System 3 and published by Maximum Games and Ocean Software. The Amiga version of Putty Squad, although left unpublished until December 2013, was completely developed in 1994 to the point of demo versions being issued to magazines for release on cover disks, and Amiga magazines were also sent full review copies of Putty Squad, for which it received critical success. 
+ 
+Putty Squad is a platform game in which the player controls an amorphous blue blob, tasked with rescuing imprisoned putties. The player's putty can stretch in a variety of ways: sidewards to cover ground faster, squash flat to absorb pick-up items, stretch upwards to climb, morph a fist to attack, or inflate to float upwards. 
+ 
+Putty can collect stars that increase his attack power: at first increasing the potency of his punch, but later allowing him to blow darts, electrocute enemies or throw bombs. This star power is reduced every time Putty is hit by an enemy.

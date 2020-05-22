@@ -1,0 +1,3 @@
+CountDown is a space shoot em up inspired by 2003's Warblade. 
+it has beautiful graphics and epic carnage as you try to survive the Countdown by yourself or with a friend,
+or compete online for the highest score!

@@ -1,0 +1,4 @@
+Jungle Hunt is side-scrolling arcade game produced and released by Taito in 1982. It was initially released as Jungle King. Jungle Hunt is one of the first video games to use parallax scrolling. 
+The player controls an unnamed jungle explorer sporting a pith helmet and a safari suit. The player attempts to rescue his girl from a tribe of hungry cannibals by swinging from vine to vine, swimming a crocodile-infested river, jumping over or ducking beneath rolling rocks, then releasing the girl before she is lowered into a boiling cauldron. 
+Home versions were released for the Apple II, Atari 2600, Atari 5200, Atari 8-bit family, Commodore 64, ColecoVision, VIC-20, and IBM PC. The PC version was developed by Sierra On-Line and is incompatible with anything except an original IBM PC/XT with a CGA video card. 
+In the Atari-ported versions the hero is named Sir Dudley, and the girl, married to Sir Dudley, is Lady Penelope.

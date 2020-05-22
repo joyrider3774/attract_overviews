@@ -1,0 +1,7 @@
+Operation Stealth, also known as James Bond 007: The Stealth Affair in the United States, is an adventure game from Delphine Software International, released in 1990. The game is mainly the work of Paul Cuisset (programming) and Jean Baudlot (sound). 
+ 
+The game was released with the Bond license in the United States, although this led to some inconsistencies as the MI6 agent appeared to be taking his orders from the CIA. 
+ 
+Operation Stealth mainly features a point-and-click style of gameplay reminiscent of many of the LucasArts adventures of the time, as well as a number of more action-oriented elements including an overhead viewed maze section and a scene in which Glames/Bond attempts to escape from an underwater cavern before he runs out of oxygen. 
+ 
+The cracked Amiga version of the game featured a primitive synthesized voice that would perform all the dialogue in the game if 1MB or more RAM was installed. Unfortunately the crack featured a bug which meant that if the player attempted to click the mouse button in order to skip through the speech faster the game would freeze and have to be rebooted. For this reason many seasoned players would actually remove the memory expansion before playing the game for any extended period of time.

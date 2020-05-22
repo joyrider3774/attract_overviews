@@ -1,0 +1,3 @@
+Your shuttle commander has been trapped in a dimensional maze in space, and you must use your glove to throw an energy ball at the walls in order to advance. 
+ 
+The walls in each maze room you encounter are filled with blocks. Using your Power Glove, you have to entirely break down a wall before being allowed to advance to the next room.

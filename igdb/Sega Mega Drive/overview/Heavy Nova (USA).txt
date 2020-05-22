@@ -1,0 +1,3 @@
+Heavy Nova (ヘビーノバ) is a 1991 action game for the Sharp X68000 by Micronet. It was ported to the Sega Mega-CD as one of the system's two launch titles (the other being Wolf Team's Sol-Feace); the Mega-CD port was not released outside Japan. Micronet subsequently ported it to the Sega Mega Drive for an American release in 1992. 
+ 
+You play as a giant mech beating up other mechs of various sizes. A punches and B kicks. Up rockets up for as long as the button is held; you will eventually come back down.

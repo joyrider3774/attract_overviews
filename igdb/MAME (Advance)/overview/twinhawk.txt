@@ -1,0 +1,5 @@
+Twin Hawk is a 1989 vertically scrolling shooter arcade game developed by Toaplan and published by Taito. Twin Hawk resembles other shooters of the time, specifically Toaplan's earlier game, Flying Shark. Also like Toaplan's other games, there were various differences between the Japanese version and other versions, including a checkpoint system and higher difficulty for the former. Unusually, the game contains no flying enemies; thus, a complete lack of physical obstructions and a stronger focus on the numbers and speed of ground forces. 
+ 
+Another draw of Twin Hawk is the game's unique "smartbomb" in the form of a group of friendly planes; pressing button 2 once will call in six Flying Fortresses to surround and protect the player's plane, and provide back-up fire. They are easily taken down by enemy fire, so the player must use them wisely. 
+ 
+Pressing button 2 again immediately after the call-in will sacrifice the planes for a more typical smartbomb. Otherwise, pressing button 2 while any other plane is on-screen will suicide them all into the nearest enemies below.

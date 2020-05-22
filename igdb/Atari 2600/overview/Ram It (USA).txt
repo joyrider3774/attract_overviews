@@ -1,0 +1,1 @@
+From the left and right sides of the screen colored columns stretch towards the center of the screen in order to connect with their counterpart on the opposite side. The player is at the center of the screen where he can move up and down and has to shoot left and right at the extending columns before they connect.

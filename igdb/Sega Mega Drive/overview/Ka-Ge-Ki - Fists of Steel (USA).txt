@@ -1,0 +1,5 @@
+Ka•Ge•Ki is a slightly-angled 3rd person beat-'em-up set around underground fighting matches a la Pit-Fighter in which you must take down every member of a notorious biker gang. Each match begins with a showdown with several weaker henchmen and then moves on to next of the 9 gang members, who must be KO'd 3 times before moving on to the next round. 
+ 
+The game allows you to move your character in any direction, provided he doesn't leave the confines of the arena, and allows you to attack via mostly a combination of button presses that also trigger dodges and parries depending on the button pressed. 
+ 
+Graphics are 2D with a unique super-deformed design (stocky bodies with gigantic heads).
