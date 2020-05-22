@@ -1,0 +1,5 @@
+Arcade Video game published 20 years ago:
+
+Mang-Chi (c) 2000 Afega.
+
+A tetris/columns styled game, you have to match the blocks with the same color or picture.

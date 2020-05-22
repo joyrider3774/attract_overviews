@@ -1,0 +1,16 @@
+Capcom CPS Changer game published 25 years ago:
+
+Street Fighter Zero (c) 1995 Capcom Co., Ltd.
+
+CPS Changer release of SFZ. Identical to the Arcade release.
+
+- TIPS AND TRICKS -
+
+OPTION MENU
+Press Start 2 + Pause (F2 in MAME) at same time for 1 second.
+
+It Contains: Game config (difficulty, damage, time and sound test) & Button config (change buttons).
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=60517&o=2

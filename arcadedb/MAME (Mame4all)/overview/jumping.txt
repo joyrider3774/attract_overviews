@@ -1,0 +1,17 @@
+Arcade Video game published 31 years ago:
+
+Jumping (c) 1989 Seyutu Electronics.
+
+Bootleg of "Rainbow Islands - The Story of Bubble Bobble 2".
+
+The main character has been redrawn, as well as the rainbow, the title screen and several other things.
+
+The sound is slightly different because this bootleg board uses two YM2203 sound processors, while the original game uses a single YM2151.
+
+- TRIVIA -
+
+Bugs: the bootleggers didn't defeat the protection completely: secret rooms are broken, some dying enemy sprites have obviously wrong graphics, monsters are falling through platforms etc.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1239&o=2

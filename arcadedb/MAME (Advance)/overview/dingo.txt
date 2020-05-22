@@ -1,0 +1,5 @@
+Arcade Video game published 37 years ago:
+
+Dingo (c) 1983 A.C.G. [Ashby Computers & Graphics]
+
+A maze game.

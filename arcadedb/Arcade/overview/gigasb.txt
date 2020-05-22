@@ -1,0 +1,5 @@
+Arcade Video game published 34 years ago:
+
+Gigas (c) 1986 Sega.
+
+A 'breakout'-style from Sega.

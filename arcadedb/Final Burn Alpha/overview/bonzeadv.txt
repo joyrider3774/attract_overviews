@@ -1,0 +1,27 @@
+Arcade Video game published 32 years ago:
+
+Bonze Adventure (c) 1988 Taito.
+
+Export version. For more information about the game itself, please see the original Japanese version entry; "Jigoku Meguri".
+
+- TRIVIA -
+
+Bonze Adventure was released in June 1988.
+
+- PORTS -
+
+These are ports released outside Japan. For Japanese ports, please see the original Japanese version entry; "Jigoku Meguri".
+
+* CONSOLES: 
+Sony PlayStation 2 [AU] (mar.30, 2006) "Taito Legends 2 [Model SLES-53852]" 
+[EU] Microsoft XBOX (mar.31, 2006) "Taito Legends 2" 
+[EU] Sony PS2 (mar.31, 2006) "Taito Legends 2 [Model SLES-53852]" 
+[US] Sony PS2 (may.16, 2007) "Taito Legends 2 [Model SLUS-21349]" 
+
+* COMPUTERS: 
+[EU] PC [MS Windows, CD-ROM] (mar.31, 2006) "Taito Legends 2" 
+[US] PC [MS Windows, CD-ROM] (jul.10, 2007) "Taito Legends 2"
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=314&o=2

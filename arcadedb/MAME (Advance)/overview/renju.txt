@@ -1,0 +1,5 @@
+Arcade Video game published 26 years ago:
+
+Kira Kira Gomoku Narabe Renju Kizoku (c) 1994 Visco Corp.
+
+A Gomoku game (a Japanese connect four type of game).

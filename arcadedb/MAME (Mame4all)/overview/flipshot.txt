@@ -1,0 +1,5 @@
+Arcade Video game published 22 years ago:
+
+Battle Flip Shot (c) 1998 Visco Corp.
+
+A modern "Pong"-like game with selectable characters.

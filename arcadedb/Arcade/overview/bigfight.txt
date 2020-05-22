@@ -1,0 +1,39 @@
+Arcade Video game published 28 years ago:
+
+Big Fight - Big Trouble in the Atlantic Ocean (c) 1992 Tatsumi Electronics Company, Limited.
+
+A side scrolling beat 'em up featuring fighters: Gear, Kevin, and Zill.
+
+There's an extra game mode named 'Battle mode', where you can choose your character from the 8 available (the 3 heroes, plus the 5 bosses already unlocked) and challenge a friend or the CPU in a Vs battle. Note: this option requires two players before you start: after 1 of the 2 players is KO, the winner can continue to play against the CPU.
+
+All the playable characters have their own special moves, you must find them.
+
+- TRIVIA -
+
+Big Fight was released in December 1992 ans was the last arcade video game made by Tatsumi. They focused on Photo Booths after this game.
+
+- TIPS AND TRICKS -
+
+* When the player is knocked down at low energy level there is a chance to fully charge up a power meter that appears for a few seconds. If successful, the player's character gets up with a lightning charge and delivers powerful attacks.
+
+* At the half of the first stage, you can choose the course for continuing your way: in this way, you can modify the level sequence and the relative difficulty for those.
+
+* After you've beaten a boss at the end of the level, he will be available as a playable character, and you can also choose him to play the next level: every time you beat a new boss, this will be added to the playable characters rooster. These characters are:
+Pharaoh, an ancient very powerful pharaoh, you can find him in the Aquarium stage;
+Mavella, a beautiful woman with red hair and equipped with a whip: she is waiting for you in the Funnel stage;
+Garuda, a very strong redskin, you'll find him in the garden pool;
+Gonza, a powerful sumo fighter with devastating slaps, you'll find him in the japanese house;
+Chen, a chinese fighter equipped with a letal chinese sword, he is waiting for you in the disco stage, after the casino.
+
+- STAFF -
+
+Planning: Hasegawa Mitsuhiro
+Direction: Nobrin
+Character Design: Nakajima, Taka, Hasegar
+Sound/Music: Tomopee, Cyber
+Hard Design: Okuda
+Programming: Okuda, Shirahata, Noma, Syochan, Yamagata
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=4262&o=2

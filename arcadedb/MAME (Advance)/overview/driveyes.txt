@@ -1,0 +1,5 @@
+Arcade Video game published 30 years ago:
+
+Driver's Eyes (c) 1990 Namco.
+
+Driver's Eyes was a state of the art Formula One Simulator, a follow up to "Winning Run" (1988), one of its most advanced features for 1990 was the 3-D solid polygons and the major system 21 sound clean up (music composed by Hiroyuki Kawada who also composed music for Air Combat,Winning Run etc.) the player would select his/her level of racing, Novice or Grand Prix, then, transmission select, (Easy Drive or Technical Drive). when the selections were made, the game would then show a short animation of the engine going into the engine bay and the body work gliding down (changing view to the cockpit) revealing a sign saying BRAKES ON when the sign lifts the race started (in novice mode Grand Prix was on the starting grid). Also the game featured panoramic view thanks to a 3 monitor setup (controlled by 3 system 21's!) and finally to add the game also had an LCD display in the player's cockpit in sync with the speedo on the screen.

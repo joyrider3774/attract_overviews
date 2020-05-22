@@ -1,0 +1,5 @@
+SNK Neo-Geo MVS cart. published 21 years ago:
+
+Puzzle Bobble 2 (c) 1999 SNK Corp.
+
+MVS conversion port of the original Taito F3 game of the same name.

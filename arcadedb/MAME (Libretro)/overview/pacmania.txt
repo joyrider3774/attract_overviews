@@ -1,0 +1,43 @@
+Arcade Video game published 33 years ago:
+
+Pac-Mania (c) 1987 Atari Games Corp. 
+
+Export version by Atari for North America. Game developed in Japan by Namco. For more information about the game itself, please see the original Namco version entry.
+
+In this export version, gameplay begins with the opportunity for players to level select among one of three playfield worlds: Block Town, Pac-Man's Park or Sandbox Land. With Block Town being the easiest and Sandbox Land being the hardest, players are accordingly rewarded for selecting and completing the challenges in this mode.
+
+- TRIVIA -
+
+Pac-Mania was released in December 1987 in North America by Atari Games under license from Namco. 
+
+1,412 units were produced by Atari. The selling price was $1,995. 
+
+In this Atari 'Export' version: 
+- The first Block Town only has one level, instead of two. 
+- The first Pac-Man's Park, Sandbox Land, and Jungly Steps Worlds only have two levels each, instead of three. 
+- Common has been renamed 'Funky'.
+- Grey Common has been renamed 'Spunky'.
+- The Top Ten Score List has been added and will let you write initials, before continuing. 
+- The "Pac-Mania" Logo has Pac-Man, Pinky, and Blinky circling around the logo in the Atari version, whereas the Namco version does not. 
+- A 'Stage Select' feature has been added.
+- Items are placed differently from the original Namco version.
+- Courage Bonus would activate once you got past Block Town. 
+- There is a total of 19 levels in the game, instead of the Namco version's 23 levels.
+
+- PORTS -
+
+NOTE: Only ports released in North America are listed here. For ports released in other regions, please see the original Namco entry. 
+
+* CONSOLES: 
+[US] Nintendo NES (1991) by Tengen 
+[US] Sega Genesis (1991) by Tengen
+[US] Sony PlayStation (1997) "Namco Museum Vol.5 [Model SLUS-00417]" 
+[US] Sony PS2 (dec.4, 2001) "Namco Museum [Model SLUS-20273]" 
+[US] Microsoft XBOX (oct.9, 2002) "Namco Museum" 
+Nintendo GameCube [US] (oct.9, 2002) "Namco Museum [Model DOL-GNME-USA]" 
+[US] Sony PS2 (aug.30, 2005) "Namco Museum - 50th Anniversary [Model SLUS-21164]" 
+[US] Microsoft XBOX (aug.30, 2005) "Namco Museum - 50th Anniversary [Model NMO-2201A]" 
+Nintendo GameCube [US] (aug.30, 2005) "Namco Museum - 50th Anniversary [Model DOL-G5NE-USA]" 
+[US] Nintendo Wii (oct.23, 2007) "Namco Museum Remix [Model RVL-R2NE-USA]" 
+Microsoft XBOX 360 [US] (nov.4, 2008) "Namco Museum - Virtual Arcade [Model 21022]" 
+[US] Nintendo Wii (nov.16, 2010) "Namco Museum Megamix" 

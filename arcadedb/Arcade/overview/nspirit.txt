@@ -1,0 +1,27 @@
+Arcade Video game published 32 years ago:
+
+Ninja Spirit (c) 1988 Irem.
+
+Export release. Game developed in Japan. For more information about the game itself, please see the original Japanese release entry; "Saigo no Nindou".
+
+- PORTS -
+
+For Japanese ports, please see the original Japanese version entry; "Saigo no Nindou".
+
+* CONSOLES:
+NEC TurboGrafx-16 [US] (1990) "Ninja Spirit [Model TGX040050]" 
+
+* COMPUTERS:
+[EU] Atari ST (1988)
+[EU] Commodore Amiga (1988)
+[EU] Commodore C64 (1990)
+[EU] Amstrad CPC (1990)
+[EU] Amstrad CPC (1990) "Coin-Op Hits II" 
+[EU] Sinclair ZX Spectrum (1990)
+PC [MS Windows, Online] [EU] (dec.9, 2011) "IREM Arcade Hits" by DotEmu 
+Apple MacIntosh [Online] [US] (aug.21, 2011) "Irem Arcade Hits" by DotEmu 
+PC [Desura] [US] (nov.2, 2013) "IREM Arcade Hits" by Plug In Digital
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1786&o=2

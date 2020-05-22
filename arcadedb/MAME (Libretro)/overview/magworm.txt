@@ -1,0 +1,13 @@
+Arcade Video game published 39 years ago:
+
+Magic Worm (c) 1981 Sidam.
+
+An Italian hack of "Centipede". It has different sounds and graphics than the original.
+
+- TRIVIA -
+
+The official Italian distributor of Atari Arcades, f.lli Bertolino s.r.l., moved a legal attack against Sidam, and won. Many code fragments stored in ROM of "Asterock", Missile Storm and other Sidam clones was identical to those contained in Atari originals' memory. Sidam changed the coin accept and sound routines, to get rid of copyrighted Atari POKEY chip. Sidam called this a 'coincidence'; moreover, the Italian legislation did not mention directly the computer programs as copyrighted materials like songs and books. However, the court sentenced about the 'intellectual property' of programs - this was an important sentence in Italian legal history - and Sidam was convicted of copyright violation.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1440&o=2

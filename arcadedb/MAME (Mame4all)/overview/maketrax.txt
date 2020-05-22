@@ -1,0 +1,17 @@
+Arcade Video game published 39 years ago:
+
+Make Trax (c) 1981 Williams Electronics, Incorporated.
+
+- TRIVIA -
+
+This is the U.S. version of "Crush Roller", released in November 1981 by Williams, under license from Kural Samno. For more information about the game itself, please see the "Crush Roller" entry. 
+
+Make Trax has a protection chip, Crush Roller doesn't. The code between the two is nearly identical, except that everywhere the protection code is located, code has been replaced with a couple of bytes to return the correct value and several NOP instructions (which do absolutely nothing).
+
+When you run the game for the first time, the default highscore table (FAR OUT PLAYERS) is empty (everything is set to 0 except the nickname which is set to KRL). 
+
+Tom Carver holds the official record for this game with 2123840 points.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1551&o=2

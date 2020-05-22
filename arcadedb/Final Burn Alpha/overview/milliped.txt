@@ -1,0 +1,17 @@
+Arcade Video game published 38 years ago:
+
+Millipede (c) 1982 Atari.
+
+Millipede is a 1- or 2-player game with a color raster-scan video display. The game action takes place on a playfield filled with mushrooms, flowers, and deadly DDT bombs. The player tries to destroy a variety of insects that drop from the top of the screen or enter from the sides of the screen, most of them to attack the player. The player controls a bow-shaped vehicle called the Archer. The object of the game is to shoot and destroy as many objects as possible for a high point score, before the player's lives are all used up.
+
+Player control consists of a Midi Trak-Ball control and a FIRE button. The Archer is moved by rotating the Midi Trak-Ball control. The Archer can be moved in all directions, but only within the bottom fifth of the screen. However, the Archer must move around mushrooms, flowers, and DDT bombs, since these are fixed and not 'transparent' objects. Pressing the FIRE button causes the Archer to emit an arrow that travels upward. The Archer may fire one or many arrows (by holding down the FIRE button constantly). But only one arrow will appear on the screen at a time.
+
+A player may start a game at an advanced level of play and receive bonus points for starting play at that level.
+
+Gameplay begins with a playfield of randomly placed mushrooms and DDT bombs. A Millipede enters at the top center of the screen and starts snaking its way across the screen. The Millipede changes direction when it runs into a fixed object in the playfield (mushroom, DDT bomb, or flower), or when it reaches the side boundaries of the playfield.
+
+When a segment of the Millipede is shot, it is destroyed and a mushroom appears where that segment was shot. When shot, the Millipede breaks into two smaller Millipedes, each with its own head. When a Millipede reaches the bottom of the screen, it starts back up, but remains within the area of the Archer (the bottom 5th of the screen).
+
+If a Millipede reaches the bottom of the screen without being shot, it releases its tail. This tail changes into a new head. Also to provide the player a challenge, if a Millipede is still alive when it reaches the bottom, new heads will enter the screen almost at the bottom of the sides. More of these heads will appear as time progresses.
+
+An attack wave is complete when all Millipede segments are destroyed. The screen then scrolls down one line. At the 9th attack wave, when the Millipede with only four segments enters

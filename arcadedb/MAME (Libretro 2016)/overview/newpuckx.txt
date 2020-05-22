@@ -1,0 +1,33 @@
+Arcade Video game published 40 years ago:
+
+New Puck X (c) 1980 Deluxe.
+
+- TRIVIA -
+
+This game is a hack of "PuckMan". The name of this hack is a play on one of Namco's other arcade games that was popular in Japan, known as "New Rally-X".
+
+New Puck-X contains a fairly altered maze. Bumps have been added to the center of the rows that were once wide open. Holes have been added to various portions of the maze that were once solid.
+
+There are two extra sets of tunnels, one each above and below the original tunnel. Meanwhile, greater access has been given to the center tunnel, so you could be ambushed by ghosts before you even reach the tunnel at all.
+
+During the attract mode, the ghosts are introduced by their American names and nicknames.
+
+New Puck-X also changes the point values of certain elements (see Scoring below).
+
+- SCORING -
+
+Dots: 20 points.
+Power Pills: 80 points.
+Ghosts: 200, 400, 800, 1600 points.
+Cherry: 500 points.
+Strawberry: 700 points.
+Orange: 1000 points.
+Apple: 2000 points.
+Pineapple: 3000 points.
+Galaxian: 5000 points.
+Bell: 5000 points.
+Key: 5000 points.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1756&o=2

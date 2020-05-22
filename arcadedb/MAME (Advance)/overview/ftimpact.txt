@@ -1,0 +1,50 @@
+Arcade Video game published 24 years ago:
+
+Fighters' Impact (c) 1996 Taito.
+
+A 3-D fighting game from Taito.
+
+- TRIVIA -
+
+Released in August 1996.
+
+- TIPS AND TRICKS -
+
+* Clothes Change:
+1) In character selection screen, move cursor to Silene then press H and K Button at the same time.
+2) Keep holding H and K then press P Button to select clothes.
+
+* Secret Characters:
+You can select boss characters if satisfy the following conditions
+Hoi Hoi: Play VS (Human vs Human) mode over 1500 times
+Raonl: Play VS mode over 2500 times and get 8-hit over combo 200 times
+Faraha: Play VS mode over 3000 times
+Barazock: Play VS mode over 2500 times and get 10-wins 25 times
+
+- SERIES -
+
+1. Fighters' Impact (1996)
+2. Fighters' Impact A (1997)
+
+- STAFF -
+
+Director: Nobuaki Kuroki
+Game Design: Nobuaki Kuroki, Hisakazu Kato, Naoto Omura, Masami Kikuchi
+Program: Naoto Omura, TMR, Kurabar, Agatha Koike, Shizuo Iisawa, Yoshikazu Fujita
+Model/Motion Design: Kat, Masami Kikuchi, T. Kawaishi, Kentarou Miyazaki, Masakatsu, Yamaguchi, Kouhei Magome, Tomoya Tomabechi, Takashi Nagao, Hiroshi Hasegawa
+Music Compose: Yasuhisa Watanabe
+Sound Effect: Babi (Zuntata)
+Recording Engineer: Munehiro Nakanishi
+Hardware: Katsumi Kaneoka
+Product Design: Toshiyuki Takenami
+Character Design: Tetsuyarou Shinkaida
+Motion Act: Japan ITF, Joint Action Club, Masayuki Ishikawa, Akira K., Sakura Munakata
+
+- PORTS -
+
+* CONSOLES:
+Sony PlayStation (1997)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=18578&o=2

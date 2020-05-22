@@ -1,0 +1,19 @@
+SNK Neo-Geo MVS cart. published 15 years ago:
+
+Metal Slug 6 (c) 2005 Unknown.
+
+A hack of "Metal Slug 3".
+
+- TIPS AND TRICKS -
+
+By pressing certain button combinations, you can activate various cheats: 
+
+* Change Character (this will change your character into another random character, but with the same color scheme as the first): Press D while walking.
+
+* Weapon Change (this will change your weapon into a random weapon, including any super weapons): Press D & A at the same time.
+
+* Stop being fat (this will turn your obese character into his/her thin self again): Press and hold D, then press C, B, and A, then release D.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=5430&o=2

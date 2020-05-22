@@ -1,0 +1,47 @@
+Arcade Video game published 38 years ago:
+
+Xevious (c) 1982 Atari, Incorporated.
+
+Export version by Atari for North America. Game developed in Japan by Namco. For more information about the game itself, please see the original Namco version entry.
+
+- TRIVIA -
+
+Even though the title screen says 1982, Xevious was released in February 1983 in North America by Atari, under license from Namco. 
+
+5,295 units were produced by Atari. The intro price was $2,095, lowered to $995 in September 1983.
+
+In 1982, Atari released a set of 12 collector pins including: "Missile Command", "Battlezone", "Tempest", "Asteroids Deluxe", "Space Duel", "Centipede", "Gravitar", "Dig Dug", "Kangaroo", "Xevious", "Millipede" and "Food Fight".
+
+- PORTS -
+
+NOTE: Only ports released in North America are listed here. For ports released in other regions, please see the original Namco version entry.
+
+* CONSOLES: 
+[US] Atari 2600 "Xevious [Model CX-2695]": Unreleased prototype 
+[US] Atari 5200 "Xevious [Model CX-5246]": Unreleased prototype 
+[US] Atari 7800 (1987) "Xevious [Model CX7810]" 
+[US] Nintendo NES (sept.1988) "Xevious - The Avenger [Model NES-XV-USA]"
+[US] Sony PlayStation (sept.30, 1996) "Namco Museum Vol.2 [Model SLUS-00216]" 
+[US] Sony PlayStation (june.30, 1997) "Xevious 3D/G+ [Model SLUS-00461]" 
+[US] Microsoft XBOX (aug.30, 2005) "Namco Museum - 50th Anniversary [Model NMO-2201A-NM]" 
+Nintendo GameCube [US] (aug.30, 2005) "Namco Museum - 50th Anniversary [Model DOL-G5NE-USA]" 
+[US] Sony PS2 (aug.30, 2005) "Namco Museum - 50th Anniversary [Model SLUS-21164]" 
+Microsoft XBOX 360 [XBLA] [US] (may.23, 2007) 
+[US] Nintendo Wii (oct.23, 2007) "Namco Museum Remix [Model RVL-RN2E-USA]" 
+Microsoft XBOX 360 [XBLA] [US] (nov.4, 2008) "Namco Museum - Virtual Arcade [Model 21022]"
+Sony PlayStation 3 [PSN] [US] (jul.16, 2009) "Namco Museum Essentials [Model NPUB-30086]" 
+[US] Nintendo Wii (nov.16, 2010) "Namco Museum Megamix" 
+
+* HANDHELDS: 
+[US] Sony PSP (aug.23, 2005) "Namco Museum Battle Collection [Model ULUS-10035]" 
+[US] Nintendo DS (sept.18, 2007) "Namco Museum DS [Model NTR-YNME-USA]" 
+Nintendo 3DS [3DSWare] [US] (jul.21, 2011) "3D Classics: Xevious [Model CTR-SABE-USA]": re-mastered version, featuring 3D effects 
+
+* COMPUTERS: 
+[US] Commodore C64 (1986) 
+[US] PC [MS Windows, CD-ROM] (jul.31, 1998) "Microsoft Revenge of Arcade" 
+[US] PC [MS Windows, CD-ROM] (oct.25, 2005) "Namco Museum - 50th Anniversary" 
+
+* OTHERS: 
+Arcade [US] (1995) "Namco Classics Collection Vol.1" 
+Ms. Pac-Man

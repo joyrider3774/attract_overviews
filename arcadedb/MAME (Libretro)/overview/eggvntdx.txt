@@ -1,0 +1,13 @@
+Egg Venture Deluxe (c) 1997 The Game Room.
+
+- TRIVIA -
+
+This deluxe version has an ending, when you complete the tour, but the Dynamic Play Adjustment has a serious bug. The game encodes the number of successful completions and uses this to alter the difficulty. However, the number seems to decrease rather than increase at first, giving a difficulty multiplier of -1 after a few rounds. This makes the following level (Factory Eggs) incredibly difficult until you lose a couple of lives.
+
+- STAFF -
+
+Programmed by: Kyle Hodgetts
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=31487&o=2

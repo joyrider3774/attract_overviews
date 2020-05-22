@@ -1,0 +1,9 @@
+SNK Neo-Geo MVS cart. published 26 years ago:
+
+Operation Ragnarok (c) 1994 NMK.
+
+Operation Ragnarok is a sideways scrolling shoot-em-up for one or two players. Players can chose from three different ships, each with varying speeds.
+
+As well as ship choices, there are three different selectable weapon systems available; one each for the front and rear firing weapons and one for projectile weapons (such as Homing Missiles).
+
+Some enemies and waves drop bonuses and weapon power-up items when destroyed. Hyper-Bombs (very powerful 'Smart Bombs') can also be picked up.

@@ -1,0 +1,9 @@
+Omega (c) 198?.
+
+This game is a french hack of Stern's "The End". 
+
+In this hack, the bugs use the eggs to spell the word 'FIN' instead of 'END' in the official version (FIN translates from French as END).
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1878&o=2

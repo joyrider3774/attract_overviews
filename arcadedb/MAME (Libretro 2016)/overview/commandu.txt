@@ -1,0 +1,51 @@
+Arcade Video game published 35 years ago:
+
+Commando (c) 1985 Data East USA, Inc.
+
+North American release. Game developed in Japan. See the original for more information; "Senjou no Ookami".
+
+- TRIVIA -
+
+Commando was licensed to Data East for US manufacture and distribution in July 1985. It was the first (and and only) game that Capcom licensed to Data East. 
+
+Tim Balderramos holds the official record for this game with 10051200 points on July 5, 1986.
+
+- SERIES -
+
+1. Commando (1985) 
+2. Mercs [CP-S No. 09] (1990) 
+3. Wolf of the Battlefield - Commando 3 (2007, XBLA, PSN)
+
+- PORTS -
+
+Here is a list of ports released outside Japan. To see Japanese ports, please see the original Japanese version entry, "Senjou no Ookami".
+
+* CONSOLES: 
+[US] Nintendo NES (nov.1986) "Commando [Model NES-CO-USA]" 
+Mattel Intellivision [US] (1987) "Commando [Model 9000]" 
+[US] Atari 2600 (1988) "Commando [Model AK-043]" 
+[US] Atari 7800 (1990) "Commando [Model CX7838]" 
+[EU] Sony PlayStation (sept.3, 1999) "Capcom Generations 4 - Blazing Guns [Capcom Generations Disc 4] [Model SLES-31881]" 
+[US] Microsoft XBOX (sept.27, 2005) "Capcom Classics Collection" 
+[US] Sony PS2 (sept.27, 2005) "Capcom Classics Collection [Model SLUS-21316]" 
+[EU] Microsoft XBOX (nov.18, 2005) "Capcom Classics Collection" 
+[EU] Sony PS2 (nov.18, 2005) "Capcom Classics Collection [Model SLES-53661]" 
+Nintendo Wii [Virtual Console Arcade] [US] (dec.6, 2010): as "Wolf of the Battlefield: COMMANDO" 
+Nintendo Wii [Virtual Console Arcade] [EU] [AU] (dec.17, 2010): as "Wolf of the Battlefield: COMMANDO" 
+Sony PlayStation 3 [PSN] [EU] (feb.20, 2013, "Capcom Arcade Cabinet" 
+Microsoft XBOX 360 [XBLA] [EU] (feb.20, 2013, "Capcom Arcade Cabinet" 
+Microsoft XBOX 360 [XBLA] [AU] (feb.21, 2013, "Capcom Arcade Cabinet" 
+Sony PlayStation 3 [PSN] [US] (apr.2, 2013) "Capcom Arcade Cabinet: Game Pack 4 [DLC]" 
+Microsoft XBOX 360 [XBLA] [US] (apr.3, 2013) "Capcom Arcade Cabinet: Game Pack 4 [DLC]" 
+Sony PlayStation 3 [PSN] [US] (may.21, 2013) "Capcom Arcade Cabinet: All-In-One Pack [DLC]" 
+Microsoft XBOX 360 [XBLA] [US] (may.22, 2013) "Capcom Arcade Cabinet: All-In-One Pack [DLC]" 
+
+* HANDHELDS: 
+[US] Sony PSP (oct.24, 2006) "Capcom Classics Collection Reloaded [Model ULUS-10134]" 
+[EU] Sony PSP (nov.10, 2006) "Capcom Classics Collection Reloaded [Model ULES-00377]" 
+[AU] Sony PSP (nov.16, 2006) "Capcom Classics Collection Reloaded" 
+
+* COMPUTERS: 
+[US] Commodore C64 [EU] (1985) 
+BBC Micro [EU] (1985) 
+[EU] Amstrad CPC (1985)

@@ -1,0 +1,36 @@
+Arcade Video game published 35 years ago:
+
+Ghosts'n Goblins (c) 1985 Taito America Corp.
+
+North American release. Game Developed in Japan. For more information about the game itself, please see the original Japanese version entry; "Makaimura".
+
+- PORTS -
+
+Here is a list of ports released in North America only.
+
+* CONSOLES: 
+[US] Nintendo NES (nov.1986) "Ghosts'n Goblins [Model NES-GG-USA]" 
+[US] Sony PS2 (sept.27, 2005) "Capcom Classics Collection [Model SLUS-21316]" 
+[US] Microsoft XBOX (sept.27, 2005) "Capcom Classics Collection" 
+Nintendo Wii [Virtual Console Arcade] [US] (jan.10, 2011) 
+Sony PlayStation 3 [PSN] [US] (mar.4, 2013) "Capcom Arcade Cabinet: Game Pack 2 [DLC]" 
+Microsoft XBOX 360 [XBLA] [US] (mar.5, 2013) "Capcom Arcade Cabinet: Game Pack 2 [DLC]" 
+Sony PlayStation 3 [PSN] [US] (may.21, 2013) "Capcom Arcade Cabinet: All-In-One Pack [DLC]" 
+Microsoft XBOX 360 [XBLA] [US] (may.22, 2013) "Capcom Arcade Cabinet: All-In-One Pack [DLC]" 
+
+* HANDHELDS: 
+Nintendo Game Boy Color [US] (jan.2000) "Ghosts'n Goblins [Model DMG-AG9E-USA]" 
+[US] Sony PSP (oct.24, 2006) "Capcom Classics Collection Reloaded [Model ULUS-10134]" 
+
+* COMPUTERS: 
+[US] Commodore C64 (1986) 
+PC [MS-DOS] [US] (1987) 
+
+* OTHERS: 
+Mobile Phone [US] (apr.9, 2005) 
+Apple iPhone/iPod [US] (nov.11, 2009) "Ghosts'n Goblins: Gold Knights [Model 335708419]"
+Apple iPhone/iPad [US] (nov.4, 2010) "Capcom Arcade [Model 397347348]"
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=39722&o=2

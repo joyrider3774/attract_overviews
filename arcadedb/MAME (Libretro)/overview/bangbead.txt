@@ -1,0 +1,5 @@
+Arcade Video game published 19 years ago:
+
+Bang Bead (c) 2001 Visco Corp.
+
+A modern "pong"-like game with selectable characters.

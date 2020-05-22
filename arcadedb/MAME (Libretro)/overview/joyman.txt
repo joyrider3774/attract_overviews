@@ -1,0 +1,35 @@
+Arcade Video game published 38 years ago:
+
+Joyman (c) 1982 Monster.
+
+- TRIVIA -
+
+This hack of "PuckMan" drastically changes the artwork of both Pac-Man and the ghosts, to some more abstract yellow character, and various colored cyclopes respectively (the eyes have naturally been turned into one single eye).
+
+Joyman also contains a very altered maze, changing the colors, and the arrangment of the allies. The allies are arranged more like columns than before.
+
+There are dots that straddle several of the allies. While the dots are present, and as long as Joyman does not lose a life, Joyman can continue to pass through the gaps in allies. However, if Joyman loses a life, some of the gaps close upon his return in the next life.
+
+The bonus prizes and the music have also changed.
+
+- SCORING -
+
+Dot: 20 points.
+Power Pill: 80 points.
+Cyclopes: 200, 400, 800, 1600 points.
+Horse: 100 points.
+Xmas Tree: 300 points.
+2 Headed Bird: 500 points.
+Rabbit: 700 points.
+Sailboat: 1000 points.
+Car: 2000 points.
+Yellow Face: 3000 points.
+Shield: 5000 points.
+
+- TIPS AND TRICKS -
+
+Losing a life can cause the maze to change. There are places in the maze where the walls are broken and dots are placed. As long as you have not lost a life, you can go through the walls and eat the dots. However, once you do lose a life, the walls fill in the spaces where you've already eaten the dots, making the rack that much harder to fill.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=1231&o=2
