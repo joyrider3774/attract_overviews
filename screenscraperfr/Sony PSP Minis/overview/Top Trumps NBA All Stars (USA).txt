@@ -1,0 +1,1 @@
+Top Trumps NBA All Stars is a turn based strategy game based upon the popular Top Trumps card games franchise, using real life player statistics. Defeat rival teams with a combination of strategy and careful use of power ups.

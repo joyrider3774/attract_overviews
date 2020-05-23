@@ -1,0 +1,9 @@
+Based on BreakOut classic concept, this game adds a full physics engine and advanced collision system. 
+
+Bricks can have any shape and will respond according to their physical properties and other interactive elements as springs, dampers and surrounding objects.
+
+The paddle has deformable bouncing surface that allows a better control over ball dynamics and a gravity function to further tweak balls trajectory.
+
+Includes all the classic power ups plus some new additions including nine different weapons. Two play modes, Story (save the world from the evil empire) and a highly configurable Arcade mode.
+
+The 100 levels have unique graphics, sound and elements behavior.
